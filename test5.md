@@ -1,1257 +1,526 @@
----
-epoch: 1763281894880
-modelKey: "gemini-2.5-flash|google"
-topic: "去除時間軸"
+富爸爸窮爸爸.txt (標示: 133; 附註: 0)
+
+───────────────
+
+▪ 現代的社會裡丈夫和妻子都工作，兩份收人真是天堂。他們覺得獲得了成功，前途光明，於是決定買房、買車、度假並且生孩子。這樣一來問題就來了：需要大量的錢。那對幸福的夫婦認定他們的職業是最重要的，並且開始更加努力地工作，尋求陞遷和加薪。加薪實現了，而另一個孩子的出生使他們需要一個更大的房子，他們不得不更努力地工作。他們成為了模範僱員，甚至於可以說有為公司獻身的精神。他們又進了學校接受更多的培訓以便讓他們能賺更多的錢，也許他們干了兩份工作。他們的收入上升了，但同時對他們的收入征的稅和對他們新房子征的財產稅也上升了，他們的社會保障稅和其他稅也上升了。他們得到了大額的工資單但迷惑於錢都到哪兒去了。他們買了些基金，而且用信用卡買了些雜貨。孩子們長大了，為供他們上大學和為他們自己退休需要準備的錢也越來越多。
+
+▪ 這對快樂夫婦，在35歲後陷入了『老鼠賽跑』的陷餅。他們不停地為公司老闆工作，通過繳稅為政府工作，通過付住房貸款和信用卡貸款為銀行工作，但等待他們的只是越來越多的債務和催款單，於是他們再加倍努力工作，再更多地獲取債務，陷於財務緊張的怪圈不能自拔。 
+
+接著，他們建議他們的孩子努力學習，取得好成績，找個安全的工作或職業。而對於錢，除了從那些想利用他們，從他們的天真中獲得好處的人那兒學到點東西外，他們什麼也沒學。他們終生努力工作，然而隨後這個過程又將在他們的下一代中重複了，這就叫『老鼠賽跑』「。
+
+▪ 今天，你所能給孩子的最危險的建議就是：去學校，好好唸書，然後找個安全的工作。
+
+▪ 教育是成功的基礎，羅伯特說，正如學校裡教的某些技能非常重要一樣，經濟技能和交流技能也十分重要，甚至可以說更為重要。
+
+▪ 我逐漸意識到富人之所以越來越富，窮人之所以越來越窮，中產階級之所以總是在債務泥潭中掙扎，其主要原因之一在於他們對金錢的觀念不是來自學校，而是來自家庭。我們中的絕大多數人是從父母那裡瞭解錢是怎麼回事的。一對貧困的父母在培養孩子的理財觀念時，只會說：「在學校裡要好好學習喔」。結果，他們的孩子可能會以優異的成績畢業，但同時也秉承了貧窮父母的理財方式和思維觀念——要知道，由於家長的灌輸，這些觀念在孩子很小的時候就已經開始形成了。
+
+▪ 一個爸爸認為富人應該繳更多的稅去照顧那些比較不幸的人；另一個爸爸則說：「稅是懲勤獎懶」。一個爸爸說：「努力學習能去好公司工作」；而另一個則會說：「努力學習能發現並將有能力收購好公司」。一個說：「我不富的原因是我有孩子」；另一個則說：「我必須富的原因是我有孩子」。一個禁止在晚飯桌上談論錢和生意，另一個則鼓勵在吃飯時談論這些話題。一個說：「掙錢的時候要小心，別去冒險」；另一個則說：「要學會管理風險」。一個相信「我們家的房子是我們最大的投資和資產」，另一個則相信「我們家的房子是負債，如果你的房子是你最大的投資，你就有麻煩了」。兩個爸爸都會準時付賬，但不同的是：一個在期初支付，另一個則在期末支付。
+
+▪ 窮爸爸總是說：「我從不富有」，於是這句話就變成了事實。富有的爸爸則總是把自己說成是一個富人。他拒絕某事時會這樣說：「我是一個富人，而富人從不這麼做」，甚至當一次嚴重的挫折使他破產後，他仍然把自己當作是富人。他會這樣鼓勵自己：「窮人和破產者之間的區別是：破產是暫時的，而貧窮是永久的。」 
+
+我的窮爸爸會說：「我對錢不感興趣」或「錢對我來說不重要」，富爸爸則說：「金錢就是力量」。
+
+▪ 一個爸爸希望我努力學習，獲得好成績，找個掙錢多的好工作，他希望我能夠成為一名教授。律師或會計師，或者去讀MBA.另一個爸爸則鼓勵我學習掙錢，去瞭解錢的運動規律並讓這種運動規律為我所用。「我不為錢工作」，這是他說了一遍又一遍的話，「錢要為我工作。」
+
+▪ 總共也只有6門主要的課程，但這些課程在我的腦海中重複了30多年。本書下面的內容就是關於這6門課的介紹，其形式簡單得就如同當年富爸爸教我時那樣。這些課程不是最終答案而是一個嚮導，一個在這個不確定和飛速變化的世界中幫助你和你的孩子積累財富的嚮導。 
+
+第一課 富人不為錢工作
+第二課 為什麼要教授財務知識
+第三課 關注自己的事業
+第四課 稅收的歷史和公司的力量
+第五課 富人的投資
+第六課 不要為金錢而工作
+
+▪ 你們倆是第一個請求我教授如何賺錢的人，我有15O 多個僱員，但沒有一個人請教過我這個問題。他們只是要求工作，並獲得報酬。他們把一生中最好的年華用來為錢而工作，卻不願去弄明白工作到底是為了什麼。」
+
+▪ 富爸爸說，「大部分人會這麼干，他們辭職，然後去找另一份工作，期望能得到更好的機會、更高的報酬，認為一份新的工作或更高的報酬會解決所有問題。而在大多數情況下，這是不可能的。」
+
+▪ 了。「有些人會這麼做的，僅僅因為他們和他們的家庭需要錢而接受這份工資，但他們所做的只是等待，等待著能有機會讓他們掙到更多的錢使問題解決。於是大部分人接受了，有些人做兩份工並且非常努力地工作，但仍只能得到很少的報酬。」
+
+▪ 窮人和中產階級為錢而工作，富人讓錢為他們工作
+
+▪ 富爸爸繼續著我的第一課：「我很高興你為每小時10美分而生氣，如果你不生氣而是高興地接受了它，那我只能告訴你我沒法教你。真正的學習需要精力、激情和熱切的願望。憤怒是其中一個重要的成分，因為激情正是憤怒和熱愛的結合物。說到錢，大多數人希望穩穩妥妥地掙到，他們很少有掙錢的激情，於是，只好有沒錢的恐懼。「 
+
+「這就是他們接受低工資工作的原因嘍？」我問。 
+
+「是呀，」富爸爸說，「因為我比種植園和政府付給員工的少，有人說我剝削人，我說是他們自己剝削自己，而不是我。」
+
+▪ 「但你沒覺得你該多給點兒嗎？」我問。 
+
+「沒這必要。而且，再多一點的錢也不會解決問題。比如你父親，掙錢也不少，但仍會欠賬。
+
+▪ 「因為學習為錢工作很容易，特別是當你談到錢時的第一感覺是恐懼時，學習為錢工作就更容易了。可學習怎樣使錢為你工作卻要難得多。」
+
+▪ 你只須知道，正是出於恐懼心，人們大多害怕失去工作，害怕付不起賬單，害怕遭到火災，害怕沒有足夠的錢，害怕挨餓，大多數人期望得到一份穩定的工作。為了尋求穩定，他們會去學習某種專業，或做生意，拚命為錢而工作，大多數人成了錢的奴隸，然後把怒氣對準他們的老闆。」
+
+▪ 我已經帶你去看到了你的未來。」富爸爸說。「9歲時，你已經有了為錢而工作的體驗。只須把上個月重複50年，你就知道大多數人是如何度過一生的了。」
+
+▪ 「你兩次等著見我時有何感覺？一次是被僱用，一次是要求加薪。」 
+
+「真可怕。」我說。 
+
+「如果選擇為錢而工作，這就是許多人所過的生活。」 
+
+「那麼每次三小時工作結束，馬丁太太給你三個硬幣時，你又有什麼感覺？」 
+
+「我覺得不夠。看上去就像什麼也沒給似的，真讓人失望。」 
+
+「這也正是大多數僱員拿到他們工資單時的感覺，此外還要扣除稅和其他一些項目。至少，你拿到的還是100％的工資。」
+
+「你是說工人們拿到的不是全部工資？」我吃驚地問。 
+
+「當然不是，政府要先拿走一份，這就是稅。」富爸爸說，「你有收入時得交稅，當你消費時也得交稅。你存錢時得交稅，你死時還得交稅。」
+
+▪ 今天，我只是想弄清你是否有熱情去瞭解錢這東西。大多數人都沒有這樣的願望，他們只想進學校，學點專業技能，輕鬆工作並且掙大錢。當他們某一天醒來面臨嚴重的財務問題時，他們已不能停止工作。這就是只知道為錢工作而不知如何讓錢為你工作的代價。你有熱情學習嗎？「 
+
+我點了點頭。 
+
+「好，」他說，「現在回去幹活，這次我什麼報酬也不給。」 
+
+「什麼？」我大吃一驚。 
+
+「聽著。什麼也不給。你每週六同樣干三個小時，但這次不會再有每小時的10美分了。你不是說你想學不為錢而工作嗎？所以我什麼也不給你。」
+
+▪ 「你說過你想學習。如果你現在不學，將來長大了就會像坐在會客室裡的那兩個女人和老頭一樣，為錢而工作並且希望我別解雇他們。或是像你爸那樣，掙很多錢卻眼看著債台高築，希望靠更多的錢來解決問題。如果你想這樣，我可以每小時付你10美分，你可以像其他大人那樣，抱怨這裡工資太低，辭職另找工作。」 
+
+「我還是不明白？」我問。 
+
+富爸爸又拍了拍我的頭，「動動腦子，」他說，「如果你好好想一想，你會感謝我給了你一個機會，讓你成為有錢人。」 
+
+我站在那兒，依舊不相信我達成的新協議。我是來要求增加工資的，而現在卻被告知以後得白干。 
+
+富爸爸又一次拍著我的頭說：「慢慢想去吧，現在出去開始工作。」 
 
 
-tags:
-  - copilot-conversation
----
+第一課：富人不為錢工作
 
-**user**: 去除時間軸
-[Context: Notes: 需翻譯_去時間軸/Think Faster, Talk Smarter with Matt Abrahams-en.md]
-[Timestamp: 2025/11/16 16:31:34]
+▪ 「你們正在學習一生中最重要的一課，你們應該學會思考。」 
 
-**ai**: 好的，這是去除時間軸後的內容：
+富爸爸說道，「如果你學會了這一課，你將一生享受自由和安寧；如果沒有學好這一課，你們就會像馬丁太太和其他在這空場裡玩壘球的人一樣了此一生。他們為一點點錢而勤奮工作，兼有一種有工作的虛幻安全感，盼著一年三周的假期和工作45年後獲得的一小筆養老金。如果你喜歡這樣，我就把工資提到每小時25美分。」
 
-raise your hand if you have recently had
-to introduce yourself or make small talk
-yes that is what today is all about how
-to speak better in the moment my hunch
-is for many of you introducing
-yourselves and making small talk at some
-points was challenging it's awkward it
-can be uncomfortable so today I want to
-talk about how we can think faster and
-talk smarter in those moments where
-we're put on the spot to think and act
-quickly we all know that speaking in
-planned
-situations presentations pitches
-meetings with agendas can be hard but it
-can be much harder to speak in the
-moment and if you think about it most of
-our communication happens in the moment
-it's things like making a toast
-answering questions giving feedback
-introducing yourself answering questions
-these are the things that can be very
-challenging for us so today I'd like to
-walk you through a methodology that I
-developed in service of needs of our
-students here at
-Stanford many years ago the Deans came
-to me and said we have a problem the
-problem is this our very bright Stanford
-MBA students are struggling to answer
-those cold call questions from their
-professors you remember back here when
-people would say what do you think and
-you had to respond
-so I did a deep dive into research in
-Psychology anthropology sociology
-improvization neuroscience and came up
-with a methodology now that all Stanford
-mbas within the first three weeks of
-their time here have an opportunity to
-take and it turns out it helps them feel
-more comfortable and confident not just
-answering questions but in standing up
-in class and giving a position and many
-other situations that they find
-themselves in when they leave here
-interviewing for jobs giving feedback to
-employees Etc so today is going to be
-not just listening to me but it's going
-to be
-participative and we're going to start
-it's not hard some of you looking at
-each other going oh no what's he going
-to make me do pretty simple I'd like you
-all to read this sentence and what's
-more important to me than the meaning of
-the sentence is I'd like for you to
-count the number of FS the letter F how
-many FS do you find I'll give you three
-or four seconds to do it keep the answer
-quiet to yourself how many
-FS I wish my MBA students were as quiet
-and thoughtful as you are right
-now all
-right all right raise your hand if you
-found three FS how many found three
-excellent very good anybody find four ah
-anybody found five how about six there
-are six FS what two-letter word ending
-in f did many of us
-Miss so why do I do this activity I have
-done this in every Workshop every
-keynote I ever deliver
-why because this is an exact analogy of
-what we're going to be doing here today
-many of us miss little things that make
-a big difference in our
-communication now the other reason I do
-this is 14 years ago when I first saw
-this I found three I felt really stupid
-and I like to pass that
-that's so we're going to identify little
-things that make a big difference
-difference to make us more effective in
-our spontaneous speaking so I want to
-introduce you to a six-step methodology
-that we can use to become better at
-speaking in the moment and the six steps
-divide into two categories mindset and
-messaging the first step has to do with
-managing anxiety taming the anxiety
-Beast most people get nervous speaking
-in spontaneous situations in fact most
-people get nervous speaking in any high
-stake situation we have some research
-that says upwards of 85% of people feel
-nervous in high stake situations and I
-think the other 15% are lying so let me
-ask you this how do you feel when you
-watch a nervous speaker present now I
-know a few of you probably like watching
-people suffer but most of us don't how
-does it feel just shut out how do how do
-you feel when you see a nervous speaker
-present okay so
-uncomfortable empathetic and I heard
-some people say I actually feel an
-anxious myself I call that secondhand
-anxiety so if for no other reason we
-should learn to manage our anxiety so
-our audience can focus on us and not be
-distracted so when it comes to managing
-anxiety we have to take a two-pronged
-approach we have to manage both symptoms
-and
-sources symptoms are the things that we
-physiologically experience what goes on
-in our body and sources are the things
-that initiate or exacerbate that
-anxiety so I'd like i' like to hear from
-some of you what happens for you when
-you get nervous when you're put on the
-spot I'll start I blush and I perspire
-what happens for some of you my mouth
-goes mouth goes dry I call this Plumbing
-reversal what's normally dry gets wet
-and what's normally wet gets dry so you
-get sweaty Palms but dry mouth really
-weird right what else happens my brain
-goes yeah you freeze you can't remember
-what to say what else happens please
-heart yeah you feel your heart pounding
-right some of us get shaky these are
-normal and natural responses to
-anxiety your body sees speaking in the
-moment as being under threat and it
-invokes the fight ORF flight response
-and these are normal and natural
-responses but there are things we can do
-to address these now allow me to share a
-few with you the first and best thing
-you can probably do is to take a deep
-belly breath the kind of breath you
-would take if you've ever done yoga or
-or taii or chiong a deep belly breath
-and what's interesting is it's the
-exhale that's more important than the
-inhale so my rule of thumb or shall I
-say my rule of lung is you want your
-exhale to be twice as long as your
-inhale and if you take two or three of
-these deep belly breaths you'll actually
-reduce the rapid heart rate the rapid
-breathing that causes you to speak
-faster and you'll feel calmer so before
-you walk into a room where you think you
-might be asked for feedback or you know
-questions are coming or before you
-unmute on that Zoom take this deep belly
-breath and it will
-help now if you get dry mouth and you
-know you're going into a situation where
-you might have to speak in the moment
-drink some warm water suck on a Loz or
-chew some gum obviously you don't want
-to do that while you're in the midst of
-speaking but that will help reactivate
-those salivary glands if you're like me
-and you blush and you perspire hold
-something cold in the palms of your hand
-the palms of your hand are Thermo
-Regulators for your body just like your
-forehead or the back of your neck if
-you've ever had a fever and you put a
-cold compress on your head to cool down
-because your heart rate is going up
-because your body tenses when you're
-stressed you have more blood going
-through tighter tubes your blood
-pressure goes up and that causes you to
-get hotter it's like you're
-exercising so we can reduce the sweating
-and the blushing by cooling ourselves
-down in fact before I start Ed speaking
-today I was holding a cold bottle of
-water to help so these are some of the
-things we can do to manage our symtoms
-of anxiety if I didn't talk about a
-symptom you have there are resources
-I'll share at the end of the talk that
-can help you find ways to manage your
-anxiety now there's another side too we
-have to think about sources sources are
-the things that initiate or exacerbate
-our anxiety there are many let me talk
-about
-one many of us are made nervous by the
-goal of what we're trying to achieve
-when we
-communicate my students want to get a
-good grade the entrepreneurs I coach
-want to get funding you might want to
-get a new job or you might want to get
-your project supported so what makes you
-nervous is the fact that you might not
-achieve that goal in other words what's
-making you nervous is a potential
-negative future
-outcome so how do we short circuit that
-we become very present oriented because
-if you're in the moment
-by definition you're not worried about
-the future so how do we get present
-oriented one way is to do something
-physical walk around the building before
-you go in for that job interview another
-way is to listen to a song or a playlist
-just like athletes do you can do what I
-do I get present oriented by talking to
-people before I got up here on stage I
-was talking with many of you that helps
-me get present oriented I can't engage
-in a conversation and be thinking about
-what might go wrong in my presentation
-or Q&A
-session start at 100 and count backwards
-by
-17s that'll get you present oriented I
-know I'm in front of a crowd that's
-trying the first one's easy 83 the next
-one's hard my favorite way to get
-present oriented is to say tongue
-twisters you can't say a tongue twister
-right and not be in the present moment
-some of you are going uhoh that's right
-I'm going to ask you to say my favorite
-tongue twister I said this tongue
-twister right before I walked out here
-it warms me up and it gets me present
-oriented many of us assume that we can
-just go from Silence to Brilliance
-without warming up our voices but you
-know if you've ever played a sport or
-exercised or played a musical instrument
-you should warm up
-first so let's try it my favorite tongue
-twister takes 5 Seconds to say has three
-phrases and if you say one of the
-phrases wrong you'll say a naughty word
-so I'm listening to here okay let's try
-it repeat after me I slit a sheet
-SL she a sheet I slit a she I slit and
-on that slitted sheet I
-sit excellent nobody said that naughty
-word and I'm sure you all know what it
-is so by managing our anxiety both
-symptoms and sources we prepare
-ourselves to be better when we speak in
-the
-moment the second step in our process
-has to do with maximizing
-mediocrity we get in our own way I have
-the audacity in front of my Stanford MBA
-students on the first day of class to
-say maximize
-mediocrity their jaws drop they've never
-been told to be
-mediocre but why do I recommend this it
-boils down to this we are the biggest
-impediment to our ability to speak
-spontaneously in the moment we get in
-our own way and we do it through all the
-judging and evaluating that we do of the
-material that we're thinking about
-saying we get in our head here's why
-this is problematic think of your brain
-as a computer this is not a Perfect
-Analogy but for this point it works you
-know on your laptops or your phones when
-you have a lot of apps and windows open
-how the performance of each one of those
-is a little less good because the others
-are
-open that's because the bandwidth is
-less the same is true with your brain
-when I am evaluating and judging
-everything I'm saying as I'm saying it I
-have less cognitive bandwidth to focus
-on what I'm actually saying so when we
-are evaluating ourselves as we're
-speaking we're doing ourselves a
-disservice now be very clear I am not
-saying you should never judge or
-evaluate your speaking you should but we
-can turn the volume down a little bit to
-give us more resources so we can be more
-present and be more effective in what
-we're saying so the true sentence that I
-tell my students at the end I start with
-maximize mediocrity and then I end the
-class by saying maximize mediocrity so
-you can achieve greatness if you give
-yourself permission just to answer the
-question just to give the feedback just
-to have the small talk then you put
-yourself in a position to do it very
-well but when I say to myself I have to
-give the right answer the best feedback
-I need to be the most interesting in
-small talk it reduces the likelihood
-that you'll do those well so Step One is
-manage anxiety step two is turn down
-that volume on that mental observation
-and evaluation we're doing and that puts
-you in a position to be more present and
-more
-engaged the third step of the
-methodology has to do with the fact that
-many of us see speaking in the moment
-and in general as threatening and
-challenging if I were to tell any of you
-at the end of the meeting you're running
-that you're going to get some questions
-from your audience many of you aren't
-like oh that's great I can't wait you
-say oh no I better do a good job I'm
-afraid they're going to see what I said
-is wrong they're going to challenge me
-many of us see these situations as
-threatening and
-challenging and when we do so it impacts
-not just what we say but how we say it
-we tend to retreat we make ourselves
-small our answers are Curt our tone is
-Harsh because we feel we have to defend
-there's another way to approach this and
-before I share with you that way and
-give you some tools I want you to
-actually have an experience of it so I'm
-going to ask you to play a very simple
-improvisation game with me it's called
-give a
-gift all of us in our lives have had the
-experience of giving a gift and getting
-a gift so you know how to play this game
-but we're going to practice I'd like
-everybody to take out an imaginary box
-will you do this with me please here's
-your imaginary box on the count of three
-I'd like you to just practice giving it
-and then give to give the gift you just
-extend your arms everybody ready 1 2 3
-give a gift perfect very good now when
-you receive a gift you do it in reverse
-ready 1 two three you've received a gift
-perfect so here's what we're going to do
-in a moment I'm going to ask you to find
-somebody sitting near you you're simply
-going to introduce yourself if you don't
-know and you're going to play the give a
-gift game one of you will give a gift to
-your partner your partner will take the
-imaginary gift open the box look inside
-look at the partner and say thank you
-for the and you're going to say the
-first that pops into your head so you
-might say thank you for the car thank
-you for the pen thank you for the
-airplane it doesn't even have to fit in
-the Box your partner who gave you the
-imaginary gift upon hearing it is going
-to explain to you why they gave it to
-you do you see how there are two acts of
-spontaneity that happen in this activity
-and then you'll switch so again when
-it's your turn to give you give the gift
-your partner receives the gift they open
-up the box they look inside and they
-thank you for the first first thing that
-comes to mind by show of hands how many
-of you already know what's in your box
-ahuh over half of you raised your hands
-yes remember what I said in the previous
-step how we want to do well and we want
-to make sure we're right so you've okay
-I know there's going to be a dog bone in
-my box that's perfect I'm done I want
-you literally when you open up the box
-to say the first thing that comes to
-your mind I have to tell my MBA students
-to keep it clean and keep it legal I'm
-sure I don't have to tell you that here
-but I want you to name it and then your
-partner upon hearing it is immediately
-going to explain and then you're going
-to switch this activity should take 2
-minutes I will ask you to come back in
-about two minutes so find somebody
-sitting next to you introduce yourself
-the person who woke up earliest this
-morning goes first I learned a long time
-ago as a teacher if you don't say who
-goes first everybody argues on it all
-right find a
-person thank you by the way for doing
-this activity I saw lots of of
-smiles looks like you were having fun I
-am simply going to move my arm across
-the audience and as my hand points in
-your general direction will you just
-call out what you found in your box I
-just I love hearing what people gave
-themselves just start shouting out what
-you gave yourselves Kleenex
-tires okay catnip I heard yes pumpkin
-notes did I hear broccoli oh
-yes
-dog poop okay yes sweater excellent you
-guys gave yourself wonderful
-gifts it's a bit of a rack test too it
-tells us a little bit about you but we
-won't go
-there let me ask you this how did it
-feel when you gave the gift and you were
-waiting to hear what you gave many of
-you looked excited I see many of you SM
-what did I give what did I
-give and then all of you embraced a rule
-that comes from improvisation I am a
-huge fan of improv and I have had
-wonderful improv teachers here on this
-campus Patricia Ryan Madson Adam Tobin
-Dan kleene these are improv experts
-who've taught me the value of improv and
-all of you just executed the number one
-rule of improv yes and you didn't say I
-did not give you a dog bone no you said
-of course I did and here's why right you
-embraced it right
-away what if what if when somebody asked
-you a question or asked you for feedback
-you saw it as an opportunity just like
-you saw this activity as an opportunity
-now I am not naive I know sometimes
-people when they ask us questions or ask
-us for feedback they're really putting
-us on the spot they want to challenge us
-they're coming after us but even in
-those moments if I can see it as an
-opportunity to connect to learn to find
-some area of commonality it can change
-change everything I will step in I will
-be bigger in my response my tone will be
-more collaborative my answers will be
-more detailed by seeing spontaneous
-communication as an opportunity as a
-gift not a threat it changes our entire
-approach so how do we do this how do we
-execute on it on the new book I wrote
-thinking faster talking sper I introduce
-several tools we can use to see things
-as
-opportunities the first comes from this
-notion of growth mindset which Carol D
-on this campus helped to develop and
-champions it's wonderful and her work is
-fantastic one area of her work in growth
-mindset which really essentially says
-that when we are faced with a challenge
-that doesn't go necessarily the way we
-want it to we can learn and grow and
-begin to get better at that versus a
-fixed mindset which says that's just how
-we're built that's just the way it is a
-growth mindset again opens to
-opportunity and one aspect of it that I
-really resonate with is this notion of
-not
-yet just because something didn't go the
-way you want to doesn't mean it never
-will go the way you want it just means
-not yet maybe you don't have the skills
-you don't have the
-practice but it means you can get there
-so by adopting a not yet mindset it
-helps us see things as opportun unties
-opportunities to learn opportunities to
-grow so when you meet with a frustration
-in your life especially around
-communication say to yourself not yet
-we've already talked about yes and yes
-and is where we see the possibility of
-connection so even if you're in
-disagreement in a negotiation that's
-happening in the moment you can look for
-those areas of commonality where is it
-that we agree where is the yes and from
-there
-build the third of these comes from the
-world of basketball
-many of you are familiar with Mike
-Shashi former basketball coach Coach K
-one of the things he has credited with
-instilling in his players but in all of
-sport is this notion of next play if
-you're an athlete say a basketball
-player and you miss a
-shot instead of ruminating and getting
-frustrated with yourself move on to the
-next play because the reality is if I
-miss my shot and I sit there thinking
-about how bad it was how I should have
-made it the play is already ensuing and
-the other team might be scoring a shot I
-have to move to next play and the same
-is true when you're in the midst of a
-conversation Small Talk feedback
-situation if something happens that
-doesn't go exactly the way you want it
-to next play keep
-moving now while rumination in the
-moment is bad reflection after the fact
-is very
-good so I'd love for you in the moment
-to move to the next play but later that
-day reflect what worked and what
-didn't many of us treat our
-communication as that definition of
-insanity you know doing the same thing
-over and over again expecting different
-results if you don't reflect and learn
-and think about it you're not going to
-change so in the moment next play later
-in the day reflection and then the final
-of these
-steps has us reframing the way we think
-about
-mistakes many of us try to avoid
-mistakes we feel a mistake is a bad
-thing now if you think about it we learn
-through mistakes if you watch kids as
-they develop they make lots of mistakes
-and that's how they learn we can take
-benefit from that as well but we have to
-look at them differently rather than
-mistakes I'd like you to think of them
-as missed takes you know in television
-and film directors will have their
-actors do multiple takes of the same
-scene you've seen that clapboard that
-says take one take two
-no one scene is wrong they're just
-trying to optimize and try different
-things so when you do something that
-doesn't go the way you want think to
-yourself take two I'm just going to do
-it again differently it wasn't bad it
-wasn't wrong I'm just going to try it
-differently and if you take that
-approach to your actions and the things
-that don't go the way you want one it
-keeps you in a much more positive frame
-of reference and it encourages you to
-think and learn learn from what just
-happened so these four tools not yet yes
-and next play and missed takes are the
-ways in which we can look at our
-communication in the moment as
-opportunities and not
-threats so we get out of our own
-way after we manage anxiety we see
-things as being opportunities not
-threats and then our fourth step has to
-do with
-listening most most of us are not good
-listeners we listen just enough to get
-the gist of what somebody is saying and
-then start thinking judging evaluating
-rehearsing what we want to say we don't
-listen
-deeply and if you don't listen deeply
-when you're communicating in the moment
-you can make some errors imagine this we
-walk out of a meeting together you turn
-to me and you say how do you think that
-went I hear feedback and I start listing
-all the things that we did wrong all the
-things you could have done better how we
-can make sure that we don't make the
-same errors next time but had I really
-listened in that moment I might have
-noticed you came out the back door not
-the front door you were looking down and
-talking more quietly than you usually do
-in that moment what you wanted was not
-feedback but you wanted
-support and by virtue of giving you all
-this constructive feedback I actually
-did you a disservice and might have
-damage the relationship we have so we
-need to listen in a very different way
-when we have have to speak spontaneously
-so we really understand what's needed in
-the moment so I'd like to give you some
-advice about how to listen better and I
-have to caveat this that my wife gets
-really upset when I teach listening
-because she says I'm still a work in
-progress so listen to what I say not
-necessarily what I do first when you are
-listening you need to listen intently I
-heard a professor at another University
-say he was he he was a he taught music
-and he was talking about jazz and he had
-a jazz teacher and I have to look this
-guy up to get his name but he said we
-need to listen until you
-sweat and I love that approach we
-listening is hard work so the first
-thing we need to do is when somebody's
-speaking we have to listen to what's the
-bottom line of what they're saying
-what's the Crux of what they're trying
-to get
-across and then second we need to employ
-a strategy that I learned from a
-colleague here his name is Collins dobs
-and Collins teaches critical and crucial
-conversations here at the business
-school and he has a methodology to help
-do that and that methodology applies
-beautifully to listening it's three
-things Pace space
-Grace to listen well you have to give
-yourself a little bit of each of those
-we have to slow things down the world
-moves very quickly we've got a lot going
-on if I slow down I can listen better so
-the first step is to slow things down
-second you have to give yourself space
-sometimes it's physical space move to a
-location where you can actually hear
-better as I get older everything is
-louder in the Ambient sound move to a
-place where you can actually hear but
-also mental space give yourself
-permission to be present oriented In
-This Moment listening to this person and
-then finally grace and grace is to give
-yourself permission to pay attention to
-what's going on in the
-environment how the person says what
-they say not just what they say and
-Grace refers to listening to your own
-intuition We Have Heard lots of things
-we have seen lots of things in our lives
-and we get intuitions that come to us
-based on what we hear and respect those
-as well we often think listening is only
-what's coming in but you can also listen
-to what's happening inside you so but
-with a little bit of pace space and
-Grace and focusing on the Crux of what
-somebody is saying you can listen
-better one of the best tools we can use
-to listen better is to ask either
-clarifying questions or to
-paraphrase we have this notion that we
-have to respond in the moment right away
-if I don't respond right away it means
-I'm not confident it means I don't know
-my stuff and yet we can pause a bit to
-actually reflect on what we're listening
-to before we
-respond so I can literally just take a
-pause some of us feel pausing is bad but
-pausing can be great I can ask a
-clarifying question that gives me a
-little bit of time or I can paraphrase
-which is where I take something you've
-said synthesize it and present it back
-to you in a way that's distilled down so
-it's not like what a 5-year-old does who
-just parrots back what you say that's
-annoying but you look for the key idea
-and you repeat it back the thing with
-asking follow-up questions and
-paraphrasing is these are lower order
-cognitive skills in other words I can be
-thinking about what I want to say next
-while I'm doing those
-so we're going to do a paraphrasing
-activity it's very quick very similar to
-what we did with give a gift I in a
-moment I'm going to ask you to find a
-different partner in the room and I'm
-going to ask you to share a story of
-your name and it can be anything related
-to your name you want it can be very
-deep and meaningful it can be fun for 30
-seconds you're going to tell a story of
-your name this activity is not about
-storytelling this activity is about
-paraphrasing because the person you're
-telling it to is is going to paraphrase
-what you said and then they're going to
-ask a question because paraphrasing
-never happens by itself it's always
-followed by something maybe your answer
-maybe connecting to the agenda maybe
-asking a question so let me give you an
-example of what this is like so I'm
-going to tell you a story about my name
-for 30 seconds I'm going to ask for a
-volunteer if you'd like to paraphrase
-what I said and then another volunteer
-to ask a question now you do not need to
-answer the question but by training
-yourself to ask a question immediately
-after paraphrasing you're training
-yourself to keep the conversation moving
-paraphrasing is never something you do
-in and of itself you always use it to
-move on so here's a story of my name my
-name is Matt all through my childhood I
-was teased mercilessly because Matt
-rhymes with everything okay lazy as a
-doormat silly as a cat you're fat I was
-teased all the time when my wife and I
-started our family it was very important
-to me that our children not be named
-something that was easily
-teas as a teacher I have a built-in
-focus group so I went into my classroom
-I wrote the three names that my wife and
-I were willing to call our kids and I
-gave my students five minutes to come up
-with the most heinous mean bad Rhymes
-and everything they could and we named
-my
-children the names that had the shortest
-lists so that's the story of my name is
-there somebody here who'be willing to
-just paraphrase my story again a
-paraphrase gets to the Crux of it I see
-your hand here sir
-yes that wouldn't happen excellent great
-paraphrase essentially what he said for
-those of you who couldn't hear is you
-stress tested your kids names right
-that's a great
-paraphrase what is a reasonable question
-that you might ask
-yes what are the kids' names yes I'm not
-going to tell you because they would be
-be very upset but I'll tell you that my
-kids are not teased because of their
-names now they're teased for lots of
-other things but not their names do you
-see how paraphrasing can actually help
-you listen more intently so here's what
-I'm going to ask you to do find somebody
-else sitting around you introduce
-yourself and the person in your
-partnership who had to travel the
-farthest to get to campus for the event
-not this morning if you're not local
-you're staying in a hotel that's close
-by but where you came from whoever
-traveled the farthest will go first
-you'll tell a 30second story about your
-name your partner will immediately
-paraphrase and ask a question you need
-not answer it and then you'll switch
-this should take us two minutes to do
-find a partner tell a story of your
-name how did it feel to have your
-story
-paraphrased it feels good doesn't it it
-feels good to have your story
-paraphrased
-it feels good to be listened
-to now we're not virtual in this room so
-we don't have some of those cool
-features that you have on tools like
-zoom and teams and meet so we're going
-to do it all the oldfashioned way will
-everybody put your fist out like this
-this is a yes thumbs up yes thumbs down
-no no middle
-fingers did your
-partner paraphrase well
-your story of your name I am seeing
-almost exclusively thumbs up I see one
-sideways and we might have one thumbs
-down but there's always one in every
-credit
-no how did it feel how did it feel to
-listen to
-paraphrase how did it feel to do
-this hard right I see thumbs up but it
-was hard right you had to listen in a
-different way when I looked at all of
-you doing this you were leaning in you
-were nodding it was clear that you were
-listening with intensity we have the
-capability to listen well but we have to
-encourage ourselves to do it and when we
-speak spontaneously it is critical to
-listen well so we've now completed the
-first four steps of the process manage
-anxiety get out of Our Own Way see it as
-an opportunity listen well all of this
-has to do with mindset we haven't
-actually responded in the moment yet so
-that's the next part and that's
-messaging and messaging has two
-components first it has to do with
-structure structure is critical how you
-put your messages together matters most
-of us just ramble and give lists of
-information when we're put on the spot
-and your brain is not wired for lists
-it's very hard for us to remember just
-ramblings our brains are actually wired
-for structure for story a story to me a
-stru structure is nothing more than a
-logical connection of ideas that has a
-beginning a middle and an
-end I learned the power of story and the
-power of structure When I Was An
-undergraduate here at Stanford many many
-years ago I was a tour guide on this
-campus to this day I can still walk
-backwards in a straight line while
-speaking they trained us back then for
-12
-weeks the most important thing they
-taught us they said above all else to be
-a good tour guide on this campus you
-must never ever lose your tour group you
-are a bad tour guide if you get people
-lost the same is true with us as
-spontaneous speakers never lose the
-audience you're talking to how do we
-keep people together we structure our
-responses structure helps us Orient
-people in set expectations if I showed
-up and I said hi I'm Matt I'm your tour
-guide let's go how many of you would go
-with me a few because you're adventurous
-but the rest of you'd be like heck no
-where are we going do I have the right
-shoes on should I go to the bathroom
-first a good tour guide just like a good
-spontaneous speaker sets expectations up
-front so you can pay attention to what's
-happening and not wonder what's coming
-next structure also helps connect ideas
-together the biggest place or the most
-frequent place you will lose people as a
-tour guide is when you move from one
-place to the next people just wander
-off the same is true in our
-communication if you are using words
-like so next second third as your
-transitions then you are missing
-opportunities to keep people together so
-structure is really
-important let me give you an example of
-a structure just so you can get your
-arms around it most of us are familiar
-with a very persuasive structure of
-problem solution benefit if you've ever
-ever pitched an idea if you've ever
-watched an advertisement This Is How
-They Go problem solution benefit here's
-an issue here's how we solve it and
-here's the benefit that's a structure
-beginning middle and an end now my
-favorite structure in the whole world is
-three simple questions what so what now
-what the what is your idea your belief
-your position your product your service
-your feedback the so is why is it
-important to the person you're speaking
-to and then now what is what comes next
-maybe I'll take your questions let's set
-another meeting let me show you a
-demonstration what so what now what is a
-great way to package up information when
-you're meeting with your friends this
-weekend and somebody says what are you
-up to it's a great structure to update
-here's what I'm doing here's why I think
-it's important here's what I'm planning
-to do next when you're giving feedback
-you can give feedback in this structure
-the feedback is what I saw or what I
-didn't see the so what is why it's
-important and the now what is what I'd
-like you to do differently so imagine we
-come out of a meeting together and you
-say Matt how'd that go I say well I
-thought it went really well except when
-you were talking about the
-implementation plan you spoke quickly
-and didn't give as much detail as you
-did
-elsewhere when you speak quickly without
-a lot of detail people might think
-you're nervous and arn is
-prepared next time slow down and use
-these two addition examples do you see
-how in the moment just by following this
-structure it gives me a good
-response structure is a tool it's like a
-recipe I am a lousy cook but I have have
-a much better chance of cooking well if
-I follow a recipe so by having a recipe
-all I have to do is put the ingredients
-into it I know how I'm going to give you
-my feedback I just have to think about
-what I say in the feedback so structure
-helps you not only package up
-information for your audience but it
-helps you prioritize what to say and
-because the information is packaged well
-your audience can take that information
-and share it elsewhere think of a job
-interview when you're being interviewed
-not only are you trying to communicate
-your skills and how you could benefit
-the company but you're trying to equip
-your interviewer with the information
-that they can then take to the others
-involved in the hiring decision and
-represent you and if you package up that
-information easily they can tell your
-story really well if you just give them
-a whole list of information they're
-likely not to remember it so structure
-is incredibly helpful in spontaneous
-communication in the new book the whole
-second half of it is specific
-spontaneous situations making small talk
-apologizing giving feedback introducing
-yourself answering questions and with
-each one I assign or give a structure
-that you can
-use this is not the final step though
-the final step is the F-word of
-communication and it's not that naughty
-one some of you are thinking about it's
-Focus many of us when we speak in the
-moment take our audiences on the Journey
-of our discovery of what it is we want
-to say as we're saying it in other words
-we say more than we need to we need to
-be focused and concise my mother has a
-saying that I love I know she didn't
-create it but it's tell me the time
-don't build me the clock many of us when
-we are spontaneously speaking build
-clocks one because we're discovering
-what we want to say two because we want
-people to think we're really smart and
-three we want everybody to see how hard
-we've worked to get to what we're saying
-it is much better to be Compact and
-concise in what you're saying so how do
-you do that well one we've already
-talked about relevance if I think about
-what's really relevant for the audience
-then I hinge everything I'm saying on
-that relevance
-second you should have a goal whenever
-you speak be it spontaneous or planned a
-goal to me has three parts information
-emotion and action what do I want the
-audience to know how do I want them to
-feel and what do I want them to do so if
-I'm walking into a room where I expect
-that I will be asked
-questions or asked to give feedback or
-even making small talk I think to myself
-what do I want people to know how do I
-want them to feel and what do I want
-them to do and that helps me focus and
-prioritize what I'm saying
-so it's not enough to just have a
-structured message you have to focus
-that message to help people remember it
-and to not be seen as rambling and
-giving too much
-information there's another structure I
-want to introduce you to that is
-incredibly focused in concise this is a
-structure for pitching I'm often asked
-by people what happens if somebody asks
-me to pitch an idea in the moment so
-you're getting on an elevator and your
-boss's boss steps in and they look at
-you say oh what are you working on I'm
-about to go speak with the board maybe I
-can help you you got to respond four
-sentence starters you just finish these
-sentences what if you could so that for
-example and that's not all what if you
-could so that for example and that's not
-all let me show you how this works by
-taking a suggestion from you all and
-I'll put it in this structure and then
-together as a group we're going to use
-this for something can somebody think of
-a product or service that you would like
-to hear a pitch
-for what would you like to hear me give
-a pitch for somebody suggest one your
-book my book well look at that well
-right I appreciate that so my new book
-is all about how to speak more
-effectively in the moment what if you
-could feel more comfortable and
-confident when put on the spot so that
-you could answer questions well or give
-appropriate feedback for example imagine
-an upcoming job interview that you nail
-that you get all of your points across
-in a way that really represents who you
-are and that's not all you can apply
-these principles to small talk to
-apologizing and to even introducing
-yourself do you see how just answering
-those sentences gets you to a tight
-clear
-pitch so here's what we're going to do
-for all of you to practice and thank you
-for that opportunity
-okay all of us are here for our Stamford
-reunion let's imagine for your next
-reunion you volunteer to help recruit
-people to come back to campus for
-reunion so you're going to make a pitch
-let's go through each of these four
-together as a group somebody give me a
-the end of this sentence what if you
-could
-could what if you could see old friends
-so
-that you can walk down memory lane and
-and experience the things that you
-enjoyed about being on campus for
-example somebody give me an example of a
-of a memory or an exciting thing you'd
-like to share with a old friend for
-example here the band hear the band play
-and sing some of the old songs and
-that's not all
-and that's not all you
-what you can go to a great lecture on
-communicating in the moment I love it do
-you see how easy that was do you see how
-the structure helps you and it made it
-very
-concise so by focusing on these two
-messaging elements structure and focus
-you can actually be much better at
-speaking in the
-moment so some resources for you to
-continue learning these Concepts and and
-others I host a podcast for the business
-school it's called think fast talk smart
-it's all about communication skills I
-get to interview experts from around
-campus and around the world on how to be
-a better
-communicators lots of your favorite
-faculty have been guests on the show and
-this show I'm proud to say has won many
-prestigious Awards including best dog
-walking podcast and best commute podcast
-because our episodes are very concise
-and short 20 minutes we've won some
-other ones as well I and there's a
-picture of the book think faster talk
-smarter if you take a a shot of this QR
-code it'll take you to a whole bunch of
-resources that I make available to our
-students here and elsewhere I encourage
-all of you to think about how you can be
-a better in the- moment speaker it takes
-time and it takes practice the only way
-you get better at communication planned
-or spontaneous is three things
-repetition reflection and feedback
-repetition reflection and feedback
-you have to practice you have to think
-about what's working and what's not
-working and you have to seek out advice
-and guidance from teachers from
-colleagues from mentors to help that's
-how we get
-better
-[Timestamp: 2025/11/16 16:35:56]
+▪ 「大多數人都希望有一份工資收入，之所以會這樣是因為他們有恐懼和貪婪之心。先說恐懼感，沒錢的恐懼會刺激我們努力工作，當我們得到報酬時，貪婪或慾望又開始讓我們去想所有錢能買到的東西。於是就形成了一種模式。」 
 
-**user**: 翻譯成繁體中文
-[Context: Notes: 需翻譯_去時間軸/Think Faster, Talk Smarter with Matt Abrahams-en.md]
-[Timestamp: 2025/11/16 16:38:06]
+「什麼模式？」我問。 
 
-**ai**: 好的，這是翻譯成繁體中文的內容：
+「起床，上班，付賬，再起床，再上班，再付賬……他們的生活就是在無窮盡地為這兩種感覺而奔忙：恐懼和貪婪。給他們更多的錢，他們就會以更高的開支重複這種循環。這就是我所說的『老鼠賽跑』。
 
-請舉手，如果你最近需要自我介紹或進行閒聊。
-是的，這就是今天的主題：如何在當下更好地表達。我的猜想是，對你們許多人來說，自我介紹和閒聊在某些時候是具有挑戰性的，它會讓人感到尷尬和不舒服。所以今天我想談談，在那些需要我們快速思考和行動的時刻，我們如何能更快地思考，更聰明地說話。我們都知道，在有計劃的場合，例如演講、提案、有議程的會議，說話可能很困難，但在當下說話會更困難。如果你仔細想想，我們大部分的溝通都發生在當下。這包括敬酒、回答問題、給予回饋、自我介紹、回答問題，這些都是對我們來說非常具有挑戰性的事情。所以今天我想帶你們了解我多年前為滿足史丹佛學生需求而開發的一套方法。當時院長們來找我說：「我們有個問題，我們的史丹佛MBA學生在回答教授們的突擊提問時遇到了困難。」你們還記得以前人們會說「你怎麼看？」而你必須回應。
-於是我深入研究了心理學、人類學、社會學、即興表演和神經科學，並提出了一套方法。現在，所有史丹佛MBA學生在入學前三週都有機會學習這套方法，結果證明它不僅幫助他們在回答問題時感到更自在和自信，還幫助他們在課堂上站起來表達立場，以及在他們離開學校後，例如求職面試、給予員工回饋等許多其他情況下，都能感到更自在和自信。所以今天不僅僅是聽我說，還會是互動式的，我們會從一個簡單的練習開始。有些人看著彼此說：「哦不，他要我做什麼？」其實很簡單，我想請你們所有人讀這句話，對我來說，比這句話的意義更重要的是，我想請你們數一數字母F的數量。你們找到了多少個F？我給你們三到四秒鐘。請把答案悄悄地告訴自己。有多少個F？我希望我的MBA學生能像你們現在這樣安靜和深思熟慮。
-好了，好了，請舉手如果你找到了三個F。有多少人找到了三個？太棒了，非常好。有沒有人找到四個？啊，有沒有人找到五個？那六個呢？有六個F。我們許多人錯過了哪個以F結尾的兩個字母的詞？那麼我為什麼要做這個活動呢？我在我所做的每一個工作坊、每一次主題演講中都做過這個活動。
-為什麼？因為這正是我們今天要做的事情的精確類比。我們許多人錯過了一些小細節，而這些小細節在我們的溝通中卻能產生巨大的影響。我做這個的另一個原因是，14年前我第一次看到這個時，我只找到了三個，我覺得自己很笨，我想把這種感覺傳遞下去。
-所以我們要找出那些能產生巨大影響的小細節，讓我們在即興演講中更有效率。所以我想向你們介紹一個六步驟的方法，我們可以利用它來更好地在當下說話。這六個步驟分為兩個類別：心態和訊息。第一個步驟與管理焦慮、馴服焦慮怪獸有關。大多數人在即興場合說話時會感到緊張，事實上，大多數人在任何高風險場合說話時都會感到緊張。我們有一些研究表明，高達85%的人在高風險場合會感到緊張，我認為另外15%的人在撒謊。所以讓我問你們，當你們看到一個緊張的演講者時，你們感覺如何？我知道你們中有些人可能喜歡看別人受苦，但我們大多數人都不喜歡。感覺如何？就說出來吧，當你們看到一個緊張的演講者時，你們感覺如何？好的，所以會感到不舒服、有同理心，我聽到有些人說他們自己也會感到焦慮，我稱之為二手焦慮。所以，如果沒有其他原因，我們也應該學會管理我們的焦慮，這樣我們的聽眾才能專注於我們，而不是分心。所以當談到管理焦慮時，我們必須採取雙管齊下的方法，我們必須同時管理症狀和來源。症狀是我們生理上經歷的事情，發生在我們身體裡的事情，而來源是引發或加劇焦慮的事情。所以我想聽聽你們中一些人的意見，當你們感到緊張、被突然提問時，你們會發生什麼？我先說，我會臉紅和出汗。你們中有些人會發生什麼？我的嘴巴會變乾，我稱之為「水管逆轉」，通常乾燥的地方會變濕，通常濕潤的地方會變乾，所以你會手心出汗，但嘴巴卻很乾，真的很奇怪，對吧？還會發生什麼？我的大腦會，是的，你會僵住，想不起要說什麼。還會發生什麼？請說，心臟，是的，你會感覺到心臟砰砰跳，對吧？我們有些人會發抖，這些都是對焦慮的正常和自然反應。你的身體將在當下說話視為受到威脅，並會引發戰鬥或逃跑反應，這些都是正常和自然的反應，但我們有一些事情可以做來解決這些問題。現在讓我與你們分享一些。第一個也是最好的方法，你可能可以做的是深呼吸，那種如果你曾經做過瑜伽、太極或氣功時會做的深腹式呼吸。有趣的是，呼氣比吸氣更重要。所以我的經驗法則，或者我應該說我的肺部法則，是你的呼氣要比吸氣長兩倍。如果你做兩到三次這樣的深腹式呼吸，你實際上會減慢心率、減慢呼吸，這會導致你說話更快，你會感到更平靜。所以在你走進一個你認為可能會被要求提供回饋或知道問題即將到來的房間之前，或者在你解除Zoom靜音之前，做這個深腹式呼吸，它會有所幫助。現在，如果你嘴巴乾燥，並且知道自己將要進入一個可能需要即興說話的場合，喝一些溫水，含一顆喉糖或嚼口香糖。顯然，你在說話時不應該這樣做，但這會幫助重新激活唾液腺。如果你像我一樣會臉紅和出汗，手心握著一些冰冷的東西。你的手心是身體的溫度調節器，就像你的額頭或脖子後面一樣。如果你曾經發燒，你會在頭上敷冷敷布來降溫，因為你的心率會加快，因為當你感到壓力時，你的身體會緊張，更多的血液會流過更緊的血管，你的血壓會升高，這會導致你感到更熱，就像你在運動一樣。所以我們可以通過冷卻自己來減少出汗和臉紅。事實上，在我今天開始說話之前，我一直握著一瓶冰水來幫助自己。所以這些是我們可以做的一些事情來管理我們的焦慮症狀。如果我沒有談到你有的症狀，我會在演講結束時分享一些資源，可以幫助你找到管理焦慮的方法。現在還有另一方面，我們必須考慮來源。來源是引發或加劇我們焦慮的事情。有很多，讓我談談其中一個。我們許多人會因為我們在溝通時試圖實現的目標而感到緊張。我的學生想要取得好成績，我指導的企業家想要獲得資金，你可能想要獲得一份新工作，或者你可能想要你的專案獲得支持。所以讓你緊張的事實是，你可能無法實現那個目標。換句話說，讓你緊張的是潛在的負面未來結果。那麼我們如何縮短這個過程呢？我們變得非常專注於當下，因為如果你活在當下，根據定義，你就不會擔心未來。那麼我們如何專注於當下呢？一種方法是做一些身體活動，在面試前繞著大樓走一走。另一種方法是聽一首歌或一個播放列表，就像運動員一樣。你可以做我做的事情，我通過與人交談來專注於當下。在我上台之前，我與你們許多人交談過，這幫助我專注於當下。我無法在進行對話的同時思考我的演講或問答環節可能會出什麼問題。從100開始倒數17，這會讓你專注於當下。我知道我面對的是一群正在嘗試的人，第一個很簡單，83，下一個很難。我最喜歡的專注於當下的方法是說繞口令。你不可能說繞口令說得對，卻不在當下。你們中有些人會說：「糟糕，」沒錯，我要請你們說我最喜歡的繞口令。我在上台前就說了這個繞口令，它讓我熱身，也讓我專注於當下。我們許多人認為我們可以從沉默直接跳到精彩，而不需要熱身我們的聲音，但你們知道，如果你曾經運動或演奏樂器，你應該先熱身。
-所以我們來試試看。我最喜歡的繞口令需要5秒鐘說完，有三個短語，如果你說錯其中一個短語，你就會說出一個不雅的詞。所以我正在聽，好的，我們來試試看，跟我重複：我切了一張床單，切了一張床單，我切了一張床單，我切了，然後我坐在那張切好的床單上。太棒了，沒有人說出那個不雅的詞，我相信你們都知道是什麼。所以通過管理我們的焦慮，包括症狀和來源，我們為自己在當下說話時表現得更好做好了準備。
-我們流程的第二步與最大化平庸有關。我們自己阻礙了自己。我在史丹佛MBA學生開學第一天，竟然大膽地對他們說：「最大化平庸。」他們都驚訝得下巴都掉了，他們從來沒有被告知要平庸。但我為什麼要這樣建議呢？歸根結底就是：我們是阻礙自己在當下即興說話的最大障礙。我們自己阻礙了自己，我們通過對我們正在思考要說的內容進行評判和評估來做到這一點。我們陷入了自己的思維。這就是為什麼這會產生問題。把你的大腦想像成一台電腦，這不是一個完美的類比，但在這一點上它適用。你知道在你的筆記型電腦或手機上，當你打開很多應用程式和視窗時，每個應用程式的性能都會稍微下降，因為其他應用程式也開著。那是因為頻寬變少了。你的大腦也是如此。當我在說話的同時評估和評判我所說的一切時，我用於專注於我實際說的內容的認知頻寬就變少了。所以當我們在說話時評估自己，我們是在幫倒忙。現在請非常清楚，我不是說你永遠不應該評判或評估你的說話，你應該這樣做，但我們可以把音量調低一點，給我們更多的資源，這樣我們就可以更專注，更有效地表達我們所說的內容。所以我最後告訴我學生的那句話，我從「最大化平庸」開始，然後以「最大化平庸，這樣你才能成就偉大」結束。如果你允許自己只是回答問題，只是給予回饋，只是進行閒聊，那麼你就能把它做得很好。但當我對自己說：「我必須給出正確的答案，最好的回饋，我必須在閒聊中最有趣。」這會降低你把這些事情做好的可能性。所以第一步是管理焦慮，第二步是調低我們正在進行的心理觀察和評估的音量，這會讓你處於一個更專注、更投入的位置。
-這套方法的第三步與我們許多人將即時說話，甚至一般說話，視為威脅和挑戰的事實有關。如果我在會議結束時告訴你們任何人，你們將會收到觀眾的一些問題，你們許多人不會說：「哦，太棒了，我等不及了！」你們會說：「哦不，我最好好好表現，我怕他們會認為我說錯了，他們會挑戰我。」我們許多人將這些情況視為威脅和挑戰。當我們這樣做時，它不僅影響我們說什麼，還影響我們怎麼說。我們傾向於退縮，我們讓自己變得渺小，我們的回答簡短，我們的語氣嚴厲，因為我們覺得我們必須防禦。還有另一種方法可以處理這個問題，在我與你們分享這種方法並給你們一些工具之前，我想讓你們實際體驗一下。所以我要請你們和我玩一個非常簡單的即興遊戲，叫做「送禮」。我們所有人在生活中都有過送禮和收禮的經驗，所以你們知道怎麼玩這個遊戲，但我們要練習一下。我想請大家拿出一個想像中的盒子，你們願意和我一起做嗎？這是你們想像中的盒子，數到三，我想請你們練習送禮，然後送禮時，你們只需伸出雙臂。大家準備好了嗎？1、2、3，送禮！太棒了，非常好。現在當你收到禮物時，你反過來做。準備好了嗎？1、2、3，你收到禮物了！太棒了。所以我們要這樣做：稍後我會請你們找一個坐在你們附近的人，你們只需自我介紹，如果你們不認識對方，然後你們將玩「送禮」遊戲。你們其中一人會送一份禮物給你們的夥伴，你們的夥伴會拿起想像中的禮物，打開盒子，往裡面看，看著夥伴說：「謝謝你的……」然後你們會說出腦海中第一個想到的東西。所以你可能會說：「謝謝你的車。」「謝謝你的筆。」「謝謝你的飛機。」它甚至不需要裝在盒子裡。你的夥伴，也就是送你想像中禮物的人，聽到後會向你解釋他們為什麼送給你。你們看到這個活動中發生了兩個即興行為嗎？然後你們會交換。所以再次，輪到你送禮時，你送出禮物，你的夥伴收到禮物，他們打開盒子，往裡面看，然後他們會感謝你腦海中第一個想到的東西。舉手示意，你們中有多少人已經知道你們盒子裡有什麼了？啊哈，超過一半的人舉手了。是的，還記得我上一步說過什麼嗎？我們想要做得好，我們想要確保我們是對的。所以你已經：「好的，我知道我的盒子裡會有一根狗骨頭，太完美了，我完成了。」我希望你們在打開盒子時，真的說出你們腦海中第一個想到的東西。我必須告訴我的MBA學生要保持禮貌和合法，我相信我不需要在這裡告訴你們，但我想讓你們說出它，然後你們的夥伴聽到後會立即解釋，然後你們會交換。這個活動應該需要2分鐘。我會請你們大約兩分鐘後回來。所以找一個坐在你們旁邊的人，自我介紹，今天早上最早起床的人先開始。我很久以前作為老師就學到，如果你不說誰先開始，大家都會爭論。好的，找一個人。順便謝謝你們參與這個活動。我看到許多笑容，看起來你們玩得很開心。我只是簡單地將手臂掃過觀眾，當我的手指向你們大致的方向時，你們就喊出你們在盒子裡發現了什麼。我只是喜歡聽人們給自己什麼。就開始喊出你們給自己什麼吧。面紙、輪胎、好的，貓薄荷，我聽到了，是的，南瓜筆記，我聽到了花椰菜嗎？哦，是的，狗屎，好的，是的，毛衣，太棒了，你們給了自己很棒的禮物。這也是一個有點像羅夏測驗，它告訴我們一些關於你們的事情，但我們就不深入探討了。讓我問你們，當你們送出禮物並等待聽到你們送了什麼時，感覺如何？你們許多人看起來很興奮，我看到你們許多人笑了。我送了什麼？我送了什麼？然後你們所有人都接受了一個來自即興表演的規則。我是即興表演的忠實粉絲，我在這個校園裡有很棒的即興表演老師，Patricia Ryan Madson、Adam Tobin、Dan Kleene，這些都是即興表演專家，他們教會了我即興表演的價值，而你們所有人都剛剛執行了即興表演的第一條規則：「是的，而且……」你們沒有說：「我沒有給你狗骨頭。」不，你們說：「當然我給了，這就是為什麼。」對吧？你們立刻接受了它，對吧？如果有人問你一個問題或要求你提供回饋時，你把它看作一個機會，就像你把這個活動看作一個機會一樣，那會怎麼樣？我不是天真的，我知道有時候人們問我們問題或要求我們提供回饋時，他們確實是在刁難我們，他們想挑戰我們，他們在攻擊我們。但即使在那些時刻，如果我能把它看作一個連結、學習、找到一些共同點的機會，它就能改變一切。我會介入，我的回應會更宏大，我的語氣會更具協作性，我的回答會更詳細。通過將即興溝通視為一個機會、一份禮物，而不是威脅，它改變了我們整個方法。那麼我們如何做到這一點呢？我們如何執行它呢？在我寫的新書《更快思考，更聰明說話》中，我介紹了幾個我們可以使用的工具，將事物視為機會。第一個來自成長型思維模式的概念，這是校園裡的Carol Dweck幫助開發和倡導的，它很棒，她的工作也很出色。她成長型思維模式工作的一個方面，它本質上是說，當我們面對一個不一定如我們所願的挑戰時，我們可以學習和成長，並開始在這方面變得更好，而不是固定型思維模式，它說我們就是這樣被塑造的，事情就是這樣。成長型思維模式再次開啟了機會，而我真正認同的一個方面是「還沒」這個概念。僅僅因為某件事沒有如你所願，並不意味著它永遠不會如你所願，它只是意味著「還沒」。也許你還沒有技能，你還沒有練習，但它意味著你可以達到目標。所以通過採用「還沒」的思維模式，它幫助我們將事物視為機會，學習的機會，成長的機會。所以當你在生活中遇到挫折時，尤其是在溝通方面，對自己說：「還沒。」我們已經談過「是的，而且……」。「是的，而且……」是我們看到連結可能性的地方。所以即使你在當下的談判中存在分歧，你也可以尋找那些共同點，我們在哪裡達成一致？「是的，而且……」從那裡建立。第三個來自籃球世界。
-你們許多人都熟悉前籃球教練Mike Krzyzewski，K教練。他被認為向他的球員以及所有運動灌輸的一個概念是「下一回合」的概念。如果你是一名運動員，比如籃球運動員，你投失了一球，不要沉思並對自己感到沮喪，而是繼續進行下一回合。因為現實是，如果我投失了球，我坐在那裡想著它有多糟糕，我本來應該投進的，比賽已經在進行中，而對方球隊可能正在得分。我必須轉向下一回合。當你在對話、閒聊、回饋情境中時，也是如此。如果發生了什麼事情沒有完全按照你想要的方式進行，下一回合，繼續前進。現在，雖然當下的沉思是糟糕的，但事後的反思是非常好的。所以我希望你們在當下轉向下一回合，但那天晚些時候，反思一下什麼有效，什麼無效。我們許多人將我們的溝通視為那種瘋狂的定義，你知道，一遍又一遍地做同樣的事情，卻期望不同的結果。如果你不反思、學習和思考，你就不會改變。所以，在當下，下一回合；那天晚些時候，反思。然後這些步驟的最後一步讓我們重新定義我們對錯誤的看法。我們許多人試圖避免錯誤，我們認為錯誤是一件壞事。現在，如果你仔細想想，我們是通過錯誤來學習的。如果你觀察孩子們的成長，他們會犯很多錯誤，這就是他們學習的方式。我們也可以從中受益，但我們必須以不同的方式看待它們。與其說是錯誤，我更希望你們將它們視為「錯失的鏡頭」。你們知道在電視和電影中，導演會讓他們的演員對同一個場景進行多次拍攝。你們看過那個寫著「第一鏡」、「第二鏡」的場記板。
-沒有一個場景是錯的，他們只是在嘗試優化和嘗試不同的東西。所以當你做了一些不如你意的事情時，對自己說：「第二鏡。」我只是要用不同的方式再做一次。它不是壞的，也不是錯的，我只是要用不同的方式嘗試。如果你對你的行為和那些不如你意的事情採取這種方法，首先，它會讓你保持一個更積極的參考框架，它會鼓勵你思考和學習，從剛剛發生的事情中學習。所以這四個工具：「還沒」、「是的，而且……」、「下一回合」和「錯失的鏡頭」是我們將當下的溝通視為機會而不是威脅的方式。所以我們擺脫了自己的阻礙。
-在我們管理焦慮之後，我們將事物視為機會而不是威脅，然後我們的第四步與傾聽有關。我們大多數人都不擅長傾聽。我們只聽足夠多的內容來理解對方說話的要點，然後就開始思考、評判、評估、排練我們想說的話。我們沒有深入傾聽。如果你在當下溝通時沒有深入傾聽，你可能會犯一些錯誤。想像一下，我們一起走出會議，你轉向我說：「你覺得怎麼樣？」我聽到「回饋」，然後我開始列舉我們做錯的所有事情，所有你可以做得更好的事情，我們如何確保下次不再犯同樣的錯誤。但如果我當時真的傾聽了，我可能會注意到你從後門出來，而不是前門，你低著頭，說話比平時更輕聲。在那一刻，你想要的不是回饋，而是支持。而我給了你所有這些建設性的回饋，實際上卻幫了倒忙，甚至可能損害了我們之間的關係。所以當我們需要即興說話時，我們需要以一種非常不同的方式傾聽，這樣我們才能真正理解當下需要什麼。所以我想給你們一些關於如何更好地傾聽的建議，我必須聲明，我的妻子在我教導傾聽時會非常生氣，因為她說我仍在進步中。所以請聽我說的，而不是我做的。首先，當你傾聽時，你需要專心致志地傾聽。我聽到另一所大學的一位教授說，他教音樂，他談到爵士樂，他有一位爵士樂老師，我必須查一下這個人的名字，但他說我們需要傾聽直到你出汗。我喜歡這種方法，傾聽是一項艱苦的工作。所以我們需要做的第一件事是，當有人說話時，我們必須傾聽他們說話的重點是什麼，他們試圖表達的核心是什麼。然後第二，我們需要採用我從這裡的一位同事那裡學到的一個策略，他的名字是Collins Dobbs，Collins在這裡的商學院教授批判性和關鍵對話，他有一套方法來幫助做到這一點，這套方法非常適用於傾聽。它有三件事：步調、空間、優雅。要好好傾聽，你必須給自己一點這些東西。我們必須放慢速度，世界運轉得很快，我們有很多事情要做，如果我放慢速度，我就可以更好地傾聽。所以第一步是放慢速度。第二，你必須給自己空間。有時候是物理空間，移動到一個你可以更好地聽到聲音的地方。隨著我年紀越來越大，周圍的聲音都變得更響亮，移動到一個你可以真正聽到聲音的地方，但也要給自己心理空間，允許自己在此刻專注於當下，傾聽這個人。然後最後是優雅，優雅是允許自己注意周圍環境中正在發生的事情，對方說話的方式，而不僅僅是他們說什麼。優雅指的是傾聽自己的直覺。我們在生活中聽過很多事情，看過很多事情，我們會根據我們聽到的東西產生直覺，也要尊重這些直覺。我們常常認為傾聽只是接收進來的東西，但你也可以傾聽自己內心正在發生的事情。所以，只要有一點步調、空間和優雅，並專注於對方說話的重點，你就可以更好地傾聽。我們可以用來更好地傾聽的最佳工具之一是提出澄清問題或轉述。我們有這樣一種觀念，認為我們必須立即回應，如果我不立即回應，就意味著我不自信，意味著我不懂我的東西。然而，我們可以稍微停頓一下，在回應之前實際反思我們正在傾聽的內容。所以我可以真的只是停頓一下，我們有些人覺得停頓不好，但停頓可以很棒。我可以問一個澄清問題，這會給我一點時間，或者我可以轉述，也就是我把你說過的話，綜合起來，然後以一種精煉的方式回饋給你。所以它不像一個5歲的孩子只是鸚鵡學舌地重複你說的話，那很煩人，但你要找出關鍵思想並重複回饋。提出後續問題和轉述的重點是，這些是較低階的認知技能。換句話說，我可以在做這些事情的同時思考我接下來想說什麼。
-所以我們要進行一個轉述活動，它非常快，與我們之前「送禮」的活動非常相似。稍後我會請你們在房間裡找一個不同的夥伴，我會請你們分享一個關於你們名字的故事，它可以是任何與你們名字相關的事情，你們可以說得很深刻很有意義，也可以很有趣，你們將用30秒講述一個關於你們名字的故事。這個活動不是關於講故事，這個活動是關於轉述，因為你們講故事的對象將會轉述你們說的話，然後他們會問一個問題，因為轉述從來不會單獨發生，它總是會跟著一些事情，可能是你們的答案，可能是連結到議程，可能是問一個問題。所以讓我給你們一個例子，說明這是什麼樣子。所以我要給你們講一個關於我名字的故事，30秒。我會請一位志願者，如果你願意轉述我說的話，然後另一位志願者問一個問題。你們不需要回答問題，但通過訓練自己，在轉述後立即問一個問題，你們就是在訓練自己讓對話繼續下去。轉述從來不是你們單獨做的事情，你們總是會用它來繼續下去。所以這是我名字的故事：我的名字是Matt。我的整個童年時期，我都被無情地嘲笑，因為Matt與所有東西都押韻，好嗎？懶惰如門墊，傻氣如貓，你很胖。我一直被嘲笑。當我和妻子組建家庭時，對我來說非常重要的是，我們的孩子不要取一個容易被嘲笑的名字。作為一名老師，我有一個內建的焦點小組。所以我走進我的教室，寫下我和妻子願意給孩子們取的三個名字，然後我給我的學生五分鐘時間，想出最惡毒、最刻薄、最糟糕的押韻和所有他們能想到的東西。我們給我的孩子們取了清單最短的名字。所以這就是我名字的故事。這裡有人願意轉述我的故事嗎？再次，轉述要抓住重點。我看到你的手在這裡，先生。
-是的，那不會發生。太棒了，很棒的轉述。基本上，對於那些聽不到的人來說，他說的是你對你孩子的名字進行了壓力測試，對吧？這是一個很棒的轉述。你會問一個什麼樣的合理問題？
-是的，孩子們的名字是什麼？是的，我不會告訴你，因為他們會非常生氣，但我會告訴你，我的孩子們沒有因為他們的名字而被嘲笑。他們因為很多其他事情被嘲笑，但不是他們的名字。你看到轉述如何真正幫助你更專心地傾聽了嗎？所以我要請你們做的是，找一個坐在你們周圍的另一個夥伴，自我介紹，然後你們夥伴關係中，為了這次活動，從最遠的地方來到校園的人（不是今天早上，如果你不是當地人，你住在附近的酒店，而是你來自哪裡），誰旅行最遠，誰就先開始。你們將講一個30秒關於你們名字的故事，你們的夥伴會立即轉述並問一個問題，你們不需要回答，然後你們會交換。這應該會花我們兩分鐘。找一個夥伴，講一個關於你們名字的故事。
-被轉述你的故事感覺如何？感覺很好，不是嗎？被轉述你的故事感覺很好。
-被傾聽感覺很好。現在我們不在這個房間裡，所以我們沒有像Zoom、Teams和Meet這些工具上的一些很酷的功能，所以我們將以老式的方式來做。大家把拳頭伸出來，像這樣。這是「是」，豎起大拇指是「是」，大拇指向下是「否」，沒有中指。你的夥伴轉述你的名字故事轉述得好嗎？我幾乎只看到豎起大拇指。我看到一個橫著的，我們可能有一個大拇指向下的，但每個班級總有一個。
-不，傾聽轉述感覺如何？做這個感覺如何？很難，對吧？我看到豎起大拇指，但很難，對吧？你必須以不同的方式傾聽。當我看到你們所有人這樣做時，你們都向前傾，你們都在點頭，很明顯你們都在專心致志地傾聽。我們有能力好好傾聽，但我們必須鼓勵自己這樣做。當我們即興說話時，好好傾聽至關重要。所以我們現在已經完成了流程的前四個步驟：管理焦慮、擺脫自己的阻礙、將其視為機會、好好傾聽。所有這些都與心態有關。我們還沒有在當下做出回應，所以那是下一部分，也就是訊息傳遞。訊息傳遞有兩個組成部分。首先，它與結構有關。結構至關重要。你如何組織你的訊息很重要。我們大多數人在被突然提問時只是胡言亂語，給出一堆資訊，而你的大腦不適合列表。我們很難記住只是胡言亂語的內容。我們的大腦實際上是為結構、為故事而設計的。對我來說，一個故事、一個結構不過是思想的邏輯連結，它有一個開頭、一個中間和一個結尾。我是在很多年前在史丹佛大學讀大學時學到了故事的力量和結構的力量。直到今天，我仍然可以一邊說話一邊倒著走直線。他們當時訓練了我們12週。他們教給我們最重要的事情是，他們說，作為這個校園裡一個好的導遊，你最重要的是永遠不要讓你的旅行團迷路。如果你讓別人迷路，你就是一個糟糕的導遊。我們作為即興演講者也是如此，永遠不要讓你的聽眾迷失。我們如何讓大家保持在一起？我們組織我們的回應。結構幫助我們引導人們並設定期望。如果我出現並說：「嗨，我是Matt，我是你們的導遊，我們走吧！」你們中有多少人會跟我走？少數人，因為你們喜歡冒險，但你們其他人會說：「才不呢！我們要去哪裡？我穿對鞋子了嗎？我應該先去洗手間嗎？」一個好的導遊，就像一個好的即興演講者一樣，會預先設定期望，這樣你就可以專注於正在發生的事情，而不用擔心接下來會發生什麼。結構還有助於將思想連結在一起。作為導遊，你最容易讓大家迷失的地方，或者說最常讓大家迷失的地方，是當你從一個地方移動到另一個地方時，人們就會走散。在我們的溝通中也是如此。如果你使用「所以」、「接下來」、「第二」、「第三」這樣的詞作為過渡，那麼你就錯失了讓大家保持在一起的機會。所以結構真的很重要。讓我給你們一個結構的例子，這樣你們就能理解它。我們大多數人都熟悉一個非常有說服力的結構：「問題-解決方案-好處」。如果你曾經推銷過一個想法，如果你曾經看過廣告，它們都是這樣做的：「問題-解決方案-好處」。這是一個問題，這是我們如何解決它，這是好處。這是一個結構，有開頭、中間和結尾。現在我最喜歡的結構是三個簡單的問題：「什麼？」「所以呢？」「然後呢？」。「什麼」是你的想法、你的信念、你的立場、你的產品、你的服務、你的回饋。「所以呢」是為什麼它對你說話的人很重要。然後「然後呢」是接下來會發生什麼？也許我會回答你的問題，我們再開一次會，讓我給你演示一下。
-「什麼？所以呢？然後呢？」是一種很好的打包資訊的方式。當你這個週末和朋友見面，有人問你：「你最近在忙什麼？」這是一個很好的更新結構：「這是我正在做的事情，這是我認為它很重要的原因，這是我接下來打算做的事情。」當你給予回饋時，你可以用這個結構給予回饋。回饋是「我看到了什麼」或「我沒看到什麼」，「所以呢」是為什麼它很重要，而「然後呢」是「我希望你下次做什麼不同」。所以想像一下，我們一起走出會議，你說：「Matt，進展如何？」我說：「嗯，我認為進展得很好，除了當你談到實施計劃時，你說得很快，而且沒有像其他地方那樣給出那麼多細節。當你說得很快，沒有太多細節時，人們可能會認為你很緊張，而且沒有準備好。下次請放慢速度，並使用這兩個額外的例子。」你看到嗎？在當下，只要遵循這個結構，它就能給我一個很好的回應。結構是一個工具，它就像一個食譜。我是一個糟糕的廚師，但如果我遵循食譜，我做飯成功的機會就會大得多。所以有了食譜，我所要做的就是把食材放進去。我知道我會如何給你回饋，我只需要思考我在回饋中說什麼。所以結構不僅幫助你為你的聽眾打包資訊，它還幫助你優先考慮要說什麼，而且因為資訊包裝得很好，你的聽眾可以將這些資訊帶到其他地方分享。想想面試時，當你被面試時，你不僅要傳達你的技能以及你如何能為公司帶來好處，你還要讓面試官掌握資訊，讓他們可以將這些資訊帶給參與招聘決策的其他人，並代表你。如果你輕鬆地打包這些資訊，他們就能很好地講述你的故事。如果你只是給他們一堆資訊，他們很可能記不住。所以結構在即興溝通中非常有幫助。在新書中，後半部分都是關於特定的即興情境：閒聊、道歉、給予回饋、自我介紹、回答問題，對於每一個情境，我都指定或給出一個你可以使用的結構。
-這還不是最後一步，最後一步是溝通的「F詞」，它不是你們中有些人正在想的那個不雅的詞，它是「專注」（Focus）。我們許多人在當下說話時，會帶著聽眾一起探索我們想說什麼的過程，換句話說，我們說得比需要說的更多。我們需要專注和簡潔。我媽媽有一句我喜歡的話，我知道她不是原創者，但它是：「告訴我時間，不要為我造鐘。」我們許多人在即興說話時都在造鐘，原因有三：一，我們正在探索我們想說什麼；二，我們想讓別人認為我們很聰明；三，我們想讓每個人都看到我們為了說出這些話付出了多少努力。說話簡潔明瞭會好得多。那麼你如何做到這一點呢？嗯，首先，我們已經談過相關性。如果我思考對聽眾真正相關的是什麼，那麼我所說的一切都圍繞著這個相關性。
-其次，你應該有一個目標，無論是即興還是有計劃的演講，對我來說，一個目標有三個部分：資訊、情感和行動。我希望聽眾知道什麼？我希望他們感覺如何？我希望他們做什麼？所以如果我走進一個房間，我預計會被問問題，或者被要求給予回饋，甚至只是閒聊，我會想：「我希望人們知道什麼？我希望他們感覺如何？我希望他們做什麼？」這有助於我專注並優先考慮我所說的內容。
-所以僅僅有一個結構化的訊息是不夠的，你必須專注於那個訊息，以幫助人們記住它，並且不被視為胡言亂語和給予過多的資訊。我想向你們介紹另一個結構，它非常專注和簡潔。這是一個推銷的結構。人們經常問我，如果有人在當下要求我推銷一個想法，該怎麼辦？所以你正在搭電梯，你的老闆的老闆走進來，他們看著你說：「哦，你正在忙什麼？我正要去和董事會談話，也許我可以幫助你。」你必須回應四個句子開頭，你只需完成這些句子：「如果可以……，這樣……，例如……，而且這還不是全部……」。「如果可以……，這樣……，例如……，而且這還不是全部……」讓我向你們展示這是如何運作的，我會從你們所有人那裡得到一個建議，我會把它放進這個結構中，然後我們將一起用它來做一些事情。有人能想到一個你們想聽我推銷的產品或服務嗎？你們想聽我推銷什麼？你的書。我的書？嗯，看看這個。嗯，對，我很感謝。所以我的新書都是關於如何在當下更有效地說話。如果可以讓你感到更自在和自信，當你被突然提問時，這樣你就可以很好地回答問題或給予適當的回饋。例如，想像一下即將到來的面試，你表現出色，你以一種真正代表你自己的方式表達了所有觀點。而且這還不是全部，你可以將這些原則應用於閒聊、道歉，甚至自我介紹。你看到嗎？只要回答這些句子，你就能得到一個緊湊、清晰的推銷。所以這就是我們要做的，讓你們所有人練習，謝謝你們給我這個機會。
-好的，我們都在這裡參加史丹佛校友會。讓我們想像一下，為了你們的下一次校友會，你們自願幫助招募人們回到校園參加校友會。所以你們將進行一次推銷。讓我們一起完成這四個部分。有人能給我這個句子的結尾嗎：「如果可以……」
-如果可以見到老朋友，這樣你就可以回憶過去，並體驗你在校園裡喜歡的事情。例如，有人能給我一個你想要與老朋友分享的回憶或令人興奮的事情的例子嗎？例如，聽樂隊演奏並唱一些老歌。而且這還不是全部。
-而且這還不是全部，你
-你可以去聽一場關於即時溝通的精彩講座。我喜歡！你看到這有多容易嗎？你看到結構如何幫助你，並使其非常簡潔嗎？所以通過專注於這兩個訊息傳遞元素：結構和專注，你實際上可以更好地在當下說話。
-所以這裡有一些資源供你們繼續學習這些概念和其他內容。我為商學院主持一個播客，叫做「更快思考，更聰明說話」，它都是關於溝通技巧的。我會採訪來自校園和世界各地的專家，討論如何成為一個更好的溝通者。你們許多喜歡的教職員都曾是節目的嘉賓，我很自豪地說，這個節目贏得了許多享有盛譽的獎項，包括最佳遛狗播客和最佳通勤播客，因為我們的節目非常簡潔，只有20分鐘。我們也贏得了其他一些獎項。這有一張書的圖片：《更快思考，更聰明說話》。如果你掃描這個QR碼，它會帶你到我為這裡和其他地方的學生提供的許多資源。我鼓勵你們所有人思考如何成為一個更好的即時演講者。這需要時間和練習。你唯一能提高溝通能力（無論是有計劃的還是即興的）的方法是三件事：重複、反思和回饋。重複、反思和回饋。
-你必須練習，你必須思考什麼有效，什麼無效，你必須向老師、同事、導師尋求建議和指導，以幫助你。這就是我們變得更好的方式。
-[Timestamp: 2025/11/16 16:39:01]
+▪ 他們害怕沒有錢，不願面對沒錢的恐懼，對此他們作出了反應但不是用他們的頭腦。」富爸爸說著拍拍我們的頭。「他們會去掙了點小錢，可快樂、慾望、貪婪會接著控制他們，他們會再作出反應，仍然是不加思考。」 
 
-**user**: 整理結構化內容
-[Context: Notes: 需翻譯_去時間軸/Think Faster, Talk Smarter with Matt Abrahams-en.md]
-[Timestamp: 2025/11/16 16:41:44]
+「他們的感情代替了他們的思想。」邁克說。
 
-**ai**: 好的，這份筆記的結構化內容整理如下：
+▪ 「富人也是如此。事實上，許多人致富並非出於慾望而是由於恐懼，他們認為錢能消除那種沒有錢、貧困的恐懼，所以他們積累了很多的錢，可是他們發現恐懼感更加強烈了，他們更加害怕失去錢。我有一些朋友，已經很有錢了，但還在拚命工作，甚至有些百萬富翁比他們窮困時還要恐懼。這種恐懼使他們過得很糟糕，他們精神中虛弱貧乏的一面總是在大聲尖叫：我不想失去房子、車子和錢給我帶來的上等生活。他們甚至擔心一旦沒錢了，朋友們會怎麼說。許多人變得絕望而神經質，儘管他們很富有。」
 
-## 提升即時溝通能力：Matt Abrahams 的六步驟方法
+▪ 富爸爸說，「我遇到過很多人，他們說『我對錢沒興趣』，可他們卻一天工作8小時並不停地抱怨工作無聊。如果他們對錢沒興趣，又何必干自己不喜歡的工作呢？這種人比斂財的人病得更重。」 
 
-### 引言
-*   **問題：** 自我介紹、閒聊和即時說話常令人感到挑戰、尷尬和不適。
-*   **目標：** 在當下更快思考、更聰明地說話。
-*   **背景：** 此方法由Matt Abrahams為史丹佛MBA學生開發，旨在幫助他們應對突發提問和各種溝通情境。
+當我坐在那兒聽著富爸爸的話時，腦中無數次地閃出了我爸爸的話：「我對錢不感興趣。」他常說這句話，他說：「我工作是因為我熱愛這個職業。」
 
-### 六步驟方法
-分為兩大類：心態 (Mindset) 和訊息傳遞 (Messaging)。
+▪ 一份工作能長期解決你的經濟問題嗎？依我看，答案是『不能』，尤其從人的一生來看更是如此。工作只是試圖用暫時的辦法來解決長期的問題。」
 
-#### 一、心態 (Mindset)
+▪ 我對教你們如何掙大把的錢沒有興趣，那解決不了問題。如果你們不先控制恐懼和慾望，即使你們有錢，也只不過是高薪的奴隸而已。「 
 
-1.  **管理焦慮 (Managing Anxiety)**
-    *   **普遍性：** 超過85%的人在高風險情境下會緊張，緊張的演講者會讓聽眾感到「二手焦慮」。
-    *   **雙管齊下：** 管理生理症狀和焦慮來源。
-        *   **生理症狀：**
-            *   常見表現：臉紅、出汗、口乾舌燥、腦袋空白、心跳加速、發抖。
-            *   身體反應：將即時說話視為威脅，啟動「戰鬥或逃跑」反應。
-            *   **應對技巧：**
-                *   深腹式呼吸：呼氣時間是吸氣的兩倍。
-                *   口乾：喝溫水、含喉糖、嚼口香糖。
-                *   臉紅/出汗：手心握冰冷物。
-        *   **焦慮來源：**
-            *   目標導向的緊張：擔心無法達成目標，對潛在負面結果的擔憂。
-            *   **應對技巧 (專注於當下)：**
-                *   進行身體活動：例如面試前散步。
-                *   聽音樂。
-                *   與人交談。
-                *   從100倒數17。
-                *   說繞口令 (作為熱身)。
+「那我們該怎樣避開陷阱？」 
 
-2.  **最大化平庸 (Maximizing Mediocrity)**
-    *   **自我阻礙：** 過度評判和評估自己的言論會降低認知頻寬。
-    *   **核心理念：** 允許自己「只是」回答問題、給予回饋或閒聊，反而能做得更好。
-    *   **目標：** 先允許平庸，才能成就卓越。
+「造成貧窮和財務問題的主要原因是恐懼和無知，而非經濟環境、政府或富人。自身的恐懼和無知使人們難以自拔，所以你們應該去上學並且接受大學教育，而我教你們怎樣不落入餡阱。
 
-3.  **將說話視為機會而非威脅 (Seeing Speaking as an Opportunity, Not a Threat)**
-    *   **常見誤區：** 許多人將即時溝通視為威脅和挑戰，導致退縮、回答簡短、語氣生硬。
-    *   **「送禮」活動：** 透過即興遊戲體驗將溝通視為機會。
-    *   **轉化思維的工具：**
-        *   **成長型思維 (Growth Mindset)：** 挑戰是學習和成長的機會，抱持「還沒」的心態。
-        *   **「是的，而且……」 (Yes, and)：** 擁抱可能性，即使有分歧也要尋找共同點。
-        *   **「下一回合」 (Next Play)：** 借鑒籃球概念，不要沉溺於當下的錯誤，繼續前進。
-        *   **事後反思 (Reflection)：** 在溝通後反思哪些有效、哪些無效。
-        *   **「錯失的鏡頭」 (Missed Takes)：** 將錯誤重新定義為「鏡頭」（如電影拍攝），不是錯，只是優化嘗試。
+▪ 「強化恐懼和慾望是無知的表現，這就是為什麼很多有錢人常常會擔驚受怕。錢就是胡蘿人是幻像。如果驢能看到整幅圖像，它可能會重新想想是否還要去追求胡蘿蔔。」
 
-4.  **傾聽 (Listening)**
-    *   **普遍問題：** 大多數人不擅長深入傾聽，只聽取要點後便開始準備回應。
-    *   **重要性：** 深入傾聽對於理解當下真正需求至關重要。
-    *   **提升傾聽的建議：**
-        *   **專心致志地傾聽：** 傾聽直到「出汗」，專注於核心要點。
-        *   **步調、空間、優雅 (Pace, Space, Grace)：**
-            *   **步調：** 放慢速度。
-            *   **空間：** 給予自己物理和心理空間，專注於當下。
-            *   **優雅：** 注意對方說話的方式，並傾聽自己的直覺。
-        *   **實用工具：**
-            *   停頓。
-            *   提出澄清問題。
-            *   轉述 (綜合提煉，而非鸚鵡學舌)。
-            *   這些是較低階的認知技能，有助於預先思考。
+▪ 永遠別忘記，會有兩種感情——恐懼和慾望，使你落入一生中最大的陷講，如果你讓它們來控制自己的思想，你的一生就會生活在恐懼中，從不探求你的夢想，這是殘酷的。為錢工作，以為錢能買來快樂，這也是殘酷的。半夜醒來想著許多的賬單要付是一種可怕的生活方式，以工資的高低來安排生活不是真正的生活。這些都很殘酷，而我希望你們能避開這些陷餅，如果可能的話，別讓這些問題在你們身上發生，別讓錢支配你們的生活。」
 
-#### 二、訊息傳遞 (Messaging)
+▪ 如果學校教學生認識錢，社會就有可能會變得更富有而且物價低廉。但學校關注的只是教學生為錢而工作，而不是如何開發和利用錢的力量。
 
-5.  **結構 (Structure)**
-    *   **關鍵性：** 結構對於訊息清晰度至關重要，大腦更傾向於結構和故事，而非列表。
-    *   **作用：** 幫助引導聽眾、設定期望、連結思想（避免使用「所以」、「接下來」等簡單過渡詞）。
-    *   **範例結構：**
-        *   **問題-解決方案-好處 (Problem-Solution-Benefit)**
-        *   **什麼？所以呢？然後呢？ (What? So What? Now What?)**
-            *   **什麼 (What)：** 你的想法、信念、立場、產品、服務、回饋。
-            *   **所以呢 (So What)：** 對聽眾而言為何重要。
-            *   **然後呢 (Now What)：** 接下來的行動（例如：回答問題、安排下次會議、演示）。
-    *   **效益：** 結構有助於打包資訊、優先排序，並讓聽眾更容易分享你的故事。
+▪ 當你倆控制了感情，同意免費幹活時，我就知道你們還有希望。 
 
-6.  **專注 (Focus)**
-    *   **避免冗長：** 保持簡潔，避免「為我造鐘，而非告訴我時間」。
-    *   **冗長原因：** 探索想說的內容、想顯得聰明、想展示努力。
-    *   **如何專注：**
-        *   **相關性 (Relevance)：** 將所有內容圍繞對聽眾而言最相關的點。
-        *   **目標 (Goal)：** 包含三個部分：
-            *   **資訊：** 希望聽眾知道什麼？
-            *   **情感：** 希望聽眾感覺如何？
-            *   **行動：** 希望聽眾做什麼？
-    *   **推銷結構 (Pitching Structure)：** 四個句子開頭：
-        *   「如果可以……」 (What if you could...)
-        *   「……這樣……」 (...so that...)
-        *   「……例如……」 (...for example...)
-        *   「……而且這還不是全部……」 (...and that's not all...)
+當你們在我用更多的錢誘惑你們時，你們抵制住了感情，你們就又一次進行了思考而不是任由感情控制你們。
 
-### 結論
-*   **資源：** 播客「更快思考，更聰明說話」(Think Fast, Talk Smart)、書籍《更快思考，更聰明說話》(Think Faster, Talk Smarter)。
-*   **提升溝通能力的關鍵：** 重複 (Repetition)、反思 (Reflection) 和回饋 (Feedback)。
-[Timestamp: 2025/11/16 16:42:04]
+▪ 「我們跟著你會得到什麼呢？我們同意跟你學，可我們能學到什麼呢？」我問。 
+
+「自由。」
+
+▪ 走進我們的恐懼，直面我們的貪婪、弱點和缺陷。這條路的出路就是用心去確定你的思想。」
+
+▪ 「是的，確定我們該怎樣思考而不只是對情感作出反應。不要用因為害怕沒錢付賬而起床工作的方法來解決你的問題。你要花時間去想這樣的問題，更努力地工作是解決問題的最好方法嗎？許多人都害怕對自己說出真相。他們被恐懼所支配，不敢去思考，於是就出門去找工作，因為恐懼在支配著他們。這就是我說的確定你的思想。」
+
+▪ 我會教你三思而後行，而不是條件反射式地行動，就像匆忙嚥下早餐的咖啡後跑出去工作一樣。」
+
+▪ 「記住我以前所說的：工作只是面對長期問題的一種暫時的解決辦法。大多數人心裡只有一個問題，並且是短期的，那就是月末要付賬了，於是又感到恐懼了。錢控制了他們的生活，或者說對錢的無知或恐懼控制了他們的生活。所以他們就像他們的父母一樣生活，早早起來去工作掙錢，而從不抽時間問問，有什麼別的法子嗎？他們的思想由他們的感情控制著的，而不是他們的頭腦。」
+
+▪ 「繼續工作，孩子們，很快你們就會忘了工資的事，這對你們來說比大人容易做到，繼續用你們的腦子思考，無代價地工作，很快你們就會發現掙錢的方法，用這種方法掙來的錢會比我付給你的多許多。 
+
+你們會看到別人看不見的東西，機會就在你面前。大多數人看不見這種機會因為他們忙著尋找金錢和安定，所以他們得到的也就有限。當你看到一個機會時，你就已經學會了並且會在一生中不斷地發現機會。當你找到機會時，我會教你其他的事。學會了這些，你就能避開生活中最大的陷阱，就不會感到恐懼了。
+
+▪ 從一開始我們自己的小人書閱覽室起，我們開始自己賺錢，而不是依賴僱主。尤其是我們的生意給我們帶來了錢，甚至於當我們不在那兒時，它也在生錢，我們的錢為我們工作了。 
+
+沒有付給我們工錢，富爸爸卻給了我們更多的東西。
+
+▪ 邁克選擇經營他的商業王國而我選擇了退休。
+
+▪ 1923年，一些最偉大的領導人和最富有的商人在芝加哥「海岸酒店」舉行了一次會議。
+
+▪ 25年後，他們中的9人就這樣去世了：施瓦布在度過5年借債生涯後身無分文地死去了；英薩爾破產後死於國外；克魯格和科頓也死於破產；霍普森瘋了；惠特尼和阿爾伯特。富爾則差點進了監獄；弗雷澤和利弗莫爾破產自殺了。 
+
+我懷疑是否有人說得清在這些人身上究竟發生了什麼事。看看時間，1923年，正是1929年市場大崩潰和大蕭條的前夜，這場大蕭條嚴重地衝擊了這些人和他們的生活。關鍵的一點是：我們今天生活所處的時代比過去更加不安定，我想在未來25年中會有更多的興衰起落，這是那些人曾經面對過的。我想太多的人仍然過多地關注錢，而不是他們最大的財富——所受的教育。如果人們靈活一些，保持開放的頭腦並不斷學習，他們將在這些變化中一天比一天富有。如果認為錢能解決一切問題，恐怕這些人的日子就會不太好過。知識才能解決問題並創造財富，不是憑財務知識掙來的錢很快就會消失。 
+
+大多數人沒有意識到在生活中，不在於你掙了多少錢而在於你留下了多少錢。
+
+▪ 一個職業運動員在24歲時就掙了幾百萬美元，但到了34歲卻露宿橋下。今天上午當我寫這本書的時候，報紙上就登有這樣一則新聞：一個年輕的籃球運動員，一年以前他還擁有幾百萬美金，可現在，他說他的朋友、律師、會計師拿走了他的錢，他只能在一個洗車站幹著最低報酬的活兒。
+
+▪ 所以當人們問我：「我該從哪兒開始」或「告訴我怎樣才能快速致富」時，他們肯定會對我的回答感到失望。我只是對他們說我的富爸爸在我小的時候曾對我說過的話：「如果你想發財，就需要學習財務知識。」
+
+▪ 現在，會計可能是世界上最乏味的學科了，也可能是最讓人弄不明白的學科。但如果你想長期富有，它又可能是最重要的學科。問題是，你怎樣才能接受這門乏味而晦澀的學科並把它教給孩子呢？答案是：簡化它，首先可用圖來教。
+
+▪ 規則1、你必須明白資產和負債的區別，並且盡可能地購買資產。如果你想致富，這一點你必須知道。
+
+▪ 資產就是能把錢放進你口袋裡的東西。 
+
+負債是把錢從你口袋裡取走的東西。
+
+▪ 最大的損失是機會損失。如果你所有的錢都被投在了房子上，你就不得不努力工作，因為你的現金正不斷地從支出項流出，而不是流入資產項，這是典型的中產階級現金流模式。正確的做法應該是怎樣的呢？如果一對年輕夫婦早點在他們的資產項中多投些錢，以後幾年他們就會過得輕鬆些，尤其是他們準備把孩子送入大學的話。因為資產項中的投資會使他們的資產不斷增加，自動彌補支出。而先投資買下一所大房子的做法只不過是取得抵押貸款以支付不斷攀升的開支，其結果不過是拆了東牆補西牆。
+
+▪ 總之，決定擁有很昂貴的房子，而不是早早地開始證券投資，將對一個人的財務生活在以下三個方面形成衝擊：
+
+1.失去了用其他資產增值的時機。 
+
+2.本可以用來投資的資本將用於支付房子的各種高額、長期開支。 
+
+3.失去受教育機會。人們經常把他們的房子、儲蓄和退休金計劃列入他們的資產項目。 
+
+因為他們無錢投資，所以也就不去投資，這就使他們無法獲得投資經驗，並永遠不會成為投資界認可的「成熟投資者」。而最好的投資機會往往都是先給那些「成熟投資者」，再由他們轉手給那些謹小慎微的人的，當然，在轉手時他們已經拿走了絕大部分的利益。
+
+▪ 如果你和大多數人一樣，你就是下圖所展示的情況：
+
+
+
+作為一個自己有房子的僱員，你努力工作的結果如下：1.你為別人工作。如大多數人為工資而工作一樣，你的努力使僱主或股東致富，你的工作和成功將使僱主成功並且可以提早退休。 
+
+2.你為政府工作。政府在你還未看見工資時就已拿走了一部分，努力工作只是使政府的稅收增加。大多數人都在為政府工作。 
+
+3.你為銀行工作。繳稅後，你的下一筆最大支出該是償還抵押貸款和信用卡貸款了。
+
+▪ 問題是如果你只懂得工作努力，上面三方從你那兒拿走的勞動成果也就會越多。你需要學會怎樣才能使你的努力更多地、更直接地為你和你的家人帶來益處。 
+
+一旦你決定把精力集中於創建自己的事業，你該怎樣確立目標呢？對大多數人而言，他們的目標是保住他們的職業並依賴工資取得他們想要的資產。
+
+▪ 富人買入資產；
+
+窮人只有支出；
+
+中產階級買他們以為是資產的負債。
+
+▪ 其實我不做漢堡包業務，我的真正生意是房地產。」 
+
+基思說雷花了很長時間來解釋他的話。雷的遠期商業計劃中，基本業務將是出售麥當勞的各個分店給各個合夥人，他一向很重視每個分店的地理位置，因為他知道房產和位置將是每個分店獲得成功的最重要的因素，而同時，當雷實施他的計劃時，那些買下分店的人也將付錢從麥當勞集團手中買下分店的地。 
+
+麥當勞今天已是世界上最大的房地產商了，它擁有的房地產甚至超過了天主教會。今天，麥當勞已經擁有美國以及世界其他地方的一些最值錢的街角和十字路口的黃金地段。 
+
+基思說那是他一生中最重要的一課。今天，基思擁有了洗車場，但他最重要的業務卻是經營洗車場的地產。
+
+▪ 第三號秘訣是：「關注自己的事業。」存在財務問題的人經常是一生為別人工作的人，許多人在他們停止工作時就變得一無所有。
+
+▪ 我經常問一些人：「你的事業是什麼？」他們會說：「我是個銀行職員。」接著我問他是否擁有銀行，他們常回答：「不是的，我在那兒工作。」 
+
+在這個例子中，他們混淆了自己的職業和事業，他們可以是銀行家，但他們仍應有自己的事業。雷。克羅克對他的職業和事業之間的區別很清楚，他的職業總是不變的：是個商人。他賣過牛奶攪拌器，以後又轉為賣漢堡包，而他的事業則是積累能產生收人的地產。
+
+▪ 學校的問題是經常把你變成你所學專業的人員。如果你學的是烹調，你就會成為一名廚師；如果你學的是法律，你會當上律師；如果你學的是自動化，你會當上機械師。變成你所學專業的人員的可怕後果在於太多的人因此而忘了去關注自己的事業，他們耗費一生去關注別人的事業並使他人致富。 
+
+為了財務安全，人們需要關注自己的事業。你的事業圍繞著的是你的資產，而不是你的收入。正如以前說過的，第一號規則是要知道資產負債之間的區別，並且去買人資產。富人關心的焦點是他們的資產而其他人關心的則是他們的收入。
+
+▪ 我需要加薪
+
+▪ 「我要去加班」、「也許我能幹兩份工作」、「兩周內我將辭職因為我找到了一份工資更高的工作」等等。
+
+▪ 對大多數人而言，當最小的孩子離開家時，父母才意識到他們還沒有為退休作好足夠的準備。接著，他們自己的父母又病了，他們發現自己又背上了新的負擔。 
+
+那麼，你或你的孩子們應該獲得什麼樣的資產呢？依我看，真正的資產可以分為下列幾類：
+
+1.不需我到場就可以正常運作的業務。我擁有它們，但由別人經營和管理。如果我必須在那兒工作，那它就不是我的事業而是我的職業了；
+2.股票；
+3.債券；
+4.共同基金；
+5.產生收入的房地產；
+6.票據（借據）；
+7.專利權如音樂、手稿、專利；
+8.任何其他有價值、可產生收入或可能增值並且有很好的流通市場的東西。
+
+▪ 還是孩子的時候，我受過教育的爸爸鼓勵我找份安定的工作，而富爸爸則鼓勵我開始獲得我所喜愛的資產，「因為如果你不愛它，就不會關心它」。我購入房地產是因為我喜歡建築物和土地，我喜歡買它們，我可以整天地看著它們，當出現問題時，也不會糟到使我不再喜愛房地產。但對於那些本來就憎惡房地產的人來說，投資房地產顯然並不是一個好主意。 
+
+我喜歡小公司的股票，尤其是剛成立的公司，原因是我是一個企業家而不是一個僱員。
+
+▪ 我上班，但我也關注自己的事業，我通過買賣小公司的股票和房地產，使我的資產變得非常活躍。富爸爸總是強調財務知識，他說，你對會計和現金管理懂得越多，你就能更好地進行投資分析並開始建立自己的公司。
+
+▪ 繼續上班的同時關注自己的事業吧。 
+
+當我說關注自己的事業時，我的意恩是建立自己強大的資產。想想看，一旦1美元落進了你的資產項，它就成了你的僱員。 
+
+關於錢，最妙的是能讓它一天24小時地工作並且為你的幾代人服務。記住：作個努力工作的僱員，確保你的工作，但要不斷構築你的資產項。
+
+▪ 真正的奢侈品是對投資和積累真正資產的獎勵。
+
+▪ 這奢侈品的確是個獎勵，因為它證明了她知道如何增加自己的資產，那輛車對她的意義已不僅是一輛車，而意味著她能用自己的財務知識得到它。
+
+▪ 納稅的方法是由大眾制定的並經多數人同意，它要讓窮人和中產階級看到稅收是為了懲罰有錢人，因此，大眾投了贊同票，並將依法納稅寫人了憲法。而初衷是懲罰有錢人的稅收，在現實中卻懲罰了對它投贊同票的中產階級和窮人。
+
+▪ 政府人員是偷懶的竊賊，而窮爸爸卻說富人是貪婪的強盜，富人應該交更多的稅。
+
+▪ 稅之所以被接受是因為大眾相信羅賓漢的經濟理論，即劫富濟貧。問題是政府的社會保障體系及各項開支越來越大，以致於中產階級也要被徵稅，且稅收水平不斷攀升。 
+
+另一方面，富人則看到了機會，他們不按同一套規則來運作。正如我所說的，他們非常瞭解公司的魔力，而公司在商品經濟時代正變得日益普遍。富人創辦了公司來限定其資產的風險，
+
+▪ 有錢人是怎樣勝過某些有專業知識的人的呢？一旦「劫富」 
+
+的稅法被通過，錢便開始流入政府。起初人們很高興，可錢卻被政府分配給了僱員和富人。稅金通過工作和養老金的形式發放給了政府僱員，通過政府採購的形式付給了富人。
+
+▪ 為避免被削減預算資金，政府僱員會大量花錢和雇人，雖然這很可能是在浪費。
+
+▪ 隨著政府支出的不斷擴大，對錢的需求也越來越大，於是「劫富」的想法不再適用，稅賦也落到了中產階級和窮人頭上。 
+
+真正的資本家則利用他們的財務知識逃脫了。他們借助於公司的保護逃避稅收。
+
+▪ 每次當我聽到父母勸說孩子去學校以便找個安定的工作時，我就會感到憂慮，因為一個有著穩定工作的僱員，若沒有財務頭腦，仍無法躲開財務上的陷阱。
+
+▪ 讓錢為我工作而不是我為錢工作，這是真正的力量。如果你為錢工作，你就把力量給了僱主；如果錢為你工作，你就能控制這種力量。
+
+▪ 我受過高等教育的爸爸總是鼓勵我去一家大公司找個好工作。他的價值觀是：「順著公司的梯子，一步步往上爬」。他不知道，僅僅依賴僱主的工資，就永遠只能是一頭乖乖待擠的奶牛。 
+
+當我對富爸爸講了我爸爸的建議時，他笑了，「為什麼不當梯子的主人？」這就是他全部的話。
+
+▪ 我正在不斷地把工資投資於資產項，而用資產項為我生產出來的錢購買我想要的東西。
+
+▪ 財商是由四個方面的專門知識所構成的：第一是會計，也就是我說的財務知識。如果你想建立一個自己的帝國的話，財務知識是非常重要的技能。你管理的錢越多，就越需要精確，否則這大廈就會倒下來。這是左腦要處理的，或者說是細節。財務知識能幫助你讀懂財務報表，借助這種能力你還能夠辨別業務的優勢和弱勢。 
+
+第二是投資，我稱為錢生錢的科學。投資涉及到策略和方案，這是右腦要做的事，或者說是創造。 
+
+第三是瞭解市場，它是供給與需求的科學。這要求瞭解受感情驅動的市場的「技術面」。
+
+▪ 第四是法律。
+
+▪ 我意識到過分的畏懼和自我懷疑是浪費我們才能的最大因素。看到學生們明明知道該做什麼，卻缺乏勇氣付諸實踐，我就感到十分悲哀。在現實世界裡，人們往往是依靠勇氣而不是聰明去領先於其他人的。
+
+▪ 為什麼必須不厭其煩地提高自己的財商？為什麼必須懂得財務知識？ 
+
+對此，我回答說，「就是為了獲得更多的選擇機會。」
+
+▪ 那麼，一個人為什麼非要提高自己的財商呢？
+
+▪ 原因很簡單，做這些工作是我生命當中最快樂的事情，我更歡迎變化而不是抱怨變化，我更喜歡能掙到數百萬元的錢而不是去擔心能不能獲得提升。
+
+▪ 在第一輪中，她得到了一張「零星支出」卡，開始她感到很高興，「噢，我得到了一隻遊艇！」接著，當我的朋友試著向她解釋如何在收人表和資產負債表上做數字記錄時，她非常沮喪，因為她從不喜歡與數字打交道。桌上的其他玩家在一邊等著她，而我的朋友則不停地向她解釋收人表、資產負債表和月現金流量之間的關係。終於，她弄明白了數字記錄的奧妙，並且意識到她的小艇實際上消耗了她的資金，影響了她的資產的流動性。後來在遊戲中，她在「下崗」格停過，還添了一個孩子，不用說，這個遊戲對她來說簡直是糟糕透了。
+
+▪ 當那位女士冷靜下來時，她開始發現那個遊戲與她的生活之間的確存在著某種微妙的關係。 
+
+雖然她和她丈夫並不曾擁有一隻遊艇，可他們確實擁有其他所有他們期望得到的東西。對於離婚她感到憤怒，這既是因為她丈夫另有新歡離她而去，也是因為結婚20年來，他們幾乎沒有積存下什麼資產，他們居然沒有什麼可供分割的財產。他們20年的婚姻生活確實充滿了樂趣，但是所有的積累卻是一大堆不值錢的東西。
+
+▪ 限制自己的選擇機會同固執於陳舊思維方式相類似。我有一個高中時代的朋友，現在擁有三份工作。20年前，他曾是我的同班同學中最富有的一個，然而後來當地的甘蔗園倒閉了，他所在的制糖公司也隨之關張。在他看來，他只有惟一的一種選擇——一種陳舊的選擇：努力工作。問題在於他無法再找到一份能像原來那家公司那樣承認他的價值的新工作。結果，他過高估計了現有的工作，並且他的薪水也降低了。如今，他不得不同時從事三份工作，以掙到足夠的錢來維持原有生活水平。
+
+▪ 財務知識豐富僅僅是意味著擁有更多的選擇機會而已。如果機會並不按你的設想降臨，那麼你還能做點什麼來改善自己的財務狀況呢？如果機會降臨到你頭上，但你卻沒有錢，而銀獄行也不來幫你，那你該做些什麼來利用這一機會受益呢？如果你的預感是錯誤的，你所預計的事情並沒有發生，你又如何將一小筆錢變成數百萬美元？換句話說，當你要求的沒有出現時，你能想出多少種財務方法來把一小筆錢變成數百萬美元呢？這就應該依靠你的財務智慧，要看你在解決財務問題上有怎樣的開創能力了。 
+
+可大部分人卻只知道一種方法：努力工作、儲蓄或者借貸。
+
+▪ 如果你想更幸運，掙到更多的錢，而不只是辛苦工作，那麼你的理財能力就非常關鍵。如果你是那種等待「好事情」發生的人，那麼，你就可能要等非常長的時間。
+
+▪ 有兩種類型的投資者：
+
+1.第一種類型也是最普通的一種，即那些進行一攬子投資的人。他們聯繫一家從事經營個人投資業務的中介機構，例如房地產公司、股票經紀人或財務籌劃顧問等，然後買下一些東西。這些東西可能是共同基金、房地產信託投資。 
+
+股票或債券等。這是一條較好的、清楚簡單的投資方式，就好像一位商店老闆到電腦商店去購買一台組裝好的電腦。 
+
+2.第二種類型就是那種創造投資機會的投資者。這種投資者通常會組織一項交易，如同一個人去買來電腦零部件，然後將其組裝成一台電腦。雖然我連用部件組裝電腦的第一步工序都不知道，但我卻清楚應該如何將一個個機會組織起來，也知道誰正在這樣做。 
+
+第二種類型的投資者最有可能成為職業投資者，但有時候可能要花許多年才能將一個個機會組織起來，有時它們根本就不可能集合在一起。我的富爸爸鼓勵我去做第二種類型的投資者，學會如何將機會組合在一起，有時候會因此獲得巨大的成功，但有時候也會因形勢逆轉而損失慘重。 
+
+如果你想成為第二種類型的投資者，那麼你需要發展三種主要技能，這三種技能是成為財務能手所必要的更高要求。 
+
+1.如何尋找到其他人都忽視的機會。你要用心去發現別人眼裡忽視的那些機會。
+
+▪ 2.如何增加資金。一般人只會去找銀行貸款，而第二種類型的投資者則知道不找銀行就能融資的辦法。
+
+▪ 3.怎樣把精明的人們組織起來。聰明的人往往會僱傭比自己更聰明的人或與他們一道工作。這樣，當你需要建議的時候，你有可以信賴的顧問。 
+
+有很多東西需要去學習，因此而得到的回報也會非常大。如果你不想學習這些技能，那麼我就建議你最好做第一種類型的投資者。你懂得了這一點就是你擁有的最大財富，你不知道這一點就是你面臨的最大風險。 
+
+風險總是無處不在，要學會駕馭風險，而不是一味迴避風險。
+
+▪ 我常常吃驚為什麼有些人才華過人卻只掙到很低的收入，我聽說只有不到5％的美國人年收人在10萬美元以上。一位對藥品貿易很精通的商務顧問曾經告訴我，有許多醫生、牙醫和按摩師在財務上困難重重。以前我總是以為他們一畢業，美元就會滾滾而來。這位商務顧問最後告訴了我一句話，「他們只有一項技能，所以他們掙不到大錢。」 
+
+這句話的意思是說，大部分人需要學習並掌握不止一項技能，只有這樣他們的收人才能獲得顯著增長。以前我提到過，財商是會計、投資、市場營銷和法律等各方面能力的綜合。將上述四種專業技能結合起來，以錢生錢就會容易得多。為了賺錢，只有一項技能的人只能努力工作。
+
+▪ 對於受過良好教育的爸爸來說，穩定的工作就是一切。而對於富爸爸來說，不斷學習才是一切。
+
+▪ 富爸爸告訴我學習在危險形勢下領導下屬的重要性，「領導才能是你下一步迫切需要學習的，」他說，「如果你不是一個好的領導人，你就會被別人從背後射中，商業活動就像在戰爭中一樣。」
+
+▪ 我在施樂公司找了一份工作，加盟施樂公司是有目的的，不過不是為了物質利益。我是一個靦腆的人，對我而言營銷是世界上最令人害怕的課程，而施樂公司擁有在美國最好的營銷培訓項目。
+
+▪ 當我穩居銷售業績榜前五名時，我再次辭去了工作，放棄了又一份不錯的職業和一家優秀的公司。 
+
+1977年。我組建了自己的第一家公司。富爸爸培養過邁克和我怎樣管理公司，現在我就得學著應用這些知識了。我的第一種產品尼龍帶搭鍊的錢包，在遠東生產，然後裝船運到紐約的倉庫裡，倉庫離我去上學的地方很近。我的正式教育已經完成，現在是我單飛的時候了。如果我失敗了，我將會破產。富爸爸認為破產最好是在30歲以前，他的看法是「這樣你還有時間東山再起」。
+
+▪ 學校沒有把財商看作是一種智慧，大部分工人都「按他們的方式活著」，這些方式就是：幹活掙錢，支付賬單。 
+
+還有另外一種可怕的管理理論這樣說：「工人付出最高限度的努力工作以避免被解雇，而僱主提供最低限度的工資以防止工人辭職。」如果你看一看大部分公司的支付額度，你就會明白這一說法確實道出了某種程度的真實。
+
+▪ 我勸告年輕人在尋找工作時要看看能從中學到什麼，而不是只看能掙到多少。
+
+▪ 湯姆。克魯斯離開公司時的一幕，他剛被炒了魷魚，於是就問全公司的人：「誰願意和我一起走？」整個公司鴉雀無聲，空氣都凝固了。只有一位婦女站出來說，「我願意……可是過三個月後我就能得到升職了。」 
+
+這句話在整部電影裡可能是最實在的一句話，這句話道出了人們總是為生計而忙碌工作的原因。我知道，受到良好教育的爸爸每年都在期望加薪，但每年他都十分失望。於是他不得不回到學校去獲得更高的學歷資格，以便能得到另一次加薪的機會。但是很快，他又會再次失望。
+
+▪ 成功所必要的管理素質包括：1.對現金流的管理；2.對系統（包括你本人、時間及家庭）的管理；3.對人員的管理。
+
+▪ 我受過良好教育的爸爸工作越來越努力，也越來越具有競爭力，但他也更深地陷入對自己專業特長的依賴之中。雖然他的工資收入增長了，可他的選擇機會卻消失了。等到失去了政府中的工作，他才發現自己從職業選擇上來講是多麼地無能為力。這就好比職業運動員突然受傷或者年齡太太而無法再參加比賽一樣，他們曾經擁有的高收入工作已經失去，而有限的技能又使他們無法另辟蹊徑。
+
+▪ 富爸爸鼓勵我和邁克對許多東西都去瞭解一點兒。他鼓勵我們去和比我們更精明的人一起工作，並把他們組織成為一個團隊。現在這種做法被稱為專家組合。
+
+▪ 我的富爸爸給予別人許多錢，他把錢捐給教堂、慈善機構以及他的基金會，他懂得如果想要得到金錢，就必須先付出金錢。付出金錢是那些非常富有的家庭保持財富的一個秘訣，這也是例如洛克菲勒基金會、福特基金會這樣的機構存在的原因。建立這些機構是為了獲取財富，通過定期付出財富再去增加更多的財富。
+
+▪ 我那受過良好教育的爸爸總是說：「當我有多餘的錢時，我就把它捐出來。」問題是他從來就沒有多餘的錢。因此他工作更加努力以掙到更多錢，卻沒有注意到一條最重要的金錢法則：「給予，然後獲得」。相反，他卻信奉「得到了然後再付出」。
+
+▪ 富爸爸經常告訴我和邁克，在財務上不能獲得成功的最大原因是大部分人的做法過於安全……「人們因為太害怕失敗，所以才會失敗。」這是他常說的話。 
+
+對此前全美橄欖球聯賽的傑出球員弗朗。塔肯頓還有另一種說法：「勝利意味著不害怕失敗。」 
+
+在我的生活中，我注意到失敗常常伴隨著成功。在我最終學會騎自行車之前，我曾經跌倒過許多次，我從來沒有遇到過不曾打丟球的高爾夫球手，也從未見過不曾傷心過的戀人，更未曾見過從不損失金錢的富人。
+
+▪ 因此，對大多數人來說，他們在財務上不能獲勝的原因是因為對他們而言損失金錢所造成的痛苦遠遠大於致富所帶來的樂趣。得克薩斯人的另一句諺語講道：「人人都想上天堂，卻沒有人想死。」可是不死怎麼能進入天堂呢，這就如同大部分人夢想發財，但卻害怕在投資過程中損失金錢，所以他們永遠進不了「天堂」。
+
+▪ 用洛克菲勒的話來說，就是「我總是試圖將每一次災難轉化成機會。」
+
+▪ 規模太小，他們買大房子、大轎車，卻不去做大的投資。90％的美國公眾財務困難的主要原因就在於他們是為了避免損失而理財，而不是為了贏利而理財。 
+
+一部分人會選擇去找財務顧問或會計師、股票經紀人等，購買一個安全的投資組合。
+
+▪ 如果你沒有什麼資金而又想致富，你首先必須「集中」於一點，而不是追求「平衡」或者說是「分散風險」。
+
+▪ 什麼能夠治療這種情性呢？答案就是「貪婪」一點。
+
+▪ 世界之所以進步是因為我們都渴望過上更好的生活，新發明的產生也是因為我們渴望更好的東西，我們努力去學習也是因為我們想要更好的東西。因此，每當你發現自己在逃避你心裡清楚應該去做的事情時，那麼誰一要自問的是：「這裡有什麼是我應該得到的？」 
+
+稍稍「貪婪」一點，這是治癒懶惰的最好辦法。
+
+▪ 「你爸爸什麼時候支付賬單？」富爸爸問道。 
+
+「每月初。」我說。 
+
+「那支付完賬單後他還有節余的錢嗎？」他問。 
+
+「非常少。」我回答。 
+
+「這就是他苦苦掙扎的主要原因，」富爸爸說，「他有一些壞習慣。」 
+
+「你爸爸總是首先支付給其他人，最後才支付給自己，而且這還得看他有無賸餘。」
+
+▪ 「所以你看，在我把僅有的錢先支付給自己後，要支付稅款和其他貸款人的壓力就會變得非常大，迫使我去尋求其他形式的收入，支付的壓力成為我的動力。我會幹額外的工作，開其他公司，在股票市場上買賣多幾支股票以及去做任何可以使那些人不再向我叫喊的事。壓力迫使我努力工作，迫使我去思考，最重要的是迫使我在錢的問題上更精明、更積極主動。然而如果我像你爸爸一樣最後支付給自己，我就不會感到任何壓力，但我一定會因此而破產。」
+
+▪ 1.我需要一個超現實的理由：精神的力量。如果你問別人是否願意致富或者獲得財務上的自由，大部人會說「願意」。可是一想到現實，前進的道路似乎就變得很漫長而崎嶇，相比之下，為了錢工作並把賸餘的錢托付給經紀人看管似乎要更容易一些。
+
+▪ 我可以列舉一些首先是「不想要」而由此產生了「想要」的例子。我不想一生都工作；我不想要父輩們渴望的那些東西，如工作穩定、擁有一套郊區房子；我不想做一個打工仔；我討厭父親因為忙於工作而總是錯過我的足球比賽；我討厭父親終身努力工作在他去世時卻還有未付的賬單。而富人不會那樣做，他們會努力工作，然後將工作成果交給後人。
+
+▪ 其次是「想要」。我想自由自在地周遊世界；我想以自己喜歡的方式生活；我想在自己年輕的時候就能做到這些；我想自由自在地支配自己的時間和生活；我想要金錢為我而工作。 
+
+這些就是我發自內心深處的精神動力。你是什麼樣的人呢？ 
+
+如果你不夠堅強，那麼前
+
+▪ 行道路上的嚴酷現實就會迫使你退縮。
+
+▪ 2.每天作出自己的選擇：選擇的力量，這是人們希望生活在一個自由國度的主要原因。 
+
+我們需要有作出選擇的權力。 
+
+從財務上來說，我們每掙到一個美元，就得到了一次選擇自己的將來是富裕、貧窮還是一般的機會。我們用錢的習慣反映了我們是什麼類型的人，有的人之所以貧窮是因為他們有著不良的用錢習慣。
+
+▪ 「我對金錢不感興趣」，或者「我不想成為富人」，抑或「我不用擔心，我還年輕」、「等我開始掙錢時，再考慮將來」，或者「我愛人掌握財權」等等。這些說法存在著一個共同的問題就是阻礙人們選擇去思考這樣兩件事情：第一是時間，這是你最珍貴的資產；第二則是學習，因為你沒有錢，你更要去學習。事實上我們每天都應該進行一個選擇：即選擇如何利用自己的時間、自己的金錢以及我們頭腦裡所學到的東西去實現我們的目標，這就是選擇的力量。我們都有機會，我選擇要做一個富人，我每天都在為我的選擇而努力。
+
+▪ 首先投資於教育。實際上，當你還是一個窮人時，你所擁有的惟一真正的資產就是你的頭腦，這是我們所控制的最強有力的工具。
+
+▪ 最直接的結果是：我仍然保留住了自己過去思考問題的習慣方式，同時又學到了彼得。 
+
+林奇分析同一問題或形勢的思考方式。 
+
+我擁有了兩條思路，而不僅僅是一條，能夠有不止一條的思路來分析某個問題或趨勢，這實在難能可貴。今天我常常會問自己，「這件事彼得。林奇會怎樣做？或者唐納德。特拉姆、沃倫。巴菲特、喬治。索羅斯會怎麼做？」我得以進入他們深邃思想的惟一途徑就是非常謙虛地閱讀或傾聽他們所說過的那些話。傲慢自大或吹毛求疵的人往往是缺乏自信而不敢冒風險的人。如果你想學習某些新東西，那麼你就需要犯些錯誤，只有這樣才能充分理解你所學習的知識。 
+
+如果你能讀到這裡，你就不存在傲慢自大的問題，因為傲慢的人很少讀書或買磁帶。
+
+▪ 3.慎重地選擇朋友：關係的力量。首先，我不會把財務狀況作為挑選朋友的標準。我既有窮困潦倒的朋友，也有家財萬貫的朋友，因為我相信」三人行，必有我師「，而我也願意努力地去向他們每個人學習。 
+
+但我要承認我確實會特意交一些有錢的朋友，我的目標不是他們擁有的錢財，而是他們致富的知識。在很多情況下，這些有錢人會成為我的親密朋友，當然，也不盡然。 
+
+我想，窮朋友和富朋友都同樣是我的老師。我會注意我的有錢朋友是如何談論金錢的（我不是指財富），他們對這個話題感興趣。這樣，通過交談我向他們學習，他們也向我學習。
+
+▪ 4.掌握一種模式，然後再學習一種新的模式：快速學習的力量。麵包師做麵包要遵循某種配方，即使這種配方只是記在腦子裡。掙錢也是一樣的道理，這也是金錢有時被稱作「麵包圈」的原因。 
+
+我們大都聽說過這樣一句諺語：「你吃的是你自己。」我有一句意義相近但說法不同的話：「你學習什麼，就會成為什麼樣的人」。也就是說，你得注意你所要學習的內容，因為你的精神力量非常強大，你學到了什麼，就會成為什麼樣的人。例如，你學習烹飪，你就會去做烹任，然後就成為一名廚師。如果你不想再做廚師，那你就要學習其他東西，比如說學些師範課程成為一名學校教師。所以，一定要仔細挑選自己學習的內容。 
+
+在錢的問題上，大多數人一般只知道一個基本的掙錢公式，這個公式是他們從學校學來的，就是為了金錢而工作。在我看來，這個公式是在全世界占支配地位的一個公式：千百萬人每天起床，上班，掙錢，支付賬單，平衡支票簿，購買共同基金，然後再回去工作。 
+
+這是一個普遍的、基本的公式或配方。 
+
+如果你對自己所做工作感到厭倦且掙錢又不夠多，那麼很簡單，這正是你改變自己掙錢公式的時候了。多年前，當我26歲時，我參加了一個週末班，內容是「如何購買破產房地產」。在那裡我學到了一個公式並開始試著將我所學到的規則付諸實施，而這一步正是許多人沒能做到的事情。在為施樂公司工作的三年中，我用業餘時間學習並掌握了購買破產財產的技巧，運用這個公式，我賺取了數百萬美元。但是過了一段時間，這個公式變得不那麼好用了，因為開始有其他許多人也在這樣做了。 
+
+因此，我又開始尋找其他的公式。對於許多我參加過的短期培訓班來說，或許我並沒有直接使用過所學到的信息，但我還是從中學習到許多新的東西。
+
+▪ 5.首先支付自己：自律的力量。如果說你不能控制自己，就別想著能致富。
+
+▪ 很難說這十個步驟中哪一個最重要，但對於所有這些步驟來說，第五個步驟是最難以掌握的，如果它不是你習慣於去做的事情的話。我要冒昧說一句：是否缺乏自律是將富人、窮人和中產階級區分開來的首要因素。
+
+▪ 開創你自己的事業所必備的最重要的三種管理技能是：
+
+1.現金流量管理；
+2.人事管理；
+3.個人時間管理。 
+
+我想說，這三項管理技能不僅適用於企業，而且適用於任何事情。比如，你對自己日常生活的管理或對家庭、企業、慈善組織、城市及國家等的管理。 
+
+自律精神可以增強上述的任何一項技能。我非常重視「首先支付自己」這句話。
+
+▪ 1.不要背上數額過大的債務包袱。
+
+▪ 2.當你資金短缺時，去承受外在壓力而不要動用你的儲蓄或投資，利用這種壓力來激發你的財務天賦，想出新辦法掙到更多的錢，然後再支付賬單。這樣做，不但能提高你賺錢的能力，還能提高你的財商。
+
+▪ 窮人有不好的習慣，一個普遍的壞習慣是隨便「動用儲蓄」。 
+
+富人知道儲蓄只能用於創造更多的錢，而不是用來支付賬單。
+
+▪ 6.給你的經紀人以優厚報酬：好建議的力量。
+
+▪ 7.做一個「印第安給予者」：無私的力量。
+
+▪ 8.資產用來購買奢侈品：集中的力量。一位朋友的孩子養成了亂花錢的壞毛病，剛16歲他就很自然地想擁有自己的汽車，理由是：他所有的朋友都從父母那裡得到了汽車。 
+
+兒子想動用他上大學的儲蓄作為首期付款買輛汽車，於是他父親就從辦公室給我打來電話。 
+
+「你認為我應該允許他這樣做嗎？或者我應該像其他父母那樣就給他買一輛汽車？」 
+
+對此我回答說：「從短期來看這樣做可能減輕你的精神壓力，但從長遠來看這樣做會教給他什麼呢？你能不能利用他這種希望擁有一輛汽車的慾望來激勵你兒子去學點東西呢？」 
+
+我朋友心裡豁然一亮，趕忙回家了。 
+
+兩個月後，我再次遇到這位朋友。「你兒子擁有了自己的汽車嗎？」我問。 
+
+「不，他沒有。但我給了他3O00美元，我告訴他可以使用我的錢而不能動用他上大學的錢。」 
+
+「啊，你很慷慨呀！」我說。 
+
+「也不是，這筆錢只是作為一個繩套。我接受了你的建議，利用他這種想擁有一輛汽車的強烈願望，促使他能夠學到一些東西。」 
+
+「那麼，繩套是什麼？」我問。 
+
+「首先，我們玩了一次你的『現金流』遊戲，然後我們就如何明智地使用金錢的問題進行了一次長談。之後我給了他一張《華爾街日報》的訂閱單，以及一些關於股票市場的書籍。」 
+
+「接下來呢？」我問，「你的方法是什麼呢？」 
+
+「我告訴他這3000美元歸他所有了，但他不能直接用它來購買汽車，他可以用這筆錢來買賣股票，也可以尋找他自己的股票經紀人。而一旦他把這3000美元增值到6000美元，就可以用掙到的3000美元去買汽車，而我當初給他的300O美元仍要用在他上大學的支出上。」 
+
+「那麼，結果怎麼樣？」我問。 
+
+「開始在交易中他很幸運，但幾天之後他就把掙到的錢全賠光了，接下來他真正開始感興趣了。今天，我想他可能已經損失了2000美元，但他的興趣更大了，不僅讀完了我買給他的所有書籍，還到圖書館去閱讀更多的書。他如饑似渴地閱讀《華爾街日報》，關注市場指標，看哥倫比亞全國廣播公司的節目而不是從前愛看的音樂電視。現在他只剩下1000美元了，但他的興趣和學習勁頭沖天。他知道如果自己賠光了那筆錢，他就不得不再多步行兩年，可他似乎並不在意這些了，他甚至看起來對獲得一輛汽車也不那麼感
+
+▪ 作為一種習慣，我用自己希望消費的慾望來激發並利用我的財務天賦去進行投資。 
+
+今天，我們常常是借錢來獲得我們想要的某種東西，而不是把注意力集中在為自己創造金錢上。這樣做在短期來看很容易，但長期來看卻會產生問題。不論是個人還是國家，這都是一種壞習慣。記住，最容易的道路往往會越走越艱難，而艱難的道路往往會越走越輕鬆。
+
+▪ 9.對英雄的崇拜：神話的力量。
+
+▪ 在我9到10歲的時候，每次當我上場擊球或打第一壘或充當接球手時，我便不再是我自己，我成了約吉或者漢克，這是我學到的最有力量的方法之一。但當我們長大成人後，卻失去這種能力，我們失去了心目中的英雄，我們失去了過去的天真。 
+
+今天，我看到年輕的小伙子們在我家附近打籃球。在庭院裡他們不再是小約翰尼，他們是邁克爾。喬丹、奧尼爾和約翰遜。
+
+▪ 10.先予後取：給予的力量。我的兩個爸爸都是教師。我的富爸爸教給了我一生受用的經驗，那就是樂善好施的必要性。我的受到良好教育的爸爸花了很長時間廣泛傳授知識，卻幾乎沒有施捨錢財。他常常說要是有額外的錢，就會施捨給別人，可是，他很少會有多餘的錢。
