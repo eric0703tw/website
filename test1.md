@@ -1,395 +1,1302 @@
 ---
-epoch: 1762738456201
+epoch: 1763220447800
 modelKey: "gemini-2.5-flash|google"
-topic: "內容結構與翻譯"
+topic: "去除時間軸"
 
 
 tags:
   - copilot-conversation
 ---
 
-**ai**: 
-<errorChunk>Model request failed: No valid chat model available. Please check your API key settings.</errorChunk>
-[Timestamp: 2025/11/10 09:34:16]
+**user**: 去除時間軸
+[Context: Notes: 需翻譯_去時間軸/Fix your destructive mindset in 15 mins _ Anne-Laure Le Cunff-en.md]
+[Timestamp: 2025/11/15 23:27:27]
 
-**user**: 先整理結構化內容，再分段翻譯成繁體中文
-[Context: Notes: 1_行動任務/naval_clean.md]
-[Timestamp: 2025/11/10 09:42:53]
+**ai**: 好的，這是去除時間軸後的內容：
 
-**ai**: 好的，這段內容非常豐富。我會先整理出結構化的內容，然後分段翻譯成繁體中文。
+- A mindset is a default way of seeing the world.
+And our mindsets influence so many things in our lives.
+They influence our decisions.
+They influence our relationships.
+They influence the way we think and even the way we feel.
+When we're not aware of our mindsets,
+they can impact the direction of our life,
+the path that we're taking without us even realizing it.
+Being aware of your mindsets
+is the difference between living a conscious life,
+where you're making choices
+in accord with what you actually want
+and going where you actually wanna go,
+versus being on autopilot and having those mindsets
+subconsciously drive all of your decisions.
+The great thing about mindsets
+is that they can actually change,
+but the first step is to make them conscious.
+(light thoughtful music)
+I divide my life into two separate chapters.
+In the first one, I had a very linear approach
+that was driven by traditional definitions of success.
+I did my best to do well in school,
+and then I got a good job at Google,
+and then I tried to climb the corporate ladder,
+getting a promotion, working on the best projects possible.
+And from an external standpoint,
+I should have been happy, but I wasn't.
+Instead, I was feeling empty inside;
+I was both bored and burned out.
+I left my job at Google,
+thinking that I should try to do something different
+and not realizing that I was following
+yet another script of success.
+I decided to start a startup.
+And again, I didn't find happiness there
+by following this idea of success
+that everyone around me was following.
+It's only when my startup failed
+and that, for the very first time in my life,
+I didn't have a clear idea of what I was supposed to do next
+in order to be successful, that I finally asked myself:
+What is it that I wanted to do?
+What would make me happy, even if I forgot about
+the traditional definition of success?
+And so I went back to the drawing board,
+and I started thinking about what I was curious about.
+Again, not based on traditional definitions of success.
+What were topics I would be excited to explore,
+even if nobody was watching?
+And for me, that was the brain.
+I had always been fascinated
+with why we think the way we think
+and why we feel the way we feel.
+So I decided to go back to university to study neuroscience.
+I completed my graduate studies,
+and I got a PhD in neuroscience.
+Throughout this journey, I decided to learn in public,
+and this is how I started my newsletter.
+Every week, I would pick a topic
+that I had discovered in my studies in university,
+and I would take those neuroscience insights
+and turn them into practical tools
+that I would write about in the newsletter
+to help other people apply them in their life and work.
+This tiny experiment of starting to write online
+and sharing what I was learning in public
+was the beginning of my work of trying to understand
+how we can live more experimental lives.
+There are three subconscious mindsets
+that get in the way of us living happy, conscious lives.
+These three mindsets are called the cynical mindset,
+the escapist mindset, and the perfectionist mindset.
+The cynical mindset is when we have lost all curiosity
+and ambition in life,
+and we're actually sometimes even making fun
+of earnest people who still have this high level
+of curiosity and ambition.
+When we're cynical, we feel like there's no point in trying
+because we're in survival mode all the time,
+so things that we might be doing instead are doom scrolling,
+sitting on the sofa, going through negative news,
+being stuck in this cycle,
+and then maybe even spending a lot of time and energy
+discussing and debating those negative news
+with other people.
+In the escapist mindset, we're still curious,
+but we have decided to let go of our ambitions.
+With the escapist mindset,
+we're trying to do everything we can
+to escape our responsibilities.
+That can take the form of retail therapy, binge-watching,
+or dream planning our next vacation
+instead of doing something right now to change our lives.
+In the perfectionist mindset,
+we try to escape uncertainty through work,
+so we have high ambition but low curiosity.
+That might look like self-coercion, overworking ourselves,
+toxic productivity.
+Our goals are driving all of our decisions.
+We feel like if we manage to achieve that goal,
+if we manage to be successful then then we'll be happy.
+You can picture those three subconscious mindsets
+on the four-by-four metrics,
+where the two different factors are curiosity and ambition.
+In the case of the cynical mindset,
+it's low curiosity, low ambition;
+for the escapist mindset, high curiosity but low ambition;
+and with the perfectionist mindset,
+you do have high ambition,
+but you have decided to let go of your curiosity.
+Those mindsets are actually very fluid,
+and they might change depending on our situation
+and different triggers
+and different ambitions that we might have at the moment.
+This is actually really good news
+because that means that these mindsets
+are not fixed personality traits.
+We can change them by becoming aware of them
+and then making the decision to change our mindsets.
+This is something we can achieve.
+There is an alternative to those three mindsets,
+which is called the experimental mindset.
+This is a mindset where your curiosity
+and your ambition are both high.
+In an experimental mindset, you're open to uncertainty.
+You see it as an opportunity to explore, to grow,
+and to learn.
+Having an experimental mindset helps us completely reimagine
+our relationship to ambition and to goals.
+When you have an experimental mindset,
+instead of chasing those linear goals
+that give you the illusion of certainty,
+you're open to designing experiments.
+Instead of trying to get to a specific outcome,
+you start from a research question.
+Anytime you don't understand something,
+it doesn't create fear, it creates curiosity.
+Having an experimental mindset means seeing failures
+as data points that you can learn from.
+It means being open to making mistakes
+because you know you're going to learn from them.
+It means embracing the fact that you might not have a plan,
+that you don't know what's coming, and this is great.
+It means that you can design your life
+in a way that is conscious and connected.
+The idea of cultivating an experimental mindset
+is based on the scientific method, and this is very simple.
+First, you start by observing your current situation
+by looking at the world around you.
+Then you ask a research question,
+and you design a tiny experiment to collect data,
+which you can then analyze.
+Based on those results,
+you can decide what your next step is.
+What's great about that
+is that even though you don't know where you're going,
+you can trust that you're going to grow
+through each cycle of experimentation.
+To design an experiment, you need to commit to curiosity.
+A great way to do this is to design what I call a pact.
+This is a commitment device
+where you say, "I am going to run this experiment."
+The way it works is that you choose one action,
+and you then decide on a duration,
+and you say, "I will perform this action
+for this specific duration.
+Why does it look like that?
+There are several reasons.
+The first one is that
+when a scientist designs an experiment,
+they design in advance on the number of trials.
+You don't simply stop in the middle
+if the results don't really look like what you expected.
+You collect all of the data,
+and once you have all of that data,
+you can analyze it and decide what the answer is.
+The second reason is that it allows you to notice
+when you're falling prey to the maximized brain.
+You can make sure that you're keeping your experiment
+tiny enough that you're actually going to complete it
+by choosing a duration that is reasonable,
+something you can actually achieve,
+so you can collect all of the necessary data.
+A pact is purposeful.
+It needs to be something you care about,
+and what's great is that when each pact you design
+has purpose imbued into it,
+you don't need to have a grand purpose in life.
+A pact is actionable.
+This is something that you need to be able to do right now.
+You don't need extra resources.
+You don't need help from other people.
+This is something you can try straight away.
+A pact is continuous.
+This is something that you need to do regularly.
+Again, you decide on the duration, the number of trials,
+and then you say, "I'm going to do this action
+for two weeks.
+I'm going to do this action for two months.
+I'm going to do this action for one year."
+And finally, a pact is trackable, not measurable.
+You don't need complicated metrics.
+You only need to be able to say whether you did it or not.
+Did you do the action?
+Did you perform it?
+Yes or no?
+That's the only tracking you need.
+A pact is not a New Year resolution.
+This is not something that you decide on
+that is very ambitious at the beginning of the year
+and that you're going to abandon.
+This is something small and achievable
+that you can start doing at any point during the year.
+A pact is not a habit either.
+The difference between a habit and an experiment
+is that, with a habit, you're very clear
+that this is something that's going to be good for you,
+and so you commit to it for an indefinite amount of time.
+For example, you say, "Starting today,
+I'm going to go to bed at the same time."
+Whereas, with an experiment, you're not quite sure
+whether this is going to work for you or not.
+You're going to test it, and so you're going to say,
+"I'm going to go to bed
+at the same time every night for two weeks.
+And then only I'm going to decide
+whether this is good for me or not
+and whether I want to turn it into a habit."
+A pact is not a KPI, an OKR, a performance metric,
+or however people call them in the corporate world.
+It's really just about learning something new.
+It's not about being successful
+or getting to a specific outcome.
+Once you've completed your pact
+and you've gone through the entire duration
+of that data collection phase,
+you can finally look at the data.
+I highly encourage you, while you're running your pact,
+to take little notes.
+It can be very simple, a few bullet points on your phone,
+something in your journal, but just to keep track
+of whether you did it or not and how it felt.
+Based on that, you can make the decision
+to either persist with your pact as is
+because it works for you.
+You can also pause it
+if you feel like that's not really something
+you want to keep going with.
+Or you can pivot, which means making a little tweak
+and changing something
+before you start your next cycle of experimentation.
+A lot of us tend to only pay attention to external data
+or internal data when we're analyzing our experiments.
+For example, we might only look
+at the external metrics of success
+or only at the internal feelings
+that we might be experiencing.
+But both are very valuable
+in order to make the right decision
+when it comes to your next steps.
+The external signals might show you
+whether this is something that is worth pursuing
+in terms of financial success or career
+or any ambition that you might want to explore.
+But the internal signals are also very important.
+There's no point being successful externally
+if it feels horrible to work on this project.
+And equally, if it feels really good,
+but you have no way to sustain yourself with this project,
+it might be worth reconsidering the parameters
+to find a way where you can have an overlap
+between external success and also internal positive feelings
+and emotions of working on this.
+Let me give you an example.
+I designed an experiment where I wanted to explore
+whether I wanted to become a YouTuber.
+This was something I had noticed
+a lot of friends around me doing,
+and they seemed to have a lot of fun.
+That piqued my curiosity enough
+that I wanted to give it a try.
+So I designed a pact,
+and I said, "I'm going to publish a video every week
+until the end of the year."
+Very simple pact, which I completed.
+Every week, I published a new video.
+At the end of my pact, I looked at the data.
+External data?
+Pretty good.
+Looking at the traditional metrics
+of success of a YouTube channel,
+I got to a good number of subscribers,
+a lot of positive comments.
+People seemed to like the videos,
+and I even had some people reaching out
+and asking if we could collaborate together.
+But internal data.
+I actually did not enjoy producing these videos.
+Every week, when I had to sit down in front of the camera,
+I was dreading it.
+I love having face-to-face conversations with people
+and seeing their reactions in real-time,
+but just looking at a camera with no feedback whatsoever
+was very uncomfortable for me.
+As a result, every week I was procrastinating for so long
+every time I had to film a video.
+I felt deeply anxious,
+and I was not even able to work on anything else
+on those days where I was supposed to film.
+This is a typical example showing why it is so important
+to considering both the external
+and the internal signals before making a decision.
+Based on this, even though the YouTube channel
+was fairly successful in such a short amount of time,
+I decided to stop.
+I realized that I was not going to be a YouTuber,
+and I prefer to keep on writing my newsletter.
+You can run tiny experiments in all areas of your life.
+In work, for example, you could say,
+"I'm going to write an internal newsletter
+every week for the next six weeks,
+where I share the most interesting links that I find."
+In relationships, you could say,
+"I'm going every Sunday to sit down
+and send a note to a friend I haven't talked to in a while."
+And even when it comes to your health, you could say,
+"I'm going to go for a walk
+for 20 minutes for 20 days
+to see how I feel at the end of that experiment."
+With an experiment, you're not making any assumptions
+as to whether this is going to work for you or not.
+A habit that a friend has,
+for example, going for a run three times a week,
+might not be that good for you.
+Maybe when it comes to your health and body movement,
+you prefer dancing or something else.
+That's why it's interesting to run an experiment
+before committing to a habit.
+When it comes to running, for example,
+you could say, "I'm going to try that.
+I am going to go and run three times a week
+for three weeks, not for the rest of my life.
+And at the end of the three weeks,
+I'm going to decide whether this is what I wanna keep doing
+or if I wanna experiment with another way to move my body."
+In essence, committing to curiosity
+is ensuring that you're going to live a life
+that is intentional, that you're going to live your life,
+not the life that other people are expecting you to live.
+Curiosity keeps you adaptable
+and nimble in an ever-changing world.
+It ensures that you stay open to new possibilities,
+and, frankly, it just makes life more fun.
+This all might sound philosophical,
+but there's actually a lot of neuroscientific research
+showing that when we experience thirst for water,
+the same parts of the brain activate
+then when we experience thirst for information.
+So when we say, "I'm thirsty for knowledge;
+I wanna learn more; I wanna know more,"
+we couldn't be more right.
+And thinking about your own mindsets,
+developing this self-awareness
+is really just a way to direct this curiosity
+towards the things that you
+actually wanna do with your life.
+- [Announcer] Wanna support the channel?
+Join the Big Think members community,
+where you get access to videos early, ad-free.
+[Timestamp: 2025/11/15 23:27:44]
 
----
+**user**: 翻譯成繁體中文
+[Context: Notes: 需翻譯_去時間軸/Fix your destructive mindset in 15 mins _ Anne-Laure Le Cunff-en.md]
+[Timestamp: 2025/11/15 23:27:55]
 
-### 結構化內容
+**ai**: 好的，這是該筆記的繁體中文翻譯：
 
-**I. 幸福、成功與慾望**
-    *   **幸福與成功的定義：**
-        *   幸福：滿足於現狀。
-        *   成功：源於不滿（Naval現在質疑此說法）。
-        *   蘇格拉底和狄奧尼修斯的故事：不欲求即擁有。
-        *   兩種途徑：物質成功或無所欲求。
-        *   幸福與成功：幸福會讓人不那麼成功嗎？傳統觀點與Naval的經驗（越幸福越成功，但成功的定義會改變）。
-    *   **旅程與痛苦：**
-        *   佛陀的故事：從王子到求道者。
-        *   實現物質慾望比放棄慾望更容易。
-        *   贏得遊戲是為了擺脫遊戲。
-        *   短期痛苦帶來的收穫：棉花糖測試。
-        *   避免「痛苦成癮」：將幸福感與痛苦而非結果連結。
-        *   痛苦是可選的：精神上的折磨。
-        *   享受旅程：常見的遺憾。
-        *   思想練習：給過去自己的建議（減少憤怒、情緒、內心痛苦）。
-        *   痛苦的成功：結果相同，體驗不同。
-        *   「慾望循環」：無聊 -> 欲求 -> 努力/痛苦 -> 得到 -> 習慣 -> 再次無聊。
-        *   金錢解決金錢問題，但幸福感會回到基線。
-        *   享受旅程：99%的時間都在旅程中。
-    *   **縮短慾望與名聲的途徑：**
-        *   對慾望挑剔：專注才能成功。
-        *   名聲作為目標：遠距離獲得所求，高地位，吸引異性。
-        *   名聲的高昂代價：沒有隱私，怪人，被迫表演，仇恨者。
-        *   名聲是副產品：贏得的名聲（對部落有益，超越自我，藝術家、科學家、征服者）。
-        *   空洞的名聲：脆弱，害怕失去。
+- 心態是看待世界的預設方式。
+我們的心態影響著我們生活中的許多事情。
+它們影響我們的決策。
+它們影響我們的人際關係。
+它們影響我們的思維方式，甚至我們的感受方式。
+當我們沒有意識到自己的心態時，
+它們可能會影響我們生活的方向，
+我們所走的道路，而我們甚至沒有意識到。
+意識到你的心態
+是過著有意識的生活的區別，
+在這種生活中，你根據自己真正想要的做出選擇
+並走向你真正想去的地方，
+而不是自動駕駛，讓那些心態
+潛意識地驅動你所有的決策。
+心態最棒的地方在於
+它們實際上是可以改變的，
+但第一步是讓它們變得有意識。
+（輕柔沉思的音樂）
+我將我的生活分為兩個不同的章節。
+在第一個章節中，我採用了一種非常線性的方法，
+這種方法是由傳統的成功定義所驅動的。
+我盡力在學校表現出色，
+然後我在 Google 找到了一份好工作，
+然後我試圖攀登企業階梯，
+獲得晉升，參與最好的專案。
+從外部角度來看，
+我應該是快樂的，但我不是。
+相反，我內心感到空虛；
+我既無聊又筋疲力盡。
+我離開了 Google 的工作，
+認為我應該嘗試做一些不同的事情，
+卻沒有意識到我正在追隨
+另一個成功的劇本。
+我決定創業。
+但同樣，我並沒有在那裡找到快樂，
+因為我追隨的是周圍每個人都在追隨的
+這種成功理念。
+直到我的創業失敗，
+而且，在我生命中第一次，
+我對接下來該做什麼才能成功
+沒有明確的想法時，我才終於問自己：
+我真正想做什麼？
+即使我忘記了
+傳統的成功定義，什麼會讓我快樂？
+於是我回到了起點，
+開始思考我對什麼感到好奇。
+同樣，這不是基於傳統的成功定義。
+有哪些主題會讓我興奮地去探索，
+即使沒有人關注？
+對我來說，那就是大腦。
+我一直對此著迷
+為什麼我們會這樣思考
+以及為什麼我們會這樣感受。
+於是我決定回到大學學習神經科學。
+我完成了我的研究生學業，
+並獲得了神經科學博士學位。
+在整個旅程中，我決定公開學習，
+這就是我開始我的電子報的方式。
+每週，我都會選擇一個主題，
+那是我在大學學習中發現的，
+然後我會將這些神經科學的見解
+轉化為實用的工具，
+我會在電子報中撰寫這些工具，
+以幫助其他人將它們應用到他們的生活和工作中。
+這個開始在網路上寫作
+並公開分享我所學的小實驗
+是我試圖理解
+我們如何才能過上更具實驗性的生活的開端。
+有三種潛意識心態
+阻礙我們過上快樂、有意識的生活。
+這三種心態被稱為犬儒心態、
+逃避心態和完美主義心態。
+犬儒心態是指我們失去了生活中所有的好奇心
+和抱負，
+我們有時甚至會嘲笑
+那些仍然充滿高度
+好奇心和抱負的認真的人。
+當我們犬儒時，我們覺得嘗試沒有意義，
+因為我們一直處於生存模式，
+所以我們可能會做的事情是刷手機、
+坐在沙發上、瀏覽負面新聞、
+陷入這個循環中，
+然後甚至可能花費大量的時間和精力
+與其他人討論和辯論
+這些負面新聞。
+在逃避心態中，我們仍然好奇，
+但我們決定放棄我們的抱負。
+帶著逃避心態，
+我們試圖盡一切可能
+逃避我們的責任。
+這可能表現為購物療法、追劇、
+或夢想規劃我們的下一個假期，
+而不是現在就做些什麼來改變我們的生活。
+在完美主義心態中，
+我們試圖透過工作來逃避不確定性，
+所以我們有很高的抱負，但好奇心很低。
+這可能看起來像是自我強迫、過度勞累、
+有毒的生產力。
+我們的目標驅動著我們所有的決策。
+我們覺得如果我們能夠實現那個目標，
+如果我們能夠成功，那麼我們就會快樂。
+你可以將這三種潛意識心態
+想像成一個四乘四的矩陣，
+其中兩個不同的因素是好奇心和抱負。
+在犬儒心態的情況下，
+是低好奇心、低抱負；
+對於逃避心態，是高好奇心但低抱負；
+而對於完美主義心態，
+你確實有很高的抱負，
+但你決定放棄你的好奇心。
+這些心態實際上是非常流動的，
+它們可能會根據我們的情況
+以及不同的觸發因素
+和我們當時可能有的不同抱負而改變。
+這實際上是個好消息，
+因為這意味著這些心態
+不是固定的性格特徵。
+我們可以透過意識到它們
+然後做出改變我們心態的決定來改變它們。
+這是我們可以實現的。
+這三種心態還有另一種選擇，
+稱為實驗心態。
+這是一種你的好奇心
+和抱負都非常高的心態。
+在實驗心態中，你對不確定性持開放態度。
+你將其視為探索、成長、
+和學習的機會。
+擁有實驗心態有助於我們完全重新想像
+我們與抱負和目標的關係。
+當你擁有實驗心態時，
+你不會追逐那些線性的目標，
+那些給你確定性錯覺的目標，
+而是樂於設計實驗。
+你不是試圖達到一個特定的結果，
+而是從一個研究問題開始。
+任何時候你不明白某件事，
+它不會產生恐懼，它會產生好奇心。
+擁有實驗心態意味著將失敗
+視為你可以從中學習的數據點。
+這意味著樂於犯錯，
+因為你知道你會從中學習。
+這意味著接受你可能沒有計劃的事實，
+你不知道接下來會發生什麼，這很棒。
+這意味著你可以設計你的生活，
+以一種有意識且相互關聯的方式。
+培養實驗心態的想法
+是基於科學方法，這非常簡單。
+首先，你從觀察你目前的狀況開始，
+透過觀察你周圍的世界。
+然後你提出一個研究問題，
+並設計一個小實驗來收集數據，
+然後你可以分析這些數據。
+根據這些結果，
+你可以決定你的下一步是什麼。
+這很棒的地方在於，
+即使你不知道自己要去哪裡，
+你也可以相信你會透過每個實驗週期而成長。
+要設計一個實驗，你需要投入好奇心。
+一個很好的方法是設計我稱之為「約定」（pact）的東西。
+這是一種承諾裝置，
+你說：「我將要進行這個實驗。」
+它的運作方式是，你選擇一個行動，
+然後你決定一個持續時間，
+然後你說：「我將執行這個行動
+在特定的持續時間內。」
+為什麼會是這樣？
+有幾個原因。
+第一個原因是，
+當科學家設計實驗時，
+他們會預先設計好試驗次數。
+你不會因為結果不如預期
+就半途而廢。
+你會收集所有數據，
+一旦你擁有了所有數據，
+你就可以分析它並決定答案是什麼。
+第二個原因是，它讓你能夠注意到
+你何時落入「最大化大腦」的陷阱。
+你可以確保你的實驗
+足夠小，以至於你實際上能夠完成它，
+透過選擇一個合理的持續時間，
+一個你確實可以實現的目標，
+這樣你就可以收集所有必要的數據。
+約定是有目的的。
+它需要是你關心的事情，
+而且很棒的是，當你設計的每個約定
+都充滿了目的時，
+你就不需要擁有一個宏大的人生目標。
+約定是可執行的。
+這是你現在就能做的事情。
+你不需要額外的資源。
+你不需要其他人的幫助。
+這是你可以立即嘗試的事情。
+約定是持續的。
+這是你需要定期做的事情。
+同樣，你決定持續時間、試驗次數，
+然後你說：「我將執行這個行動
+持續兩週。
+我將執行這個行動持續兩個月。
+我將執行這個行動持續一年。」
+最後，約定是可追蹤的，而不是可衡量的。
+你不需要複雜的指標。
+你只需要能夠說你是否做到了。
+你做了這個行動嗎？
+你執行了嗎？
+是或否？
+這就是你唯一需要的追蹤。
+約定不是新年新希望。
+這不是你在年初決定的一個
+非常雄心勃勃的目標，
+然後你會放棄它。
+這是一個小而可實現的目標，
+你可以在一年中的任何時候開始做。
+約定也不是一種習慣。
+習慣和實驗的區別在於，
+對於習慣，你非常清楚
+這對你來說是件好事，
+所以你無限期地承諾去做。
+例如，你說：「從今天開始，
+我每天都要在同一時間上床睡覺。」
+然而，對於實驗，你不太確定
+這是否會對你有效。
+你會去測試它，所以你會說：
+「我將在兩週內每晚
+在同一時間上床睡覺。
+然後我才會決定
+這對我來說是否是好事，
+以及我是否想把它變成一種習慣。」
+約定不是 KPI、OKR、績效指標，
+或者企業界人們稱呼它們的任何名稱。
+它真的只是關於學習新事物。
+它不是關於成功
+或達到一個特定的結果。
+一旦你完成了你的約定
+並經歷了整個數據收集階段，
+你就可以最終查看數據了。
+我強烈建議你，在執行約定期間，
+記下一些小筆記。
+可以很簡單，手機上的幾個重點，
+日記裡的一些內容，但只是為了記錄
+你是否做到了以及感覺如何。
+基於此，你可以決定
+是繼續你的約定，
+因為它對你有效。
+你也可以暫停它，
+如果你覺得這不是你真正想繼續的事情。
+或者你可以轉向，這意味著做一些小調整
+並改變一些東西，
+然後再開始你的下一個實驗週期。
+我們很多人在分析實驗時，
+往往只關注外部數據
+或內部數據。
+例如，我們可能只看
+成功的外部指標，
+或者只看我們可能正在經歷的
+內部感受。
+但兩者都非常有價值，
+以便在決定下一步時
+做出正確的決策。
+外部信號可能會告訴你
+這是否值得追求，
+就財務成功或職業而言，
+或任何你可能想探索的抱負。
+但內部信號也非常重要。
+如果做這個專案感覺很糟糕，
+那麼外部成功就沒有意義。
+同樣地，如果感覺真的很好，
+但你沒有辦法靠這個專案維持生計，
+那麼可能值得重新考慮參數，
+找到一種方法，讓你可以同時擁有
+外部成功和內部積極感受，
+以及對這項工作的熱情。
+讓我給你一個例子。
+我設計了一個實驗，我想探索
+我是否想成為一名 YouTuber。
+這是我注意到
+周圍很多朋友都在做的事情，
+他們似乎玩得很開心。
+這足以激發我的好奇心，
+讓我想嘗試一下。
+於是我設計了一個約定，
+我說：「我將每週發布一個影片，
+直到年底。」
+一個非常簡單的約定，我完成了。
+每週，我都會發布一個新影片。
+在我的約定結束時，我查看了數據。
+外部數據？
+相當不錯。
+從 YouTube 頻道成功的傳統指標來看，
+我獲得了不錯的訂閱人數，
+很多正面的評論。
+人們似乎喜歡這些影片，
+甚至有人主動聯繫我，
+詢問我們是否可以合作。
+但內部數據呢？
+我實際上並不喜歡製作這些影片。
+每週，當我必須坐在鏡頭前時，
+我都感到非常害怕。
+我喜歡與人面對面交談，
+並即時看到他們的反應，
+但只是看著鏡頭，沒有任何回饋，
+這讓我非常不舒服。
+結果，每週我都會拖延很久，
+每次我必須拍攝影片時。
+我感到非常焦慮，
+而且在那些我應該拍攝影片的日子裡，
+我甚至無法做其他任何事情。
+這是一個典型的例子，說明了為什麼在做決定之前，
+同時考慮外部和內部信號是如此重要。
+基於此，儘管這個 YouTube 頻道
+在如此短的時間內相當成功，
+我還是決定停止。
+我意識到我不會成為一名 YouTuber，
+我更喜歡繼續寫我的電子報。
+你可以在生活的各個領域進行小實驗。
+例如，在工作中，你可以說：
+「我將在接下來的六週內，每週撰寫一份內部電子報，
+分享我發現的最有趣的連結。」
+在人際關係中，你可以說：
+「我將每個星期天坐下來，
+給一位我很久沒聯繫的朋友寫一封信。」
+甚至在健康方面，你也可以說：
+「我將連續 20 天每天散步 20 分鐘，
+看看實驗結束時我的感覺如何。」
+透過實驗，你不會對
+這是否會對你有效做出任何假設。
+朋友的一個習慣，
+例如，每週跑步三次，
+可能對你來說並不好。
+也許當談到你的健康和身體運動時，
+你更喜歡跳舞或其他什麼。
+這就是為什麼在養成習慣之前
+進行實驗很有趣。
+例如，談到跑步，
+你可以說：「我會嘗試一下。
+我將每週跑步三次，
+持續三週，而不是一輩子。
+在三週結束時，
+我會決定這是否是我想要繼續做的事情，
+或者我是否想嘗試另一種運動方式。」
+本質上，投入好奇心
+是確保你將過上
+有目的的生活，你將過你自己的生活，
+而不是別人期望你過的生活。
+好奇心讓你在這個不斷變化的世界中保持適應性
+和靈活。
+它確保你對新的可能性保持開放，
+坦率地說，它只是讓生活更有趣。
+這一切聽起來可能很哲學，
+但實際上有很多神經科學研究表明，
+當我們感到口渴時，
+大腦中相同的部位會被激活，
+就像我們對資訊感到渴望時一樣。
+所以當我們說：「我渴望知識；
+我想學更多；我想知道更多，」
+我們再正確不過了。
+而思考你自己的心態，
+培養這種自我意識，
+實際上只是一種引導這種好奇心的方式，
+將其導向你真正想做的事情。
+- [播報員] 想支持這個頻道嗎？
+加入 Big Think 會員社群，
+在那裡你可以提前、無廣告地觀看影片。
+[Timestamp: 2025/11/15 23:28:14]
 
-**II. 真誠、地位與自尊**
-    *   **真誠與觀點更新：**
-        *   更新信念與虛偽：學習是錯誤修正。
-        *   被過去的言論所束縛。
-        *   公開說謊與犯錯：品格缺陷與真誠的猜測。
-        *   真誠：世界缺乏，人們能嗅出不真誠。
-        *   困在鏡廳：對他人說謊 = 對自己說謊。
-        *   少數人的尊重：不要向大眾索求尊重。
-    *   **地位遊戲與財富創造：**
-        *   地位遊戲：有限、競爭、零和（狩獵採集時代）。
-        *   財富創造：正和、豐裕、更愉快、具體回報（農業、工業、資訊時代）。
-        *   用金錢換取地位：富人追求地位（好萊塢、非營利組織、達沃斯）。
-        *   地位的演化硬連線。
-        *   專注於財富遊戲：比從名聲致富更容易。
-        *   贏得遊戲：地位比財富更難。
-        *   社群媒體的跑步機：排行榜、按讚、評論。
-        *   軌跡與位置：減速是切實的（演化上的損失厭惡）。
-    *   **自尊與美德：**
-        *   最糟糕的結果：沒有自尊（與自己搏鬥，難以克服的挑戰）。
-        *   低自尊的原因：基因、環境、缺乏無條件的愛。
-        *   自尊是與自己的聲譽：活出自己的道德準則。
-        *   建立自尊：為他人做事，犧牲（不是為了工作，而是真正的付出）。
-        *   美德：長期自私的理由（誠實、信任、雙贏結果、獵鹿遊戲）。
-        *   吸引高尚品德的人。
-        *   棉花糖測試（複製危機）：短期與長期的權衡。
-        *   自我懷疑：Naval的經驗（不懷疑自己，但知道自己會找到解決辦法）。
-        *   隱性知識：遠超能表達的知識。
-        *   贏得自己的自尊。
-        *   內在黃金法則：對待自己，如同你希望他人對待你一樣。
-        *   愛：愛人比被愛更令人興奮（開闊，讓你成為更好的自己）。
-        *   渴望被愛是問題所在。
+**user**: 整理結構化內容
+[Context: Notes: 需翻譯_去時間軸/Fix your destructive mindset in 15 mins _ Anne-Laure Le Cunff-en.md]
+[Timestamp: 2025/11/15 23:28:31]
 
-**III. 自由、心態與決策**
-    *   **驕傲與學習：**
-        *   驕傲：學習的敵人，阻礙承認錯誤。
-        *   困在局部最優：停留在次優點。
-        *   願意重新開始：偉大的藝術家、企業家（以Elon Musk為例）。
-        *   從零到一：痛苦但創造所必需。
-    *   **幸福與自由：**
-        *   默默承受痛苦：自我暗示導致不良結果。
-        *   幸福是一種選擇：認定自己是個幸福的人。
-        *   幸福與成功沒有取捨：越幸福 = 越契合，越成功。
-        *   整體自私：毫不歉疚地將自己放在首位。
-        *   不要把時間浪費在不想做的事情上。
-        *   習慣於自我優先：向他人學習（Mark Andreessen, Jack Dorsey）。
-        *   刪除行事曆，敵意自動回覆郵件，消失。
-        *   擺脫日程安排的自由：隨機性，隨心所欲地與人互動。
-        *   沒有鬧鐘。
-        *   「去你的」能量：不是粗魯，而是為了自由而優化。
-        *   靈感稍縱即逝：立即行動。
-        *   學習的自發性：在樂趣中學習效果最好。
-        *   效率和生產力與幸福和自由相輔相成。
-        *   慾望越少 = 行動越自然，工作品質越高。
-        *   找到對你來說是玩樂，對他人來說是工作的事。
-        *   透過真誠擺脫競爭：將自己產品化。
-        *   無限機會：將生活視為搜尋功能。
-        *   過早承諾：最大的錯誤。
-        *   快速放棄無效的事：如果無法決定，答案就是「不」。
-        *   預設說「不」：探索階段與利用階段。
-        *   忽略請求：毫不猶豫地刪除郵件/簡訊。
-        *   情緒能力：不將事情視為問題。
-        *   難以觸及慾望：人們過著義務生活。
-    *   **心智與問題：**
-        *   客觀觀察心智：冥想、治療、寫日記、散步。
-        *   現實世界中沒有問題（除了身體疼痛）：一切都先在你的心智中成為問題。
-        *   對問題挑剔：不要隨處拾取問題。
-        *   沉迷於解決問題：製造問題，承擔無法解決的問題。
-        *   對無法控制的事物培養冷漠。
-        *   迷因病毒：現代媒體、新聞氾濫、卡珊德拉情結。
-        *   先整理好自己的生活：不要在自己的生活一團糟時試圖拯救世界。
-        *   智力的真正考驗：得到你想要的，並想要正確的事物。
-        *   避免「安慰獎」：想要你不想要的東西。
-        *   無意識的行動：社會/他人的期望，模仿性慾望，內疚。
-        *   決策：花足夠的時間決策（例如，四年決策的25%時間）。
-        *   秘書定理：最佳搜尋時間約為迭代次數的三分之一。
-        *   一萬次迭代達到精通（而非小時）：錯誤修正。
-    *   **避免犬儒主義與悲觀主義：**
-        *   天生悲觀（演化上的生存機制）。
-        *   現代社會：更安全，非線性上行空間，容忍失敗。
-        *   總體樂觀，具體事物懷疑（槓鈴策略）。
-        *   標籤是自我限制的：保持彈性。
-        *   客觀推理：不要讓身份蒙蔽判斷。
-        *   適應是智慧。
+**ai**: 好的，這份筆記的結構化內容整理如下：
 
-**IV. 更深層次的洞見與未來展望**
-    *   **再談幸福（平靜、喜悅、意義）：**
-        *   幸福：滿足於現狀，無所欠缺。
-        *   持續的幸福：做一些無所事事的事情。
-        *   無聊：需要冒險、驚喜。
-        *   極樂機器：想要意義、驚喜、與世界搏鬥。
-        *   思考自我：不幸福的根源（自我、執著於自我的想法）。
-        *   解決個人問題與反芻思維。
-        *   超然：意識到什麼重要什麼不重要的副產品。
-        *   思考比自我更宏大的事物：使命、上帝、孩子、地球。
-        *   過度思考自我：反芻思維，精神疾病。
-        *   幸福技巧：避免它們，將自己定位為缺乏以求獲得。
-        *   沒有公式，因人而異。
-        *   壓倒性的慾望和專注。
-    *   **睡眠與慾望：**
-        *   未解決的問題導致失眠。
-        *   睡眠：不困擾，會在重要時優化。
-        *   改變源於慾望和理解，而非強迫。
-    *   **焦慮與壓力：**
-        *   壓力：衝突的慾望。
-        *   焦慮：源於未解決問題的普遍、無法識別的壓力。
-        *   反思死亡：焦慮的解決之道（一切歸零）。
-        *   生命的短暫：享受它，活在當下。
-        *   浪費時間：沒有活在當下。
-        *   心靈的平靜，而非心境的平靜。
-        *   心智會吞噬你。
-        *   意識：存在的基礎層，其他一切都是短暫的。
-        *   詮釋：你如何選擇詮釋經驗。
-    *   **重視時間與決策：**
-        *   提升生活品質：客觀觀察心智。
-        *   做自己想做的事，而非他人期望的事。
-        *   毫不歉疚地活出自我。
-        *   困難的選擇：如果無法決定，答案就是「不」。
-        *   選擇短期內更痛苦的道路。
-        *   選擇長期內更平靜的道路。
-        *   三大重要決策：與誰在一起，做什麼，住在哪裡。
-        *   人際關係：不要隨意開始，要迭代。
-        *   工作：找到對你來說是玩樂的事。
-        *   地點：至關重要，決定機會。
-        *   孩子：一旦有了孩子，你就與他們連結。
-        *   幸福的關係：兩個幸福的人，價值觀一致。
-    *   **損失厭惡與認真對待自己：**
-        *   害怕改變：最困難的事，重新開始。
-        *   願意一次又一次地重新開始。
-        *   不那麼認真對待自己：名聲的陷阱，保持童心，減少情緒。
-        *   理解與紀律：看清真相會立即改變行為。
-        *   不可教的教訓：過於寬泛，需要情境化，需要自己重新發現。
-        *   為現代重新詮釋。
-    *   **看似智慧與真正智慧：**
-        *   死記硬背與理解。
-        *   流利度作為真實性和洞察力的代理。
-        *   江湖郎中：用複雜語言解釋簡單事物。
-        *   Podcast Chris vs. Podcast Naval：表演與真誠對話。
-        *   深刻理解：從第一性原理推導。
-        *   判斷力、品味、理解：來自解決實際問題。
-        *   哲學：從具體經驗中提煉出的普遍真理。
-        *   哲學的演變：科學、道德哲學（奴隸制、嬰兒疼痛）。
-        *   悖論的解決：透過尺度來解決（生命意義、自由意志）。
-    *   **更新信念（近期改變）：**
-        *   **社會層面：** 較少自由放任，文化/宗教是良好的人類合作系統。協調問題。
-        *   **育兒：** 更寬鬆，孩子就是孩子，直覺是好的。細菌理論、病原體、自主性。
-        *   **AI：** 自然語言電腦，非通用人工智慧/超級人工智慧。有用但缺乏創造力。幻覺是關鍵系統的問題。不同形式的智慧。
-        *   **戰爭：** 無人機是未來（自主子彈）。
-        *   **醫學：** 現代醫學仍很糟糕（石器時代），缺乏解釋性理論，監管禁令阻礙創新。Brian Johnson的實驗。
-        *   **GLP1s：** 突破性藥物（自抗生素以來）。除了減重：戒癮、降低多種癌症風險、逆轉衰老、降低醫療成本。社會分配問題。身體自愛運動正在消亡。
-    *   **擺脫過去與財富運用：**
-        *   擺脫過去：處理它以擺脫它，而非沉溺。戈爾迪之結：斬斷它。
-        *   注意力是最根本的資源。
-        *   從失敗者開始的優勢：培養贏家的特質。
-        *   培養孩子感恩之心。
-        *   懶惰的男人：浪費潛力。
-        *   關懷的層次：自我 -> 家庭 -> 擴展家庭 -> 當地部落 -> 更大的部落。
-        *   Alpha雄性：最後進食，先餵養他人。
-        *   社會對富人的反彈：阻礙良好行為。
-        *   財富的最佳用途：投入自己的事業（Elon Musk），創造事物，承擔風險，與獨特才能結合。永續退休。
-        *   財富最糟糕的用途：消費（會飛、會浮、會淫亂）。
-        *   「如何致富」推文：高度情境化，商業分析的專業知識。
-        *   如果需要記憶，就是不理解。
-    *   **文化戰爭的未來與新聞氾濫：**
-        *   文化戰爭：尚未結束，現在是公平的戰鬥。集體主義者與個人主義者。鐘擺擺動。
-        *   現代特色：個人槓桿（Elon）與財富差距（地位遊戲中更多失敗者）。
-        *   投票與權力：權力賦予投票權，而非反之。多數人的暴政。物理暴力是社會的基礎。
-        *   在新聞飽和時代遠離新聞的戰鬥：人腦未進化到處理所有即時危機。關心當地或能影響的事物。慾望是通往不幸福的契約。
-        *   被媒體忽略，但會被歷史學家研究的事物：現代醫學的原始狀態、無人機戰爭、GLP1s。
+## 修正破壞性思維模式 (Fix your destructive mindset)
 
----
+### 一、 心態的定義與影響
+- 心態是看待世界的預設方式。
+- 它影響我們的決策、人際關係、思維方式和感受。
+- 當我們沒有意識到自己的心態時，它們會潛意識地驅動我們的決策，影響我們的人生方向。
+- 意識到心態是過上有意識生活、根據自身意願做出選擇的關鍵。
+- 心態是可以改變的，第一步是讓它們變得有意識。
 
-### 繁體中文翻譯
+### 二、 講者的個人經歷
+- **第一章：線性成功模式**
+    - 追求傳統的成功定義：好學校、Google 工作、攀升企業階梯、最佳專案。
+    - 結果：外部成功，但內心感到空虛、無聊和筋疲力盡。
+    - 離開 Google 後創業，但仍舊追隨「成功劇本」，未能找到快樂。
+- **轉折點：回歸好奇心**
+    - 創業失敗後，第一次對下一步沒有明確想法。
+    - 自問：「我真正想做什麼？什麼會讓我快樂，即使不符合傳統成功定義？」
+    - 重新思考好奇心：對大腦運作方式（思維與感受）產生濃厚興趣。
+    - 回大學學習神經科學，獲得博士學位。
+    - 透過電子報公開學習，將神經科學見解轉化為實用工具。
+    - 這段經歷成為理解如何過上「實驗性生活」的開端。
 
-**I. 幸福、成功與慾望**
+### 三、 三種潛意識的破壞性心態
+這些心態阻礙我們過上快樂、有意識的生活，可透過「好奇心」和「抱負」兩個維度來理解：
 
-**幸福與成功的定義**
-幸福是滿足於你所擁有的。成功則源於不滿。那麼，成功值得嗎？唉，我現在不確定這個說法是否還成立。我很久以前說過這句話，而這些筆記很多都是寫給自己的，它們高度情境化，來去匆匆。幸福。好吧，這是一個非常複雜的話題，但我一直喜歡蘇格拉底的故事，他走進市集，人們向他展示所有這些奢侈品和精緻物品，他說：「這個世界上有多少東西是我不想要的啊！」這就是一種自由的形式。所以，不想要某樣東西，就如同擁有它一樣好，就像亞歷山大和狄奧尼修斯的老故事一樣。亞歷山大征服了世界，他遇到住在桶裡的狄奧尼尼修斯，狄奧尼尼修斯說：「走開，你擋住我的陽光了。」亞歷山大說：「哦，我多麼希望下輩子能像狄奧尼尼修斯一樣。」狄奧尼尼修斯說：「這就是區別，我不想成為亞歷山大。」所以，通往幸福有兩條路，一條路是成功，你得到你想要的，滿足你的物質需求；或者像狄奧尼尼修斯一樣，你根本就不想要。我不確定哪條路更有效。
-這也取決於你如何定義成功。如果最終目標是幸福，那為什麼不直接追求呢？幸福會讓你變得不那麼成功嗎？這是一種傳統智慧。這甚至可能是你現實中實際獲得的經驗。你發現當你快樂時，你什麼都不想要。所以，你不會起床做任何事。另一方面，你知道，你還是得做點什麼。你是一種動物。你來到這裡。你來到這裡是為了生存。你來到這裡是為了繁衍。你被驅動著。你被激勵著。你會做點什麼。你不會整天只是坐著。不太可能。有些人會。也許這是他們的本性。但我認為大多數人仍然想行動。他們想活在競技場上。我發現對我自己來說，當我變得——「更快樂」是一個大詞，但你知道，更平靜、更冷靜、更活在當下、更滿足於我所擁有的——我仍然想做事情。我只是想做更大的事情。我想做更純粹、更符合我認為需要做的事情，以及我獨特能做的事情。所以在這個意義上，我認為更快樂實際上可以讓你更成功，但你對成功的定義很可能會隨之改變。你認為如果一開始沒有一些成功，你就能達到這種領悟嗎？至少對我來說，我總是想先走物質成功的道路。我不會去做一個禁慾主義者，坐在那裡放棄一切。那看起來太不切實際也太痛苦了。在佛陀的故事中，他一開始是個王子，然後他看到這一切都毫無意義，因為你還是會變老和死亡，然後他走進森林尋找更多的東西。我會選擇涉及物質成功的快樂之路。謝謝。我認為在某些方面它更快。你知道，你的一個見解是，實現我們的物質慾望比放棄它們容易得多。這取決於個人，但我認為你必須嘗試那條路。如果你想要什麼，就去得到它。你知道，就像我開玩笑說，贏得遊戲的原因是為了擺脫它。所以，你玩遊戲，你贏得遊戲，然後你希望你會對遊戲感到厭倦。你不想一遍又一遍地重複玩同一個遊戲。儘管，很多這些遊戲都非常誘人，有很多層次，而且相對開放。然後你擺脫了遊戲，從某種意義上說，你不再試圖贏得它。你知道，你可以贏得它。然後你要么轉向不同的遊戲，要么只是為了純粹的樂趣而玩遊戲。
+1.  **犬儒心態 (Cynical Mindset)**
+    - **特徵**：失去所有好奇心和抱負，甚至嘲笑有抱負的人。
+    - **感受**：覺得嘗試沒有意義，長期處於生存模式。
+    - **行為**：刷手機、坐沙發、瀏覽負面新聞、與人討論負面新聞。
+    - **好奇心/抱負**：低好奇心，低抱負。
 
-**旅程與痛苦**
-是的。你的另一個觀點是，生活中的大部分收穫都來自於短期的痛苦，這樣你才能在長期獲得回報。我認為這是經典的說法。每天都贏得棉花糖測試。但是，有一個有趣的挑戰，我認為人們需要避免成為「痛苦成癮者」。也就是說，將痛苦作為進步的代理，而不是痛苦的結果。對吧？就像我忍著不吃棉花糖很痛苦。我做這項工作很痛苦。我將幸福和滿足感與痛苦聯繫在一起，而不是與痛苦帶給我的另一面聯繫在一起。如果你將痛苦定義為身體上的疼痛，那麼它是一個真實存在的事物。它會發生，你無法忽視它。但這不是我們所說的「痛苦」。痛苦主要是精神上的折磨和精神上的痛苦。它只是意味著你不想做手頭的任務。如果你樂於做手頭的任務，那麼你就不會痛苦。那麼問題是，沿途痛苦更有效，還是以一種不痛苦的方式來解釋它更有效？你從許多成功人士那裡聽到，他們回顧過去時說：「哦，旅程才是最有趣的部分，對吧？那才是真正有趣的部分，我應該更享受它。」這是一個常見的遺憾。我喜歡做一個小小的思想練習，你可以回到自己的生活中，試著把自己置於五年前、十年前、十五年前、二十年前的確切位置，然後你試著回憶：「好吧，我當時和誰在一起？我在做什麼？我感覺如何？我的情緒是什麼？我的目標是什麼？」然後真正、真正地試著把自己帶回過去，看看有沒有什麼建議你會給自己。有沒有什麼你會做得不同的事情。現在你沒有新的資訊。不要假裝你可以回到過去，然後，你知道，買股票或買比特幣之類的，但只是知道你現在所知道的，關於你的性情和一點點與年齡相關的經驗，你會如何做得不同？我認為這是一個值得做的練習。所以不要讓我剝奪你的結論，但我會告訴你，對我來說，我會做所有事情都一樣，只是我會減少憤怒、減少情緒、減少內心的痛苦，因為那是可選的。那不是必要的。我會說，一個能夠至少平靜地，甚至可能快樂地完成工作的人，會比一個有不必要的情緒困擾的人更有效率。好吧，你最終會得到一系列痛苦的成功，對吧？結果可能相同，但到達那裡的整個體驗，以及旅程，不僅僅是獎勵。旅程是唯一存在的事物。你知道，即使是成功，人類的天性也會很快地將其「存入銀行」，對吧？因為我們通常會經歷的循環是：你坐著，你感到無聊，然後你想要某樣東西，然後當你想要某樣東西時，你決定在得到那樣東西之前你不會快樂。然後你開始你的痛苦或期待的階段，同時你努力去得到那樣東西。如果你得到了那樣東西，那麼你就會習慣它，然後你又會感到無聊。然後幾個月後，你又會想要別的東西。如果你沒有得到它，那麼你會有一段時間不快樂，然後你就會克服它，然後你又會想要別的東西。對吧？這就是正常的循環。所以無論你最終是快樂還是不快樂，它往往都不會持久。現在我不想輕率地說賺錢或成功沒有意義。它絕對有意義。金錢解決你所有的金錢問題。所以有錢是好事。話雖如此，還有那些故事。我不知道你是否看過那些研究。我不知道這些有多真實。很多這些心理學研究都無法複製，但這是一個有趣的小研究，它表明那些辛勤工作的人和那些中樂透的人，兩年後都會回到他們基線的幸福感。是的。再次強調，我不知道這是否完全真實。我認為如果你賺到了錢，金錢可以買到幸福，因為在過程中你對自己有自豪感和自信心，你有一種成就感，而且你，你知道，你著手做某件事，而且你是對的。所以我敢打賭那種感覺會持續下去，然後就像我說的，金錢解決你的金錢問題。所以我不想對此過於輕率，但我會說總的來說，我們經歷的這種慾望、多巴胺、滿足、不滿足的循環，你必須享受旅程。旅程就是一切，對吧？你99%的時間都花在旅程上。那麼，如果你不享受它，那會是怎樣的旅程呢？
+2.  **逃避心態 (Escapist Mindset)**
+    - **特徵**：仍有好奇心，但放棄抱負。
+    - **行為**：試圖逃避責任（例如：購物療法、追劇、規劃假期而非實際行動）。
+    - **好奇心/抱負**：高好奇心，低抱負。
 
-**縮短慾望與名聲的途徑**
-你可能會專注，你可能會決定我不想擁有大多數東西。我認為我們有很多不必要的慾望，我們只是隨處拾取。我們對一切都有意見，對一切都有判斷。所以，我認為只要知道這些是不快樂的根源，就會讓你對自己的慾望更加挑剔。坦白說，如果你想成功，你必須對自己的慾望挑剔。你必須專注。你不可能在所有事情上都做得很好。你不可能在所有事情上都做得很好。你只會浪費你的精力，浪費你的時間。名聲是一個值得追求的目標嗎？它會讓你被邀請參加更好的派對，讓你進入更好的餐廳。名聲。所以，名聲是一個有趣的東西，很多人認識你，但你不認識他們。而且，它確實會讓你被放在一個高台上。它可以在遠距離讓你得到你想要的。所以，我不會說它一無是處。顯然，人們想要它是有原因的。它是高地位的，所以它會吸引異性。特別是對男人來說，它會吸引女人。話雖如此，它的代價很高。這意味著你沒有隱私。你確實會遇到怪人和瘋子。你確實會因為奇怪的事情而經常被找上門。而且你身處舞台，所以你被迫表演，你被迫與你過去的宣言和行動保持一致，而且你會有仇恨者和所有那些廢話。但事實是我們這樣做，事實是我們似乎都想要它，這意味著如果說：「哦，不，不，我很出名。」但你不想出名，那是不真誠的。話雖如此，我認為名聲，就像其他任何事物一樣，最好是作為某種更有價值事物的副產品來產生或追求。想要出名和渴望出名，以及為了出名而出名，這些都是某種陷阱。為了名聲而名聲。是的。沒錯。所以，最好是贏得的名聲。例如，在部落中贏得尊重，就是你做對部落有益的事情。人類歷史上最有名的人是誰？他們是那些超越自我的人。世界上的佛陀、耶穌和穆罕默德。還有誰有名？藝術家有名。你知道藝術可以流傳很久。科學家有名。他們發現事物。征服者有名，大概是因為他們為自己的部落征服。他們為某人而戰。
-所以，通常你為越來越多的人做事情，你的地位就越高，即使這可能被認為是暴虐或負面的，比如，你知道，成吉思汗很有名，但對蒙古人來說，他做得很好，對其他人來說則不然。你運作的層次越高，你照顧的人越多，你就越能贏得尊重和名聲，我認為這些是出名的好理由。如果名聲是空洞的，如果你出名只是因為你的名字出現在很多地方，或者你的臉出現在很多地方，那麼那是一種空洞的名聲，我認為你內心深處會知道這一點，所以它會很脆弱，你會一直害怕失去它，然後你就會被迫表演。所以，純粹的演員和名人擁有的那種名聲，我不會想要，但因為你做了有用的事情而贏得的名聲，為什麼要迴避呢？現在你可以，我認為有一個挑戰，特別是如果人們對事情做出非常響亮的公開聲明，你提到過，你幾乎被你過去說過的話所挾持，即能夠更新你的觀點和改變主意，在網路上看起來與虛偽非常相似。不，不，不。我過去說過的話和現在說的不同，也許是因為我學到了，也許我更新了我的信念，但很少有人以合法的方式這樣做。我認為，你看到的騙子，這是證明他從來沒有真正相信那件事的確鑿證據。對。而且，是的，我幾年前去洛杉磯參加了一個靜修會，有一個我以前追隨的人，一個大型商業和生產力建議內容創作者，非常非常成功，他完全退出了所有事情，進入了僧侶模式，專注於他的事業。我問他為什麼，他說：「我開始覺得我必須在私下裡活出我在公開場合說過的話。」對。是的。這是一種，那是什麼？誰說過，愚蠢的一致性是小腦袋的妖精，對吧？但本質上，看，所有生命，所有學習都是錯誤修正，對吧？每個知識創造系統都透過修正錯誤、做出猜測和修正錯誤來運作。所以，根據定義，如果你在學習，你大部分時間都會犯錯，你會更新你的先驗知識，所以，例如，我做了那個喬·羅根的播客，我不知道，大概是八九年前，人們會指出那些沒有被證明是正確的事情，對吧？他們只是不斷地攻擊它，因為這在他們心中有助於提升他們的地位。啊哈，我抓到他犯錯了。好吧，我認為如果你抓到某人公然說謊，他們相信一件事卻說另一件事，那是合法的。那是品格缺陷。他們不應該說謊。但另一方面，如果他們只是對某件事做出了猜測，而他們猜錯了。順便說一句，這主要是關於AI AGI的事情。我認為我對此仍然是正確的，但那是另一個故事。那些認為我們已經實現AGI的人只是從他們那邊未能通過圖靈測試。但是，人們對單一宣言的執著很有趣。但現實是，我們所有人都是動態系統。我們總是在改變。我們總是在學習。我們總是在成長。而且，希望我們正在修正錯誤。你不想做的是在公開場合說謊。因為你試圖表現良好。我認為人們能聞到那種味道。我認為這個世界現在真正缺乏的是真誠，因為每個人都想要某樣東西。他們想被視為某樣東西。他們想成為他們不是的某樣東西。所以你確實會抓到很多人說他們不真正相信的事情。我認為人們對此非常敏感。謊言雷達已經變得高度敏感，試圖判別這個人是否真的相信他們所說的話。是的。我的意思是，他們很多人都錯了。我們大多數人大部分時間都錯了，尤其是在任何新的嘗試中。犯錯和不真誠之間的區別，故意犯錯。沒錯。所以，我認為這就是最大的區別。如果有人錯了，沒什麼大不了的。只要他們有充分的理由說他們所說的話，相信他們所相信的事情。但如果他們為了提升自己的地位或形象，或者為了達到某種期望而說謊，那就是錯誤。這不僅是對聽眾的錯誤，也是對他們自己的錯誤，因為那樣你就會被困在一個鏡廳裡。你自己會與你過去的宣言保持一致。所以如果你對別人說謊，你也會對自己說謊。你被一個你甚至不是的人所操控。沒錯。是的。這就像那句話是什麼？你基本上是在努力打動那些你知道不關心你的人。所以他們不喜歡真實的你，如果他們看到真實的你，他們也不會在乎。而那些會喜歡真實的你的人卻看不到真實的你，所以他們就錯過了你，對吧？你只想要你尊重的極少數人的尊重。試圖從大眾那裡獲得尊重是徒勞的。
+3.  **完美主義心態 (Perfectionist Mindset)**
+    - **特徵**：透過工作逃避不確定性，高抱負但低好奇心。
+    - **行為**：自我強迫、過度勞累、追求「有毒的生產力」。
+    - **感受**：目標驅動所有決策，認為只有成功才能帶來快樂。
+    - **好奇心/抱負**：高抱負，低好奇心。
 
-**地位遊戲與財富創造**
-地位遊戲，累積的誘惑，無論是真正的名聲，還是單純的競爭比較陷阱，它總是在那裡。被社會認可所左右的真實吸引力。人們應該如何學習減少被這種地位遊戲分心？我認為這只是有助於看到地位遊戲不再像以前那麼重要。在舊社會，讓我們回到狩獵採集時代，沒有所謂的財富。你只有你能攜帶的東西。沒有儲存的財富。所以財富遊戲並不存在，財富創造遊戲也不存在。所有存在的都是地位遊戲。如果你地位高，那麼你就能先得到那一點點可用的東西。但即使在那時，你也必須透過照顧部落來贏得你的地位。現在我們有財富創造，你可以實際創造一個產品或服務。你可以擴大那個產品或服務的規模，你可以為很多人提供豐裕。那不是零和遊戲，那是一個正和遊戲。我可以富有，你也可以富有。我們可以一起創造事物。顯然，既然我們集體比狩獵採集時代富有得多，財富創造是正面的，但地位是有限的。地位是有限的。它是一個排名階梯。它是一個層級。所以地位的提升，就意味著其他人地位的下降。現在你可以有多種地位。所以你可以擴展某些地位，但它不像財富創造那樣可以無限擴展，我們可以都，你知道，住在星星和月球基地或火星殖民地之類的。所以只要意識到地位遊戲本質上是有限的。它們總是充滿競爭。它們總是需要直接的戰鬥，而財富創造遊戲可以只是你在創造產品。你不必與任何人戰鬥。是的，在市場上你的產品必須成功，但那與對其他人進行謾罵或對其他人感到憤怒或感到被壓制或被提升或與某人有恩怨不太一樣。所以，我會說財富創造遊戲既更令人愉快。它們是正和遊戲，而且它們確實有具體的物質回報。如果你有更多的錢，你就可以買更多的東西。告訴我你可以在銀行兌換你的地位嗎？沒錯。是的。它是模糊的，它是模糊的。現在，你看到人們致富，他們有錢，他們想要什麼？他們想要地位。所以他們去好萊塢，開始主演電影，他們捐贈給非營利組織，他們去KS或達沃斯之類的。他們開始試圖用金錢換取地位。所以，你知道，人們總是想要他們沒有的東西。而且我們在進化上被硬連線為追求地位，因為就像我說的，財富創造直到農業革命才真正存在，那時你可以儲存糧食，然後工業革命將其提升到另一個層次，現在資訊時代又將其提升到另一個層次。但從來沒有比現在更容易賺錢的時候。是的，它仍然很難，但從來沒有比現在更容易創造財富的時候，因為有這麼多的槓桿。有這麼多的機會。你仍然必須去尋找它。這並不容易。它不會從天上掉下來，你必須學習一些東西，知道一些東西，做一些有趣的事情。但儘管如此，對更多人來說這是可能的。幾百年前，你出生為農奴，你就會死為農奴。幾乎沒有辦法擺脫。這已經改變了。所以我會說你最好專注於財富遊戲而不是地位遊戲。如果你試圖，例如，在社交網路上建立你的追隨者，並出名，然後透過出名致富，那比先致富要困難得多。然後再去追求你的名聲，這會是我的建議。好吧，很多人都這樣做，就像你說的。有趣的是，那些已經達到如此財富水平的人，你不會認為他們為什麼需要地位，因為大多數人都是利用地位來嘗試變現以獲得財富，如果你已經賺到錢了，如果你是「後金錢」或「資產雄厚」的人，為什麼你還要往另一個方向走呢？好吧，就像你說的，因為我們在生物學上擁有追求地位的輝煌歷史，而財富則是一種新奇事物。它是新的。財富是你必須在智力上更多地理解的東西。是的，它有物質成分，更多的食物，更多的生存，但要真正理解財富的影響、力量、能力和限制，以及優勢和劣勢，你必須更多地使用你的新皮質。這是否意味著它不是邊緣系統？玩遊戲的原因是為了贏得遊戲並擺脫它，對於地位來說比對於財富來說更難贏得並擺脫。這是一個很好的觀察。我沒有想過這一點，但你是對的。是的，我認為這是對的。我認為人們總是想要更多的地位。但我認為你可以在某個財富水平上感到滿足。
-好吧，你總是有這種感覺。這就是排行榜，對吧？這就是告示牌榜單，對吧？它是零和的，而且我想你知道《富比士》全球富豪榜。那個榜單更難攀爬。但事實是，例如iTunes和YouTube可以讓你每天與你的同時代人競爭，讓你起起伏伏，並向你展示按讚、評論和評分。這就是你感覺到的。這就是你上升了多少。沒錯。他們讓你永遠在那個跑步機上奔跑。吉米·卡爾（Jimmy Carr）有一個很酷的想法，他說「軌跡比位置更重要」。所以如果你是世界第101名，但去年你是第200名，與你現在是世界第二名，但去年你是第一名相比，這種減速感是非常非常明顯的，而且，你知道，這又回到了進化論，你知道，流血的東西最終會死亡，除非你止血，所以你天生就不想失去你所擁有的，因為我們在如此接近無法生存的條件下進化，你不想放棄任何東西。這是我們天生就不想放棄任何東西的。所以你緊緊抓住。沒錯。如果你因為身體太熱或太冷而難以入睡，這將會有所幫助。只需將EightLe Pod 4 Ultra像床單一樣添加到你的床墊上，它就會自動將你床的兩側冷卻或加熱到20度。它有整合的感測器，可以追蹤你的睡眠時間、睡眠階段、心率變異性、打鼾和心率，準確度高達99%。它甚至在你上床前一小時就開始冷卻或加熱你的床。這就是為什麼Eight被臨床證明每晚可以增加總睡眠時間長達一小時。最棒的是，他們提供30天睡眠試用，所以你可以購買並睡上29晚，如果你不喜歡，他們會退款給你。此外，他們還提供國際運送。現在，你可以透過點擊下方描述中的連結或前往eight.com/modernwisdism並在結帳時使用代碼modernwisdom，即可獲得Pod4 Ultra 350美元的折扣。那就是eigle.com/modernwisdom並在結帳時使用modernwisdom。
+- **重要提示**：這些心態是流動且可改變的，並非固定的性格特徵。
 
-**自尊與美德**
-世界上最糟糕的結果是沒有自尊。為什麼？是的，這很難。嗯，我看看那些人，我不想冒犯任何人，但我看看那些不喜歡自己的人，那是最艱難的處境，因為他們總是在與自己搏鬥，而面對外部世界已經夠難了。而且沒有人會比你更喜歡你。所以，如果你在與自己搏鬥，那麼外部世界就變成了一個無法克服的挑戰。很難說為什麼人們自尊心低。這可能是基因造成的。也可能只是環境造成的。很多時候我認為是因為他們小時候沒有得到無條件的愛，那種感覺滲透到深層的核心。但是自尊問題可能是最具限制性的。一個有趣的想法是，你知道，在某種程度上，自尊是你對自己的聲譽。你時刻都在觀察自己。你知道自己在做什麼，你有自己的道德準則。每個人都有不同的道德準則。但如果你沒有活出自己的道德準則，也就是你要求別人遵守的準則，那會損害你的自尊。所以，也許建立自尊的一種方法是嚴格地活出自己的準則。擁有一個，然後活出它。另一種提升自尊的方法可能是為他人做事。如果我回顧我的人生，你知道，我真正引以為傲的時刻很少，而且不常發生，也不是你所期望的那些事。不是物質上的成功。不是學會了這個或那個。而是當我為我所愛的人或事物做出犧牲的時候。那時我反而最感到驕傲。現在這是透過一個明確的心理練習。但我敢打賭，在某個層面上，我正在隱含地記錄這一點。所以這告訴我，即使我沒有被愛，而創造愛的方式就是付出愛，透過犧牲和責任來表達愛。所以我認為做這樣的事情可以很快地建立你的自尊。當你談到犧牲時很有趣，因為很多人會說：「我為我的工作犧牲了很多。」這就像：「是的，但那是你為了你更想要的東西而犧牲了你不太想要的東西，而不是真正付出某種代價。」而且，是的，我想知道，如果自尊是你堅持自己的內在，你的行為和你的價值觀保持一致，即使在困難的時候，或者甚至在更困難的時候。我想知道那些更內省、高誠信的人是否會付出代價，因為你會想，你必須以某種方式支付這筆沉重的開銷。好吧，如果道德有利可圖，每個人都會這樣做，對吧？所以在某個層面上，它確實涉及犧牲。但這種犧牲也可以被認為是你著眼於長期而不是短期。例如，美德是一套信念，如果社會中的每個人都作為個體遵循它們，就會為每個人帶來雙贏的結果。所以如果我誠實，你誠實，那麼我們就可以更容易地做生意，更容易地互動，因為我們可以互相信任。所以即使系統中可能有一些騙子，只要騙子和作弊者不多，一個每個人都誠實的高度信任社會會更好。我認為很多美德都是這樣運作的，對吧？如果我不去和你的妻子睡覺，你也不去和我的妻子睡覺，你知道，如果我不先拿走桌上所有的食物等等，那麼我們就能更好地相處，我們可以玩雙贏的遊戲。在賽局理論中，最著名的遊戲是囚徒困境。但那完全是關於每個人都作弊和納許均衡。那裡的穩定均衡是每個人都作弊，而你唯一能玩雙贏遊戲的方式是如果你有長期的重複行動。但那實際上不是社會中最常見的遊戲。最常見的遊戲叫做獵鹿遊戲，如果我們合作，我們可以獵到一頭大鹿，兩個人都能吃大餐，但如果我們不合作，那麼我們就必須去獵兔子，每個人都吃小餐。所以大部分，而且那個遊戲有兩個穩定均衡。一個可能是我們都在獵兔子，一個可能是我們在獵鹿。所以高度信任的社會是一個更，更道德的社會，在那裡我可以信任你和我一起去獵鹿，準時出現，完成工作，並適當地分配。所以你想要生活在一個每個人都有自己一套美德並遵循它們的系統中，然後我們都贏。但我會說你不需要為了犧牲而這樣做。你不需要為了其他人而這樣做。你可以純粹為了自己而這樣做。你會有更高的自尊。你會吸引其他高尚品德的人。我會和自己一起去獵鹿嗎？沒錯。是的，沒錯。如果你是那種人，如果你是那種長期以來展現道德和美德的人，那麼你就會吸引其他道德和有美德的人。反之，如果你是一條鯊魚，你最終會發現自己完全在鯊魚群中游泳。那是一種不愉快的存在。但這又回到了棉花糖測試的等價物。順便說一句，棉花糖測試無法複製。我最近看到它在複製危機中表現得很差。但它是關於權衡短期和長期。所以，我認為對於很多這些所謂的美德，都有長期的自私理由去追求美德。
-是的。你過去有處理過自我懷疑嗎？那是你必須克服的障礙嗎？是也不是。我想我處理過自我懷疑，從這個意義上說，哦，我不知道我在做什麼，我需要弄清楚。但我沒有以別人比我更了解我，或者，你知道，我是個白痴，或者我沒有價值之類的方式懷疑自己。我想我受益於我是在充滿愛的環境中長大的，我周圍的人無條件地愛我。所以這給了我很大的信心。不是那種會說「我有答案」的信心，而是那種「我會弄清楚」的信心，而且我知道我想要什麼，或者只有我才是判斷我想要什麼的好仲裁者。是的。我想那種程度的自信，讓你能夠決定什麼對我來說是重要的，我的自尊，我是否應該追求這件事。我可以做出公平的判斷，而不是被迷惑。但這是一個很好的觀點，即使你認為你沒有有意識地記錄你正在做的事情，你的腦海深處仍然有一些東西。那是戴蒙嗎？古希臘人或什麼的曾經談論過這個嗎？是的。是的。在電腦科學中也有「惡魔」的概念，它是一個一直在後台運行的程式。你看不到它。好的。但是，是的，它可能來自古希臘的惡魔。但是，是的，你所知道的，甚至你不知道自己知道的，遠比你知道自己知道的要多，對吧？你甚至無法表達你所知道的大部分事情。你有一些感覺是無法用言語表達的。你有一些想法是在身體內部或潛意識中感受到的，你從未向自己表達過。你無法真正表達語法規則，但你在說話時卻毫不費力地運用它們。所以我會說，你的隱性知識和你自己不知道的知識，遠比你能表達和溝通的知識要多。
-所以，在某個層面上，你總是在觀察自己。這就是你的意識，對吧？它是觀察一切的事物，包括你的心智，包括你的身體。所以，如果你想擁有高自尊，那麼就贏得自己的自重。
-我有一個想法，叫做「內在黃金法則」。黃金法則說，待人如己，你希望別人如何對待你，你就如何對待別人。內在黃金法則說，對待自己，如同你希望別人對待你一樣。這是一種對那些沒有在無條件的愛中長大的人的回應。是的。關於愛，一個有趣的事情是，你可以試著回憶被愛的感覺。所以回到有人愛你，或者有人確實愛你的時候，然後真正回憶那種感覺，真正沉浸其中，試著在自己內心重現它，然後再去感受你愛某人的感覺，以及你戀愛的時候。我甚至不一定是指浪漫的愛。所以要小心一點。我更多地是指對兄弟姐妹或孩子或父母的愛，然後想想你何時對某人或某事產生愛意。現在，哪種感覺更好？我會說，戀愛的感覺實際上比被愛的感覺更令人興奮。被愛有點黏膩。有點太甜了。你有點想把對方推開。有點尷尬。而且你知道，如果對方太投入，你會感到受限。另一方面，戀愛的感覺非常開闊。非常開放。它實際上讓你成為更好的自己。它讓你想要成為一個更好的人。所以你可以隨時創造愛。只是渴望得到愛。那才是問題所在。最昂貴的特質是驕傲。為什麼？哦，那是最近的一個。我發了那條推文，只是因為我認為驕傲是學習的敵人。所以當我看到我的朋友和同事時，那些仍然停留在過去，成長最少的人，就是那些最驕傲的人，因為他們覺得自己已經有了答案。所以他們不想公開糾正自己。所以這又回到了名聲的對話。你被困在你說過的話裡。它讓你出名。你因此而聞名。現在你想轉變或改變。所以驕傲阻止你說「我錯了」。在這種情況下，驕傲是什麼？它可以很簡單，就像你在交易股票，然後你不承認你錯了。所以你堅持一個糟糕的特質。它可能是你做了一個決定，你知道，嫁給某人或搬到某個地方或進入某個行業，結果不盡人意，然後你不承認你錯了，所以你被困在其中。它主要是關於被困在局部最大值，而不是回到谷底，然後再次爬上山。嗯。這就是為什麼它是一種昂貴的交易，因為你不斷地需要以一種或另一種形式償還它。是的。你只是被困在一個次優點。它會讓你付出金錢。那會讓你付出成功和時間。偉大的藝術家總是有這種重新開始的能力，無論是保羅·西蒙還是瑪丹娜，或者U2，我有點暴露年齡了。但是即使是偉大的企業家，他們也總是願意重新開始。我總是對伊隆·馬斯克的故事感到震驚，你知道，他，他最初是將PayPal作為X.com來做的。實際上，那是他的金融機構合併到PayPal的。你擁有這個域名是好事，你知道嗎？是的，沒錯。我會談談這個。我會堅持下去。他始終如一。他已經用了很久了。而且他說過類似這樣的話：「我從PayPal的銷售中賺了2億美元。我把1億美元投入SpaceX，8000萬美元投入Tesla，2000萬美元投入Solar City，我還得借錢付房租。」對吧？這個人是一個常年的冒險家。他總是願意重新開始。他對被視為成功或被視為失敗沒有任何驕傲。他願意投入一切。每次都支持自己。每次都支持自己。但關鍵是，他總是願意重新開始，對吧？即使現在他已經創立了他的新公司，USA，對吧？他基本上是在試圖修復它，就像他會修復他的一家新創公司一樣。我認為這是一種願意看起來像個傻瓜的意願，這是一種願意重新開始的意願。很多人就是沒有這種意願。他們成功了，或者他們變得富有，或者他們變得有名，然後就這樣了。他們被困住了。他們不想回到零。而創造任何偉大的事物都需要從零到一。這意味著你回到零，那是非常痛苦和困難的。
+### 四、 實驗心態 (Experimental Mindset)
+- **定義**：好奇心和抱負都高。
+- **特徵**：
+    - 對不確定性持開放態度，視其為探索、成長和學習的機會。
+    - 重新定義與抱負和目標的關係。
+    - 樂於設計實驗，而非追逐給予確定性錯覺的線性目標。
+    - 從研究問題開始，而非預設特定結果。
+    - 不理解時產生好奇心而非恐懼。
+    - 將失敗視為可學習的數據點，樂於犯錯。
+    - 接受沒有計劃、不知道未來，並認為這很棒。
+    - 以有意識且相互關聯的方式設計生活。
+- **基礎**：基於科學方法，包含三個簡單步驟：
+    1.  觀察現狀。
+    2.  提出研究問題，設計小型實驗收集數據。
+    3.  分析數據，決定下一步。
+- **好處**：即使不知道最終目的地，也能相信會透過每個實驗週期而成長。
 
-**III. 自由、心態與決策**
+### 五、 設計實驗：「約定」(Pact)
+- **承諾好奇心**：透過設計「約定」來實踐。
+- **約定定義**：一種承諾裝置，選擇一個行動和一個持續時間，並承諾在該期間內執行此行動。
+- **約定的原因**：
+    1.  像科學家一樣預先設定試驗次數，不因結果不如預期而中途停止。
+    2.  避免「最大化大腦」的陷阱，確保實驗足夠小且可完成，以收集必要數據。
+- **約定的特點 (PACCT)**：
+    - **有目的 (Purposeful)**：是你關心的事情，不需要宏大的人生目標。
+    - **可執行 (Actionable)**：現在就能做，不需要額外資源或他人幫助。
+    - **持續性 (Continuous)**：需要定期執行，並預設持續時間（例如：兩週、兩個月、一年）。
+    - **可追蹤 (Trackable)**：只需判斷「是」或「否」（是否執行了行動），不需要複雜的衡量指標。
 
-**驕傲與學習**
-談到風險，我一直在思考你說過的一句話：「任何時候，當你過得不開心，當你真的不快樂時，你都沒有幫任何人的忙。」我想很多人都對默默承受痛苦變得異常熟悉，那種對生活品質的期望不高的方式。是的，很多時候你只是在用迷因把自己帶入一個糟糕的結果，因為你認為痛苦是光榮的，或者它讓你成為一個更好的人，或者，你知道，我以前的俏皮話是：「如果你這麼聰明，為什麼你不快樂？」為什麼你搞不懂這個？現實是你可以聰明又快樂。人類歷史上有很多聰明又快樂的人。我認為這只是從說「是的，你知道嗎？我會快樂的」開始。我會弄清楚的。然後你就在過程中弄清楚了。你不會失去你其他的偏好。你不會失去你的野心或對成功的渴望。我想很多人都有這種恐懼，認為「哦，如果我快樂，那麼我就不會想成功了。」不，你只會想做那些更符合快樂的你的事情，而且你會在那些事情上成功。相信我，快樂的你不會回頭看那個不快樂的你，然後說：「哦，天哪，那個人會更成功。我希望我是他。」你實際上是想成功，這樣你才會快樂。這才是重點。你搞反了。你解鎖了我的一張陷阱卡。我最喜歡的見解之一是，我們犧牲了我們想要的東西，去追求那個被認為能帶來我們想要的東西。所以，我們犧牲了幸福，以便成功，這樣當我們最終足夠成功時，我們才能真正快樂。如果你有某種聯立方程式，你只是從兩邊都剝離了成功。至少在我自己的生活中，我沒有發現這之間有取捨。如果有的話，我發現我越快樂，我就越會做我擅長和符合我心意的事情，這會讓我更快樂。所以，我實際上最終會更成功，而不是更不成功。
+### 六、 分析實驗結果
+- **數據收集**：在執行約定期間，記下簡單的筆記（例如：手機重點、日記），記錄是否做到以及感受。
+- **決策**：根據數據決定下一步：
+    - **堅持 (Persist)**：如果約定有效且感覺良好，則繼續執行。
+    - **暫停 (Pause)**：如果覺得不適合或不想繼續，則停止。
+    - **轉向 (Pivot)**：做一些小調整或改變，然後開始下一個實驗週期。
+- **數據考量**：同時重視外部數據和內部數據。
+    - **外部信號**：財務成功、職業發展等客觀指標。
+    - **內部信號**：個人感受、情緒體驗。
+    - **平衡**：外部成功但感覺糟糕沒有意義；感覺良好但無法維持生計也需調整。目標是找到外部成功與內部積極感受的重疊點。
 
-**幸福與自由**
-「契合」這件事很有趣。我會盡我所能地委婉表達。我會說，從我們相處的這段時間來看，你有一種非常有趣的「整體自私」特質。你似乎準備好把自己放在第一位。你似乎對說或做一些可能讓別人感到有點尷尬的事情，如果對你來說是真實的，你似乎 largely unfazed。這就像是毫不歉疚地將自己放在首位，我想。是的，我想每個人都是這樣。也許「毫不歉疚」是相對罕見的部分，但我認為每個人都把自己放在第一位。這就是人性。你之所以在這裡，是因為你生存下來了。你是一個獨立的有機體。這很有趣。嗯，也許吧。但我知道我們喜歡表現美德，假裝我們是為了彼此。有多少次有人說：「是的，當然。我很樂意參加婚禮。」他們卻說：「我不想參加該死的婚禮。」有多少次有人說：「你今天過得怎麼樣？」他們卻沒有告訴你。我從不參加婚禮。但這就是我的重點。所以，我認為你不一定是對的。我認為人們確實，我認為他們沒有把自己放在第一位。我認為有時候他們會為了迎合社會上擺在他們面前的東西而妥協他們想要的東西。是的。我只是認為你是在浪費每個人的時間。不要做你不想做的事情。你為什麼要浪費時間？在這個世界上時間這麼少。生命過得很快。是什麼？四千週。那是你的壽命。而且，是的，我們聽過這句話，但我們不記得。但我猜我敏銳地意識到我時間不多，所以我不會浪費它。你如何更自在地成為那個毫不歉疚的自我優先者？是的，我對此變得越來越無情。主要是，我看到或聽到別人的自由，然後這進一步解放了我。所以，我讀了一篇P. Mark，也就是Mark Andreessen的部落格文章，他說：「不要安排日程。」我把這句話記在心裡。所以我刪除了我的行事曆，我沒有安排日程。我試著把所有事情都記在腦子裡。如果我記不住，我就不會再加了。很高興你準時到了。是的，沒錯。我不得不臨時查了一下。嗯。所以，但諷刺的是，我甚至不知道Mark自己是否遵循這一點，但他提出了正確的觀點。我讀了一個關於Jack Dorsey用他的iPhone和iPad處理所有業務，甚至不使用Mac的小故事，我說：「好吧，我想那樣做。」所以，我會透過簡訊操作，而不是發送我那討厭的電子郵件。那感覺更自由嗎？是的。因為你隨時隨地。所以，我有一個討厭的電子郵件自動回覆，上面寫著：「我不查電子郵件，也不要給我發簡訊。」對。如果你需要找到我，你會找到我的。顯然，其中一些是成功的奢侈品，但其中一些習慣我很久以前就養成了。實際上，那個敵意電子郵件自動回覆很久以前就開始了。我以前擁有那個域名，我放手了。我沒有do coffee.com。我以前從那個電子郵件回覆，只是為了讓大家明白。但我不再粗魯了。現在我只是消失。我妻子知道永遠不要為我預訂或安排任何事情。我不被期望參加夫妻晚餐。我不被期望參加生日派對。我不被期望參加婚禮。如果有人試圖拉她讓我出現，她會說：「他自己做決定。你必須直接問他。」那反過來呢？好吧，你不是在某種程度上扼殺了隨機性嗎？不，不。我正在釋放我所有的時間。所以，我整個生活都是隨機的。我可以隨心所欲地與任何人、在任何時間、任何地點互動。你聽到邀請，但做出決定，因為如果你收到的東西少了，你就會假設你知道什麼對你未來的一切是最好的。所以，我會說：「好吧，如果那件事很有趣，我會看看那天我心情好的時候能不能參加。」但沒有什麼比你過去的自己承諾你，而你現在的自己不想做的事情更糟糕了。該死的。過去。是的。然後它會毀掉你整個日程。它會毀掉你的一天，因為有這樣一個一小時的空檔，它像一坨屎一樣坐在我的日程上，我必須圍繞它安排我的一天。我不能在20分鐘前或20分鐘後做任何事情。即使是電話，如果有人想打電話，我會說：「好吧，你空閒的時候給我發簡訊。我空閒的時候會給你發簡訊。」然後我們就隨機地做。這比這種過度安排的，你知道，cal.com或iical之類的生活方式好得多。過度安排的生活不值得過。不值得。我認為這是一種糟糕的生活方式。我們不是這樣進化的。我們不是這樣長大的。嗯，我們小時候也不是這樣，希望如此，除非你有直升機父母或虎媽。你的自然秩序是自由。我有一個朋友曾經對我說：「你知道，我從來不想在特定的時間出現在特定的地點。」我當時想：「哦，天哪，那就是自由。」當我聽到那句話時，它改變了我的人生。你仍然沒有鬧鐘嗎？是的，我沒有鬧鐘。今天，我確實設了鬧鐘，只是為了不錯過這個。非常重要。是的。如果你，但只是讓你知道，我把鬧鐘設在上午11點，以防我得了流感而睡過頭。我不會把鬧鐘設在上午8點或9點。果然，我比那早了好幾個小時就起床了。嗯，但那是一種備用緊急鬧鐘。事實上，有時候當我需要做某件事時，我不想看行事曆，所以我會直接為它設一個鬧鐘。
-再深入一點，那種「去你的」能量，那種自我優先的能量，因為我認為人們理性上喜歡這個想法。我只做我想做的事，即使他們擁有自由的程度。這不是「去你的」能量，從這個意義上說，我認為每個人都應該盡可能地這樣生活。顯然，我們有工作和對我們真正重要的義務要求。但不要把你的生命浪費在隨機安排的事情上，以及那些不重要、無關緊要的事情和活動、婚禮，以及你不想參加的乏味晚餐。盡你所能地為你的生活帶來自由。為此優化。你實際上會更有效率。你不會只是更快樂、更自由。你會更有效率，因為那樣你就可以專注於你面前的事情。每天早上我醒來時，當天最大的問題是什麼？前四個小時是我精力最充沛的時候，那時我想解決所有困難的問題，接下來的四個小時我有點想，你知道，做一些戶外活動，或者我想鍛鍊，或者也許我可以，你知道，開一些會議，但我會盡量根據當天的優先事項在最後一刻進行這些會議。最後四個小時我有點想放鬆，我想和孩子們一起玩，我想玩遊戲或讀書之類的。所以擁有這種彈性和自由非常重要。這樣你就可以把最需要的東西放在那個時刻的空檔裡。反之，如果我下午2點有一個會議，然後我必須處理一些事情和一些電子郵件。我會把它推遲到下午6點。我會很趕。我不會有效率。我不會，你當然不自由。我當然不自由。但另一件我真正相信的事情是，靈感是會消逝的。立即行動。所以當你受到啟發去做某件事時，就去做那件事。如果我受到啟發寫一篇部落格文章，我會在那一刻去做。如果我受到啟發發一條推文，我會在那一刻去做。如果我受到啟發解決一個問題，我會在那一刻去做。如果我受到啟發讀一本書，我會立即讀它。如果我受到啟發解決一個問題，我會立即解決它。如果我想學習某樣東西，我會在好奇心來臨的那一刻去做。好奇心來臨的那一刻，我會立即去學習那樣東西。我會下載那本書。我會上Google。我會上ChatGpt，無論是什麼。我會當場弄清楚那樣東西。那時學習才會發生。它不會發生，因為我安排了時間，因為我預留了一個小時，因為當那個時間到來時，我可能心情不同。我可能只是想做點別的。所以我認為自發性非常重要。當你玩得開心，當你普遍享受這個過程時，你才會學得最好，而不是當你被迫坐在那裡做的時候。你從學校還記得多少？你知道你被迫在這個時間、這個地點，按照這個人的安排學習地理、歷史、數學，這並沒有發生。所有讓你記憶深刻的東西都是你在想學的時候學的，當你真正有慾望的時候。而那種自由，那種在你想要的時候立即行動的能力是如此解放，我們大多數人一生中很少體驗到這種感覺。如果你一生都這樣生活，那就是幸福的秘訣。這感覺就像效率，你也有效率。你擁有靈感，那將是做那項特定任務最沒有摩擦的時候。所以，哦，我有了做那件事的靈感。我會把它推遲到我不再那麼想做的時候。當我確實想做那件事的時候，我會做一些我需要做的事情，因為它在日程上。這行不通。
-拖延是因為你現在不想做那件事。你想做別的事。那就去做別的事吧。我拒絕這種框架，即效率、生產力和成功與幸福和自由是相互對立的。它們實際上是相輔相成的。
-怎麼說？你越快樂，你就越能持續做某件事，你就越有可能做一些反過來會讓你更快樂的事。你會繼續做下去，你會比其他人更努力。你越自由，你就越能更好地分配時間，你就越不會被義務和承諾的網絡所困，你就越能專注於手頭的任務。另外，本集由Function贊助。保持健康不僅需要每年一次的體檢，這就是為什麼我與Function合作的原因。他們每年進行兩次實驗室測試，追蹤超過100種生物標誌物，並監測數千種疾病的早期跡象。他們甚至在第一階段篩查50種癌症，這比你每年一次的體檢獲得的數據多五倍。你會收到來自專家醫師團隊的見解，他們會提供所有觀察結果的詳細書面臨床摘要，然後針對任何關鍵發現進行電話諮詢。進行這些實驗室測試通常需要數千美元，但透過Function，只需499美元。現在，你可以獲得我所做的完全相同的血液檢查，並繞過他們的等候名單，方法是點擊下方描述中的連結或前往functionhealth.com/modernwisdom。那就是functionhealth.com/modernwisdism。這與你的另一個見解有關。你越不想要某樣東西，你越不思考它，你越不沉迷於它，你就越會以自然的方式去做它，你就越會為自己去做它，你會以你擅長的方式去做它，你會堅持下去。你周圍的人會看到你的工作品質更高。但這似乎是一個難以駕馭的張力，因為對細節的執著關注也是你工作的競爭優勢。所以這兩件事似乎相互衝突。沒有人能在做你自己的事情上打敗你。所以，我喜歡說的一句話是：「找到對你來說是玩樂，但對別人來說是工作的事情。」所以對他們來說是工作，但對你來說是玩樂。那不是工作。所以你會超越他們，因為你毫不費力地做著它。你為了樂趣而做。他們為了工作而做。他們為了某種副產品而做。對你來說，那是藝術。那是美。那是喜悅。那是心流。那是充實。你一定很享受播客。如果你不享受，你就不會擅長。你也不會，對吧？如果你決定在生活中取得成功的方法是寫書，那麼就沒有人會聽說過你。Chris Williamson的書會徹底失敗。那不是你。你是一個播客。你喜歡與人交談。你喜歡採訪他們。你越做那些對你來說自然的事情，你的競爭就越少。你透過真誠來擺脫競爭，透過做你自己。如果我必須用兩個詞來總結如何在生活中取得成功，我只會說「產品化你自己」。就這樣。只要弄清楚你天生會做什麼，而世界可能想要什麼，你可以將其規模化並轉化為產品，最終對你來說會毫不費力。是的，總需要努力，但對你來說甚至不會感覺像工作。它會感覺像玩樂。現代社會給了我們這個機會。你知道，如果你生活在兩千年前，你出生在農場。你的選擇非常有限，對吧？你只能在那個農場做事情。現在，你真的可以醒來，然後搬到不同的城市。你可以轉行。你可以換工作。你可以改變你身邊的人。你知道，你可以改變關於你是誰，你和誰在一起，以及你在做什麼的很多事情，外面有無窮無盡的機會。簡直是無限的。所以，最好將其視為一個搜尋功能，找到最需要你的人，找到最需要你做的工作，找到你最適合的地方。而且值得花時間在這種探索上，然後再投入利用。在一個有如此多選擇的世界中，最大的錯誤是過早承諾。如果你過早承諾成為律師或醫生，而現在你已經投入了五年，你可能就完全錯過了。你可能只是在錯誤的職業、錯誤的地點或與錯誤的人一起磨練了你生命中的30年。是的，最好的弄清楚時間是之前，但次好的時間是現在。所以，就改變它吧。而且，大概也要快速放棄那些無效的事情。
-預設情況下，你應該放棄一切。你知道，如果你無法決定，答案就是「不」。而且大多數事情你都應該說「不」。我保持行事曆空閒的部分，就是預設對所有事情說「不」。我會為了添加你的活動，或者添加你的需求或慾望而創建一個行事曆嗎？你知道，人生早期，你在尋找機會。所以你對所有事情都說「是」。這是一個你會經歷的階段。那是探索階段。後來，當你找到你想做的事情時，你處於利用階段。你必須預設對所有事情說「不」。如果你不預設對所有事情說「不」，如果你甚至必須明確地去拒絕某件事，那會佔用時間。例如，你知道，有很多熱衷於「奮鬥文化」的人，而奮鬥文化的一個重要部分是：「好吧，如果你不要求，你就得不到。」所以他們會不斷地向人提出要求、發送訊息。是的，這是一個名人問題，但我也有。人們總是向我索取東西。我收到這些訊息時會感到不安。我相信你也會收到這些簡訊、電子郵件，上面寫著：「嘿，Chris，我的朋友某某某真的應該上你的播客，或者你應該來參加我的活動。你應該為我的書寫序。」你收到這些時會感到不安，對吧？你必須弄清楚如何說「不」。我在過程中學到的一件事是，如果你不會要求別人做這件事，然後你自己收到了這個請求，你就可以直接不理會它。你不必回應。你甚至不必讓它進入你的大腦。如果你想擴展，你必須能夠毫不猶豫地刪除電子郵件和簡訊。而擴展非常重要。擴展你的時間非常重要。每一次打斷都會讓你脫離心流。所以，你唯一能保持心流的方法是，你要麼非常擅長預設忽略這些事情，要麼像我們的共同朋友Tim Ferriss那樣把自己封閉起來，像個隱士一樣，要麼你只是在情感上能夠不將這些事情視為會在你內心引起騷動的東西。那種情感上不將其記錄下來的事情，是如此根本。這對生活中的許多事情都如此根本。好的。我們能深入探討一下嗎？因為，再次強調，我只見過你現在的樣子，我20年前不認識你，我小時候也不認識你，所以我只見過你這種「整體自私」，這種「整合的自我優先」——我不知道我們怎麼稱呼它——「自私」就好，我接受「自私」，我是個非常自私的人，不要聯繫我。是的，那種情感反應，我也感覺到，也許人們過著義務生活太久了，以至於他們實際上很難觸及自己想要什麼。他們隱藏了自己的慾望、渴望和需求，他們將自己降到如此低的優先級太久了，他們會說：「我到底想要什麼？到底是什麼？我想去參加這個活動嗎？」因為我所做的只是被該死的操控，對吧？我被別人的慾望操控了這麼久，我甚至無法再觸及那種感覺了。而說「不」感覺就像一場戰爭罪。所以，我認為能夠客觀地看待自己的心智和思想是非常好的，這就是冥想的最大好處。它在你的意識觀察自我和你的心智之間創造了一個小小的間隙，這讓你能夠像看待第三方的陳述一樣，稍微審視你的思想並評估它們。如果你只是把你的心智當作你，它們始終是整合在一起的，而且你從心智中做出反應，那麼你甚至不會質疑進入你心智的事物。任何進入並產生反應的事物都會立即產生反應。但如果你能稍微觀察你的思想，而不是以某種玄學的方式，你甚至可以透過治療來做到，你可以透過寫日記來做到，你可以用任何你喜歡的方式來做到，你可以只是長時間散步，你不必冥想並盤腿而坐。所有這些都是不必要的。但如果你能觀察自己的思想，並稍微客觀地看待它們，那麼你就可以開始變得更挑剔，更批判性，你就會意識到現實世界中沒有問題，除了可能對你的身體造成痛苦的事情。其他一切都必須先在你的心智中成為問題。你必須看待它、解釋它，並創造一個它是問題的敘事，然後它才會成為問題。然後你就會意識到，你大部分的情緒能量都花在對你的心智自動說「是問題」的事情做出反應上。而且你不需要所有這些問題。你真的需要生活中這麼多問題嗎？再次強調，我會說試著專注於一個首要問題，然後去解決那個問題。這就像如果你想成功，就非常具體地定義成功。專注於它。在其他一切方面，當它進入你的心智時，它就成為一個問題。無論是對街上走過的女孩的判斷，還是剛插到你前面的車，或者，你知道，你的會計師做了這件蠢事，是的，它會觸發你，但觀察一下，它正在觸發我，我創造了一個問題，我真的想現在有這個問題嗎？我想把能量花在這個問題上，還是想讓它去別的地方？而且它不必那麼明顯，你不必讓心智與自己搏鬥，那也是一個問題，但因為它喜歡這樣做，我的問題有問題，而且我有一個真正的問題，就是解決我的問題。是的，沒錯。所以你就會更快樂，更專注。再次強調，我認為幸福、專注和成功可以相互補充。你會有更多的精力。就把它想像成精神能量。如果你不開始無意識地、潛意識地、反應性地隨處拾取問題，你就會有更多的精神能量來專注於你想解決的實際問題。所以在任何事情成為一個消耗你情緒能量的問題之前，你必須接受它是一個問題。你可以對你的問題挑剔。我不是說我在這方面是完美的，但我認為我比以前更好了。
+### 七、 約定的實例
+- **工作**：「我將在接下來的六週內，每週撰寫一份內部電子報，分享我發現的最有趣的連結。」
+- **人際關係**：「我將每個星期天坐下來，給一位我很久沒聯繫的朋友寫一封信。」
+- **健康**：「我將連續 20 天每天散步 20 分鐘，看看實驗結束時我的感覺如何。」
 
-**心智與問題**
-好吧，很多人沉迷於解決問題。以至於有時候，當我們沒有任何問題時，人們會製造問題，只是為了能夠解決它們。我們有這種情況。更糟糕的是，我們承擔了我們無法影響的問題。所以，你知道，我的另一個小俏皮話是，你知道，一個理性的人，應該培養對無法控制的事物的冷漠，對吧？或者一個理性的人可以透過培養對無法控制的事物的冷漠來找到平靜。而且我像任何人一樣，也會在X或社交媒體上瀏覽末日新聞，然後對我無能為力的事情感到沮喪，對吧？就像，我真的想在我的腦海中打這些仗嗎？當我實際上對此無能為力時？所以，如果你發現自己一直在思考一個問題，就像你看了太多新聞，然後你被一個你無能為力解決的問題困住了，你必須遠離它。而且，現代媒體是迷因病毒的傳播機制。現在發生的事情是，你知道，一百年前，五百年前，如果某件事沒有發生在你附近，你就不會聽到它。它就不會成為你的問題。但現在，世界上每一個問題都變成了一個迷因病毒，它正在進入新聞的戰場，並試圖即時感染你的心智，這樣，是的，這樣你就會沉迷於遙遠的烏克蘭戰爭，或者你沉迷於氣候變遷，或者你沉迷於AI末日，或者你沉迷於任何事物，而且沒有什麼比古老的宗教更引人入勝了：「世界末日了，世界末日了，注意，世界末日了。」如果你不，全球規模的卡珊德拉情結。全球規模的卡珊德拉情結。好吧，我會說，很大一部分人口基本上都被這些迷因病毒感染了，這些病毒佔據了他們的大腦，導致他們對那些可能甚至不真實或被大大誇大的事情做出令人難以置信的反應。但即使它們是真的，它們也是那個人無能為力的事情。他們應該先整理好自己的生活。所以，你知道，我還有另一句話給自己：「你的家庭破碎了，但你要去拯救世界。」對吧？人們跑出去試圖拯救世界，而他們自己的生活卻一團糟。哦，天哪。對吧？而且我認為如果你連自己的生活都無法整理好，那就不值得相信。我不會認真對待你，如果你連自己的生活都無法整理好。就像所有那些哲學家，你知道，看起來像你效仿的人，那麼聰明，或者像那些傑出的名人，然後他們去自殺了。好吧，你只是否定了你整個生活方式。這就像《險路勿近》裡的那句話，殺手在等主角，主角出現了，殺手說：「好吧，你知道，如果你的規則把你帶到這裡，那麼你的規則有什麼用？」它沒有用。我，我，我，我自私，我整體自私，因為我希望在我設定的每一個目標上都能客觀地成功。嗯。是的。你只有一次生命。不要滿足於平庸。不要滿足於平庸。而且我認為唯一，就像人們爭論智力一樣，對吧？我們談論智商測試等等，但我認為智力的唯一真正考驗是，你是否從生活中得到了你想要的。這有兩個部分。一個是得到你想要的，所以你知道如何得到它。第二個是想要正確的事物。首先知道想要什麼。我可能想成為一個，你知道，6英尺8英寸的籃球運動員，但我不會得到那個。所以那是想要錯誤的東西。那是想要你得不到的東西。也是想要你不想要的東西。是的。想要一個安慰獎。外面有很多安慰獎。對。我大概20年沒聽過這個詞了。是的。不值得擁有的獎品，或者會製造自己問題的獎品。好吧，如果你不小心，你最終可能會處於一個你不想處於的生活境地，而且你甚至沒有打算到達那個境地。那是如果你有點無意識地前進。有多少人，而且通常我認為人們最終會到達那裡，是因為他們在自動駕駛模式下，遵循著社會期望或他人的期望。所以，你知道，或者出於內疚，或者出於模仿性慾望。你知道，彼得·提爾（Peter Thiel）從勒內·吉拉爾（René Girard）那裡得到了關於模仿性慾望是從他人那裡習得的慾望的整個理論。其中一些是自動融入社會的，比如，你知道，去讀法學院，去讀醫學院，去讀任何學院，去讀商學院。或者它們可能來自於觀察你的朋友在做什麼，你知道，其他猴子在做什麼。或者它可能只是，你知道，你父母的期望。我可能感到內疚。你知道，內疚只是社會的聲音在你腦海中說話，社會編程，所以你會成為一個好小猴子，做對部落有益的事情。但我認為最好的結果來自於你自己思考，並為自己做決定。我認為人們沒有花足夠的時間做決定。例如，我們以這些四年週期運作。你知道，在矽谷，你加入一家新創公司，你的股票在四年內歸屬。這是標準。好嗎？在大學裡，你知道，你讀四年。高中，你讀四年。有些事情需要更長的時間。你知道，你有了孩子，他們九年後進入青春期。那就像一個九年週期，直到那段關係改變。但我們習慣了這些相當長的週期，多年週期，我們在其中承諾做事情。你去讀法學院，你知道，四五年週期。你去做律師，四十年週期。這些都是非常長的週期。我們花在決定做什麼以及與誰一起做上的時間，非常短，非常非常短，對吧？我們花，你知道，三個月決定，一個月決定一份我們將要做十年或五年的工作。而且因為很多發現是路徑依賴的，你路上找到的下一件事取決於你之前在哪條路上。你有點開始沿著這個向量前進，這是一個非常長的距離。人們輕率地決定住在哪個城市，這將決定他們的朋友是誰，他們的工作是什麼，他們的機會，他們的天氣，他們的食物供應，他們的空氣供應，生活品質。你知道，這是一個如此重要的決定，但人們花這麼少的時間思考它。我會說，如果你正在做一個四年決策，花一年時間思考它。像真正地思考它。25%的時間。是的。沒錯。有秘書定理。我不知道你是否知道那個。電腦科學。在你做了這麼多人之後，選擇接下來這麼多人中最好的一個。沒錯。是的。秘書定理是這位電腦科學教授試圖弄清楚他應該花多少時間面試秘書，然後秘書應該留多久。所以假設他要有一個秘書十年。他會繼續尋找，你知道，一年、兩年、三年、一個月、兩個月嗎？最佳時間是多少？結果發現最佳時間大約是三分之一。大約在三分之一的時候，你選擇你合作過最好的人，並試圖找到一個那麼好或更好的人。這樣，當你走到大約三分之一的時候，你已經，對不起，看到了足夠多的人，你現在對標準有了概念。然後任何達到或超過那個標準的人都足夠好。這適用於約會，這適用於工作和職業，這普遍適用。但秘書定理有趣的地方在於它實際上不是基於時間的。它不是基於三分之一的時間。它是基於迭代的。候選人的數量，你射門的次數。沒錯。所以，你想要有很多很多的迭代。這意味著你需要快速退出，你需要快速做出決定。沒錯。你需要快速抓住機會並快速退出。沒錯。就像如果你回頭看那些失敗的關係，最大的遺憾可能是在你明知已經結束之後還留在關係中。沒錯。你應該早點離開。在你明知行不通的那一刻，你就應該繼續前進。所以在這個意義上，我認為馬爾科姆·格拉德威爾（Malcolm Gladwell）普及了「一萬小時精通」這個概念。我會說實際上是「一萬次迭代精通」。它實際上不是一萬次。它是一個未知數。但它是關於迭代次數驅動學習曲線。迭代不是重複。重複是另一回事。重複是重複做同樣的事情。迭代是透過學習進行修改，然後做另一個版本。所以那是錯誤修正。所以如果你在任何事情上得到一萬次錯誤修正，你就會成為專家。
+### 八、 約定與其他概念的區別
+- **不是新年新希望**：約定是小而可實現的，可在一年中任何時候開始，而非年初雄心勃勃但易放棄的目標。
+- **不是習慣**：習慣是明確知道對自己有益並無限期承諾的行為；約定則是在不確定是否有效的情況下，測試一段時間後再決定是否轉為習慣。
+- **不是 KPI/OKR/績效指標**：約定純粹是為了學習新事物，而非追求成功或特定結果。
 
-**避免犬儒主義與悲觀主義**
-不要與憤世嫉俗者和悲觀主義者合作。你提到過那些家裡一團糟卻試圖拯救世界的人。但很多時候，我們在自己身上發現這種憤世嫉俗和悲觀主義。我們看待世界，無論是因為我們吸收了新聞或周圍負面人物的言論，還是它更內生一些。它只是在我們體內。這是我們看待世界的方式。人們如何避免自己內心的憤世嫉俗和悲觀主義？是的。憤世嫉俗和悲觀主義很難克服。我們天生就傾向於它。我再次回到進化論。我很抱歉一直強調進化論，但在生物學中，很少有好的解釋性理論。你知道，自然選擇的進化論可能是最好的。所以，如果你無法透過進化論解釋生活、心理學或人性中的某些事物，那麼你可能沒有一個好的理論。我會說悲觀主義是另一個由此產生的問題，那就是在自然環境中，你天生就是悲觀的。因為假設我在樹林裡看到一些東西在沙沙作響，如果我朝它走去，結果是食物和獵物，那麼很好，我能吃一頓飯。但如果結果是捕食者，我就會被吃掉，那就結束了。所以我們天生就被硬連線為避免毀滅，以及，你知道，只是死亡。所以我們天生就被硬連線為悲觀主義者。但現代社會非常不同。儘管你可能對現代社會有任何不滿，但它比生活在叢林中並試圖生存要安全得多。而且上行的機會是非線性的。例如，當你投資時，如果你做空一隻股票，你最多只能賺2倍。你只是損失，你知道，如果股票歸零，你就能賺兩倍的錢。但如果這隻股票是下一個Nvidia，它上漲100倍或1000倍，你就能賺很多錢。所以由於槓桿作用，上行空間幾乎是無限的。在現代社會中，因為你可以與這麼多不同的人互動，如果你約會失敗了，還有無限多的人可以約會。在部落系統中，可能只有20個人，你甚至無法全部約會。所以，現代社會對失敗的容忍度更高。你只需要在新生皮質層面上意識到並克服這一點。你必須意識到你更像是在運行一個搜尋功能，以找到會成功的事物。然後那件事會帶來巨大的複合回報。一旦你找到了你餘生的伴侶，你找到了你的妻子或丈夫，那麼你就可以在那個關係中複合。如果你中間有50次失敗的約會也沒關係。同樣地，一旦你找到你注定要投入的事業，它就會帶來複合回報。如果你有50個小型失敗的創業或50次小型失敗的面試也沒關係。失敗的次數並不重要。所以悲觀是沒有意義的。你想要樂觀。但我會說你想要對具體事物保持懷疑。每個具體的機會都可能失敗。但你想要在總體上保持樂觀，在總體上你想要相信這裡面會有什麼東西會成功。你如何駕馭這種張力？
-我的意思是，就像我說的，我總體上是樂觀的，如果現在有什麼失敗了，這有點玄乎，但那不是注定的。那是一次學習經驗。那是一次迭代。只要我從中學到了什麼，那就是勝利。如果我沒有從中學習，那就是損失。但只要你在學習，並且你快速迭代並快速止損，那麼當你找到正確的事情時，你必須樂觀並投入其中。所以，你不想跳入第一件事。你不一定想嫁給你約會的第一個人，除非你非常幸運。但是你想要非常快速地調查和探索，直到你找到匹配。然後你必須願意全力以赴。你必須願意把你的籌碼都推到桌子中央。所以這兩種方法都是必需的。所以這是一種槓鈴策略。它有點像黑色或白色。大多數人則被困在這種灰色地帶。我有點半心半意，但我不太確定我是不是。我還認為像悲觀主義者、樂觀主義者、憤世嫉俗者、內向者、外向者這樣的標籤是非常自我限制的。人類是非常動態的。有時候你覺得自己內向。有時候你覺得自己外向。在某些情境下你會悲觀。在某些情境下你會樂觀。放下所有這些標籤。最好只是看手頭的問題。以它本來的樣子看待現實。在某種意義上，試著把自己從等式中抽離出來。顯然你參與其中，但動機性推理是最糟糕的推理。你不會透過高度動機性推理找到真相。你必須客觀。而客觀意味著盡可能地把自己抽離出來，或者至少把你的個性抽離出來。所以，如果你帶著這種厚重的身份和個性，它會蒙蔽你的判斷。它會試圖把你鎖在過去。如果你說：「我是一個沮喪、不快樂的人。是的，我會不快樂。」那是一種把自己鎖在過去的方式。甚至說：「我有創傷。我有創傷後壓力症候群。」是的，你感覺到一些東西。有記憶。有閃回。偶爾會有不好的感覺。但不要用它來定義自己，因為那樣你就會把它鎖在你的身份中，你只會不斷地重複它。最好保持彈性，因為現實總是在變化，你必須能夠適應它。適應也是智慧。適應是生存。適應是你之所以在這裡的原因。你之所以在這裡，是因為你是一個適應者，你的祖先也是適應者。所以為了適應，你將能夠清楚地看待事物。如果你透過自己的身份看待事物，它會蒙蔽你的判斷。
+### 九、 結論：好奇心與自我意識的重要性
+- **投入好奇心**：確保過上有目的、有意識的生活，而非他人期望的生活。
+- **好奇心的益處**：使我們在不斷變化的世界中保持適應性和靈活，對新的可能性保持開放，並讓生活更有趣。
+- **神經科學支持**：對水的渴望與對資訊的渴望會激活大腦中相同的部位，印證了「渴望知識」的說法。
+- **自我意識**：思考自身心態並培養自我意識，是將好奇心導向真正想做的事情的有效方式。
+[Timestamp: 2025/11/15 23:28:56]
 
-**IV. 更深層次的洞見與未來展望**
+**user**: 去除時間軸
+[Context: Notes: 需翻譯_去時間軸/Tiny Experiments_ A System to Change Your Life-en.md]
+[Timestamp: 2025/11/15 23:31:50]
 
-**再談幸福（平靜、喜悅、意義）**
-一個快速的題外話，你可能以前聽我談過Element。事實上，你可能在想：「看在老天的份上，Chris，你能不能別再提Element了？」答案是不能，因為當我服用它時，我真的感覺到不同。我真的相信適當的水分補充對你的表現有巨大的影響。所以，我會繼續談論它，直到你開始喝它。Element是一種美味的電解質飲料混合物，包含你所需的一切，不含你不需要的任何東西。每個隨身攜帶的棒狀包裝都含有科學支持的鈉、鉀和鎂電解質比例，不含糖、色素、人工成分或任何其他垃圾。它在減少肌肉痙攣和疲勞，同時優化大腦健康、調節食慾和抑制渴望方面發揮關鍵作用。這種橙味在冰冷的玻璃水中，是我三年多來每天早上開始的方式，我真的感覺到與不喝時的差異。最棒的是，他們提供無條件退款政策，期限不限。所以，你可以購買並嘗試它，只要你喜歡。如果你因為任何原因不喜歡它，他們就會退款給你。你甚至不需要退回盒子。這就是他們對你喜歡它的信心。此外，他們在美國境內提供免費送貨。現在，你可以透過點擊下方描述中的連結或前往drinklnt.com/modernwisdom，即可獲得所有八種口味的免費試用包，並附帶你的第一個盒子。那就是drinklmnt.com/modernwisdom。
+**ai**: 好的，這是去除時間軸後的內容：
 
-**幸福再訪（平靜、喜悅、意義）**
-轉向思考幸福。顯然這是你的一個話題，老實說，這是我覺得最沒有資格談論的話題。這就像一個手臂很長的人教你如何臥推，或者一個很高的人教你如何硬舉？一個感覺自己從八號球後面走出來的人。是的。你是在問一個瘋子關於他們的想法。所以，只是想了一下。幸福仍然更多是關於平靜而不是喜悅嗎？這只是一個被過度使用的詞，對不同的人來說意味著不同的東西。所以，我甚至不確定我們是否在用相同的語言交流，但是，什麼是幸福？我認為它基本上就是對你所處的狀態感到滿意。不希望事情與現狀不同。沒有感覺到此刻有任何缺失。需要改變你當前的積極狀況，這取決於調整，取決於從外部世界獲得一些東西。
-諷刺的是，我想大多數人，如果你問他們什麼時候最快樂，是持續一段時間的快樂，而不是短暫的快樂，因為快樂可以超越幸福，創造一種幸福的幻覺。但如果你問人們什麼時候持續一段時間的快樂，他們可能正在做一些無所事事的事情。
-這很有趣，因為在追逐中存在著這種缺乏，這種偶然性。沒錯。但你也會感到無聊。如果你整天只是坐著，你會感到無聊。所以你想要冒險，你想要驚喜。就像有一個有趣的思想實驗，叫做「極樂機器」，對吧？假設我可以在你的頭上鑽一個洞，然後插入電極。他們對猴子做過這個實驗，我可以在那裡插入一根電線，我可以刺激你大腦的正確部分，我可以讓你進入極樂狀態，你就會一直處於極樂狀態。你會想要那樣嗎？那會很好嗎？多久？做吧，我會告訴你。對。所以大多數人會說：「好吧，我不想那樣。我想要意義。我不想只是極樂。我想要意義。」然後你會說：「好吧，我會在裡面插入電極，然後我會給你意義。怎麼樣？」如果你把這個思想實驗進行足夠長的時間，我想大多數人會意識到，實際上我想要的是驚喜。我想要世界給我驚喜，我想要以某種可預測但又有點不可預測的方式與它搏鬥。你最終會回到原點。所以我不知道對某些人來說，純粹的幸福是否是最終目標。他們想，你知道，無論身在何處，無論何時，都只是幸福快樂。但我認為其他人，大多數人會說：「好吧，我來到這個世界。我來到這個生命中。我不理解它或為什麼，但我想參與其中。我想被驚喜。我想做事情。我想完成事情。我想想要東西，然後得到它們。」對吧？這就是我們所有人都在玩的遊戲。驚喜真的很有趣。那種不可預測性。我想這完全是「兄弟科學」，但我很確定這就是多巴胺的運作方式。事情比你預期的要好一點。這意味著，如果你對於那些長期缺乏安全感的過度成就者來說，他們渴望控制，他們真的希望能夠完美地安排日程，我們知道行程，我們知道我們什麼時候會在什麼地方。你在某種程度上，我想，減少了驚喜的能力，因為一切都變得非常刻意、規定、提前完成、安排好，你被驚喜的能力實際上減弱了。是的。如果一切都沒有按照你預期的方式發展，如果一切都是隨機的，而你又不想要那樣，你就會變成一個焦慮的球。另一方面，如果一切都按照你預期和想要的方式發展，你會感到如此無聊，你可能還不如死了。所以，你知道，生命的河流在兩岸之間流淌，享受它吧。你說思考自己是所有不快樂的根源，但你大概也需要努力提升自己和克服弱點。所以一定程度的反思是重要的。如果思考自己是不快樂的根源，這是你必須付出的代價嗎？我需要向內反思。我將不得不暫時降低這種幸福感，然後我才能使用這個新的水平。我已經拿到了我的棕帶，我可以作為一個棕帶進入世界。我特別指的是，如果你在思考你的個性、你的自我、你的性格，而且你沉迷於此。那正是很多抑鬱和不快樂滋生和培養的地方。所以，思考「我真可憐，這發生在我身上，那發生在我身上。我有這種個性。我有這個問題。我應得這個。我沒有得到那個。」你只是在強化一個永不滿足的小野獸。我認為很多不快樂都來自於此。那野獸是什麼？是自我。但這個詞被過度使用了，所以我有點討厭使用它。但它就像一系列反覆出現的、非常自我沉迷的、永不滿足的思想。也非常具體化。所以它們不可塑，也不是特別靈活。所以你只是透過不斷思考它們來增加它們。你正在創造敘事、故事和身份。但這與解決個人問題不同。所以如果你遇到什麼事，你從中學習，你反思學習，然後你可以反思它，吸收它，然後繼續前進。但坐在那裡說：「我是Chris。我是Nal。我應得這個。這發生在我身上。那個人冤枉了我。這就是我。這不應該發生。我需要去報復這個，或者我需要修復那個，或者改變這個。」我的意思是，我認為很多精神疾病都來自於此。所以這取決於你是否在思考某件事以解決問題，讓它從你心頭卸下。如果它最終讓你的心智更清晰，那麼我認為它是值得的。如果它最終讓你的心智更忙碌，那麼你可能走錯了方向。這是一種超然的理由嗎？刻意的無知，分心。超然不是目標。超然是副產品。它只是意識到什麼重要什麼不重要的副產品。而且，就自我而言，我認為每個人都渴望思考比自己更重要的事物。如果你想在某種程度上快樂，你必須忘記你的個人問題，而做到這一點的一種方法是承擔其他問題，更大的問題，那可能是一個使命，那可能是靈性，那可能是孩子，那可能是關心地球，儘管我認為人們對此有點過頭了，你知道，然後他們變得有點壓迫和暴虐，以支持抽象的概念，所以這些可以走得太遠，就像宗教一樣，就像任何過度的事物一樣，任何過度的事物，對吧？但總的來說，你越少思考自己，你就越能思考一個使命，或者關於上帝，或者關於一個孩子之類的事情。所以我記得Loom的創始人Vinnie Himmath說：「我很有錢，但我不知道該如何生活。」你回答說：「上帝、孩子、使命，至少選一個。」沒錯。最好是全部三個。這非常解放。
-嗯，是的，我想過度思考自己可能是，它可能不是抑鬱症的原因，但它肯定沒有幫助。
-反芻思維。是的。我有點患上了自我誘發的斯德哥爾摩症候群，因為我喜歡思考事情，而你提供了無數的事情讓我思考。所以，你有點，是的，你，你是囚犯，同時也是獄警。我邀請了Abigail Shrier上節目。她寫了一本名為《糟糕的治療》的書，有點反對針對兒童的治療文化，特別是針對兒童的。但它的影響範圍幾乎涵蓋了所有事物，包括認知行為療法。我想，該死，我們離一些真正基於證據的東西越來越近了。
-但我越是思考，越是審視證據，就會發現，你思考自己越多，你就會越痛苦，這兩者之間幾乎存在直接的關聯。如果治療能讓你發洩，解決問題，然後幾次療程後你就結束了，你很清楚，那治療是很好的。但如果你只是永遠在同一個問題上打轉，那麼它實際上是反效果的。你沉浸其中。你放縱其中。是的。是的。你的「快樂技巧」是如何隨著時間發展的？是的，我以前有很多。現在我盡量不使用任何技巧，因為我認為技巧本身就是一種掙扎。這有點像爭奪地位意味著你地位低下。它揭示了你地位低下。所以，一個基本上試圖炫耀的人，會給人一種地位低下的感覺。同樣地，一個試圖快樂的人，有點像在說「我不快樂」，並創造了那個框架。所以最好連想都不要想，你將自己定位為缺乏，以便獲得。是的。我甚至不再用「快樂」或「不快樂」來思考了。我只是做我的事。
+you can actually run experiments on the
+side of doing other things your tiny
+experiments don't necessarily have to
+completely replace whatever other
+projects you're working on Anor is an
+entrepreneur the author of Nest Labs an
+ex Google employee and now the author of
+a new book tiny experiments I'm a
+neuroscientist I am obsessed with
+curiosity at Google we were encouraged
+to be curious within that limited
+playground in this video we sit down and
+talk about how to run experiments to
+improve your life instead of setting
+goals up to the moment where my startup
+failed I hadn't really considered Life
+as a giant experiment that was the
+moment where something really clicked
+for me you're literally taking the
+uncertainty and you're turning it into
+something generative and action driven
+again these aren't goals they're ways to
+transform your life iteratively one
+experiment at a time the way to do this
+is to fill a very simple template that I
+call I am Laura thank you so much for
+joining me today thank you for having me
+I'm excited for those of you people who
+may not know who you are what is one
+thing they should know about you that'll
+provide like some context here with what
+we're about to talk about I obsessed
+with curiosity I'm a neuroscientist I
+study neuroscience at the ADHD research
+lab at Kings College London and I write
+a newsletter every week that is all
+about systematic curiousity and mindful
+productivity I really see my life in two
+different chapters there was a first
+chapter that was very linear where I was
+very focused on success I used to work
+at Google I worked on a couple of
+startups the traditional definition of
+success getting a good job getting
+promoted working on cool projects making
+money all of that and it's only when my
+startup fell that I went back to
+University to study neuroscience and
+started that second chapter of my life
+where I'm a lot more experimental and
+trying new
+things what does it look like to run a
+tiny experiment in your life so if you
+want to design a tiny experiment it all
+starts with observation and I know for a
+lot of us and especially in the
+productivity space we like doing things
+we like building things we like the
+action of exploring discovering so I
+know it can create a little bit of
+resistance to just say hey for now
+actually we're just going to observe and
+you take little notes no judgment just
+observing based on that
+you start formulating a hypothesis so
+you looked at the way things are and you
+start asking what might be what might be
+different maybe I would actually enjoy
+doing this thing differently maybe I
+would enjoy doing more of that work just
+using your instinct to see if something
+is really picking your curiosity you can
+start designing your first tiny
+experiment the way to do this is to fill
+a very simple template that I call a PCT
+which I Define as a commitment to
+curiosity I will will insert an action
+or insert a duration so for example I
+will write a weekly news letter every
+week for the next six weeks I will go on
+a daily walk every day for the next two
+weeks and listen to a new podcast I will
+read one research paper every Monday for
+the next five weeks and I will take
+notes and then share it in a substack
+you do it you don't you withhold
+judgment you don't try to analyze it yet
+you just conduct the experiment and you
+wait until done and you've gone through
+all of these repetitions to look back
+and see how that actually
+felt for many people myself included I
+when I think about actual like
+experiments it kind of seems to be the
+domain of academics and it might make it
+feel like whatever experiment I'm
+running I'm doing wrong so I'm curious
+what are the telltale signs of running a
+for lack of a better good experiment in
+your life number one sign that you're
+running a good experiment might not be
+what you would expect but it's whether
+you're excited about it are you actually
+excited to explore this question to try
+new things in that area of your life if
+not that's already a good sign that
+maybe that's not worth exploring so
+something you are actually curious about
+your level of curiosity is a good factor
+to look at the second one is whether
+it's doable can you actually complete
+the experiment if you went for something
+really ambitious and you never finish
+collecting the data then that's not a
+good experiment that's why it's always
+better to try to go for something a
+little bit smaller and shorter if you're
+in doubt if you want to experiment with
+meditation for example maybe try it for
+10 days first don't go to a vpaa retreat
+straight away try to do something a
+little bit more manageable first same
+for the newsletter again with my first
+one I went really extreme I said 100
+days but since then I have refined My
+Method a lot and I have realized that
+it's a lot easier to stick to something
+that is smaller so don't necessarily go
+for the 100 articles in a 100 days just
+say what would it look like maybe six
+newsletters over the next six weeks and
+number three something that is out of
+your comfort zone something where you
+will learn something new and not
+something that is optimized for Success
+if you're picking an experiment because
+it feels really comfortable and you feel
+like if I do this I know I'll get this
+result and this is great this is more of
+a regular project it's not really an
+experiment an experiment needs to start
+from a place of uncertainty you don't
+already have the answer you have a
+hypothesis you might have an inkling of
+an answer you might feel like maybe I'll
+enjoy this maybe this will help maybe
+this will make me more productive but
+I'm not 100% sure that's why I'm running
+the experiment so those would be the
+three factors I would look at in terms
+of Designing a good experiment one thing
+that I love so much about this model
+that you create is its form factor for
+lack of a better it's in the title tiny
+experiment so this idea that even if you
+have a fulltime job or you have busy
+family life or something like that you
+can run these experiments I believe that
+you can actually run experiments on the
+side of doing other things and that your
+tiny experiments don't necessarily have
+to completely replace whatever other
+projects you're working on they can be
+just a way to maybe discover another
+area of your life where you want to
+explore where you want to try new things
+and in fact I know that for some people
+they do like to stick to something
+fairly stable in one area of their life
+and experiment a lot in another so you
+might say you know what actually I have
+this job and I could do it with my eyes
+closed I know exactly what I'm doing
+I've been working in this world for
+quite a few years I'm not going to
+experiment there I'm very happy with the
+way it works but I'm going to experiment
+a lot with my health I want to figure
+out what works what doesn't for me I'm
+going to experiment with different gym
+routines I'm going to try different
+diets I'm going to experiment with the
+time at which I go to bed for example
+I'm going to keep track and see how that
+impacts my creativity and my
+productivity one thing that I've always
+found interesting about the scientific
+method is that most people when they're
+conducting experiments are trying to
+find ways to prove themselves wrong and
+that's not at all the case really when
+we think about personal productivity a
+lot of times we try things out and we
+are so scared of failure it's like the
+worst possible thing to prove ourselves
+wrong and I'm kind of curious how this
+very well tested approach to developing
+the best knowledge we have somehow feels
+so hard when we bring it into our own
+lives yeah this is actually a question
+that's very close to my heart which is
+how can we reinvent our relationship to
+failure and I do think that having an
+experimental mindset can help a lot I
+have a an entire chapter in the book
+where I talk about my problem with the
+traditional definition of goals and
+these are great if you want to make sure
+that you achieve a very narrow
+definition of success so it's a much
+more experimental approach versus that
+linear smart goal type of approach that
+a lot of us are using in our
+productivity systems the only goal a
+scientist has is to learn something new
+if by the end of exper the experiment
+you collected new data and you learn
+something something new whether it's
+something new about the world about your
+work or about yourself then that's
+success and I know for a lot of people
+it feels less satisfying because there's
+less of the sense of a an end goal and a
+destination and a milestone that you get
+to but this is how you can ensure that
+you keep on growing even though you
+don't really know where you're going and
+because of that the direction you might
+take might be very different from what
+you could have imagined in the first
+place and that's completely okay
+I'd love to hear a little bit more about
+tiny experiments that aren't about
+getting more done or you know getting
+more followers or more money or more ABS
+or something like that but just a little
+bit more of a emotional and highly
+personal application yeah absolutely you
+don't have to only run experiments for
+your work or your productivity they can
+actually be very helpful for I want to
+say inner curiosity this self curiousity
+that where you turn your attention
+inward word and you try to figure out
+what is going on here what's interesting
+what could change what do I want to try
+you could experiment with meditation
+with journaling with sitting with
+yourself and observing your own thoughts
+the other great thing about experiments
+is that you're not committing to it for
+the rest of your life like a habit where
+you say to your partner for example from
+now on and for the rest of our lives we
+have to do this date night every Friday
+you could say let's just do that for a
+month or two and see if we like it or
+not and then we can tweak it together
+same with your work you can say I'm
+actually going to try this system for a
+few weeks and I'm going to see if it
+works for me or not that's the
+difference between an experiment and a
+habit is that with the Habit you already
+have the answer in terms of whether this
+is good for you or not you're already
+convinced that if you stick to this
+habit forever this is going to be good
+for you whereas with an experiment you
+feel like maybe that would be good for
+you but you don't assume that because it
+works for other people it's going to
+work for you as well so you're going to
+test it and you're going to collect your
+own data and based on that data you're
+going to decide whether you want to keep
+going tweak it or completely abandon
+it what tiny experiments are you running
+in your life right now if you have any
+time for any tiny experiments oh that's
+funny because the experiment I'm running
+at the moment is based on the fact that
+I have almost zero time uh so I'm
+running an experiment where I'm I've
+committed my practice to walk for 20
+minutes every day for the next 20 days
+whatever happens I'm in this promotional
+phase I'm recording quite a few podcasts
+I'm in meetings I have a lot of copy to
+write and I could spend my entire day in
+front of my computer and then be so
+tired that I just lay down on my bed and
+maybe watch something on Netflix and
+rinse and repeat and that's when I
+decided okay I need to find an
+experiment that's going to help me feel
+better and I'm not quite sure again I
+don't have the answer is it working or
+not I don't know but out of everything I
+came up with that felt like the easiest
+experiment to implement right now with
+the mental space that I have which is
+almost zero and the energy that I have
+which is almost zero also so that's why
+I designed this experiment in this way
+just 20 minutes which is very very short
+and just for the next 20 days which is
+almost going to bring me to the date of
+the book launch we'll see if that works
+I might keep going
+actually people may be hearing about
+this for the first time and they may
+have like no idea where to even begin
+constructing a tiny experiment and given
+that you're in the I have zero time for
+anything space in your life are there a
+couple questions maybe or prompts that
+would help people kind of even think
+about creating a tiny experiment
+something that is very fun to do
+actually and you can do very quickly is
+just open your calendar and look at the
+way you spent your last week that's it
+and open a notebook or take some notes
+but look at the meetings and ask
+yourself whether some meetings gave you
+energy whether others drained your
+energy what felt good looking at your
+calendar is a way to prompt those
+thoughts ask yourself is there anything
+I can change that's it is there one
+thing I can change it can be very very
+small and then try it next week just say
+for five days I'm going to do this thing
+differently and that's it you have your
+first tiny experiment to start designing
+your own tiny experiments pick up your
+own copy of tiny experiments we will put
+all that information down below as well
+as different places where you can find
+an L's incredible work andl thank you so
+much for writing this book and spending
+time with us where can people learn more
+about you thank you so much for having
+me you can go to nls.com where you can
+subscribe to My Weekly Newsletter which
+I send every Thursday and if you want to
+get a copy of the book you can just look
+up tiny experiments anywhere books are
+sold
+[Timestamp: 2025/11/15 23:32:09]
 
-**睡眠與慾望**
-另一個類似的問題是，你認為如果沒有經歷過程序化、系統化、一步一步的過程，然後從另一端走出來，你是否能達到現在的狀態？我認為沒有任何公式。我認為這對每個人來說都是獨特的。這就像問一個成功人士：「你是如何成功的？」他們每個人都會給你一個不同的故事。你無法追隨任何人的道路，而且他們大多數人甚至可能在講述一個經過敘事化的版本，那並不完全真實。我的意思是，這是我不斷意識到的事情，特別是當我花更多時間與成功人士相處時，你會聽到，「平衡工作與生活非常重要」，這是成功人士最常說的話之一，那不是我的經驗，但如果你看，你不應該問一個成功人士他們現在做什麼來維持成功，你應該問他們在你所處的位置時，他們做了什麼來獲得成功，而那些真正非凡成功的人並沒有坐在那裡看成功色情片。他們只是去做了。他們對他們正在做的事情有如此壓倒性的渴望，以至於他們只是去做了那件事。他們沒有時間學習、聆聽，他們只是去做了。壓倒性的渴望是最重要的，以及由此產生的專注。
-你那條推文說，擅長創造財富的人或擅長獲得財富的人不需要教別人怎麼做。是的。你不需要導師，你需要行動。那是其中之一。另一個是，你知道，那些真正知道如何賺錢的人不需要向你推銷課程。是的，有很多變體。但如果，另一個是，如果你晚上沒有為它失眠，你就沒有足夠的渴望。
-是的。我想你，我聽你以前談過，未解決的問題會讓你失眠，而且，我睡不好。告訴我這件事。哦，我的意思是我的Eight Sleep恨我。它總是纏著我。我又睡不好覺了。Brian Johnson認為我會早死。他可能說得對。但我，你覺得你一晚睡多久？你有概念嗎？哦，這太隨機了。有時候我會睡8小時。有時候我會睡4小時。但這真的只是隨機的。你對此感到困擾嗎？你試圖優化嗎？你的睡眠教練教你如何，我不會為這些事自責。如果我想睡覺，我就會睡覺。如果我不想睡覺，我就不會睡覺。我不認為我做錯了什麼。你不會把它標記為好夜晚，壞夜晚。不，我每天都鍛鍊，因為我認為它能給我更多能量，而且我已經養成了好習慣。也許我對睡眠也會這樣。也許我會養成好習慣，但我不會為此自責。總有一天它會對我來說很重要，當它對我來說很重要時，我就會去做。你知道，大多數，例如，你看那些有癮的人，對吧？暴飲暴食或吸煙之類的，他們可以嘗試所有不同的方法，但都是半心半意的，然後有一天他們會說：「哦，該死，我得了肺癌」，或者「我爸爸得了肺癌」，然後他們會立即戒掉。
-所以我認為很多改變更多是關於慾望和理解，而不是關於強迫自己或試圖馴服自己。所以，我想這又是效率。你知道，將你想做的事情與你對你想做的事情的感受保持一致。是的。它不是被半心半意的慾望或模仿性慾望所困擾。它只是真正意識到你此刻真正想要什麼。當你想要某樣東西時，你就會以最大的能力去行動。那才是行動的時候。在此期間，只是因為別人告訴你應該做，或者社會告訴你應該做，或者你感到有點內疚而去做。這些都是半心半意的努力，而半心半意的努力無法讓你達到目標。
+**user**: 翻譯成繁體中文
+[Context: Notes: 需翻譯_去時間軸/Tiny Experiments_ A System to Change Your Life-en.md]
+[Timestamp: 2025/11/15 23:32:19]
 
-**焦慮與壓力**
-隨著年齡增長，有一件事變得越來越難以忽視，那就是你的睪固酮水平。它影響著從你的精力到你的情緒，以及你恢復得如何的一切。然而，有科學支持的補充劑，如東革阿里，可以支持睪固酮強度和恢復。這就是為什麼我如此熱衷於Momentus的產品，因為他們生產地球上唯一獲得NSF認證的東革阿里。這意味著它經過嚴格測試，甚至奧運選手都可以使用，這也是我與他們合作的原因，因為他們生產最經過仔細測試、最高品質的補充劑。這是我大腦、身體和睡眠堆棧的重要組成部分，對我的認知、力量和恢復產生巨大影響。如果你仍然不確定，Momentus提供30天退款保證。所以你可以購買並嘗試它29天，如果你不喜歡，他們會退款給你。此外，他們還提供國際運送。現在，你可以透過點擊下方描述中的連結或前往livemomentous.com/modernwisdom，並在結帳時使用代碼modernwisdom，即可獲得訂閱35%的折扣和30天退款保證。那就是l i v m o m e n t o u s.com/modernwisdom，並在結帳時使用modernwisdom。
+**ai**: 好的，這是該筆記的繁體中文翻譯：
 
-**焦慮與壓力**
-你之前提到焦慮。你的其中一句話是：「想像一下，如果你不總是焦慮，你會多麼有效率。」焦慮是21世紀的情緒。許多有衝勁的人，非常焦慮，非常偏執。這就是讓他們變得有效率的原因。他們非常注重細節，不放過任何事情。晚上睡不著覺，思考著它。那就是偏執在作祟。你對焦慮和處理它學到了什麼？所以焦慮和壓力很有趣。它們非常相關。壓力是當，就像你看一根鐵樑，當鐵樑承受壓力時，是因為它同時被彎曲成兩個不同的方向。所以當你的心智承受壓力時，是因為它同時有兩個相互衝突的慾望。例如，你知道，你想要被喜歡，但你又想做一些自私的事情，你無法調和這兩者，所以你承受著壓力。你想要為別人做點什麼，你想要為自己做點什麼，對吧？這些都是例子。你不想去工作，但你又想賺錢，所以你承受著壓力，對吧？所以你有兩個相互衝突的慾望，我認為擺脫壓力的方法之一是承認「哦，我實際上同時有兩個相互衝突的慾望」，然後我需要解決它。我需要選擇一個，然後接受失去另一個，或者我稍後再決定。但至少意識到你為什麼會感到壓力，可以幫助減輕很多壓力。然後焦慮，我認為，是一種普遍的、無法識別的壓力，你總是感到壓力，你甚至不確定為什麼，你甚至無法識別潛在的問題。我認為原因是因為你生活中積累了太多未解決的問題，未解決的壓力點，以至於你無法再識別問題是什麼。你的心智中有一座垃圾山，它像冰山一樣從頂部冒出了一點點，那就是焦慮。但在下面，有很多未解決的事情。所以你只需要每次焦慮時都非常仔細地去思考。就像：「好吧，這次我為什麼焦慮？我不知道為什麼。哦，好吧，讓我坐下來思考一下。讓我寫下可能的原因。讓我冥想。讓我寫日記。讓我找治療師談談。讓我找朋友談談。讓我看看這種壓力什麼時候會消失？」如果你能識別、解開並解決這些問題，那麼我認為這有助於擺脫焦慮。
-很多焦慮堆積起來，是因為我們生活過於匆忙，沒有觀察自己對事物的反應。我們沒有解決它們。所以，這與我之前說的不要過度反思事物相悖。但你反思問題是為了觀察和解決它們。你反思它們不是為了讓自己感覺更好，不是為了放縱它們。好吧，如果你這樣做只是為了讓自己感覺更好，那可能會強化你的個性和自我，並可能創造一個更脆弱的個性。你知道，對我來說，一個很大的焦慮解決方法就是反思死亡。我認為這是一個很好的方法。你會死。一切都會歸零。你什麼都帶不走。我知道這很老套。我知道我們沒有花足夠的時間思考大問題。我們在很小的時候就放棄了它們。你知道，一個小孩子可能會問大問題，比如：我們為什麼在這裡？生命的意義是什麼？這一切是關於什麼？你知道，有聖誕老人嗎？有上帝嗎？但作為成年人，我們被教導不要思考這些事情，或者我們已經放棄了它們。但我認為大問題之所以是大問題，是有充分理由的。如果你能時刻把「你會死，而且一切都會歸零」這個想法放在心上。還有什麼好壓力的呢？是的。無論好壞，生命都非常短暫。人們應該如何應對它的短暫？
-享受它。盡力而為。你知道，它甚至比那更短暫。每個時刻都消失了。它消失了。只有當下，而且它瞬間就消失了。所以如果你不在場，如果你感到壓力或焦慮，或者你在思考別的事情，你就錯過了它。所以你任何不在那個時刻的時刻，你對那個時刻來說就是死了。你可能還不如死了，因為你的心智正在做別的事情，或者，你知道，活在某個想像的現實中，那只是實際現實的一個非常糟糕的替代品。所以我最近的一個領悟是，什麼是浪費時間？什麼是浪費時間？所以我不想浪費時間，但什麼是浪費時間？從某種意義上說，一切都是浪費時間，因為最終什麼都不重要。但在每個時刻，事情都很重要。在每個時刻，它是唯一重要的事情。實際上，發生在你面前的事情，字面上擁有世界上所有的意義。所以重要的是活在當下。所以如果你正在做你想做的事情，並且你完全投入其中，那麼這就不是浪費時間。如果你不想做，而且你的心智正在逃避它，而且你正在反抗它，而且你希望你在別處，而且你在思考一些未來的事情，或者後悔一些過去的事情，或者害怕一些事情，那麼那就是浪費時間。那是你沒有真正活在當下，沒有活在眼前的現實中的時間。所以我對浪費時間的定義是，是的，我確實想要生活中的一些物質事物，而且，你知道，在這個生命中，有些事物比其他事物更有價值，但這個生命非常短暫且有限。所以真正的浪費時間是你不活在當下的時間，當你不在場的時候。當你沒有盡力做你想做的事情，以至於你沉浸其中。如果你沒有沉浸在這個時刻，那麼你就是在浪費你的時間。人們擔心死亡和不再存在，但他們沒有意識到，他們生命中大部分時間都沒有真正活在當下。沒錯。但我認為人們渴望活在當下。當你活在當下時，你實際上並沒有思考自己。你更沉浸在事物中，沉浸在當下，沉浸在手頭的任務中。我們不想要心境的平靜。我們想要心靈的平靜。沒錯。是的。你不需要平靜。如果你讓心智吞噬你，它就會吞噬你。而且你比心智更多。怎麼說？
-我的意思是，我不想拆解身體，可以這麼說，對吧？因為請繼續。是的。歸根結底，一切都產生於你的意識之中，對吧？你沒有其他地方可以體驗它。抱歉。你沒有其他地方可以體驗它。你沒有其他地方可以體驗它。而那個意識，從某種意義上說，是相對靜態的，從你出生到你死亡的那一刻，它一直都是完全一樣的。你所經歷的一切，從你的身體到你的心智，到世界，到一切，都在那個意識之中。而那個事物，那個存在的基礎層，這就是佛教徒會告訴你的，是真實的事物。所有來來去去的事物，包括你的心智，包括你的身體，都是不真實的。試圖在那些短暫的事物中尋找穩定性，就像你建造在沙灘上的城堡，它會崩塌。生命會按照它自己的方式展開。會有好有壞。大部分實際上都取決於你的詮釋。你出生了，你有一系列的感官體驗，然後你死了。你如何選擇詮釋這些體驗，取決於你。不同的人以不同的方式詮釋它們。是的。那句老話說，兩個人走在街上，他們有著完全相同的經歷。一個快樂，一個悲傷，對吧？那是他們腦海中的敘事。那是他們如何選擇詮釋。嗯，所以我想當我說那句話時，是很久以前的事了。我更多地是在談論積極的詮釋和消極的詮釋。但現在，我認為最好不要有任何詮釋，只是讓事情順其自然。
-你仍然會有詮釋。你無法阻止它。你也不應該嘗試，但即使是擁有詮釋，也只是一件你可以置之不理的事情。
-是的。我真的想再深入一點，最好的方式來提醒人們他們應該珍惜自己的時間。生命是多麼短暫，你花在反芻、分心、對過去的恐懼、遺憾上的時間。
-好吧，我不想告訴任何人如何生活。我只想說，如果你想提高生活品質，最簡單最好的方法就是客觀地觀察自己的心智和思想，然後你會意識到自己的循環和模式。這需要時間。這不是一蹴可幾的。所以你的意思是放手不是一次性的事件。是的。而且放手不一定是正確的答案。是的，如果你想成為一個開悟的人，你知道，你想像神一樣生活，一切都會完美，成為佛陀，當然你可以放手。但在實踐中，我認為這實際上很難做到。
-嗯，我想我會說，你會從生活中找到很多滿足感，只要做你想做的事，真正探索你想要什麼，而不是做別人期望你做的事，或者社會期望你做的事，或者你可能只是認為理所當然應該做的事。嗯，你知道，我想大多數年長的成功人士都會告訴你，他們的生活在毫不歉疚地按照自己的方式生活時是最好的。
-自私一點。整體自私。我們可以剪掉那個「自私」的小片段。是的。是的。是的。不斷重複。壞人。太棒了。我有一個見解，或者說一個問題。你認為我們應該多大程度上相信我們腦海中的聲音？因為一半的智慧建議依賴你的自下而上的直覺，而另一半則必須盡可能地自上而下理性。你如何駕馭這種頭腦和直覺之間的張力？
-我認為直覺是決定者。頭腦只是事後合理化。直覺是最終的決策者。如果它不，直覺是什麼？直覺是精煉的判斷力。它是品味聚合而成的，它可能透過進化聚合而成，存在於你的基因和DNA中，或者它可能透過你的經驗和你思考過的事情聚合而成。心智擅長解決新問題，以及外部世界中具有明確邊界、起點和終點以及目標的新問題。心智真正不擅長的是做出艱難的決定。所以當你必須做出艱難決定時，我發現最好是，是的，你反覆思考。你思考所有的優缺點，然後你睡一覺。你等幾天。你等到直覺的答案帶著信念出現，並且感覺是對的。當你年輕時，這需要更長的時間，因為你沒有那麼多經驗。當你年長時，它會發生得更快，這就是為什麼，你知道，你時間更少。是的。而且老年人因此更固執，對吧？他們知道自己想要什麼。他們知道自己不想要什麼。所以培養你的直覺和判斷力需要時間。但一旦你培養了它們，就不要相信其他任何東西，因為你不能違背你的直覺。它最終會反噬你。通常在失敗的關係中，你可以回頭說：「哦，實際上，我知道它會失敗，因為這個原因，但我還是繼續了，因為我希望它是這樣，對吧？我希望這個人與眾不同，或者我希望從中得到不同的東西，而不是我知道我會得到的，但我就是想要它。」所以有時候慾望會超越你的判斷力，然後陷入陷阱。是的。一廂情願。它把你困在一條耗費時間的道路上。
+你實際上可以在做其他事情的同時進行實驗，你的微型實驗不一定需要完全取代你正在進行的其他專案。安諾爾是一位企業家，Nest Labs 的作者，前 Google 員工，現在是新書《微型實驗》的作者。我是一名神經科學家，我對好奇心非常著迷。在 Google，我們被鼓勵在有限的範圍內保持好奇。在這段影片中，我們坐下來討論如何透過實驗來改善你的生活，而不是設定目標。直到我的新創公司失敗的那一刻，我才真正將生活視為一個巨大的實驗，那是我真正領悟到一些事情的時刻。你實際上正在將不確定性轉化為具有生成性和行動力的東西。再說一次，這些不是目標，它們是逐步改變你生活的方式，一次一個實驗。這樣做的方法是填寫一個非常簡單的模板，我稱之為「我」。蘿拉，非常感謝你今天加入我。謝謝你邀請我。我很高興。對於那些可能不認識你的人，他們應該知道關於你的一件事是什麼，這將為我們接下來要談論的內容提供一些背景。我對好奇心非常著迷。我是一名神經科學家，我在倫敦國王學院的 ADHD 研究實驗室研究神經科學，我每週都會寫一份電子報，內容都是關於系統性好奇心和專注生產力。我真的將我的生活分為兩個不同的章節。第一個章節非常線性，我非常專注於成功。我曾經在 Google 工作，我參與了幾家新創公司，傳統意義上的成功，找到一份好工作，獲得晉升，參與很酷的專案，賺錢，所有這些。直到我的新創公司失敗，我才回到大學學習神經科學，並開始了我人生的第二個章節，在這個章節中，我更具實驗性，並嘗試新事物。在你的生活中進行一個微型實驗是什麼樣子的？所以如果你想設計一個微型實驗，它都始於觀察。我知道對我們很多人來說，尤其是在生產力領域，我們喜歡做事，我們喜歡建造東西，我們喜歡探索發現的行動。所以我知道這可能會產生一些阻力，只是說，嘿，現在，我們實際上只是要觀察，你記下一些小筆記，不帶任何判斷，只是觀察。基於此，你開始形成一個假設。所以你觀察了事物的現狀，你開始問，可能會是什麼？可能會有所不同嗎？也許我會喜歡以不同的方式做這件事，也許我會喜歡做更多那樣的工作，只是憑直覺看看是否有什麼真正激發了你的好奇心。你可以開始設計你的第一個微型實驗。這樣做的方法是填寫一個非常簡單的模板，我稱之為 PCT，我將其定義為對好奇心的承諾。我將插入一個行動或插入一個持續時間。例如，我將在接下來的六週內每週寫一份電子報。我將在接下來的兩週內每天散步，並聽一個新的播客。我將在接下來的五週內每週一閱讀一篇研究論文，然後記下筆記，並在 Substack 上分享。你做到了，你沒有。你不要帶有判斷，你不要試圖分析它，你只是進行實驗，然後你等到完成，你經歷了所有這些重複，然後回頭看看那實際感覺如何。對於許多人，包括我自己，當我想到實際的實驗時，它似乎是學術界的領域，這可能會讓我覺得我正在進行的任何實驗都是錯的。所以我很好奇，運行一個，恕我直言，好的實驗在你的生活中，有什麼明顯的跡象？你正在進行一個好的實驗的第一個跡象可能不是你所期望的，但它取決於你是否對它感到興奮。你是否真的興奮地探索這個問題，在你的生活領域嘗試新事物？如果不是，那已經是一個很好的跡象，也許那不值得探索。所以你真正好奇的事情，你的好奇心水平是一個很好的因素。第二個是它是否可行。你真的能完成實驗嗎？如果你追求一些非常雄心勃勃的事情，但你從未完成數據收集，那麼這不是一個好的實驗。這就是為什麼如果你有疑問，總是最好嘗試一些更小、更短的事情。如果你想嘗試冥想，例如，也許先嘗試 10 天，不要馬上參加內觀靜修。先嘗試一些更容易管理的事情。電子報也是一樣，我的第一個電子報，我做得非常極端，我說 100 天，但從那以後，我改進了很多我的方法，我意識到堅持一些更小的事情要容易得多。所以不一定要追求 100 天寫 100 篇文章，只是說，那會是什麼樣子？也許接下來六週寫六份電子報。第三個是超出你舒適區的事情，你會從中學到新東西，而不是為了成功而優化的東西。如果你選擇一個實驗是因為它感覺很舒服，你覺得如果我這樣做，我知道我會得到這個結果，這很棒，這更像是一個常規專案，它不是一個真正的實驗。實驗需要從不確定性開始。你還沒有答案，你有一個假設，你可能對答案有一點點預感，你可能覺得我會喜歡這個，這可能會有所幫助，這可能會讓我更有效率，但我不是 100% 確定，這就是為什麼我正在進行實驗。所以這些將是我在設計一個好的實驗時會考慮的三個因素。我非常喜歡你創建的這個模型的一點是它的形式，恕我直言，它在標題中就是「微型實驗」。所以這個想法是，即使你有一份全職工作，或者你家庭生活很忙，或者類似的事情，你也可以進行這些實驗。我相信你實際上可以在做其他事情的同時進行實驗，你的微型實驗不一定需要完全取代你正在進行的其他專案。它們可能只是一種方式，也許可以發現你生活中另一個你想要探索、想要嘗試新事物的地方。事實上，我知道有些人確實喜歡在他們生活的一個領域保持相當穩定，而在另一個領域進行大量實驗。所以你可能會說，你知道嗎，實際上我有一份工作，我可以閉著眼睛做，我確切地知道我在做什麼，我在這個領域工作了很多年，我不會在那裡進行實驗，我對它的運作方式非常滿意，但我會對我的健康進行大量實驗。我想弄清楚什麼對我有效，什麼無效。我會嘗試不同的健身習慣，我會嘗試不同的飲食，我會嘗試我上床睡覺的時間，例如，我會記錄下來，看看這如何影響我的創造力和生產力。我一直覺得科學方法有趣的一點是，大多數人在進行實驗時，都試圖找到證明自己錯誤的方法，而這在我們思考個人生產力時根本不是這樣。很多時候我們嘗試一些事情，我們非常害怕失敗，這就像證明自己錯誤是最糟糕的事情。我很好奇，這種經過充分驗證的、用於發展我們所擁有的最佳知識的方法，當我們將其應用到自己的生活中時，為什麼會感覺如此困難？是的，這實際上是一個非常貼近我內心的問題，那就是我們如何重新定義我們與失敗的關係。我確實認為擁有實驗心態會很有幫助。我在書中有一整章，我談到了我對傳統目標定義的問題，如果你想確保你實現一個非常狹隘的成功定義，這些目標很棒。所以這是一種更具實驗性的方法，而不是我們很多人在生產力系統中使用的那種線性、智能目標式的方法。科學家唯一的目標是學習新東西。如果到實驗結束時，你收集了新數據，並且你學到了新東西，無論是關於世界、關於你的工作還是關於你自己，那麼這就是成功。我知道對很多人來說，這感覺不那麼令人滿意，因為沒有那麼多的終極目標感、目的地感和里程碑感，但這就是你如何確保你不斷成長，即使你不知道自己要去哪裡，也因為如此，你可能會走向一個與你最初想像的截然不同的方向，這完全沒問題。我很想多聽一些關於微型實驗的內容，這些實驗不是關於完成更多工作，或者獲得更多追隨者，或者更多金錢，或者更多腹肌，或者類似的東西，而更多的是情感上和高度個人化的應用。是的，當然，你不必只為你的工作或生產力進行實驗，它們實際上對我稱之為內在好奇心，這種自我好奇心非常有幫助，你將注意力轉向內在，你試圖弄清楚這裡發生了什麼，什麼是有趣的，什麼可以改變，我想嘗試什麼。你可以嘗試冥想、寫日記、獨自靜坐並觀察自己的想法。實驗的另一個好處是，你不會像習慣一樣，承諾一輩子都這樣做。例如，你對你的伴侶說，從現在開始，我們餘生都必須在每個星期五進行約會之夜。你可以說，我們就這樣做一兩個月，看看我們是否喜歡，然後我們可以一起調整。你的工作也是一樣，你可以說，我實際上會嘗試這個系統幾週，我會看看它是否對我有效。這就是實驗和習慣的區別，習慣是你已經知道這對你來說是好事，你已經相信如果你永遠堅持這個習慣，這對你來說會是好事。而實驗是你覺得這可能對你來說是好事，但你不會因為它對其他人有效就認為它對你也會有效。所以你會測試它，你會收集自己的數據，並根據這些數據決定是否要繼續、調整或完全放棄它。你現在生活中正在進行哪些微型實驗？如果你有時間進行任何微型實驗的話。哦，這很有趣，因為我目前正在進行的實驗是基於我幾乎沒有時間的事實。所以我正在進行一個實驗，我承諾在接下來的 20 天裡，每天散步 20 分鐘，無論發生什麼。我正處於宣傳階段，我錄製了相當多的播客，我正在開會，我有很多文案要寫，我可能會整天坐在電腦前，然後累到只想躺在床上，也許看點 Netflix，然後周而復始。那時我決定，好吧，我需要找到一個能讓我感覺更好的實驗。我不太確定，再說一次，我沒有答案，它是否有效？我不知道。但在我提出的所有方案中，這感覺是目前最容易實施的實驗，考慮到我幾乎為零的心理空間，以及我幾乎為零的精力。這就是為什麼我以這種方式設計這個實驗，只有 20 分鐘，非常非常短，而且只持續接下來的 20 天，這幾乎會讓我一直忙到新書發布會。我們會看看它是否有效，我可能會繼續下去。實際上，人們可能第一次聽到這個，他們可能不知道從何開始構建一個微型實驗。鑑於你正處於「我沒有時間做任何事情」的狀態，有沒有幾個問題或提示可以幫助人們思考如何創建一個微型實驗？實際上，有一件非常有趣的事情，你可以很快做到，那就是打開你的日曆，看看你上週是如何度過的，就這樣。然後打開筆記本或記下一些筆記，但看看會議，問問自己，有些會議是否給你帶來了能量，有些是否耗盡了你的能量，什麼感覺良好。查看你的日曆是一種激發這些想法的方式。問問自己，有什麼我可以改變的嗎？就這樣。有什麼我可以改變的嗎？它可以非常非常小，然後下週嘗試一下，就說五天，我要以不同的方式做這件事，就這樣，你就有你的第一個微型實驗了。要開始設計你自己的微型實驗，請購買你自己的《微型實驗》一書。我們也會在下方提供所有這些資訊，以及你可以找到安諾爾令人難以置信的作品的不同地方。安諾爾，非常感謝你寫這本書並花時間與我們在一起。人們可以在哪裡了解更多關於你的資訊？非常感謝你邀請我。你可以到 nls.com，在那裡你可以訂閱我每週四發送的電子報。如果你想購買這本書，你可以在任何販售書籍的地方搜尋《微型實驗》。
+[Timestamp: 2025/11/15 23:32:41]
 
-**損失厭惡與認真對待自己**
-你那個見解是什麼？我們認為我們無法改變自己，但我們可以。我們認為我們可以改變別人，但我們不能。沒錯。我想補充一點，你無法改變別人。你可以改變你對他們的反應。你可以改變自己，但別人只會透過創傷或他們自己的洞察力，按照他們自己的時間表改變，而且永遠不會以你喜歡的方式改變。是的。阿蘭德隆說，人們有時候會改變，但在關係中很少，而且從來不會在被告知時改變。絕對如此。是的。疏遠某人最快的方法就是告訴他們改變。事實上，戴爾·卡內基公開演講學校，你知道，它的運作方式是，他們讓你上台，他們意識到公開演講的最大問題是，人們非常自我意識，所以，在戴爾·卡內基公開演講學校練習的人，我不知道，我從未參加過。但我聽說這是二手消息，所以我可能錯了，但我喜歡這個故事：他們上台開始演講，觀眾只能稱讚他們做得好的地方，真誠的稱讚，而不是虛假的稱讚，但不允許批評他們做得不好的地方。最終他們克服了，他們培養了自信。同樣地，還有米歇爾·托馬斯語言學習學校。在那裡，他們讓你聽老師和學生對話。他們不是在教你。你不被期望記住或背誦任何東西。你只是聽學生結結巴巴地說話。這是一種更好的學習方式，因為你自己不會感到慌亂。你正在被測試、評分。哦，所以你不會那麼沉浸在自己的思緒中。沒錯。你不會沉浸在自己的思緒中，你只是，你甚至可能會嘲笑那個學生，或者你可能會同意老師的觀點，反之亦然，或者同情那個學生。但因為你是一個被動的觀察者，你可以更客觀地看待它，你不會感到威脅或恐懼，你可以學得更好。回到最初的觀點，你無法改變別人。如果你真的想改變某人的行為，我認為唯一有效的方法是，當他們做了你想要的事情時，稱讚他們。而不是積極的。是的。沒錯。而不是當他們做了你不想要的事情時，侮辱他們或表現出負面或批判。我們無法控制，這顯然是我們的天性去批評。我也會這樣做，但這只是提醒我，當有人做了值得稱讚的事情時，不要忘記稱讚他們。一定要盡力而為，而且必須是真誠的。不能是虛假的。這不是，你知道，那種隨意稱讚的事情，最終人們會看穿的。他們想要真誠，但不要忘記在人們做了值得稱讚的事情時稱讚他們，你會得到更多那種行為。Reddit上有一個非常著名的帖子，關於如果你對你的關係不確定，要問自己的五個問題。其中一個問題是：「你真的愛你的伴侶嗎？還是只是愛他們的潛力或對他們的想像？」那就是，你知道，他們展現出如此巨大的潛力。他們看待他們的，看待他們改變和成長的能力。他們，他們，他們走在正確的道路上。伴侶匹配這件事太難了。你知道，當人們來問我：「哦，我應該和這個人在一起嗎？」就像：「好吧，如果你問我，答案顯然是『不』，對吧？因為如果你和對的人在一起，你就不必問了，或者當你問某人為什麼他們和某人在一起時，他們開始讀出他或她的履歷，對吧？那也是一個不好的跡象。」你什麼意思？哦，就像：「哦，我們有很多共同點。我們喜歡一起打高爾夫球。」這就像，這不是建立關係的基礎。或者，「哦，你知道，她是個芭蕾舞者」，或者，「你知道，他去了哈佛」之類的。這些都是履歷上的項目。那不是這個人真正的樣子。什麼是更好的答案？我只是喜歡和這個人在一起。我只是信任他們。我，你知道，我喜歡和他們在一起。我喜歡他多麼能幹。我喜歡她多麼善良。你知道，我喜歡她的精神。我喜歡他的活力。
-你在一起的原因越是物質化和具體可定義，這些原因就越糟糕。難以言喻之處才是真愛所在，因為真正的愛是一種統一的形式。它是一種連結的形式。它連結著靈魂。哦，你們兩個，我的意識與你的意識相遇。這是一種，愛、藝術、科學、神秘主義中潛在的驅動力是對統一的渴望。是對連結的渴望。正如博爾赫斯（Borges）著名地寫道：「在每個人心中，都有一種無限失落的感覺。」你知道，你心中有一個上帝形狀的空洞，你試圖填補它。所以，我們總是在尋找那種連結。愛是試圖在另一個人身上找到它，然後說：「好吧，你是男性，我是女性，或者隨便什麼。」你知道，無論你的偏好是什麼，現在我們連結了，現在我們形成了一個整體。一個連結的整體。或者在神秘主義中，它就像是：「好吧，坐下來冥想，你就會感受到整體。」在科學中，它就像是：「哦，你知道，原子碰撞是力學，但那會產生熱量。所以熱力學和運動或動力學是一個結合的理論，那是一個整體。」電和磁是一回事，那是整體，創造了那種敬畏感。在藝術中，它就像是我感受到一種情感，我圍繞它創作一件藝術品，然後你看到那幅畫，或者你看到西斯汀教堂，或者你讀那首詩，你感受到那種情感。所以，再次強調，它是在創造統一。它是在創造連結。而且我認為每個人都渴望那種感覺。所以當你真正愛一個人時，是因為你在他們身邊感受到一種完整感。而那種完整感可能與他們上哪所學校，你知道，或者他們從事什麼職業沒有任何關係。
+**user**: 整理結構化內容
+[Context: Notes: 需翻譯_去時間軸/Tiny Experiments_ A System to Change Your Life-en.md]
+[Timestamp: 2025/11/15 23:33:00]
 
-**損失厭惡與認真對待自己**
-只是將其與「生命短暫，別再抱怨了」聯繫起來。如果你面臨一個困難的選擇，而你無法決定，答案就是「不」。原因在於現代社會充滿了選擇。是的。理性上知道這一點聽起來很棒，但在現實中要有勇氣去實踐它，我認為是另一項任務。而且在三大方面——人際關係、工作和地點——快速止損是很困難的。你會對那些在理智上可能同意你並說「我理解」的人說些什麼？我的表弟這樣評價我。他說，他真正注意到我的一點是，我能夠離開那些對我來說不夠好或不夠棒的情況。我認為這是我的一個特點。我不會接受生活中次優的結果。最終，你會到達你所能接受的任何地方。你會從生活中得到你所能接受的一切。而且，對我來說，有些事情非常非常重要，我不會滿足於次優。但還有很多其他事情我根本不在乎，因為如果我把所有時間都花在關心那些事情上，我就沒有精力去處理那幾件重要的事情。所以，在決策中，我有一些自己的啟發式方法。其他人可以使用自己的，但我的方法是：如果你無法決定，答案就是「不」。如果你得到一個機會，如果你有一個新的事物，你正在對它說「是」或「不」，而這與你目前的狀況有所不同，那麼答案預設永遠是「不」。其次，如果你有兩個決定，如果你有A或B，兩者看起來都非常平等，那麼選擇短期內更痛苦的道路，那個會立即帶來痛苦的道路，因為你的大腦總是試圖避免痛苦。所以任何迫在眉睫的痛苦，它都會將其視為比實際情況大得多。這有點像塔雷伯（Taleb）外科醫生的決策等價物。塔雷伯外科醫生，你想要那個看起來不那麼好的外科醫生，因為他更有可能是一個好外科醫生。是的，這類似於外表具有欺騙性，因為你在避免衝突。你在避免痛苦。所以選擇短期內更痛苦的那個，因為你的大腦正在創造這種幻覺，認為短期痛苦比長期痛苦更大，因為長期，是的。你會讓未來的自己承受各種長期痛苦。明天再說。沒錯。明天再說。所以選擇短期內更痛苦的那個。最後一個，我會歸功於卡帕爾·古普塔（Kapal Gupta），那就是你想要選擇長期內會讓你更平靜的選擇。他所說的「平靜」是指更平靜，更少內心對話。如果你能模擬出來，那可能是一條更好的路。然後我會將決策集中在真正重要的三件事上，因為其他一切都源於這三個決定。特別是這些是早期生活的決定。晚年生活你有不同的優化目標。但在早期生活中，你試圖弄清楚你和誰在一起，你在做什麼，以及你住在哪裡。我認為在這三件事上，你都應該非常認真地思考。而人們有時候會無意識地做出其中一些決定。你知道你經常和誰在一起。這就像：「好吧，我們在一段關係中。我們就這樣走下去了。感覺還不錯。時間也夠久了，所以我們結婚了，對吧？」這不是很好的理由。也許也不是很糟糕的理由。我的意思是，那些過度思考這些事情的人有時候也得不到正確的答案。但也許在這裡，如果你是那種不願屈就的人，你就會迭代。你在一個有限的時間框架內迭代，這樣你就不會耗盡時間，然後你決定你做什麼。你嘗試各種不同的事情，直到你找到那個對你來說是玩樂，對別人來說是工作的事情。你不會輸。嗯，獲得一些槓桿。試圖找到它的實際應用，然後投入其中。然後你住在哪裡，你住在哪裡真的很重要。我認為人們沒有花足夠的時間在這件事上。我認為人們隨機選擇城市，基於我上學的地方，或者我的家人碰巧在哪裡，或者我的朋友在哪裡，或者我某個週末去過，我很喜歡。你真的需要仔細思考，因為你住在哪裡真的會限制和定義你的機會。它會決定你的朋友圈。它會決定你的約會對象。它會決定你的工作機會。它會決定你獲得的食物、空氣和水質。它會決定你與家人的距離，這在你年紀大了有孩子時可能很重要。所以這是一個非常非常重要的決定。天氣，你知道，生活品質，你待在室內或室外的時間有多長？你將根據這個活多久？我認為人們選擇這個的糟糕程度可能比其他兩個更甚。在某些方面，是的，但同時，你說得太對了。有多少人稀里糊塗地進入一段關係，然後在不知不覺中？我們住在一起了。我們養了一條狗。我們，我們結婚了，然後你，是的。然後當你有了孩子，因為那時他們是你的一半，他們是他們的一半，你永遠無法將自己與他們分開。所以一旦你和某人有了孩子，那麼對你來說世界上最重要的就是那個人的另一半，無論你喜歡他們與否。嗯。是的。傑弗里·米勒（Jeffrey Miller）很久以前發了一條推文，我總是在想，他說世界上所有的育兒書都可以用一本關於行為遺傳學的書來取代。我非常相信遺傳學。是的，我確實認為很多行為都源於遺傳學，而且我認為我們低估了這一點。我們喜歡過度強調後天培養，而低估了先天，為了社會原因而低估了先天。但先天是一個大問題。你所嫁的人的性情很可能會預設反映在你的孩子身上。安全依戀的孩子，選擇一個安全依戀的伴侶。好吧，幸福關係的秘訣是兩個幸福的人，對吧？所以，我會說如果你想幸福，那麼就和一個幸福的人在一起。不要以為你會和一個不幸福的人在一起，然後在未來讓他們幸福。或者如果你能接受他們不幸福，但你喜歡他們的其他方面，那也沒關係。但這又回到了他們對其他事情的不幸福。是的。實際上，我們，我們談到過人們如何成功地連結，你知道，在精神上和那些事情上，但那可能有點太抽象了。如果你想更實際一點，它可以基於價值觀。而價值觀是一套你不會妥協的事情。價值觀是艱難的決定，例如：「哦，我的父母生病了。他們是搬來和我們住，還是我們把他們送到養老院？」你知道，我們是給孩子錢還是不給？你知道，我們是搬到全國各地去靠近家人，還是留在原地？你知道，我們是爭論政治，我們關心還是不關心？對吧？價值觀比清單上的項目重要得多。而且，我認為如果人們在價值觀上更一致，他們就會有更成功的關係。
+**ai**: 好的，這是該筆記的結構化內容整理：
 
-**損失厭惡與認真對待自己**
-害怕改變的情緒痛苦。我有一個這樣的想法：工作、地點、伴侶，我將進入或不進入這件事。在大多數情況下，它是離開。我想我們有這種損失厭惡，我們真的感覺到進化上的損失厭惡。在朋友面前分開是很痛苦的。這很尷尬。你會如何建議人們克服這種損失厭惡？那種害怕改變。哦，天哪，我會嗎？是的，這是世界上最困難的事情。重新開始。這又回到了從零到一的事情。這是一種登山的事情。你不會在第一次嘗試中就找到通往山頂的路。有時候你爬上去，然後被困住，然後你又下來。而所有成功人士和不成功人士之間的區別是，成功人士如此渴望成功，他們願意一次又一次地回去重新開始，無論是在他們的事業、人際關係還是其他任何事情上。你越認真對待自己，你就會越不快樂。你學會了如何不那麼認真對待自己。好吧，名聲在這方面沒有幫助，因為那是名聲的陷阱之一。人們總是在談論你。他們對你有一定的看法，你開始相信它，然後你認真對待自己，然後這限制了你自己的行動。你不能再看起來像個傻瓜了。你不能再做新的事情了。你知道，明天我宣布我是一個霹靂舞者，對吧？那會遭到很多嘲笑和譏諷。但如果我想成為霹靂舞者呢？如果你想轉型，我會支持你。是的。事實是，如果我想成為霹靂舞者，我就會去跳霹靂舞。但是，你知道，就像我正在創辦一家新公司，再次從零到一。讓我們再做一次，你知道。而不是去籌集一大筆風險投資基金，或者退休之類的。但那是因為我想建造這個產品。我想看到它存在。所以我認為你必須不斷地強迫自己。你必須提醒自己。看，你的內心深處仍然是九歲時的Chris。你的內心深處仍然是個孩子。你知道，你仍然對世界充滿好奇。你仍然有很多相同的偏好、慾望和需求。你只是在外表上做得很好。但當你有了孩子時，一件好事是你會意識到他們在個性和知識方面與你有多麼接近。就像我看到我八歲的兒子，我只是注意到，哇，他可能擁有我60%到80%的知識和發展智慧，而且他有更多的自由和更多的自發性。在某些方面，他更聰明，而且這裡沒有太大的差距需要彌補。這個孩子很快就會，你知道，完成。他追上了我。所以，如果我認為我更了解，或者我身在何處，或者我是誰，那只是一種幻覺。那只是一種信念。
+## 微型實驗：改變你人生的系統 (Tiny Experiments: A System to Change Your Life)
 
-**理解與紀律**
-這與過於認真對待自己有什麼關係？我不應該過於認真對待自己，因為這裡沒有什麼值得那麼認真對待的。如果我過於認真對待自己，那麼我就會被困住。我會被限制在有限的行為和結果中，這會讓我無法自由，無法自發，無法快樂。嗯，所以這又回到了，你知道，不要過度思考自己。意識到你現在需要聽到的建議，幾乎總是你在很久以前學到的東西，而且你知道你基本上和九歲時的自己是同一個人，這是一種特殊的痛苦。你知道，很多時候人們會問這樣的問題：「你希望自己十年前會給自己什麼建議？」人們會問自己這個問題。
-幾乎無一例外地，你十年前會給自己的建議，仍然是你今天需要聽到的建議。絕對如此。這就是為什麼我做了那個回顧過去十年、二十年、三十年的練習。我會給自己什麼建議？對我來說，就是少一點情緒。不要把所有事情都看得那麼嚴重。做同樣的事情，但不要帶著所有的情緒波動。
-所以這就是我未來給自己的建議。是的。是的。是的。是的。很有趣，我們需要那樣的距離才能更客觀一點，才能有更多的視角。這幾乎有點像一個詭計，對吧？因為通常當你這樣做時，你會說：「你會對一個正在經歷這一切的朋友說什麼？」然後你試著把給朋友的建議轉化到自己身上，但你總是會想：「好吧，我不是那個朋友。」你會說：「好吧，十年前的你，那裡有足夠的距離。」你會說：「哦，我其實還是那個人。」這之間只有一條線。與這個故事相關的是，我認為理解比紀律重要得多。賈科（Jocko）會大發雷霆，但你知道，在身體方面，紀律很重要。如果我想鍛鍊出好身材，我必須定期鍛鍊。但在精神方面，我認為理解重要得多。一旦你看到某件事的真相，你就無法視而不見。我們所有人都曾有過這樣的經歷：我們看到某人的一種行為，然後它就改變了我們對那個人的看法。我們不再想和他們做朋友，或者如果那是，你知道，非常好的行為，也許是無意中觀察到的，我們就會深深地尊重他們。所以當我們真正清楚地看到某件事時，它會立即改變我們的行為，這比試圖透過重複來改變行為效率高得多。你能給我一個例子嗎？
-嗯，假設你，你知道，你有一位朋友，然後那個人原來是個小偷，你看到那個人偷東西，你就不再和他們來往了。
-嗯，如果你，你知道，吸煙導致肺癌的例子就是一個很好的例子，對吧？你身邊的人，或者任何時候你身邊的人去世，或者你甚至聽說有人去世，你聽說有人去世，你做的第一件事是什麼？第一件事，假設你和他們沒有那麼親近，顯然如果你和他們親近，情況就不同了，但如果你和他們沒有那麼親近，但你知道，你聽說你社交圈裡的人去世了，你立即開始試圖將自己與他們區分開來，你會想：「哦，這個人多大年紀？你知道，他們吸煙嗎？你知道，他們有問題嗎？我有那個問題嗎？」對吧？你立即開始比較，你正在做的是，你只是試圖看看這裡是否有重疊。但如果你看到了某件事的真相，如果你像：「哦，天哪，這個人和我同齡，他們去世了，而且這種情況開始在我這個年紀發生，我開始聽到，你知道，社交圈裡的人去世了。」這只是提醒你時間真的很少。那裡有一個真相。那裡有一個你無法行動的真相。那裡有一個你無法視而不見的真相。你知道，或者例如，我想你以前喜歡健身之類的嗎？我不知道。就像瘦弱的該死的人的舉重之類的。是的。對。但你可能曾經在健身房裡非常激進，你受傷了很多次。對。而每一次受傷都是對「不要超越這個點」的深刻理解，對吧？那裡有一個真相。所以，再次強調，當你以一種無法視而不見的方式看到這些事情時，它會立即改變你的行為。我會說，那種尋找這些真相的內省實際上非常有用。
+### 一、 講者介紹與核心理念
+- **講者**：Anne-Laure Le Cunff，企業家，Nest Labs 作者，前 Google 員工，神經科學家。
+- **新書**：《微型實驗》(Tiny Experiments)。
+- **核心理念**：透過運行「微型實驗」來改善生活，而非僅設定目標。將不確定性轉化為具生成性和行動力的事物，逐步迭代地改變生活。
 
-**不可教的教訓**
-這是一種更多實驗、探索、生活經驗的理由嗎？試圖尋找隨機性，因為所有這些經驗都會教你一個不可避免的教訓。
-你會做你將要做的事。我的意思是，你的探索程度，我想，取決於你。但生活總是在向你回饋真相。這取決於你是否選擇看到它，是否選擇承認它。即使它很痛苦。真相往往是痛苦的，對吧？如果不是，我們就會一直看到真相。現實總是在反映真相。這就是它的全部。你為什麼還沒有接觸到它？沒錯。你知道，所有那些哲學，例如，它幾乎是老生常談。大多數人看待哲學，直到他們自己發現它，因為智慧是那些無法傳遞的東西。如果它們可以傳遞，你知道，我們會讀同樣的五本哲學書。一切都會完成。我們都會變得有智慧。你必須自己學習它。你必須在自己的情境中重新發現它。你必須有特定的經驗，然後這些經驗才能讓你概括並以一種你無法視而不見的方式看到這些真相。但每個人都會以不同的方式看到它們。我可以告訴你蘇格拉底的故事，但它不會引起共鳴，直到有其他人渴望的東西，你意識到你自己不想要。當那一刻發生時，你就會看到那個普遍陳述的真相。
+### 二、 講者的個人經歷
+- **第一章 (線性成功)**：
+    - 專注於傳統成功定義：好工作 (Google)、晉升、酷專案、賺錢。
+    - 結果：儘管外部成功，但內心感到空虛、無聊和筋疲力盡。
+    - 創業失敗後，首次對下一步感到迷茫。
+- **第二章 (實驗性生活)**：
+    - 回歸好奇心：回到大學學習神經科學。
+    - 透過每週電子報公開學習，將神經科學見解轉化為實用工具。
+    - 意識到生活是一個巨大的實驗，開始過上更具實驗性的生活。
 
-**不可教的教訓**
-我想讀一篇我幾週前寫的兩分鐘短文給你。它叫做《不可教的教訓》。好的。我一直在思考一種特殊的教訓，一種你無法在沒有親身經歷的情況下發現的教訓。有一種建議，不知何故，我們都拒絕透過指導來學習。這些是不可教的教訓。無論我們自己去發現它會多麼艱鉅、昂貴或費力，我們都寧願無視長輩、歌曲、文學、歷史災難、公共醜聞的無數警告，反而認為：「是的，這對他們來說可能是真的，但對我來說不是。」我們決定一次又一次地以艱難的方式學習艱難的教訓。不幸的是，它們似乎都是大事。從來都不是關於如何安裝水平架子或在雞尾酒會上迷人地介紹自己的新見解。相反，我們一生中大部分時間都在親身學習前幾代人已經警告過我們的最重要教訓。諸如金錢不會讓你快樂。名聲不會修復你的自我價值。你不愛那個漂亮的女孩。她只是很性感且難以追到。當你在思考它時，沒有什麼比你想像的更重要。你會後悔工作太多。擔心並不能提高你的表現。你所有的恐懼都是浪費時間。你應該多看看你的父母。分手後你會沒事的，而且會慶幸你這樣做了。把有毒的人從你的生活中剔除是完全可以的。即使讀回這份清單，我都在翻白眼，覺得它多麼該死的老套。這些都是每個人都聽過的基本、該死的、顯而易見的見解。但如果它們如此基本，為什麼每個人在我們的一生中都如此可靠地成為它們的犧牲品？如果它們如此顯而易見，為什麼那些最近成名或富有或失去父母或經歷分手的人，會以一種經歷了宗教啟示的人那樣，以重新煥發的宏偉儀式來宣揚這些事實？這也是一個在網路上說起來非常有爭議的觀點。如果你採訪一位億萬富翁，他說他所有的錢都沒有讓他快樂，或者一位電影明星說她的名聲感覺像個監獄，網路會因為他們不知感恩和脫離現實而將他們撕裂。所以，我們不僅拒絕學習這些教訓，我們甚至拒絕聽取那些警告我們的人的訊息。更甚者，我想對於其中每一個，如果我再深入思考一點，我都能回想起一個時候，包括現在，我說服自己我是規則的例外。我的特殊心理構成、生活狀況、歷史創傷或對未來的夢想，讓我對這些教訓免疫。不，不，不。我的內心世界將透過繞過世上最著名的智慧來解決。不，不，不。我能巧妙地穿針引線。看我如何在雷區中跳舞，避開所有其他人觸發的絆索。然後你踢到一個。你分享一個心照不宣的眼神，那種只有兩個以完全相同方式受傷的人之間才會發生的眼神。你腦海深處的一個聲音會說：「我告訴過你了。」那是不可教的。
+### 三、 如何設計微型實驗
+1.  **觀察 (Observation)**：從觀察你目前的生活狀況開始，不帶判斷地記下筆記。
+2.  **形成假設 (Formulate a Hypothesis)**：根據觀察結果，思考「可能會是什麼？」「可能會有所不同嗎？」憑直覺判斷什麼激發了你的好奇心。
+3.  **設計實驗 (Design the Experiment)**：
+    - 使用簡單的模板，講者稱之為 **PCT (Commitment to Curiosity)**，即「對好奇心的承諾」。
+    - **格式**：「我將執行 [一個行動] 持續 [一段時間]。」
+    - **範例**：
+        - 「我將在接下來的六週內每週寫一份電子報。」
+        - 「我將在接下來的兩週內每天散步，並聽一個新的播客。」
+        - 「我將在接下來的五週內每週一閱讀一篇研究論文，然後記下筆記，並在 Substack 上分享。」
+4.  **執行與數據收集 (Conduct and Collect Data)**：
+    - 執行實驗，不帶判斷，不急於分析。
+    - 等待實驗完成，回顧實際感受。
 
-**看似智慧與真正智慧**
-這是一篇好文章。我認為這些教訓之所以不可教，原因之一是它們太過寬泛。它們必須在特定情境下應用。你列出的一些教訓相互矛盾。比如，多花時間陪伴父母，以及，你知道，不要工作太努力，但同時你又想成功，對吧？我想很多這些教訓都來自於高高在上，就像你說的，來自於著名的電影明星或億萬富翁說：「哦，你不需要錢才能快樂。」這就像：「好吧，那你就放棄它啊，該死的。」所以實際上，我認為其中許多是相互矛盾的，而且它們，這就像如果你去學校，只學習哲學四年，你就不會知道如何生活，因為你不知道在什麼情況下應用哪種哲學學說。你必須真正地生活，經歷所有的問題，才能弄清楚你想要什麼。在什麼情境下，其中一些事情適用，而另一些則不適用。是的，你確實想多拜訪父母，但你不想和父母住在一起，而且你不一定想每天或每個週末見他們，這取決於父母。你可能和其中一個不合。所以，我認為這高度情境化。話雖如此，我會說一旦你自己弄清楚了，你就可以根據這些格言雕琢出適用於你的變體。然後你就會有一個特定的經驗，幫助你記住它並實際執行它。你也可以用一種不再老套的方式來表達它。所以就像我個人的，是的。所以我的許多格言和給自己的筆記都是以現代化的方式雕琢的。它們說的是真實的事情，如果我不用新的方式或有趣的方式說出來，那可能就是老套的，而這種方式與我今天更相關。有一位諾貝爾獎得主說過類似這樣的話：「所有值得說的話可能都已經說過了，但既然沒有人聽，那就必須再說一次。」是的。必須再說一次，必須為現代重新情境化。事情確實會改變，科技會改變，事物，文化會改變，人會改變。
+### 四、 良好實驗的特徵
+1.  **激發好奇心 (Excitement/Curiosity)**：你是否對探索這個問題感到興奮？如果沒有，可能不值得探索。
+2.  **可行性 (Doability)**：實驗是否能夠實際完成？
+    - 選擇更小、更短的實驗，避免過於雄心勃勃而無法完成數據收集。
+    - 範例：冥想先試 10 天，而非直接參加內觀靜修；電子報先試 6 週，而非 100 天。
+3.  **跳出舒適區 (Out of Comfort Zone)**：
+    - 實驗應能讓你學習新事物，而非僅為成功而優化。
+    - 實驗應從不確定性開始，你沒有預設答案，只有假設。
 
-**看似智慧與真正智慧**
-關於這個。我聽你說過，你談到「看似智慧」和「真正智慧」的區別，你小時候試圖透過死記硬背來假裝聰明，將其偽裝成洞察力和智慧。我當然感覺到，你知道，對我來說，這個節目很大程度上曾經是，而且現在仍然是，一個救贖的弧線，擺脫了我生命中十年完全壓抑任何求知慾的時期。這就像：「好吧，我會做十年的專業派對男孩，站在夜店門口發VIP手環，接觸所有漂亮的女孩，或者，你知道，酷炫的派對之類的。」看起來還不錯。好吧，在某些方面確實如此。我的意思是，那不好玩嗎？那，那，那，那是我20多歲時的好方式，但要重新浮出水面，獲得兩個學位，其中一個是碩士學位，然後就這樣關閉了所有學習。我的意思是，我在大學期間就這樣做了。我在大學期間經營活動。所以，實際上是十年半。而且，我認為這個節目中有一個很大的救贖弧線。我必須不斷地，你知道，擦掉我身上那種需要證明自己的感覺。這就是為什麼它讓我產生共鳴。當你記憶事物時，這表明你不理解它們，或者說，是的，死記硬背和重複，偽裝成智慧。因為人們將流利度作為真實性和洞察力的代理。他們使用你的語言和溝通的複雜性。是的。有很多行話。我認為這是一個江湖郎中的標誌，用複雜的方式解釋簡單的事情。所以當你看到人們用非常複雜的語言解釋簡單的事情時，他們要麼是想打動你並混淆視聽，要麼他們自己也不理解。但那裡面有一種誘惑。你知道，這是我去治療時必須做的事情之一。這有點有趣，我想我以前談過這個。我需要關掉「播客Chris」模式，當我進入治療時，因為我每週大部分時間都花在不受干擾的深度一對一對話中。我訓練自己，你知道，當我開始做的時候，現在已經700集了，900集，隨便。而且我知道我能對這個治療師說什麼，你知道，只是稍微偏離一下，創造一些美好的故事，包裝一下，推到桌子對面，然後看著她的眼睛亮起來一點點，就像一個小小的笑容或自嘲的笑話之類的。我想：「你不在這裡。你，你，你正在表演。你正在做Chris Williamson的事情，帶著那種爵士手勢。」所以，我有我自己的版本。好的，告訴我。好的，所以你有播客Chris。我有播客嘉賓Naval。沒錯。所以很多時候我會想到一些事情。我會有一些我認為是洞察力的東西，我想發推文或寫下來，但在我的腦海中，我正在播客上談論它。這就是我的心智記錄它的方式。有一段時間我認為這是一件壞事，我試圖根除「播客Naval」，然後我才意識到，這就是它表現出來的方式。所以我不如接受它。現在你知道我為什麼會上這個播客嗎？不，你知道，我很久沒有做過正式的採訪了，直接從頭到尾，你知道，十個二十個播客。可能自從羅根之後。可能自從羅根之後。是的。是的，它在頂端，對吧？那是一個理論。是的。好吧，它仍然在頂端。是的。是的，我知道。然後，你知道，我做了一些和Tim Ferriss的事情，他是個好朋友，但那更多是共同主持。我不是嘉賓。然後我做了一兩個隨機的事情，我只是偶然遇到了一件事，你知道，那是有原因的，但不是像這樣。我主動聯繫了你。很多人都聯繫我做播客。我沒有回覆他們。我主動聯繫了你。原因很有趣。那是因為當我在腦海中播放播客時。不知何故，你在另一邊。我不知道為什麼。我真的不知道為什麼。我甚至沒有看過你很多播客。我想我看過一些片段，但不知何故，你就是播客中的那個人。所以，我想，我不如就這樣做吧。所以我主動聯繫了你。我想這會結束那個循環，還是會進一步鞏固它。我想你現在讓情況變得更糟了，你只會，好吧，首先，那是一個夢想，現在它是現實加上一個夢想，我無法擺脫他。是的，我拒絕了足夠多的人，我說我就是不做播客。我對此感到很抱歉。我必須回去做那些播客，但我可能已經用盡了我的運氣。我沒有什麼新東西可以談。所以我不知道我會說什麼。好吧，我很感謝你，你在羅根的節目上說過，這就是，你知道，回報你。我有一個五頭的拉什莫爾山嘉賓名單，在我開始這個節目之前，那是喬丹·彼得森、山姆·哈里斯、生命學校的阿蘭德隆、你和羅根。那是我的拉什莫爾山九頭蛇。而且，我知道，我想有人曾經問過你，也許是在羅根之後的推文或什麼的，或者甚至在羅根的節目上說過，你說：「我不喜歡說同樣的話兩次，至少不要以同樣的方式說。」我不喜歡續集。是的。是的。我真的非常尊重這一點。你知道，那是2019年。你說那是八九年前。沒有你說的那麼久。我記憶力很差。是的。是的。嗯，你說得對。2019年，就在新冠疫情之前。是的。而且，我真的很欣賞這一點，因為有些事情，內容遊戲你可以繼續，我敢肯定我今天說了很多觀眾已經聽過的事情，但是，足夠關心擁有新穎的見解，或者至少對類似的見解有新的視角，然後說：「哦，好吧，你知道，自從你上喬的節目以來，六年時間裡，很多這些，好吧，我實際上是從，我今天對你說的第一件事，我不再相信我完全同意我以前說過的那件事。」這很酷，對吧？這表明你之前所持的立場不再是束縛。它不再束縛你了。好吧，我想我之所以想上這個節目，是因為不知何故，我有一個印象，你參與對話，而我喜歡對話。我不喜歡採訪。嗯。這就是為什麼我創辦了我的上一家新創公司Airchat，它完全是關於對話的。對我來說，對話更真實。它們更真誠。有來有往。有真正的求知慾。這不是說其他播客主持人不做。他們絕對會做。但不知何故，在我的腦海中，你就是那個我會真正與之對話的人。果然，你剛剛讀了你的文章給我聽，我想其他人真的不會這樣做，對吧？這意味著有來有往。有真正的求知慾。我認為這很有用，因為這樣，我的一些不明確的知識就會浮現出來。我認為這很有幫助。
+### 五、 微型實驗的優勢
+- **可與其他事務並行**：即使有全職工作或忙碌的家庭生活，也能在旁進行。
+- **靈活探索**：可以在生活的一個領域進行實驗，同時在其他領域保持穩定。
+- **重新定義失敗**：科學家唯一的目標是學習新事物。只要收集到新數據並有所學習，就是成功。
+- **持續成長**：即使不知道最終目的地，也能透過每個實驗週期不斷成長。
+- **個人化應用**：不僅限於工作或生產力，也適用於內在好奇心，例如冥想、寫日記、觀察自己的想法。
+- **非終身承諾**：與習慣不同，實驗有明確的持續時間，允許你測試後再決定是否繼續、調整或放棄。
 
-**更新信念（近期改變）**
-好吧，你看到了，你知道，為了打破第四面牆，你看到了很多你曾經擁有的「入門級洞見」，而你無法選擇。我知道你對「大師」有一種反感，一種非常強烈的「不要聽我的，我不知道我在做什麼」的感覺。這是一個陷阱。不，大師是一個陷阱。不要跟隨我，不要向我鞠躬，不要對我做任何其他事情。但是，如果你在另一個人身上看到共鳴，我想這就是我們都在努力尋找的。你知道，人們可能會抱怨大量的內容創作，而且也許是理所當然的。但是，如果你能找到一個人，你在他們身上看到一點點的自己，也許甚至不多，但就像：「哦，他們那一點，他們的自尊，或者他們看待人際關係的方式，或者他們想做什麼，他們想要的生活，或者他們想要的心境平和程度，或者任何可能。」如果你在別人身上找到一點點那樣的東西，這有點像你之前說的，你無法再不相信那一點，它會融入你，成為你的一部分。而且，是的，你可能看到一些，你知道，這種從很久以前就滲透出來的非常蜿蜒的洞見，發生了一些事情，也許在五年後，你會說：「你知道，你說的那些教訓，然後我不知道。」這很酷，這就像綜合，對吧？這種融合。我花很多時間在舊金山，因為它是世界上最聰明的人的引力中心，儘管這個城市有許多問題，管理得一塌糊塗。但它似乎確實吸引了年輕、聰明、有創造力的人。不僅是那些建造科技的人，他們還在探索生活的各個方面，他們很奇怪，有時候令人反感，有時候很奇特。但你和這些人交談，你會看到一個非常聰明的人以完全不同的方式看待生活。透過人類DNA的組合學，這是不可數的，給你一個奇怪的視角，可以扭曲你的思維，而要做到這一點，你必須不斷學習。你不能抱持著大師的心態。如果我和某人在一起，他們聽我說的每一個字，並對此深信不疑，那對我來說就沒意思了。我什麼都學不到。我想要聰明的人，他們會說一些不同的話，我可能不同意，但它會留下印記。它會留下印象，而且它會留下印象的程度取決於他們是正確的，以及我是否選擇傾聽，如果我不認為自己比他們地位更高或更聰明，我就會選擇傾聽。反過來說，我對地位高的人並不真正感到印象深刻。我不是因為他們一直都是這樣。事實上，我大多數已經變得非常有名或成功的朋友，他們越有名、越成功，我花在他們身上的時間就越少。部分原因是因為他們被一群狂熱的粉絲包圍，很難突破。而且因為我不想從他們那裡得到任何東西，而且我不喜歡那種交易關係。那可能是一種禮物，對那些人來說，因為他們在那個階層爬得越高，想從他們那裡得到東西的人就越少。所以這樣一來，你就會有一個更好的朋友，對吧？但他們被那些想從他們那裡得到東西的人包圍，而且他們非常擅長假裝他們不想，所以我不值得花時間去突破那個群體。所以，可以說，頂峰確實很孤獨。但這也是一種選擇，因為你知道，你可以解決問題。是的，你也可以成為自己最好的朋友。我實際上是自己最好的朋友。所以我真的很喜歡獨處。是的。最聰明的人對表現聰明不感興趣，也不在乎你怎麼想。是的。我的意思是，生活中的很多事情都是不在乎。你知道，生活中很多最好的事情都源於此。
+### 六、 講者目前的微型實驗範例
+- **情境**：正處於新書宣傳期，時間和精力都極度有限。
+- **實驗**：承諾在接下來的 20 天裡，每天散步 20 分鐘。
+- **目的**：在極度忙碌中找到讓自己感覺更好的方法，即使不確定效果。
 
-**更新信念（近期改變）**
-這是否意味著，談到那種死記硬背偽裝成智慧和洞察力的東西，我想，幾乎可以肯定，像這樣的播客會有所貢獻。你知道，你聽到一個像阿蘭德隆這樣的人，他就像一個用文字作畫的畫家。非常簡單，非常樸實無華，但如果你有求知慾，你會看到，你只看到他思想的產物。你不一定看到他思想背後所付出的努力。所以，你將它們的呈現方式與洞察力混淆了。這說得通嗎？當然。是的。我的很多東西都更精緻。就像一個有趣的事情，是的，一個有趣的事情，就在這個播客之前，我想到：「哦，也許我應該回去讀我以前的推文，以便記住我說過什麼，這樣我就可以很好地表達出來。」但我意識到那只是表演。我只是在背誦我所有的東西來表演。好吧，那是你墮入的額外一層地獄。我死記硬背我，讓我更像我。賓果。而且要達到某種期望，或者某種我現在必須成為的著名人物，某種我必須穿上的緊身衣。我必須在私下裡活出我所呈現的東西。沒錯。所以，當然，我很快就看穿了，你知道，那是胡說八道，而且它也限制了我的時間，那只是工作。我認為那就是，你知道，你的冥想練習在那裡發揮作用。那種正念的間隙，讓你說：「嗯？」是的。那裡又出現了那件事。沒錯。沒錯。所以，這不是關於改變你的思想。這不是關於修復你的思想。這不是關於改變自己。這只是關於觀察自己，這樣你就可以，它會自動改變。任何需要發生的改變都會發生。你試圖改變自己是非常循環的。心智試圖改變心智，就是心智與自己搏鬥。我認為這不會讓你達到任何目的。
+### 七、 如何開始設計自己的微型實驗
+1.  **回顧日曆**：打開日曆，看看你上週是如何度過的。
+2.  **記錄感受**：記下哪些會議或活動讓你充滿能量，哪些讓你感到疲憊。
+3.  **提出問題**：問自己：「有什麼我可以改變的嗎？」
+4.  **從小處著手**：選擇一個非常小的改變，並在下週嘗試 5 天。
+5.  **開始你的第一個微型實驗**。
 
-**更新信念（近期改變）**
-你花了很多時間創造財富或思考如何創造財富。你學到了什麼是花費財富的最佳方式？花費財富。是的。是的。你花時間創造這些財富，累積財富？你如何，什麼是最好的方式讓你把它再投入出去？我實際上認為伊隆在這方面想得很清楚，他把自己的錢重新投入到自己的事業中，去為人類做更大更好的事情。所以我想，你知道，你可以把它捐給非營利組織，但很多非營利組織都是騙人的，或者是不勞而獲的人試圖花錢，或者他們沒有嚴格的回饋循環來產生好的效果。所以，我作為一個旁觀者想做的一件事是，我想為年輕的物理學家創辦一所小學校。但那是我的非營利組織。一個年輕的物理學家。是的，那是我的非營利組織。而且我實際上已經資助了一些媒體和一些物理學方面的東西。我不喜歡談論它。所以我不會談論我的所謂慈善事業，因為我認為那樣會讓它不那麼真實。那樣會讓它更注重地位。讓它不那麼慈善。是的。沒錯。然後人們會看我的慈善事業有多慈善。然後人們也會來找錢。所以有所有這些弊病。我不相信捐錢給學校。他們有足夠的錢。常春藤盟校有足夠的錢，而且他們不知道怎麼花。所以我認為金錢的最佳用途是，我認為一個好的企業為人們創造產品，他們自願購買並從中獲得價值。所以在這個意義上，我認為史蒂夫·賈伯斯和伊隆以及像他們這樣的企業家為世界創造了很多價值。所以我能做的一件事是，我可以拿自己的錢，然後投資自己，去建造我認為需要存在的下一個偉大事物。這基本上就是我現在正在做的事情。我正在做一個新事業。我自籌資金。我投入了很多錢。我將建造一些我認為美麗，而且我想看到它存在的事物。我真的很想看到它存在。你談過這個了嗎？還是仍然是黑暗模式？還很早。是的，也許幾個月後我會展示給你。希望是六個月。而且，我對此感到興奮，那是金錢的好用途。那麼花費財富最糟糕的地方是什麼？那句老話是什麼？如果它會飛、會浮或會淫亂。好吧，改變最後一個F的方式很不錯。非常令人印象深刻。我聽到的就是這樣。不能歸功於我。我很確定是福克斯，但，是的。是的。是的。我想那是，也許是菲利克斯·丹尼斯（Felix Dennis）。好的。他有那句名言。是的。他說：「如果它會飛、會浮或會淫亂，那就是租來的。」我想最後一個有點太，他沒有家庭，他沒有孩子。所以，你知道，他錯過了最重要的一個。但是，是的，有很多糟糕的花錢方式。我，我相信投資，你知道，我不相信消費。是的，你可以，你出生時就處於住房短缺的狀態。你解決了這個問題，你買了一棟好房子。找一些幫助來騰出你的時間，這樣你就不必做別人能做得更好的事情。善待他人。你知道，總是多付錢並期望最好的。像對待最好的人一樣付錢給他們，並期望最好的。但總的來說，我認為金錢的好用途是冒險、建造事物和做別人做不到的事情。將其與你獨特的才能結合起來，這樣你就可以不斷地為世界做出貢獻。我不會閒著。我不會退休。那是浪費我餘生在地球上的時間。而且如果我做我喜歡的事情，那麼我就已經處於永久退休狀態。因為工作只是一系列你必須做但不想做的事情。所以如果你想做，那就不算工作。所以有些事情我想做，不覺得是工作。我可以投入金錢，然後我可以用它來將它們實體化為現實。我不想說讓世界變得更美好，因為那太老套了，但它更多的是創造一個我引以為傲的產品，否則它就不會存在，而其他人將從中獲得巨大的價值。而且這是透過財富實現的，因為你能夠承擔你原本無法承擔的風險。沒錯。是的。財富給你自由。它給你探索更多選擇的自由。就我而言，它給我創辦企業的自由，而不必徵求他人的許可，也不必根據他們賺取回報的慾望或他們認為應該如何賺錢來扭曲我的願景。
-
-**更新信念（近期改變）**
-你還會補充什麼到「如何致富」的推文串中嗎？有沒有什麼你覺得「該死，如果我能編輯並再加一條就好了」？不，有大概一萬件事。老實說，我可以永遠談論這個話題。那個推文串太短了，太有限了，而且它，你知道，在某種意義上是精心製作的，儘管我寫得很隨性，它留下了太多未使用的內容，我可以談論這個話題好幾天，但這一切都是情境化的，對吧？商業是非常非常情境化的，你必須看特定的商業，理解正在做什麼，為什麼要做，以及如何做，然後你才能拆解它，然後重新組裝它。我喜歡認為那實際上是我擁有專業知識的地方。我的專業知識不在幸福，不在哲學，不在，是的，我的生活被設計得非常獨特。但我不認為那是我的專業知識所在。我的專業知識在於能夠分析一個企業，特別是科技企業，並將其拆解，提前預測什麼可能成功，什麼可能不成功。 Clubhouse除外。
-嗯，因為你大部分時間還是會犯錯。這就像玩樂透，但你知道一兩個號碼。你只需要對幾次，甚至一次，就能獲得大獎。你知道，彼得·提爾創辦了PayPal，但他所有的錢都是從Facebook賺來的，對吧？現在他顯然做得更多了，但那是最大的贏家。這在任何冪律分佈中都是如此。第一名會比第二名到第N名加起來賺得更多。第二名會比第三名到第N名加起來賺得更多。你正在一個高度槓桿化的智力領域運作。所以結果將是非線性的。所以我對那個話題了解很多，但它是高度情境化的。如果我面前有一個具體的企業，一個具體的企業家，我可以拆解它，然後說，你知道，有些公司我會說：「哦，這行不通，因為你這個企業家做這件事的原因不對。你做A是為了達到B，那就直接去B。」或者你做這件事是為了賺錢，而真正熱愛產品的人會打敗你。或者你從錯誤的人那裡籌集資金，他們的目的不對，或者你的共同創辦人目的不對，或者你沒有正確的共同創辦人，或者你的歸屬時間表不對，或者你在錯誤的地方創辦企業，或者你從這個角度而不是那個角度來處理它，當然我也會犯錯，但我只是看到了很多數據，我對此有我的理論，那是我感到非常自在的領域。問題是當我必須談論如何創造財富以及如何致富時，這是一個故意為之的點擊誘餌標題，但當我談論如何創造財富時，抽象地談論它非常困難，因為那樣你只想說真話。你必須只說那些永恆的東西。你必須在幾乎所有情境下都是正確的。所以這真的限制了你能說什麼。缺乏具體性使其，是的。沒錯。這又回到了哲學。但如果我能具體地談論它，你知道，那才是真正的知識，就像一個財富顧問一樣。是的。這也是我開始做播客的部分原因，你知道，這是自我作祟。我會坦率承認。當我發推文時，你知道，我有點開創了「哲學推特」，如果你願意這麼說的話，或者某種實用哲學推特，在140個字元內，我會試圖以一種有趣的方式說出一些真實的事情，那對我來說當時是很有洞察力的。但後來這被複製了。現在我們有成千上萬的人，對吧？成千上萬的人不斷地發布，ChatGPT，試圖整天創造這些東西。儘管我喜歡說，我喜歡認為我的東西是不可壓縮的。我以最簡潔的方式表達它。嗯。這有點像失敗的詩歌背景。但我意識到，如果你真正對某件事有深刻的理解，那麼你就可以整天談論它。那麼你就可以從那個理解中重新推導出你需要的一切。不需要記憶。你可以從第一性原理推導出來，你所知道的每一部分都像一個樂高積木，它只是契合在一起，形成一個鋼架。它是堅固的。它被鎖定在那裡。所以在播客上，我可以更深入地談論其中一些話題。所以，例如，我們可以談論任何你喜歡的企業，但它必須在情境中。它必須是真實的。它必須是一個實際的問題。然後我們才能解決它。我真的很喜歡那個啟發式方法：如果你必須記憶某件事，那是因為你不理解。你不理解它。沒錯。如果你必須記憶某件事，那是因為你不理解它。如果你理解某件事，你就不必記憶它。
-是的。我再次，你知道，只是想指出我試圖做的很多事情，這種救贖弧線，如果我聽起來很聰明，那就像很聰明，對吧？你會說，ChatGPT已經記住了整個網路。祝你與之競爭好運。你不會在記憶方面打敗它。你甚至不會在記憶方面打敗一個圖書館。你不會在記憶方面打敗任何十本書。所以記憶不是重點。理解才是重點。能夠判斷才是重點。品味才是重點。嗯，理解、判斷、品味，這些都來自於遇到真正的問題，然後解決它們，然後找到共通點。什麼是哲學？每個人，你活得夠久，你就會成為一個哲學家。哲學只是當你從你生活中經歷的具體經驗中找到隱藏的、可概括的真理，然後你知道如何根據一些啟發式方法來應對未來的具體經驗，然後你圍繞它創建一個哲學。任何主題，只要深入鑽研，最終都會導向哲學。精通任何事物，字面上任何事物，都會讓你成為一個哲學家。你只需要堅持足夠長的時間，並將真理概括出來。這些都是普遍真理。這又回到了統一與多樣性。如果你深入鑽研，你可以在任何事物中找到統一。這就是為什麼那些老生常談的東西不幸地不斷出現。你會說：「好吧，看，這之所以是陳詞濫調，是有原因的。」它是陳詞濫調是有原因的。但你知道，有時候你會學到新東西。有時候你確實會發現新東西。即使在哲學中，例如，隨著科學的進步，它實際上擴展了我們的哲學邊界。當我們過去認為，你知道，地球是宇宙的中心時，你會有一個不同的哲學觀點，而不是當你認為宇宙浩瀚無垠，而我們微不足道時。它會給你一個不同的哲學觀點。同樣地，如果你認為自然是由天使、惡魔和神靈驅動的，而不是存在可計算和可理解的物理定律，那會導向一個不同的哲學觀點。如果你認為知識是從上方傳下來的，並透過世代相傳，而不是在飛行中創造出來，然後根據現實進行測試，那會導向一個不同的哲學觀點。如果你認為人類是上帝創造的，而不是人類從某個，你知道，單細胞生物進化而來，是的，這仍然沒有解決最初的問題，誰創造了那個，但至少它讓你走得更遠。即使是模擬理論，也是試圖根據我們對電腦的了解來重新 формулировать 哲學，儘管它最終導向很多與，你知道，創造者相同的結論。但它至少是受科技和科學啟發的哲學。所以哲學也可以進化，道德哲學也進化了，對吧？曾經有一段時間，幾乎所有征服文化都實行奴隸制。現在幾乎所有文化都廢除奴隸制。那是道德哲學的進化。你知道，甚至還有這種聽起來太荒謬而難以置信的事情，我不知道它是否完全真實，但有一大群醫生，根據研究，直到1980年代都相信嬰兒不會感到疼痛。所以即使到今天，我想割禮仍然是在沒有麻醉的情況下進行的。因為根據理論，你知道，非常小的孩子，嬰兒不會感到疼痛，那很荒謬。然後在80年代有一項研究出來說：「不，不，他們確實會感到疼痛。」這就像：「哦，是的，當然，對吧？」所以人們可能會長期被困在糟糕的哲學陷阱中。所以即使哲學也能取得進步。作為一個例子，我的一個領悟，這要歸功於大衛·德意志（David Deutsch）和我的朋友詹姆斯·皮爾森（James Pearson）也稍微思考了一下，那就是有一些永恆的老問題，我們遇到的答案似乎是悖論。所以我們停止思考它們。例如自由意志。你有自由意志嗎？或者任何事情都重要嗎？生命有意義嗎？
-而且，我們被困在其中，因為例如，生命有意義嗎？就像，是的，生命有意義，因為你就在這裡。你創造自己的意義。這個時刻擁有你所能想像的所有意義。這就是所有的意義。另一方面，你會死。一切都會歸零。熱寂，宇宙沒有意義。對吧？那麼是哪一個呢？好吧，它之所以看起來像悖論，是因為你正在以某個尺度和時間，向一個人類提出問題，然後你從宇宙的角度，在無限的時間內回答它。所以你玩了個花招。你切換了你回答問題的層次。問題應該在它們被提出的層次上回答。所以如果你問：「有意義嗎？」你，Chris，正在問這個問題。是的。是的。對Chris來說，有意義。意義就在這裡。這就是意義。你可以賦予它任何你想要的意義。嗯，不要以Chris的身份問問題，然後以上帝或宇宙的身份回答。那是你正在玩的把戲。這就是為什麼它看起來像悖論。同樣地，你可以說：「我有自由意志嗎？」人們整天爭論自由意志。這個問題是在錯誤的框架下回答的。所以他們問的問題是：「我作為一個個體有自由意志嗎？」當然我有自由意志。我的心智身體系統無法預測我下一步會做什麼。宇宙無限複雜。我正在我的心智中做出選擇，我正在做一些事情。這就是我的自由意志。所以要在你提問的層次上回答。當然我有自由意志，因為我感覺我有自由意志，我對待你就像你有自由意志一樣，你對待我就像我有自由意志一樣。我們有自由意志。問題是，你開始試圖回答這個問題，就好像你是宇宙一樣。你會說：「好吧，在宇宙尺度上，大爆炸粒子碰撞，沒有人做出任何選擇。你知道，你怎麼可能與宇宙想要你成為的樣子不同呢？」而且這一切都是一個塊狀宇宙。所以，你沒有自由意志。不要在它沒有被提出的層次上回答問題。所以，如果上帝問這個問題：「有自由意志嗎？」不，沒有自由意志。如果宇宙問這個問題，沒有自由意志。但如果一個個體現在問這個問題，那麼，是的，有自由意志。所以，很多這些悖論，哲學悖論，人們從一開始就一直在掙扎的悖論，當你意識到你正在以與它們被提出的時間和尺度不同的方式回答它們時，它們就會自行解決。
-
-**更新信念（近期改變）**
-談到更新信念，你最近有沒有改變過什麼想法？非常最近。我的意思是，一直都在改變。嗯，但你是指哲學上的存在主義問題，還是科技方面的問題？是的，哲學上的存在主義問題，或者任何你想到的。有沒有什麼你覺得「哦，是的，那是一個相當大的作業系統更新」？是的，我在社會層面上比以前不那麼自由放任了。我認為文化和宗教是人類良好的合作系統。所以如果你想在一個高度信任的社會中運作，你需要有一套人們需要遵循和遵守的規則，這樣他們才能和睦相處，即使這些規則，你知道，一刀切不適用於每個人。從自由主義者稍微往上移了一點。是的。我認為純粹的自由主義者會被淘汰並滅亡，對吧？他們會被壓倒，因為他們是各自為政。他們無法協調。他們無法協調。沒錯。嗯，所以協調問題，對吧？文化的存在是為了解決根本的協調問題。宗教解決協調問題。歷史上，種族解決協調問題。嗯，當你過快地瓦解這些協調系統，卻沒有用其他任何東西取代它們時，你就會導致社會崩潰。所以，你可能會遇到運作不良的社會。你知道，去日本看看，再去任何一個西方城市看看，你就能看到一個運作良好的文化和一個運作不良的文化之間的差異。嗯，所以我認為這是我在很大程度上改變了想法的一系列更廣泛的事情。我以前對這些事情更自由放任。這麼說吧。嗯，還有什麼？我的意思是，在育兒方面，我變得更寬鬆了。你知道，我仍然不是完全自由放任，但我更意識到孩子就是孩子，你有點讓他們做他們自己的事情。
-是塔雷伯（Taleb）有那種關於無政府主義與保守主義的遞增層次嗎？那是他的見解嗎？就像在地方層面，我是這樣。你似乎走了另一個方向。就像在孩子層面我是個無政府主義者，而在社會層面我是個保守主義者。哦，他引用了別人的話，我忘了是哪對兄弟，但他像他經常做的那樣雄辯地指出，在家庭地方層面，他是個共產主義者。在家庭層面，你是個共產主義者。嗯，在大家庭層面，你可能是個社會主義者。在地方層面，你知道，你有點像個民主黨人，依此類推，直到在聯邦層面，你才是個自由主義者。對吧？所以你做了相反的事情。你對孩子是自由主義者，而對社會是宗教保守主義者。不，那是一種有趣的看法。我不知道這個尺度是否那麼簡單。嗯，我還改變了什麼想法？我的意思是，我認為現代AI真的很酷。我認為它，但我認為這些是自然語言電腦。它們開始在某些層面上展現出某種推理的證據，但我認為它們沒有創造力。我認為現代AI，你知道，其中一個，所以，就此而言，我最喜歡的觀點之一來自Dwark Ash Patel，他說，嗯，
-如果你給地球上任何一個人，任何一個大型語言模型（LLM）所消耗的0.00.1%的資源，他們都會想出數千個新點子，對吧？給我一個新點子，一個根本性的新點子，是LLM生成的。是的。就像，我非常喜歡詩歌。LLM寫的每一首詩都是垃圾。我認為即使它們的小說寫作也很糟糕。即使是新的GPT45，恕我直言，Sam和他的團隊，我認為他們是糟糕透頂的作家。我發現他們在總結方面非常糟糕。他們非常擅長推斷，你知道，文書工作。他們非常不擅長實際提煉事物的本質和重要性。他們沒有意見或觀點，但它們仍然是令人難以置信的突破。它們解決了搜尋問題。它們解決了自然語言計算問題。它們使英語成為一種程式語言。它們解決了駕駛問題。它們解決了簡單的編碼和備份編碼問題。它們解決了翻譯問題。它們解決了轉錄問題。嗯，它們是計算領域的根本性突破。這是一種不同的編程電腦方式。你不再需要明確地說它的語言，編寫程式碼，然後讓數據通過它，你只需要讓足夠的數據通過它，直到它弄清楚如何編寫程式。這很了不起。嗯，但它們是通用人工智慧（AGI）嗎？還不是。而且我看不出從這裡到那裡有直接的路徑。嗯，也許我們必須解決更多問題才能實現。我認為人工超級智慧（ASI）是幻想。我不認為存在任何人類無法理解的智慧。好的。是的，你似乎，我不知道你是否屬於「老闆房」陣營之類的，不，我不是AI末日論者。我認為那是一種有缺陷的推理方式。但假設你來自less wrong.com，像slate star codec的世界，那裡有一種從電腦和AI變得越來越強大，然後你最終得到AGI、ASI的血統，而LLM似乎是從那裡的一個正交移動，你是不是說你不相信它們是那個過程中的一步，它有點像一個傳統的分支？我認為史蒂芬·沃爾夫（Steven Wolfram）說得更好，這是一種不同形式的智慧，就像你在叢林中看到一隻美洲豹，它擁有的智慧形式與你，就像植物擁有智慧形式，它如何進行光合作用和生長。這是一種不同形式的智慧。它不是，智慧又像愛或幸福一樣，是一個被過度使用的詞，對許多人來說意味著許多事情。但根據我的定義，你知道，真正的考驗是你是否從生活中得到了你想要的。它甚至沒有生命。它甚至什麼都不想要。它是一個不同的東西。嗯，我確實認為它非常有用。我很高興它存在。你還沒有在大型生產系統中看到它取代人類，因為它有幻覺的傾向。所以你不能自信地將它放入任何關鍵任務中，它會十分之一的機率出錯。沒錯。而且它甚至不知道自己錯了。嗯，也許他們會把十分之一的錯誤率降到百分之一。但你總是會希望對關鍵任務有人類監督。我總是感到非常痛苦。我有時候很小氣。我那個不那麼平靜的版本很小氣，我總是想教它一個教訓，如果它做錯了什麼。就像：「怎麼搞的？你那麼自信。」我把它擬人化了，它沒有觀點，而且它們會變得更好，它們可能會達到錯誤率非常低的程度，你可以把它們放入某些有界限的問題中，比如自動駕駛，我認為會完全解決，因為它是一個有界限的問題，汽車不會，你知道，越野行駛，然後撞進房子之類的，對吧？所以因為，同樣地，某些編碼，編碼的創造性方面，我認為不會消失。我認為如果有的話，程式設計師會獲得更大的槓桿和更強大的能力，而不是計算機取代程式設計師，程式設計師會使用AI來取代其他人。在特斯拉與Waymo之間，你認為自動駕駛會押注軟體還是硬體？是的。所以我認為特斯拉在長期來看處於更強勢的地位，但很難反駁現在正在運作的東西，而Waymo現在正在運作。所以我不會低估他們，因為當你實際部署某樣東西時，你會經歷一個學習曲線，而Waymo在這方面遙遙領先。但特斯拉的純視覺方法如果成功，將是優越的。它更具可擴展性，而且特斯拉知道如何生產汽車，對吧？他們可以大規模生產汽車。但我認為他們都會存在。他們都會沒事。只有其他沒有自動駕駛汽車的人才會遇到麻煩。
-
-**更新信念（近期改變）**
-你提到孩子，你發了一條推文說：「我不相信生育率下降需要積極應對。」我忘了那條。你得，我挖得很深。為什麼？好吧，我的意思是，回想一下，三十年前，二十年前，每個人都在說地球人口過剩將是一個問題。馬爾薩斯式的結局，我們將有太多人。現在突然間，我們將有太少人。所以，部分原因只是末日迷因總是活著，而且很活躍，對吧？它只是被重新包裝。是的。我們石油快用完了，我們石油太多了，對吧？你知道，這就像世界正在變冷，世界正在變暖。總是有什麼可以大喊大叫的。世界末日了。科技沒有進步。AI會毀滅世界，對吧？所以，人們往往會過度誇大兩個方向。現在，實際的生育問題是什麼，對吧？好吧，人們生孩子少了。他們生孩子少了是因為有疾病嗎？有病毒嗎？他們失去生育能力了嗎？是睪丸裡的微塑膠嗎，對吧？不，人們生孩子少了是因為他們選擇生孩子少了，對吧？女性獲得了解放，在職場上獨立，她們賺更多的錢。嗯，人們不需要孩子作為保險。他們生孩子少了。也許他們過著享樂主義的生活。上帝保佑他們，對吧？他們想要更多樂趣。他們想要生孩子少了。我不認為選擇生孩子少了是一種問題。好的，那麼我們再往上一個層次。那是因為退休人員。那是因為很大一部分人口由於社會保障，基本上在65歲或70歲的保證年齡退休。所以他們需要其他人來支付。他們需要更多的勞動力。如果勞動力正在萎縮，那麼你就會有少數人，沒錯。他們正在供養大量的退休人員。而在民主國家，你不能取消養老金。選民會把你選下去。所以他們會慢慢扼殺經濟。那麼你怎麼辦？然後你就會有大量的移民，然後整個文化就會改變。你最終會進入一個低信任度的社會，人們開始為有限的資源而戰，你如何控制哪些移民進來，你如何確保他們進來後是好的納稅人等等。所以你最終會陷入這種困境，低生育率是文化和社會下游問題的根源。
-但我不太確定你能透過讓人生更多孩子來解決這個問題。你打算怎麼讓他們生更多孩子呢？我甚至不確定這是否一定是個問題，因為請記住，你現在擁有更多資源。你的負擔更輕了。現在，還有一個反面，每個孩子都是一張樂透彩票，而不是一項發明。所以，生更多孩子有一些好處，但你不能強求。我認為它會自行解決，對吧？史考特·亞當斯（Scott Adams）有一個很棒的定律，他稱之為「亞當斯緩慢移動災難定律」。當災難非常緩慢地移動，比如石油峰值、全球暖化或人口崩潰，每個人都能看到它們即將到來時，經濟和社會作為一種力量會解決它們，因為足夠多的個體有動力去解決它們。所以我不知道它會如何精確地解決，但我認為它可以用各種方式解決。一個例子可能是，你知道，也許人們會晚點退休。也許AI、自動化和機器人會照顧老年人。也許我們會想辦法在擁有移民的同時保持一個高度信任的社會。我們對移民制定更多規則，以保護一些高度信任的好處。也許我們會外包更多事情。也許我們只是，你知道，有更多的土地和住房。相信我，如果我們生太多孩子，每個人都會抱怨沒有住房和土地，對吧？所以他們總會找到一些值得關心的事。所以，我只是不認為這是一個任何個人或政府行動能解決的問題。我認為經濟和激勵機制會隨著時間解決它。我甚至不相信這是一個那麼大的問題。
-
-**擺脫過去與財富運用**
-你認為有什麼是，它也可能是自我修正的，那就是如果社會上的孩子太少，那麼生孩子的報酬實際上可能會增加。現在生孩子的誘因可能只是變得更容易，因為孩子太少了，他們會得到最好的工作。他們會有機會獲得資源。就像每個人都想，我想如果你從痛苦的一面來看，你會看到周圍所有沒有孩子的人，假設養老金完全取消了，而老年人唯一能生存的方式是他們的子女支付他們某種津貼，就像反向的，你知道，將錢傳回給上一代，你會說：「好吧，那是一個非常好的誘因。」那是一個很好的誘因。我還認為人們被迷因洗腦，認為孩子會讓你的生活更糟，那是一個非常非常糟糕的，你的經驗是什麼？孩子在各方面都讓你的生活變得更好。如果你想要一個自動內建的生命意義，那就生孩子。而且我認為有一些糟糕的心理學研究，就像大多數心理學研究一樣，不幸的是，它們說人們有了孩子後不快樂。是的，那是因為你正好在換尿布的時候被問到：「你高興有孩子嗎？」或者他們甚至沒有這樣問。他們說：「你快樂嗎？」然後他們說：「不，我現在不快樂。」但他們沒有意識到那個人找到了一些比當下快樂更重要的東西。他們找到了意義。而意義來自於孩子。如果你問父母，你後悔有孩子嗎？所以我想會是99比1，你知道，會是「不，我不後悔有孩子。我喜歡有孩子。我很高興我有孩子。」很少有父母後悔有孩子。這機率很高。這機率非常高。所以我認為很多人到了晚年，然後，你知道，他們無法承認他們不想要孩子，他們應該有孩子。這有點晚了。嗯，但你知道，很多時候你看到每個養寵物的人，對吧？他們推著嬰兒車，對吧？那是什麼？那是對孩子的昇華慾望。是的。馬爾科姆·柯林斯（Malcolm Collins）說，養寵物之於孩子，就像看色情片之於性。他基本上認為這是一種替代品。它肯定朝那個方向發展。你知道，我喜歡寵物。我喜歡動物。但我，我不喜歡閹割或結紮動物，然後把它當作囚犯養在家裡，還得訓練它。你知道，我只是不想為此負責。
-
-**擺脫過去與財富運用**
-鑑於你對育兒和孩子思考得更多，你希望你的孩子從童年學到什麼？他們應該快樂，做他們想做的事。我沒有為他們設定特定的目標。我認為那會導致不快樂，那不同，對吧？與學習和目標不同。這不一定是他們想要什麼？你希望他們從生活中想要什麼？你對你作為父母的首要職責是給予孩子無條件的愛，有什麼想法？就這樣。是的，就這樣。對。所以，我可以被愛，或者我被無條件地愛著。那是其中之一嗎？我希望我的孩子感受到無條件的愛，我希望他們有高自尊。
-嗯。作為結果。嗯。但我無法選擇任何東西。我只能選擇我的付出。我可以付出愛。我無法選擇他們的感受。我無法選擇他們的行為。我無法選擇他們想要什麼。我無法選擇他們最終會成為什麼樣的人。而從那裡，應該有自由。應該有一定程度的自由，來自於自尊，來自於無條件的愛。他們應該犯自己的錯誤，學習自己的教訓，並且，你知道，擁有自己的慾望並適當地實現它們。嗯，我像任何父母一樣，不希望他們受到傷害。我不希望他們不快樂，但我無法控制這些事情。你回覆了我的朋友Rob Henderson。他當時在談論孩子在被抱著的時候睡得更快，你說「讓他們哭出來」和「同床睡」是危險的。什麼是IYI科學？IYI是納西姆·塔雷伯（Nassim Taleb）說的。他談論的是「知識分子卻是白痴」。這些人受過高等教育，卻否認基本的常識。好的。所以在育兒方面有很多這樣的事情，這要歸功於非常糟糕的研究，以及糟糕的公共醫療指令。所以，例如，你知道，一些父母，也許他們喝醉了，或者吸毒了，或者有其他問題，然後，你知道，他們在睡覺時翻身壓到孩子。孩子窒息了，或者他們疏忽了孩子，然後同床睡，讓他們睡在床上。是的。沒錯。或者，你知道，現代的宣言。所以，因此他們說：「好吧，不要和你的孩子同床睡。」好吧，人類歷史上所有社會的孩子都和父母同床睡。你認為他們還睡在哪裡？他們沒有多個房間的房子。是的。沒錯。我們會把他們放在另一個帳篷裡。這簡直是胡說八道。同床睡從古至今就存在。當母乳用完或沒有時，餵孩子牛奶或羊奶也是如此。然而我們被告知，用大豆和玉米糖漿製成的配方奶粉，這是最近才發明的，不知何故比牛奶更好。而且牛奶對你的孩子來說可能是危險的，同床睡對你的孩子來說是危險的，讓他們哭出來是正確的答案。所有這些都是胡說八道。我的意思是，很明顯，我們在沒有這些干預的情況下，養育了人類歷史上的孩子。對我來說，讓孩子哭出來的想法，我理解這樣做的實際原因，這樣你就可以睡覺，早上可以去工作。但現實是，當你讓孩子哭出來時，你讓孩子哭到最終放棄。我的意思是，一個孩子獨自一人在野外哭泣，它會被吃掉，對吧？它會被老虎吃掉。嗯，所以這個孩子一開始就處於錯誤的基礎上。我之前提到的那個關於嬰兒不會感到疼痛的想法。那很荒謬，對吧？嗯，我以前從未聽說過。那是一個如此瘋狂的想法，但我可能應該在談論它之前進行兩三次確認。嗯，但肯定有一些人相信，有足夠多的人相信，這曾經是一回事。嗯，在某些圈子裡有一段時間。但我認為我們只是經歷這些，你知道，這些IYI信念，這些知識分子信念來自於那些掌握了一點知識並將其過度推斷的人。他們認為我們知道的比我們知道的更多，這是由於最近的科學研究，而這些都是垃圾科學。這些是低效能的研究，在非常特定的情境下進行，然後被過度應用。行為心理學在這方面非常嚴重，但這在很多科學領域都是如此。嗯，所以即使是科學，你也必須保持懷疑。你必須非常仔細地審視，你知道，它是否適用於正確的情境？它是否來自好的來源？他們是否進行了足夠多的、廣泛接受的高效能研究？而且有很多事情你就是不應該談論。你不應該說，你知道，你不能說任何關於疫苗的負面言論，因為天哪，如果他們不打小兒麻痺疫苗怎麼辦，對吧？這也是最近疫苗辯論的部分原因，因為我們對疫苗的崇拜走得太遠了，因為我們不希望人們不打非必要的疫苗。所以它被過度誇大了。所以同樣地，還有整個嬰兒猝死症（SIDS）的事情，對吧？這就像：「不，孩子不會突然神秘地死亡。」更可能是疏忽或有問題，然後照顧者不想承認問題或沒有意識到問題。但孩子不會只是在嬰兒床裡自發死亡，對吧？嗯，所以他們談論包裹嬰兒。你包裹嬰兒，你知道，基本上把他們綁起來，木乃伊化他們。嗯，所以你束縛他們，這樣他們就不會死於嬰兒猝死症，他們翻身後無法翻回來。我的意思是，這一切都是關於育兒的瘋狂。這是一個雷區。這是一個雷區。而且，你知道，你會有這些害怕的父母，第一次有了孩子，他們打開一本書，開始閱讀如何養育孩子，而我會說，你對如何對待孩子的自然本能實際上非常好。這很有趣，當我和我妻子有了第一個孩子時，我記得，你知道，在醫院，抱歉，第一個是自然分娩，嗯，在分娩中心。我們回家了，就像：「就這樣了。」我們想：「我們該怎麼辦？說明書在哪裡？」你把他們帶回家，然後你放鬆，你意識到實際上直覺非常好。你知道，如果孩子哭了，檢查是否乾淨，餵他們，所有這些。這就像你的基本直覺實際上非常好。而孩子的直覺實際上非常好。他們知道自己想要什麼，他們想要東西是有原因的，他們可以鼓勵你給他們。是的。通常孩子不是缺乏理性的成年人。嗯，在某種程度上這是真的，但大部分情況下不是真的。大部分情況下他們想要什麼都有很好的理由，而你作為父母，大部分情況下只是與他們有溝通問題。他們還無法與你溝通。你無法與他們溝通。他們無法與你溝通。所以早期我和孩子們在一起時，我試圖專注於教他們基本的解釋性理論，而不是讓他們記憶事物。這就是最，是的。最自然的解決方案。不，但我會給你一個非常簡單的例子，對吧？好的。這就是推特，這就是「如何在不靠運氣的情況下致富」的推文串。所以第一個，好吧，一個簡單的例子是，你知道，知識是如何被創造的？如果你遵循批判理性主義的大衛·德意志哲學，那麼就是透過猜測，然後測試你的猜測。所以每當他們問我：「好吧，你為什麼這麼認為？」或者「我們怎麼知道那是真的？」對吧？那是一個你可以和他們一起玩的簡單遊戲。和他們一起玩。但另一個是，你教孩子很多規則都與衛生有關，對吧？你必須刷牙，你知道，咳嗽時捂住嘴巴。嗯，你知道，清理自己。不要碰那個。做完這個後洗手。嗯，不要吃地板上的食物，對吧？但所有這些都歸結為疾病的細菌理論，對吧？所以如果你改為在YouTube上給他們看細菌的影片，或者如果你讓他們用顯微鏡看任何東西，他們會說：「啊，他們可以推斷出會發生什麼。是的，到處都是爬蟲，我必須小心它們。」嗯，然後，你知道，你可以談論人類，我們的真正敵人是病原體。我認為很多衰老和疾病實際上都源於我們與病原體隨時間的競爭。嗯，達到人們仍然沒有完全理解的程度。有一個紅皇后假說，就是我們進行性選擇來混合我們的基因。所以每20年，每一代，你都會混合你的基因。但如果你看細菌和病毒如何透過隨機突變來變異，它們的基因混合率和進化率與我們大致相同。儘管它們經歷了數千代，那20年，因為它們不是進行性選擇，它們是進行無性繁殖和突變，它們的進化率與我們大致相當。所以，我們處於一場紅皇后競賽中，我們都以大致相同的速度奔跑，使用非常不同的策略。但我們很多進化都圍繞著病原體。就像我們的免疫系統是身體運作最昂貴的東西之一，很多都與免疫系統優化有關。那是關於病原體。細菌中的垃圾DNA和CRISPR被發現，是因為在細菌中，它們的DNA進化來對抗病毒，它這樣做的方式是，每次病毒攻擊時，它會獲取病毒DNA並將其剪斷，然後儲存在自己的DNA中，這樣它們就有一個副本，下次攻擊時就能識別它，你知道，等等。嗯，物種的很多種群結構決定了它們的壽命長短。所以如果一個物種的感染率非常高，那麼這些老年成員就會攜帶疾病，然後感染年輕的。所以對那個物種來說，更快地擺脫老年人很重要。所以一個種群的疾病率越高，整個種群的壽命就越短。這樣老年人就不會感染年輕人。這是一個假說。我不是說它是真的。這是一個有趣的假說。嗯，人體內的穩態，我們總是回到一個給定的水平，這是一個我們構成的根本部分，我們的體溫、pH值、血壓等等都在穩態下。但如果你進行任何形式的信號傳導，例如你服用一種肽，那是一種信號分子。你從外部服用一種激素，身體會抵消它。你服用睪固酮，身體會非常快地降低自身的產生。嗯，身體以脈衝而不是穩態釋放自己的激素。為什麼會這樣？好吧，那是因為細菌和病毒可以感染你的身體並欺騙你的身體。它們可以接管它。就像弓形蟲會這樣做，狂犬病會這樣做。它們接管宏觀結構，結構性身體。而小細菌和病毒會入侵我們的身體，並在我們沒有防禦機制的情況下，字面上接管它們。其中一個防禦機制就是穩態。每當你看到有什麼東西失衡時，你就會立即非常用力地反擊，因為：「我剛剛被感染了嗎？有什麼東西試圖接管我嗎？」這也是為什麼激素在夜間以脈衝而不是穩態低水平釋放，因為敵對細菌可以釋放毒素或相同的信號分子，但它們無法脈衝，它們無法協調脈衝。所以你的身體可以協調脈衝作為一個宏觀物體，但微觀物體無法協調產生相同的脈衝。哦，那很酷。是的。所以有很多，我的意思是，你知道，你在癌症中看到這種情況，很多細菌會出現，比如愛潑斯坦-巴爾病毒會出現在很多癌症中，嗯，你知道，現在似乎腸道微生物組影響了很多事情。基本上，細菌和病毒在食物鏈的頂端，與我們相比。我們是眾所周知的食物鏈的頂端，但細菌和病毒吃我們。真菌吃我們。所以這些微觀捕食者是我們的自然捕食者。所以很多衰老、社會結構、衛生、宗教對豬肉的禁忌、你知道，割禮，所有這些事情，這些都是為了抵抗細菌和病毒而設計的。所以如果你能在早期就教導孩子這種哲學，你就能縮短所有的辯論。
-
-**文化戰爭的未來與新聞氾濫**
-你教導孩子這種哲學的效率如何？那一個，我想我做得相當有效。我在家裡灌輸了這個。我還沒有完全搞定的，是進化論。我開始做一些小小的嘗試，你知道，就像我們來自猴子。那是什麼意思？嗯，我已經讓他們開始思考一些更深層次的問題了。我確實問過我的，你知道，小兒子：「你知道，什麼都不存在嗎？」我認為那是一個有趣的問題。所以，我喜歡提出一個有趣的問題。他現在幾歲了？像四歲，三歲。不，不，他八歲了。哦，對。一個八歲和一個六歲的孩子。所以我問他們兩個：「什麼都不存在嗎？」他們都有很好的答案，對吧？嗯，我們前幾天玩的另一個問題是：「什麼是矩陣？」好的。你知道，什麼是，這一切是什麼？我只是覺得這很有趣。談論這些問題很有趣，對吧？和你的孩子談論這些問題。我不是說那是一種好的育兒方式。它沒有導向任何更深層次的學習，除了可能只是讓他們開始，或者繼續質疑現實的基本結構，而不是那麼快地跳過它。
-
-**文化戰爭的未來與新聞氾濫**
-還有，享受。你知道，那裡正在傳授的元教訓是什麼？爸爸花時間問一些不一定有答案的問題，因為學習和試圖解讀正在發生的事情的過程是令人愉快的。可能還有，爸爸不會太努力地教導人們。我不想說教。他幫助他們達到目的。是的。沒錯。沒錯。爸爸在這裡幫助你解決問題，當你有問題時，你總是有問題。所以如果你來找爸爸，爸爸可以幫助你解釋他會如何解決問題。但大多數時候他們不想要那樣。大多數時候他們只是想要自主權。是的。大多數時候他們只是想讓我解決問題，對吧？所以有時候他們必須裝傻。就像：「為什麼我的Wi-Fi在我的電腦上不能用？」我說：「我不知道。你點擊那個東西了嗎？」看，你養了一個叛逆的自主孩子。他們可能是自主的，但有時候他們仍然需要爸爸介入。所以除了感受到愛和擁有高自尊之外，我認為最重要的特質，不應該剝奪他們的是自主權。我希望他們保留他們的自主權。他們天生就具有自主性和意志力，但很多育兒方式會透過馴化他們來扼殺這些特質。沒錯。我寧願養野獸和狼，也不願養訓練有素的狗，因為我不會一直在他們身邊照顧他們。是的。所以，他們必須能夠照顧自己。沒錯。是的。我的一個朋友，嗯，Parsa，在Air Chat上，他有一句很棒的話。他說，嗯，他希望他的孩子們學習快，而且難以殺死。
-[笑聲]
-那很不錯。是的，那很酷。我記得你說過，只是思考未來和文化之類的事情。我記得你說過，左派贏得了文化戰爭，現在他們只是開著車射殺倖存者，對吧？在我們過去六個月看到的變化，以及我們目前所處的狀況之後，你認為文化戰爭的未來會是什麼樣子？還沒結束。嗯，他們肯定贏得了早期的回合。他們佔領了機構。我認為現在這是一場更公平的戰鬥。嗯，你看到像伊隆這樣的人，你知道，有點支持，所以歷史上存在著這些不同的力量，對吧？歷史學家會爭論這個。嗯，但有一種「歷史偉人論」的理論，就像：「哦，你有愛因斯坦，你有特斯拉，你有，嗯，成吉思汗和凱撒，對吧？」他們決定歷史的走向。然後還有另一種觀點，不，存在著這些巨大的力量在起作用，你知道，人口結構和地理等等，然後特定的偉人並不重要，他們只是來來去去，拿破崙並不重要，會有其他人，特定的名字並不重要，而且因為我們的機構在過去幾十年裡採取了左傾，他們現在只相信「歷史偉人論」，而不相信「歷史偉人論」。但我認為現在我們看到這兩者都在發揮作用，你看到，你知道，川普和伊隆以及其他個人崛起並說：「不，我們反抗。」是的，這很有趣。而且，我想，不幸的是，所以這種集體主義者和偉大力量與個人之間的鬥爭，和人類本身一樣古老。而且它對這個物種來說是根本性的。我們不是一個完全個人主義的物種。你知道，沒有人是孤島。一個人無法獨自做任何事情。但我們也不是一個博格人。我們不是一個蜂巢。我們不是一個蟻群。我們不是所有人都只是無人機一樣行進。那麼，到底是哪一個呢？我們處於中間某個位置。人類總是在兩者之間搖擺。我們喜歡強大的領導者。我們喜歡被領導。嗯，我們喜歡協調我們的力量，集結起來做事情。嗯，但同時，我們也都是個體，願意脫離，願意做自己的事情，每個人都在為成為領導者而奮鬥，而且總是有地位遊戲在進行。所以，嗯，我們有一個鐘擺總是在來回擺動。在現代經濟學中，它表現為馬克思主義和資本主義之間的某種形式，對吧？馬克思主義是：「各盡所能，按需分配。」我們都是平等的。有一個千年計畫。我們最終都會平等。而且，你知道，不要試圖脫穎而出，但要做對每個人都有益的事情。嗯，它帶有宗教色彩。然後資本主義個人主義者就像自由主義者。各自為政。你們每個人都做自己想做的事情，最終會對更大的利益有益。那是亞當·斯密。你知道，市場的無形之手會餵飽你。麵包師應該烤麵包，屠夫應該屠宰，燭台製造商應該製造燭台，一切都會順利。每個人都盡力而為，然後他們進行交易。那麼是哪一個呢？哪種理論是正確的？我認為兩者之間總會有一場戰鬥。
-而且我認為有趣的是正在發生的事情。它帶有現代風味，這改變了它。現代風味是個人變得越來越強大，因為他們獲得了更多槓桿。所以像伊隆·馬斯克這樣的人可以擁有數萬名傑出工程師和生產者的槓桿。他可以擁有機器人工廠來製造東西。他可以擁有數千億美元的資本支持。他可以透過媒體將自己投射到數億人面前。這比歷史上任何個人所能擁有的權力都要大。所以歷史上的偉人變得更偉大。話雖如此，同樣的槓桿正在增加貧富差距。所以在財富遊戲中，總體上更多人獲勝，平均值正在上升。但在地位遊戲中，基本上有更多失敗者。有更多無名無姓的人一無所有，相對而言沒有任何槓桿。客觀地說，他們可能過得更好。他們仍然有手機，他們仍然有電視，但我們不是絕對主義的生物。我們是相對的生物。沒錯。所以就我們是相對的生物而言，失敗者比贏家多。在民主國家，這些人會比贏家多，他們會把贏家投下去。所以這就是正在進行的戰鬥，民主已經變得非常廣泛，所以我的另一個俏皮話是，不是投票權賦予你權力，而是權力賦予你投票權。所以我們混淆了兩者。所以發生的事情是，你知道，投票最初是為了讓有權力的人分配權力，而不是互相爭鬥。革命的勝利者，戰爭的勝利者，上議院和下議院的人，他們在自己之間分配權力。他們說：「嘿，我們有所有的錢。我們有權力。我們是騎士。我們有劍。我們有戰士。我們可以殺死所有人，但我們不想整天互相爭鬥。我們不必永遠玩《權力遊戲》。所以，我們將透過在我們之間投票來分配權力。」但後來，隨著社會的發展，變得越來越和平，投票權被擴大。它被擴大到沒有土地、沒有權力、可能無法施加物理暴力的人。然後最終你達到每個人都在投票的地步。每個人都在投票。每個人都在投票支持糖果和仙女，以及生活中所有免費的東西。嗯，然後最終人們開始投票壓迫彼此。任何領域的51%投票壓迫49%，多數人的暴政。但並非所有人都願意用物理力量來支持這一點。所以你可能會陷入這樣一種情況：沒有物理力量的人正在利用國家機構來控制擁有物理力量的人。舉一個簡單的例子，以美國為例，沒有槍的人投票解除有槍的人的武裝，對吧？好吧，如果那些有槍的人協調起來並足夠關心，你就不能這樣做，對吧？所以我認為最終這些社會結構是不穩定的，它們會崩潰，它們會崩潰，因為最終有權力的人會說：「不，等等，你不能投票，你之所以能投票是因為你有權力，現在你沒有權力，你卻試圖投票。」所有自然、所有社會、所有資本主義、所有人類的努力都以物理暴力為基礎。這是一個非常難以接受的真相，也很難擺脫。自然界是殘酷的。如果你不戰鬥，你就無法生存。你不活，你就死。這對今天所有活著的東西都是如此。人類也不例外。所以放棄物理力量，然後認為你可以行使政治權力是失敗的。這就是為什麼每一次共產主義革命，都是關於平等、和諧、兄弟姐妹的，最終都由一群暴徒來管理。因為如果你沒有辦法根據功績來分配財富，那麼它就總是會基於權力和影響力。有槍的暴徒最終總是會贏。所以問題只是你能否讓有槍的暴徒得到報酬、快樂，以及在一個成功的社會中，你根據功績進行分配，因為如果你不能，那麼你就會根據權力來做。所以我確實認為這場戰鬥還沒有結束，但那是因為它從未停止。它從第一天起就一直在那裡。它會繼續下去。
-
-**文化戰爭的未來與新聞氾濫**
-這是一場在新聞飽和時代不關心新聞的戰鬥嗎？所有這些東西，頭條新聞24小時不間斷，透過你口袋裡的設備直接傳輸到你的意識中。你知道，我們今天談論的很多都是自由。擺脫不得不思考或關心你無法控制或不應該或不想關心的事情的自由。然而人們卻像淹沒在水底一樣，基本上快要淹死了。
-在擔憂中。所以，是的。這是一場在新聞飽和時，試圖遠離新聞的戰鬥嗎？是的。我的意思是，就像你說的，人腦還沒有進化到能夠處理所有即時爆發的世界危機，你不可能關心所有事情，如果你試圖這樣做，你會發瘋的。嗯，這不代表你完全不應該關心。沒有「應該」這種事。我的意思是，如果你想關心，那就去關心吧。我只想說，你可能最好只關心那些地方性的事情，或者你能影響的事情。所以，如果你真的關心新聞中的某件事，那麼當然要去關心它，但要有所作為。去為它做點什麼。嗯，並確保那是你壓倒性的慾望，而且你沒有同時有五個其他的慾望。嗯，也要意識到它的後果。你會不快樂，直到那件事得到解決，而那件事往往是你無法控制的。慾望是一份契約，讓你直到得到你想要的才會快樂。但大多數情況下，那是你生活中的某件事。這就像：「直到我減掉體重，直到我找到工作。」也可以是外部的。是的。如果它是：「直到二氧化碳濃度低於這個特定數字。」這就像，那是一個難題。或者所有那些患有川普精神錯亂症候群的人，對吧？他免費住在他們腦海裡，讓他們發瘋。我理解。我的意思是，有些政治人物確實也讓我發瘋。嗯，但這代價很高。這是一個你無法控制，也無法真正影響的事情。嗯，所以至少意識到這一點是好的。
-
-**被媒體忽略，但會被歷史學家研究的事物**
-你之前提到歷史學家。我的一個朋友有一個問題，相當於彼得·提爾（Peter Thiel）的問題：「你相信什麼是大多數人會不同意的？」他的問題是：「你認為目前被媒體忽略，但會被歷史學家研究的是什麼？」
-你現在問我這個問題。我認為什麼被媒體忽略，但會被歷史學家研究？
-好吧，我的意思是，媒體只關注非常及時的事情，對吧？所以，這取決於你想談論及時的還是永恆的，對吧？但作為一個簡單的例子，如果我只看未來五到十年可能產生巨大影響，但人們沒有足夠關注的事情。嗯，而且我認為兩年內這將會很明顯。所以，就像我正在做一個預測，預測很難，但你幾年後就得接受它。是的，我幾年後就得接受這個。所以我可能錯了，但有兩件事我會關注，嗯，我認為很多人沒有關注。好吧，有幾件事。一個是我認為現代醫學有多糟糕。我認為人們對現代醫學的信心遠超其應有的程度。就像我們對很多事情的最佳想法是手術，只是切除東西，對吧？嗯，治療那些多餘的東西，就像：「哦，你其實不需要膽囊，你其實不需要闌尾，或者你其實不需要扁桃體。」哦，那是錯的。
-每個人的身體都非常非常有效率，所有這些東西都是必需的。嗯，你知道，所以我認為現代醫學的狀況仍然很糟糕，我們在生物學上沒有太多好的解釋性理論。嗯，我們有細菌致病理論，我們有進化論，我們有細胞理論，我們有DNA遺傳學，嗯，形態發生學、胚胎發生學，以及其他不多。你知道，沒有太多其他東西。其他一切都是經驗法則，死記硬背。A影響B，因為C影響D，但我們不理解潛在的解釋。這一切都只是詞語指向詞語指向詞語。所以，生物學仍然處於非常糟糕的狀態。而且因為我們不允許冒可能致人死亡的風險，嗯，我們在生物學上沒有足夠的實驗。所以，很多治療方法都被大型監管機構直接禁止。所以，我們沒有創新。所以我認為我們在生物學方面仍然處於石器時代，我們還有很長的路要走。嗯，我想人們回顧這一切時會感到震驚，我認為這就是布萊恩·約翰遜（Brian Johnson）的觀點。他就像：「你知道，讓我們更極端一點。讓我們試著永生。我們必須更具實驗性，所有人都從個體實驗開始，然後在我自己身上進行實驗。」嗯，但即使在那裡，我在很多事情上都不同意布萊恩，比如，你知道，服用大量的補充劑。所以，我認為我們只是不了解補充劑在自然環境之外的作用。就像，吃肝臟吧，老兄。對。嗯，但這很好，而且我也不會是素食主義者，但你知道，我非常欣賞他正在實驗。他很隨和，他分享一切。所以我們需要更多這樣的人。嗯，所以我認為生物學的狀況，人們回顧時會說：「哇，那是在黑暗時代。」嗯，我想，嗯，另一個，嗯，另一個我們將會回顧的，我認為是我們仍然繼續低估無人機在戰爭中的重要性。所有戰爭的未來都是無人機。戰場上將不會有其他東西。嗯，因為我認為無人機的最終狀態是自主子彈，甚至不是導引的自主子彈，它們是自我導向的。所以如果這就是我們前進的未來，那是一個，為什麼你會有一支武裝部隊，那裡將不會有航空母艦，不會有坦克。不會有步兵。只會有自主子彈。用自主子彈對抗你的自主子彈。哪一方贏了，另一方就投降，因為一切都結束了。嗯，我想那是第二部分。我想第三部分將會是，嗯，有點出乎意料的是GLP1s，我知道你我之前私下討論過。我認為這些是自抗生素以來最具突破性的藥物。嗯，它們可能比他汀類藥物更重要。它們是某種奇蹟藥物。它們似乎，有缺點，但與除了減重之外的優點相比，缺點和副作用非常輕微。嗯，它們似乎也是戒癮藥物。它們似乎能降低多種癌症的風險。它們幾乎在代謝上逆轉衰老到某個程度。嗯，我認為它們將會改變醫療保健成本的曲線。嗯，人們在未來五年內將會問的大問題是，為什麼美國人每月要為此支付數千美元，而海外的人卻免費獲得，或者我可以從中國免費訂購之類的。嗯，也許它，如果我是伯尼·桑德斯（Bernie Sanders），我會以這個平台競選，我會說：「好吧，我們將支付，你知道，數千億美元給諾和諾德（Novo）和禮來（Eli Lilly），我們將免費提供這些藥物，或者有數百種這些藥物的類似物是有效的。」這些藥物不會，你知道，僅限於今天使用的少數幾種。只要服用其中一種或兩種，讓它們免費，我認為這將會產生巨大的影響。而且，就像你我之前討論的，嗯，這確實讓很多人感到不適，他們是透過老式方法達到目的的，他們希望將肥胖視為人們的道德缺陷，如果他們的信號不再是信號，那會降低他們的地位。是的。絕對如此。是的。所以，所以他們被激勵說：「哦，好吧，你不知道缺點。你知道，暗示它會致癌是不負責任的。祝你減掉骨骼和肌肉質量愉快。」但所有這些都不是真的。癌症方面實際上是有益的。我知道有人現在正在服用這些藥物，是為了抗衰老。嗯，他們已經很健康了，但他們只是想更好地衰老，擁有更強的胰島素代謝。嗯，現在有證據表明這些藥物，你知道，它們可以延緩失智症、阿茲海默症、結腸癌。這太瘋狂了。心血管疾病，就像好處清單是瘋狂的。沒有免費的午餐。
-但這是一類藥物，可以阻止你服用其他藥物。它阻止你在豐裕時代攝入過多的糖、過多的卡路里，阻止你吸煙，甚至阻止你，有一個名為Casper的組織正在對海洛因成癮進行研究，他們表明這可以降低鴉片類藥物過量和海洛因成癮。所以有很多壓倒性的醫學證據正在出現，我想我不知道確切的數字，但我認為大約10%的人口可能沒有嘗試過這些東西。我想這也是我看到的數字。這很龐大。我想大約50%的人口表示他們想嘗試。沒錯。所以，嗯，我認為身體自愛運動已經死了，我們一直都知道那是一個騙局。我的意思是它正在非常非常快地消亡。是的。我開玩笑說：「你永遠不會太富有、太瘦或太乾淨，對吧？」然後立刻就有一大群人反應激烈，提到：「你什麼意思太瘦？那衛生假說呢？」你知道，顯然總有例外，但人們想要瘦身健美，人們想要乾淨，回到我們之前討論的病原體。嗯，所以我認為總體而言，對這些東西將會有巨大的需求，而我們現代的醫療系統並沒有能力供應這些。好吧，我不是，我不是，我不怪藥廠。我認為藥廠完成了他們的工作，創造了這個東西，但我認為接下來我們需要加強並弄清楚如何讓它廣泛且廉價地供應，而不是只為肥胖者，你知道，那些可以讓醫療保險批准的人，或者那些自費支付高昂價格的人。是的。嗯，你我之前討論過，嗯，安全GLP1s的社會分佈效益是如此巨大，以至於任何解決這個問題的政治家都將獲得豐厚的回報。好吧，肥胖是全球營養不良的首要原因。肥胖的人數是飢餓者的兩倍。所以大約有五億人飢餓，十億人肥胖。很多問題都源於此。就像，你知道，看看聯邦預算中有多少用於透析，因為腎衰竭。為什麼會這樣？那是因為糖尿病，對吧？所以現代社會中我們遇到的很多問題都源於肥胖。你知道，健身是如此重要。嗯，是的，有些人服用這些東西會導致肌肉和骨骼流失，但那些攝取高蛋白並努力鍛鍊的人不會。所以它們可以以更安全的方式服用，而且其中一些版本，比如原始的利拉魯肽，已經存在幾十年了，其他的也存在了大約十年。所以，而且我們已經有，就像你說的，10%的人口正在服用它們，所以它們已經相當廣泛地分佈了。一個很好的樣本量。是的，這是一個很好的樣本量。你還需要什麼？就像，如果你有細菌感染正在吞噬你，我不會說：「哦，我有這種抗生素，但它會提高你的血壓。」這就像：「不，服用抗生素。」如果你要自殺，我會說：「服用這種抗精神病藥物，多活一會兒，然後解決它。」我不會說：「哦，它會，你知道，讓你的心率每分鐘增加三下。我不會擔心那個。」所以同樣地，如果你正在用毒素和過度使用你不應該使用的物質毒害自己，無論是海洛因、酒精、香煙、糖，還是單純的卡路里，嗯，服用這種GLP1。嗯，它們還能改善消化。你只是攝入更少的卡路里，更少的食物通過你的胃。它們全面降低癌症風險。有很多癌症風險降低了。嗯，心血管，我的意思是，我不知道還能告訴你什麼。
-
-**擺脫過去與財富運用**
-每當談到GLP1s時，我對負面反應感到非常驚訝，我想其中很多可能來自於那些，而且你，想想有多少神聖的牛被宰殺了，對吧？所有那些基本上說：「你應該更努力工作，你應該保持健康，就像我一樣。」這降低了他們的地位。想想所有那些營養師、醫生和教練，他們現在正在，你知道，太容易了，他們正在以某種方式被淘汰，對吧？這有點像為什麼美國軍方不斷購買航空母艦，對吧？在無人機時代，嗯，存在一種激勵偏見。存在一種非常強烈的動機性推理。嗯，但這不重要。10%的人正在使用它。嗯，每個人都想保持健康。它會像野火一樣蔓延。我們，我剛才在想，你知道，當我們思考健康時，很多人會被他們成長的方式、他們童年養成的習慣，或者父母的做法，或者基因遺傳傾向之類的東西所困擾。我想，嗯，你有很多理由，就像很多人一樣，會因為你生命早期遇到的挑戰而感到委屈。擺脫過去是一種技能嗎？也就是說，今天不被你的歷史所束縛。不抱持那種受害者心態。是的，我確實有一個艱難的童年，但我不會去想它，你知道。我認為有幾件事正在發生。一個是我確實處理了很多。我思考過它，但我思考它是為了擺脫它。我思考它不是為了沉溺其中或放縱。是的。我想成功。我比任何其他事情都更想超越那個。所以我不能讓它成為我的負擔。所以我必須擺脫它。所以就我處理它的程度而言，它是為了擺脫它，而不是為了創造一個身份或故事，或者為了反思它，或者為了說：「看我。看看我取得了什麼成就，看看我有多棒，我做了什麼。」所以我擺脫了它。我想在某個時候，你會與那件事搏鬥，然後你就會意識到，你永遠無法完全解開它。這是一個戈爾迪之結問題。嗯，就像亞歷山大，你知道，在印度發現了那個糾結的結，他們說：「哦，著名的征服者會來解開這個結，沒有人能解開這個結。」他看了一眼，拔出劍，就把它砍斷了。所以在某個時候，你只需要斬斷你的過去，如果你的過去困擾著你，你最終會厭倦試圖解開那個結，你就會放棄它，因為你會意識到生命短暫，而且你越想在生命中完成更多事情，你解開那件事的時間就越少。所以我只是想真正地完成事情。所以我沒有時間處理它。所以我只是斬斷了它。這就像一段糟糕的關係。但在這種情況下，這是一段與你自己的歷史的糟糕關係。所以你只是放棄它。是的。我想，你知道，我們今天談論的很多都是關於生命的短暫，以及每個時刻都彌足珍貴。你必須談到，你生命中最根本的資源不是時間，而是注意力。沒錯。我以前認為，你知道，生命的貨幣，對吧？人們認為是金錢，是的，金錢很重要，它確實讓你用某些東西換取時間，但它並不能真正買到時間。問問沃倫·巴菲特（Warren Buffett）金錢能買到多少時間，或者邁克爾·彭博（Michael Bloomberg）。他們，你知道，像史高治和克里斯一樣富有，但他們買不到更多時間，對吧？布萊恩·約翰遜（Brian Johnson）除外。嗯，所以你不能用金錢換取時間。金錢不是生命的真正貨幣。
-時間本身甚至沒有那麼重要，因為就像我們之前談到的，很多時間可能會被浪費，因為你並沒有真正活在當下。你沒有專心。所以生命的真正貨幣是注意力。是你選擇關注什麼，以及你對此做了什麼。所以回到新聞媒體的觀點，你可以把注意力放在新聞上，但那就是你花費生命真正貨幣的方式。所以只要意識到這一點。如果你想這樣做，那很好。這裡沒有對錯。也許你的命運就是選擇新聞中的某件事，了解那個問題，接受那個問題，並解決它。但要小心，因為你的注意力是你唯一擁有的東西，而且它也可能被你的過去所俘虜。是的。你可以隨心所欲地浪費它。
-
-**文化戰爭的未來與新聞氾濫**
-從失敗者開始有優勢嗎？絕對有。是的。因為如果你是個失敗者，你就會想成為贏家，然後你就會培養出所有能幫助你成為，你知道，所謂的「贏家」的特質。話雖如此，我不會讓我的孩子經歷這種事。我認為你無法人為地做到這一點。你知道，這有點像想像一下，你在三百年前，你出生為農奴，然後不知何故你設法逃離農場，你成為一個地主，然後最終你成為小貴族和貴族。你會讓你的孩子回到農場，然後說：「你又要當農奴了」嗎？我知道他們都喜歡那些故事。孩子們自己也喜歡那些故事，因為它說：「我來自艱苦的學校。我爸爸讓我夏天去鏟乾草。」那不是真的。我的意思是，你騙不了他們。嗯，我想你所能做的就是培養一種欣賞和感恩你所擁有的心態。而做到這一點的唯一方法就是你自己證明，對吧？只是展示你自己如何花錢，如何尊重它，你用它做什麼，你如何照顧人，你對誰負責。而且你擁有的資源越多，你就能照顧的部落就越大。你就能照顧更多的部落。所以當你沒有資源時，你連照顧自己都很困難。在那種情況下，自私是好的，因為如果你連自己都救不了，你就救不了別人。是的。所以你照顧好自己，成為最好的自己。但有太多男人有能力、健康，而且有一些錢，卻什麼都不做。他們只是坐在家裡什麼都不做，只是放縱自己。也許他們去約會，然後叫外賣。我對此沒有任何尊重。我認為社會上沒有什麼比懶惰的男人更糟糕的了，因為他有點，他有點把一切都放在桌上。他把自己的潛力放在桌上。這對他不好。所以你做的下一件事就是去組建家庭，照顧你的家庭。照顧那個部落。然後你照顧你的大家庭。你照顧你的表兄弟姐妹、兄弟、叔叔、祖母、阿姨、你知道，姐妹，所有你能照顧的人。然後如果你有更多的資源，那麼你就去照顧你的當地部落。你照顧你的人民。嗯，你開始試圖為世界做一些好事。如果你有更多的資源，你就去照顧一個更大的部落。這就是你贏得尊重和自信的方式，你活出了你的潛力。所以你擁有的越多，社會就越有理由期望你做得越多。我認為這是一個與社會的良好契約，當有能力的人透過付出越來越多，做越來越多來表達和展現他們的能力時。社會會用他們無法以其他方式獲得的東西來獎勵他們，那就是地位。對吧？所以社會應該給你地位作為交換。嗯，他們應該說：「好吧，你做得很好。你照顧的人比你自己和身邊的人更多。」嗯，這就是我心目中的Alpha雄性。Alpha雄性不是那個先吃的人。Alpha雄性是最後吃的人。Alpha雄性先餵飽所有人，然後自己最後吃。他們這樣做是出於自己的自重和驕傲。社會則稱他們為Alpha，並賦予他們地位。
-
-**文化戰爭的未來與新聞氾濫**
-我想知道我們對富人、有錢人、有權勢的人的一些反彈是否會產生反作用。嗯，就像是誰？祖克（Zuck）捐錢給扎克伯格綜合醫院，他們卻想把他的名字從醫院上撤下來。我的意思是，我沒看到那個，但那種事情會適得其反，對吧？你應該獎勵那些做對事的人。你之前說過什麼？你不需要，事實上，如果你想讓他們的行為改變，當他們做錯事時，你應該積極避免責罵他們。當他們做對事時，要強化它。這也發生在社會層面。沒錯。我的意思是，那些賺了很多錢然後去買運動隊伍的人，我不會那樣做，對吧？但那些去建造醫院，或者建造火箭把人送上月球，你知道，或者營救一些太空人的人，你應該獎勵他們。嗯。Naval，我真的很感謝你。嗯，我希望這符合你一直以來的奇怪白日夢。
-嗯，你接下來有什麼計畫？人們對你未來一段時間有什麼期待？什麼都別期待。這是我們結束這段對話最Naval的方式，老兄。嗯，這已經醞釀很久了，我真的很感謝你今天來到這裡。但我確實希望你能帶來一些東西。哦，我想你已經帶來了。所以，謝謝你。謝謝你邀請我。也謝謝你。謝謝你進入我的腦海。希望現在你已經離開了。我們拭目以待。也許現在更糟了，你有了真實的記憶可以堅持。我不知道。贏得遊戲的原因是為了擺脫它。原因是為了結束它。
-好的。哇。你堅持到了最後。恭喜你。如果你喜歡這段內容，你一定會喜歡我與獨一無二的生命學校的阿蘭德隆（Alander Boton）的完整對話，就在這裡。
-繼續。
-[音樂]
-[Timestamp: 2025/11/10 09:47:31]
+### 八、 更多資訊
+- **書籍**：《微型實驗》(Tiny Experiments)，可在任何販售書籍的地方購買。
+- **網站**：nls.com，可訂閱每週四發送的電子報。
+[Timestamp: 2025/11/15 23:33:10]
