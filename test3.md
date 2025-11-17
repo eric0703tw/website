@@ -1,76 +1,98 @@
-我離開了 Google 的工作，認為我應該嘗試做一些不同的事情，卻沒有意識到我正在遵循另一個成功的劇本。我決定創辦一家新創公司，但再次地，我並沒有在那裡找到幸福，因為我遵循著周圍每個人都在遵循的成功理念。直到我的新創公司失敗了，我生平第一次對接下來該做什麼才能成功沒有明確的想法時，我才終於問自己：「我真正想做什麼？即使我忘記了傳統的成功定義，什麼會讓我快樂？」於是我回到了起點，開始思考我好奇的事情。同樣，這不是基於傳統的成功定義。即使沒有人關注，我會對探索哪些主題感到興奮？對我來說，那就是大腦。我一直對我們為什麼以我們思考的方式思考，以及我們為什麼以我們感受的方式感受著迷。於是我決定回到大學學習神經科學。
-
-行動，然後你決定一個持續時間，你說：「我將在特定持續時間內執行這個行動。」為什麼會是這樣？有幾個原因。第一個原因是，當科學家設計實驗時，他們會預先設計試驗次數。如果結果不像你預期的那樣，你不會簡單地中途停止。你收集所有數據，一旦你有了所有數據，你就可以分析它並決定答案是什麼。第二個原因是，它讓你能夠注意到你何時成為最大化大腦的犧牲品。你可以通過選擇一個合理的持續時間，一個你實際可以實現的持續時間，來確保你的實驗足夠微小，以便你實際能夠完成它，這樣你就可以收集所有必要的數據。契約是有目的的。
-
-在人際關係中，你可以說：「我將每個星期天坐下來給一位我很久沒有聯繫的朋友寫一封信。」甚至在健康方面，你可以說：「我將每天散步 20 分鐘，持續 20 天，看看實驗結束時我的感覺如何。」通過實驗，你不會對這是否對你有用做出任何假設。例如，朋友的一個習慣，每週跑步三次，可能對你來說並不好。也許在健康和身體運動方面，你更喜歡跳舞或其他什麼。這就是為什麼在養成習慣之前進行實驗很有趣。例如，在跑步方面，你可以說：「我將嘗試一下。我將每週跑步三次，持續三週，而不是一輩子，在三週結束時，我將決定這是否是我想要繼續做的事情，或者我是否想嘗試另一種運動方式。」本質上，致力於好奇心是確保你將過上有意圖的生活，你將過自己的生活，而不是別人期望你過的生活。好奇心讓你在這個不斷變化的世界中保持適應性和靈活。它確保你對新的可能性保持開放，坦率地說，它只是讓生活更有趣。
-
-史詩腳本是追隨夢想理念的極端版本，因此，它對擁有一個小而簡單的生活，一個專注於活在當下、保持連結和探索好奇心的生活，產生了一種污名，因為如果你沒有那些外部的成功標誌，如果你沒有追隨你的宏大熱情，那麼你真的在過有意義的生活嗎？這就是史詩腳本所產生的焦慮問題。當你思考它時，這是一個非常短視的成功定義，我們試圖將所有雞蛋放在同一個籃子裡。我們選擇這件事，然後我們說，如果我成功了，那麼我在生活中就成功了。這樣做的問題是，如果我們在這個特定的專案，這個特定的目標上失敗了，我們就會覺得我們完全失敗了，而將所有雞蛋放在同一個籃子裡的另一個問題是，有時籃子會變得太重，我們就會把它全部丟掉。我們現代高度連結的線上世界不幸地讓史詩腳本非常非常受歡迎。我們變得過度沉迷於尋找我們的人生目的。在過去的二十年裡，書籍中提到「尋找你的人生目的」的詞語激增了 700%。我們看到所有那些成功的故事，那些找到熱情並因此非常快樂的人。我們看到那些追隨熱情並非常成功的企業家，但我們沒有看到成千上萬其他嘗試過同樣事情卻失敗的人。這就是所謂的倖存者偏差，不幸的是，現在我們所有的決策甚至我們的自我價值都基於這種不完整的資訊。一旦你確定了支配你生活的認知腳本，你就可以擺脫它們，這真的始於將它們視為我們告訴自己的故事，而不是我們需要盲目遵循的真理。一個很好的方法是，每當你聽到自己說「我應該這樣做」時，就停下來一秒鐘。這個「應該」這個詞實際上是一個很好的信號，表明這裡可能存在一個認知腳本。一旦你確定了你生活中使用「應該」這個詞的地方和情況，你就可以決定用另一個詞「可能」來替換這個詞。我可能想做什麼，而不是我應該做什麼？我可能想探索什麼？我可能想嘗試什麼？如果你想開始在生活中編寫自己的腳本，你可以問自己三個問題，同時設計你的下一個實驗。第一個問題是，我是在追隨我的過去還是發現我的道路？第二個問題是，我是在追隨人群還是發現我的部落？最後，我是在追隨我的熱情還是發現我的好奇心？這三個問題加在一起，讓你能夠擁抱我們都身處的過渡空間，與不確定性交朋友，開始更多地實驗，而且非常重要的是，處理那些潛意識層面支配我們許多決策的三個強大的認知腳本。
-
-拖延症已經變成了一個有點骯髒的詞，那是因為我們剛剛經歷了數百年關於生產力和工作的道德化。有生產力意味著你是一個對社會有益、有用、有幫助的貢獻者。在某種程度上，我們都同意將我們的自我價值與我們的生產力綁定在一起，所以沒有生產力意味著你很懶惰，你沒有貢獻，你對社會沒有用處和幫助。由於我們在工業時代發展起來的效率崇拜，我們現在將拖延症視為一種性格缺陷，而不是它本來的樣子，一個值得傾聽的信號。這催生了整個生產力產業，無論是線上課程告訴你如何管理你的生活和時間，以及如何充分利用每一分鐘。用於追蹤所有任務的模板，可穿戴設備告訴你是否在正確的時間使用了你的時間，並確保你沒有錯過任何通知。日曆支配著我們花費時間的方式，所以即使在個人層面上，你覺得生產力不是你最想優化的事情，也很難抵擋社會的誘惑，告訴你：「你必須更有生產力。」由於這個社會不斷告訴我們，我們需要有生產力才能成為一個好人，每當我們發現自己拖延時，我們只是試圖忽略它。我們用意志力堅持下去，我們感到自責和自我評判。相反，每當你經歷拖延時，你可以使用一個非常簡單的工具，一個基於自我發現，像科學家一樣思考並試圖理解信號的工具。這個工具叫做「三重檢查」，
-它是關於問自己，我為什麼拖延？它是來自頭腦、心臟還是手？如果它來自頭腦，這意味著在理性層面上，你一開始並不完全相信你應該做那項任務。如果它來自心臟，這意味著在情感層面上，你不認為這項任務會很有趣或令人愉快。如果它來自手，這意味著即使在理性層面上，你覺得我應該做這件事，在情感層面上，你覺得「這看起來很有趣」，但在實際層面上，你覺得你沒有配備正確的工具，或者你沒有正確的資源來完成這項工作。三重檢查工具的偉大之處在於它不僅僅是一個診斷工具，它還告訴你在每種情況下該怎麼做。所以如果問題是理性的，來自頭腦，這意味著你可能想重新定義策略，也許聯繫你的同事告訴他們：「嘿，我不太相信我們應該這樣做。你想一起集思廣益，看看是否有更好的方法可以使用嗎？」如果問題是情感的，來自心臟，你可能想重新設計體驗，使其更有趣。這可能看起來像去你最喜歡的咖啡店，或者找一個同事說：「嘿，當我做這項任務時，我們一起工作一下吧。」如果問題是實際的，你覺得你沒有正確的工具或資源或技能，那麼就舉手。尋求幫助，告訴你周圍的人，你正在與之合作的人，也許你需要一些指導或輔導，或者你需要參加一個課程才能完成那項任務。有時你會經歷三重檢查，頭腦、心臟、手，一切都感覺一致，但你仍然拖延。在這種情況下，可能值得向外尋找系統性障礙，這意味著與其他利益相關者進行誠實、有時困難的對話，如果你的環境不利於你專注和高效，則重新設計你的環境，或者有時完全脫離那個工作環境並做其他事情，因為你可能無法每次都改變那種情況。你的「魔法窗口」是那些高效、創造力和專注的時刻，你感覺毫不費力，時間流逝，你的注意力完全鎖定在正在進行的任務上。無論你是否注意到，我們都在生活中經歷過這些「魔法窗口」。這些是你看到時間流逝，然後感覺「時間去哪兒了？發生了什麼？」的時刻。也許你沉浸在與朋友的對話中，也許你在做一個創意任務，也許你在散步。這些就是你的「魔法窗口」，而令人驚訝的是，一旦你學會識別它們，你就可以開始更有意識地在日常生活中隨心所欲地打開這些「魔法窗口」。你可能會認為正念和生產力是相互對立的，不應該放在一起，但當你回到正念的定義時，它實際上是關於在當下專注於你的體驗，沒有自責或自我評判。正念生產力是關於在你的工作方式和引導你的注意力方面培養這種意識。正念生產力實際上是關於回答三個關鍵問題。我的「魔法窗口」是什麼時候？這個窗口裡應該放什麼？以及我如何保持這個窗口打開？傳統的生產力定義只將時間視為最重要的資源，這裡的假設是每一分鐘都是一個小盒子，你需要盡可能多地填滿東西才能有生產力。通過正念生產力，你考慮其他非常重要的資源，你的身體資源、你的情感資源和你的認知資源，這實際上意味著思考你的情緒、你的能量和你的執行功能。練習正念生產力需要你改變對最重要資源的看法，從時間轉向能量。我們與拖延症有著非常負面的關係。如果你上網尋找解決拖延症的方法，你只會找到告訴你如何「戰勝」拖延症的文章，非常暴力，但相反，如果我們開始將其視為一個有用的信號，它讓我們能夠更好地連結圍繞拖延症的情緒，並理解這實際上只是我們的大腦試圖向我們發送一個信號。通過重新連結這些情緒而不是試圖忽略它們，我們不僅會更好地了解自己，還會更好地了解我們與工作的關係，並在此過程中變得更有生產力。
-
-通過不專注於結果，而是設計一個微小實驗，你可以做的是放棄任何成功的定義，放棄你正在尋找的二元結果，而是專注於一個研究問題，一個你可能有的假設，一個讓你感到好奇並想探索的事情。無論結果如何，無論結果是什麼，如果你學到了新東西，那就是進步。重新想像你的生活可能看起來像什麼的一個好方法是練習我所說的「自我人類學」，將你的生活作為你的研究主題，成為一名人類學家。
+---
+epoch: 1763325330897
+modelKey: "gemini-2.5-flash|google"
+topic: "去除時間軸"
 
 
-### 心態 (Mindsets)
-- **定義**：看待世界的預設方式，影響決策、人際關係、思維和感受。
-- **意識的重要性**：意識到心態是過上有意識生活的關鍵，而非自動駕駛。
-- **三種潛意識心態**：
-    - **犬儒心態 (Cynical Mindset)**：
-        - 低好奇心，低抱負。
-        - 覺得嘗試無意義，處於生存模式。
-        - 行為：末日瀏覽、沉迷負面新聞、討論負面新聞。
-    - **逃避心態 (Escapist Mindset)**：
-        - 高好奇心，低抱負。
-        - 試圖逃避責任。
-        - 行為：購物療法、狂看電視、夢想規劃假期。
-    - **完美主義心態 (Perfectionist Mindset)**：
-        - 高抱負，低好奇心。
-        - 試圖通過工作逃避不確定性。
-        - 行為：自我強迫、過度勞累、有毒生產力。
-        - 認為實現目標才能快樂。
-- **心態的流動性與可變性**：
-    - 心態並非固定特質，可透過意識和決策改變。
-- **實驗心態 (Experimental Mindset)**：
-    - **定義**：好奇心和抱負都高。
-    - **特點**：
-        - 對不確定性持開放態度，視為探索、成長、學習的機會。
-        - 重新想像與抱負和目標的關係。
-        - 設計實驗，從研究問題開始，而非追求特定結果。
-        - 不理解時產生好奇，而非恐懼。
-        - 將失敗視為學習的數據點，樂於犯錯。
-        - 擁抱沒有計劃、不知道未來會發生什麼。
-        - 有意識、連結地設計生活。
+tags:
+  - copilot-conversation
+---
 
-**發現熱情與目的**：
-    - **方式**：不是尋求、沉迷或計劃，而是追隨好奇心、實驗、探索、嘗試新事物。
-    - **結果**：相信你會找到讓你早上興奮醒來的事情。
-4.  **認知腳本 (Cognitive Scripts)**：
-    - **定義**：內化的行為模式，告訴我們在特定情況下如何行動。
-    - **用途**：對日常例行任務有用。
-    - **問題**：用於重要決策時，阻礙問「這真的是我想要的嗎？」。
-    - **三種問題腳本**：
-        - **續集腳本 (Sequel Script)**：重複過去的行為和模式，限制可能性。
-        - **取悅人群腳本 (Crowd Pleaser Script)**：根據取悅他人（父母、朋友、同事）做出決策。
-        - **史詩腳本 (Epic Script)**：認為所做之事必須宏大、有抱負、有影響力，否則就是失敗；對簡單生活產生污名；導致短視的成功定義和倖存者偏差。
-    - **擺脫方式**：將其視為故事而非真理；將「我應該做這個」替換為「我可能想做什麼」。
-    - 
-- **設計自己腳本的三個問題**：
-        - 我是在追隨我的過去還是發現我的道路？
-        - 我是在追隨人群還是發現我的部落？
-        - 我是在追隨我的熱情還是發現我的好奇心？
-5.  **拖延症作為信號 (Procrastination as a Signal)**：
-    - **社會觀點**：拖延症被視為性格缺陷，與自我價值掛鉤。
-    - **工業時代影響**：效率崇拜，導致忽視拖延症。
-    - **問題**：忽視拖延症導致自責和自我評判。
-    - **三重檢查工具 (Triple Check)**：
-        - **目的**：理解拖延症的信號，基於自我發現。
-        
-- **問題**：我為什麼拖延？
-            - **來自頭腦 (Head)**：理性上不相信該做這件事。
-                - **解決方案**：重新定義策略，與同事討論。
-            - **來自心臟 (Heart)**：情感上覺得不有趣或不愉快。
-                - **解決方案**：重新設計體驗，使其更有趣（例如去咖啡店、與同事共同工作）。
-            - **來自手 (Hand)**：實際操作上缺乏工具、資源或技能。
-                - **解決方案**：尋求幫助、指導、培訓。
-        - **系統性障礙**：如果三重檢查後仍拖延，可能需要考慮外部障礙（例如：與利益相關者對話、重新設計環境、離開環境）。    - 
+**user**: 去除時間軸
+[Context: Notes: 需翻譯_去時間軸/Tiny Experiments_ A System to Change Your Life-en.md]
+[Timestamp: 2025/11/17 04:35:30]
+
+**ai**: 好的，這是去除時間軸後的內容：
+
+you can actually run experiments on the side of doing other things your tiny experiments don't necessarily have to completely replace whatever other projects you're working on Anor is an entrepreneur the author of Nest Labs an ex Google employee and now the author of a new book tiny experiments I'm a neuroscientist I am obsessed with curiosity at Google we were encouraged to be curious within that limited playground in this video we sit down and talk about how to run experiments to improve your life instead of setting goals up to the moment where my startup failed I hadn't really considered Life as a giant experiment that was the moment where something really clicked for me you're literally taking the uncertainty and you're turning it into something generative and action driven again these aren't goals they're ways to transform your life iteratively one experiment at a time the way to do this is to fill a very simple template that I call I am Laura thank you so much for joining me today thank you for having me I'm excited for those of you people who may not know who you are what is one thing they should know about you that'll provide like some context here with what we're about to talk about I obsessed with curiosity I'm a neuroscientist I study neuroscience at the ADHD research lab at Kings College London and I write a newsletter every week that is all about systematic curiousity and mindful productivity I really see my life in two different chapters there was a first chapter that was very linear where I was very focused on success I used to work at Google I worked on a couple of startups the traditional definition of success getting a good job getting promoted working on cool projects making money all of that and it's only when my startup fell that I went back to University to study neuroscience and started that second chapter of my life where I'm a lot more experimental and trying new things what does it look like to run a tiny experiment in your life so if you want to design a tiny experiment it all starts with observation and I know for a lot of us and especially in the productivity space we like doing things we like building things we like the action of exploring discovering so I know it can create a little bit of resistance to just say hey for now actually we're just going to observe and you take little notes no judgment just observing based on that you start formulating a hypothesis so you looked at the way things are and you start asking what might be what might be different maybe I would actually enjoy doing this thing differently maybe I would enjoy doing more of that work just using your instinct to see if something is really picking your curiosity you can start designing your first tiny experiment the way to do this is to fill a very simple template that I call a PCT which I Define as a commitment to curiosity I will will insert an action or insert a duration so for example I will write a weekly news letter every week for the next six weeks I will go on a daily walk every day for the next two weeks and listen to a new podcast I will read one research paper every Monday for the next five weeks and I will take notes and then share it in a substack you do it you don't you withhold judgment you don't try to analyze it yet you just conduct the experiment and you wait until done and you've gone through all of these repetitions to look back and see how that actually felt for many people myself included I when I think about actual like experiments it kind of seems to be the domain of academics and it might make it feel like whatever experiment I'm running I'm doing wrong so I'm curious what are the telltale signs of running a for lack of a better good experiment in your life number one sign that you're running a good experiment might not be what you would expect but it's whether you're excited about it are you actually excited to explore this question to try new things in that area of your life if not that's already a good sign that maybe that's not worth exploring so something you are actually curious about your level of curiosity is a good factor to look at the second one is whether it's doable can you actually complete the experiment if you went for something really ambitious and you never finish collecting the data then that's not a good experiment that's why it's always better to try to go for something a little bit smaller and shorter if you're in doubt if you want to experiment with meditation for example maybe try it for 10 days first don't go to a vpaa retreat straight away try to do something a little bit more manageable first same for the newsletter again with my first one I went really extreme I said 100 days but since then I have refined My Method a lot and I have realized that it's a lot easier to stick to something that is smaller so don't necessarily go for the 100 articles in a 100 days just say what would it look like maybe six newsletters over the next six weeks and number three something that is out of your comfort zone something where you will learn something new and not something that is optimized for Success if you're picking an experiment because it feels really comfortable and you feel like if I do this I know I'll get this result and this is great this is more of a regular project it's not really an experiment an experiment needs to start from a place of uncertainty you don't already have the answer you have a hypothesis you might have an inkling of an answer you might feel like maybe I'll enjoy this maybe this will help maybe this will make me more productive but I'm not 100% sure that's why I'm running the experiment so those would be the three factors I would look at in terms of Designing a good experiment one thing that I love so much about this model that you create is its form factor for lack of a better it's in the title tiny experiment so this idea that even if you have a fulltime job or you have busy family life or something like that you can run these experiments I believe that you can actually run experiments on the side of doing other things and that your tiny experiments don't necessarily have to completely replace whatever other projects you're working on they can be just a way to maybe discover another area of your life where you want to explore where you want to try new things and in fact I know that for some people they do like to stick to something fairly stable in one area of their life and experiment a lot in another so you might say you know what actually I have this job and I could do it with my eyes closed I know exactly what I'm doing I've been working in this world for quite a few years I'm not going to experiment there I'm very happy with the way it works but I'm going to experiment a lot with my health I want to figure out what works what doesn't for me I'm going to experiment with different gym routines I'm going to try different diets I'm going to experiment with the time at which I go to bed for example I'm going to keep track and see how that impacts my creativity and my productivity one thing that I've always found interesting about the scientific method is that most people when they're conducting experiments are trying to find ways to prove themselves wrong and that's not at all the case really when we think about personal productivity a lot of times we try things out and we are so scared of failure it's like the worst possible thing to prove ourselves wrong and I'm kind of curious how this very well tested approach to developing the best knowledge we have somehow feels so hard when we bring it into our own lives yeah this is actually a question that's very close to my heart which is how can we reinvent our relationship to failure and I do think that having an experimental mindset can help a lot I have a an entire chapter in the book where I talk about my problem with the traditional definition of goals and these are great if you want to make sure that you achieve a very narrow definition of success so it's a much more experimental approach versus that linear smart goal type of approach that a lot of us are using in our productivity systems the only goal a scientist has is to learn something new if by the end of exper the experiment you collected new data and you learn something something new whether it's something new about the world about your work or about yourself then that's success and I know for a lot of people it feels less satisfying because there's less of the sense of a an end goal and a destination and a milestone that you get to but this is how you can ensure that you keep on growing even though you don't really know where you're going and because of that the direction you might take might be very different from what you could have imagined in the first place and that's completely okay I'd love to hear a little bit more about tiny experiments that aren't about getting more done or you know getting more followers or more money or more ABS or something like that but just a little bit more of a emotional and highly personal application yeah absolutely you don't have to only run experiments for your work or your productivity they can actually be very helpful for I want to say inner curiosity this self curiousity that where you turn your attention inward word and you try to figure out what is going on here what's interesting what could change what do I want to try you could experiment with meditation with journaling with sitting with yourself and observing your own thoughts the other great thing about experiments is that you're not committing to it for the rest of your life like a habit where you say to your partner for example from now on and for the rest of our lives we have to do this date night every Friday you could say let's just do that for a month or two and see if we like it or not and then we can tweak it together same with your work you can say I'm actually going to try this system for a few weeks and I'm going to see if it works for me or not that's the difference between an experiment and a habit is that with the Habit you already have the answer in terms of whether this is good for you or not you're already convinced that if you stick to this habit forever this is going to be good for you whereas with an experiment you feel like maybe that would be good for you but you don't assume that because it works for other people it's going to work for you as well so you're going to test it and you're going to collect your own data and based on that data you're going to decide whether you want to keep going tweak it or completely abandon it what tiny experiments are you running in your life right now if you have any time for any tiny experiments oh that's funny because the experiment I'm running at the moment is based on the fact that I have almost zero time uh so I'm running an experiment where I'm I've committed my practice to walk for 20 minutes every day for the next 20 days whatever happens I'm in this promotional phase I'm recording quite a few podcasts I'm in meetings I have a lot of copy to write and I could spend my entire day in front of my computer and then be so tired that I just lay down on my bed and maybe watch something on Netflix and rinse and repeat and that's when I decided okay I need to find an experiment that's going to help me feel better and I'm not quite sure again I don't have the answer is it working or not I don't know but out of everything I came up with that felt like the easiest experiment to implement right now with the mental space that I have which is almost zero and the energy that I have which is almost zero also so that's why I designed this experiment in this way just 20 minutes which is very very short and just for the next 20 days which is almost going to bring me to the date of the book launch we'll see if that works I might keep going actually people may be hearing about this for the first time and they may have like no idea where to even begin constructing a tiny experiment and given that you're in the I have zero time for anything space in your life are there a couple questions maybe or prompts that would help people kind of even think about creating a tiny experiment something that is very fun to do actually and you can do very quickly is just open your calendar and look at the way you spent your last week that's it and open a notebook or take some notes but look at the meetings and ask yourself whether some meetings gave you energy whether others drained your energy what felt good looking at your calendar is a way to prompt those thoughts ask yourself is there anything I can change that's it is there one thing I can change it can be very very small and then try it next week just say for five days I'm going to do this thing differently and that's it you have your first tiny experiment to start designing your own tiny experiments pick up your own copy of tiny experiments we will put all that information down below as well as different places where you can find an L's incredible work andl thank you so much for writing this book and spending time with us where can people learn more about you thank you so much for having me you can go to nls.com where you can subscribe to My Weekly Newsletter which I send every Thursday and if you want to get a copy of the book you can just look up tiny experiments anywhere books are sold
+[Timestamp: 2025/11/17 04:35:43]
+
+**user**: 翻譯成繁體中文
+[Context: Notes: 需翻譯_去時間軸/Tiny Experiments_ A System to Change Your Life-en.md]
+[Timestamp: 2025/11/17 04:35:58]
+
+**ai**: 好的，這是將提供的內容翻譯成繁體中文的版本：
+
+你實際上可以在做其他事情的同時進行實驗，你的微型實驗不一定需要完全取代你正在進行的其他專案。Anor 是一位企業家，Nest Labs 的作者，前 Google 員工，現在是新書《微型實驗》的作者。我是一位神經科學家，我對好奇心非常著迷。在 Google，我們被鼓勵在有限的範圍內保持好奇。在這段影片中，我們將坐下來討論如何透過進行實驗來改善你的生活，而不是設定目標。直到我的新創公司失敗的那一刻，我才真正將生活視為一個巨大的實驗。那一刻，我真的茅塞頓開。你實際上正在將不確定性轉化為具有生成性和行動力的東西。再說一次，這些不是目標，它們是逐步改變你生活的方式，一次一個實驗。這樣做的方法是填寫一個非常簡單的模板，我稱之為「我將」。Laura，非常感謝你今天加入我。謝謝你邀請我。我很高興。對於那些可能不認識你的人，他們應該知道關於你的一件事是什麼，這將為我們接下來要談論的內容提供一些背景？我對好奇心非常著迷。我是一位神經科學家，我在倫敦國王學院的 ADHD 研究實驗室研究神經科學，我每週都會寫一份電子報，內容都是關於系統性好奇心和正念生產力。我真的將我的生活分為兩個不同的章節。第一個章節非常線性，我非常專注於成功。我曾經在 Google 工作，也創辦了幾家新創公司，追求傳統意義上的成功，例如找到好工作、升職、參與很酷的專案、賺錢等等。直到我的新創公司失敗，我才回到大學學習神經科學，並開始了我人生的第二個章節，在這個章節中，我更具實驗性，並嘗試新事物。在你的生活中進行微型實驗是什麼樣的？如果你想設計一個微型實驗，它都始於觀察。我知道對我們很多人來說，尤其是在生產力領域，我們喜歡做事，我們喜歡建造東西，我們喜歡探索、發現的行動。所以我知道這可能會產生一些阻力，只是說：「嘿，現在，我們實際上只是觀察。」你記下一些小筆記，不帶任何判斷，只是觀察。基於此，你開始 формуulate 一個假設。所以你觀察了事物的現狀，然後你開始問：「可能會是什麼？可能會有哪些不同？」也許我會喜歡以不同的方式做這件事，也許我會喜歡做更多那樣的工作，只是憑直覺看看是否有什麼真正激發了你的好奇心。你可以開始設計你的第一個微型實驗。這樣做的方法是填寫一個非常簡單的模板，我稱之為 PCT，我將其定義為對好奇心的承諾。我將插入一個行動或插入一個持續時間。例如，我將在接下來的六週內每週寫一份電子報。我將在接下來的兩週內每天散步，並聽一個新的播客。我將在接下來的五週內每週一閱讀一篇研究論文，然後做筆記並在 Substack 上分享。你做了，你不帶判斷，你還沒有嘗試分析它，你只是進行實驗，然後等待完成，並且你已經完成了所有這些重複，然後回頭看看那實際上感覺如何。對於許多人，包括我自己，當我想到實際的實驗時，它似乎是學術界的領域，這可能會讓我覺得我正在進行的任何實驗都是錯誤的。所以我很好奇，在你的生活中，進行一個好的實驗有哪些明顯的跡象？你正在進行一個好的實驗的第一個跡象可能不是你所期望的，而是你是否對它感到興奮。你是否真的對探索這個問題、在你的生活領域嘗試新事物感到興奮？如果不是，那已經是一個很好的跡象，表明這可能不值得探索。所以，你真正好奇的事情，你的好奇心程度是一個很好的考量因素。第二個是它是否可行。你真的能完成這個實驗嗎？如果你追求一些非常雄心勃勃的事情，但你從未完成數據收集，那麼這就不是一個好的實驗。這就是為什麼如果你有疑問，總是最好嘗試一些更小、更短的事情。例如，如果你想嘗試冥想，也許先嘗試 10 天，不要馬上參加內觀靜修。先嘗試一些更容易管理的事情。對於電子報也是一樣，我的第一個電子報，我做得非常極端，我說 100 天，但從那以後，我改進了很多我的方法，我意識到堅持一些更小的事情要容易得多。所以不要一定要追求 100 天寫 100 篇文章，只要說：「接下來六週，寫六份電子報會是什麼樣子？」第三，一些超出你舒適區的事情，一些你會學到新東西，而不是為了成功而優化的事情。如果你選擇一個實驗是因為它感覺很舒服，你覺得「如果我這樣做，我知道我會得到這個結果，這很棒」，那麼這更像是一個常規專案，它不是一個真正的實驗。實驗需要從不確定性開始。你還沒有答案。你有一個假設，你可能對答案有一點點預感，你可能會覺得「也許我會喜歡這個，也許這會有幫助，也許這會讓我更有效率」，但我不是 100% 確定，這就是我進行實驗的原因。所以這些是我在設計一個好的實驗時會考慮的三個因素。我非常喜歡你創造的這個模型的一點是它的形式，說得好聽一點，它在標題中就是「微型實驗」。所以這個想法是，即使你有一份全職工作，或者你家庭生活很忙，或者諸如此類，你也可以進行這些實驗。我相信你實際上可以在做其他事情的同時進行實驗，而且你的微型實驗不一定需要完全取代你正在進行的其他專案。它們可能只是一種方式，讓你發現生活中另一個你想要探索、想要嘗試新事物的地方。事實上，我知道有些人確實喜歡在生活的一個領域保持相當穩定，而在另一個領域進行大量實驗。所以你可能會說：「你知道嗎，實際上我有這份工作，我閉著眼睛也能做。我確切知道我在做什麼。我在這個領域工作了好幾年了，我不會在那裡進行實驗。我對它的運作方式非常滿意。但我會對我的健康進行大量實驗。我想弄清楚什麼對我有效，什麼無效。我會嘗試不同的健身習慣，我會嘗試不同的飲食，我會嘗試不同的睡覺時間，例如，我會記錄下來，看看這如何影響我的創造力和生產力。」我一直覺得科學方法有趣的一點是，大多數人在進行實驗時，都在努力尋找證明自己錯誤的方法，而這在我們思考個人生產力時根本不是這樣。很多時候，我們嘗試一些事情，我們非常害怕失敗，這就像證明自己錯誤是最糟糕的事情。我很好奇，這種經過充分驗證的、用於發展我們所擁有的最佳知識的方法，當我們將其應用到我們自己的生活中時，為什麼會感覺如此困難？是的，這實際上是一個非常貼近我內心的問題，那就是我們如何重新定義我們與失敗的關係？我確實認為擁有實驗心態會很有幫助。我在書中有一整章都在談論我對傳統目標定義的問題，如果你想確保自己實現一個非常狹隘的成功定義，這些目標是很棒的。所以這是一種更具實驗性的方法，而不是我們很多人在生產力系統中使用的那種線性、SMART 目標類型的方法。科學家唯一的目標就是學習新東西。如果實驗結束時，你收集了新數據，並且你學到了新東西，無論是關於世界、關於你的工作還是關於你自己，那麼這就是成功。我知道對很多人來說，這感覺不那麼令人滿意，因為沒有那麼強烈的終極目標、目的地和里程碑的感覺，但這就是你如何確保自己不斷成長，即使你不知道自己要去哪裡，也正因為如此，你可能會走向一個與你最初想像的截然不同的方向，這完全沒問題。我很想多聽聽那些不關乎「做得更多」、「獲得更多追隨者」、「賺更多錢」或「擁有更多腹肌」之類的微型實驗，而是更多關於情感和高度個人化的應用。是的，當然，你不必只為你的工作或生產力進行實驗，它們實際上對我所說的「內在好奇心」非常有幫助，這種自我好奇心讓你將注意力轉向內在，並試圖弄清楚這裡發生了什麼，什麼是有趣的，什麼可以改變，我想嘗試什麼。你可以嘗試冥想、寫日記、獨自靜坐並觀察自己的想法。實驗的另一個好處是，你不需要像習慣一樣，承諾一輩子。例如，你不會對你的伴侶說：「從現在開始，我們餘生都必須在每個星期五約會。」你可以說：「我們就這樣做一兩個月，看看我們喜不喜歡，然後我們可以一起調整。」你的工作也是一樣，你可以說：「我實際上會嘗試這個系統幾週，看看它是否適合我。」這就是實驗和習慣的區別：習慣是你已經知道它對你是否有益，你已經確信如果你永遠堅持這個習慣，它會對你有益。而實驗則是你覺得它可能對你有益，但你不會因為它對其他人有效就認為它也對你有效。所以你會測試它，你會收集自己的數據，然後根據這些數據決定是否要繼續、調整或完全放棄。你現在生活中正在進行哪些微型實驗？如果你有時間進行任何微型實驗的話。哦，這很有趣，因為我目前正在進行的實驗是基於我幾乎沒有時間的事實。所以我正在進行一個實驗，我承諾在接下來的 20 天裡，無論發生什麼，每天步行 20 分鐘。我正處於宣傳階段，我錄製了相當多的播客，我有很多會議，我有很多文案要寫，我可能會整天坐在電腦前，然後累到只想躺在床上，也許看點 Netflix，然後週而復始。那時我決定：「好吧，我需要找到一個能讓我感覺更好的實驗。」我不太確定，再說一次，我沒有答案，它是否有效？我不知道。但在我想到的一切中，這感覺是目前最容易實施的實驗，考慮到我幾乎為零的心理空間和幾乎為零的精力。這就是我這樣設計這個實驗的原因，只有 20 分鐘，非常非常短，而且只持續 20 天，這幾乎會讓我趕上新書發布的日期。我們會看看它是否有效，我可能會繼續下去。實際上，人們可能是第一次聽到這個，他們可能不知道從何開始構建一個微型實驗。鑑於你現在處於「我什麼時間都沒有」的狀態，有沒有幾個問題或提示可以幫助人們思考如何創建一個微型實驗？實際上，有一件非常有趣的事情，你可以很快做到，那就是打開你的日曆，看看你上週是如何度過的。就這樣。然後打開筆記本或做一些筆記，看看那些會議，問問自己，有些會議是否給你帶來了能量，有些是否耗盡了你的能量，什麼感覺很好。查看你的日曆是一種激發這些想法的方式。問問自己：「有什麼我可以改變的嗎？」就這樣。有沒有一件事我可以改變？它可以非常非常小，然後下週嘗試一下。就說：「接下來五天，我要以不同的方式做這件事。」就這樣，你就有你的第一個微型實驗了。要開始設計你自己的微型實驗，請購買你自己的《微型實驗》一書。我們也會在下方提供所有相關資訊，以及你可以找到 Anor 令人難以置信的作品的不同地方。Anor，非常感謝你寫這本書並花時間和我們在一起。人們可以在哪裡了解更多關於你的資訊？非常感謝你邀請我。你可以到 nls.com，在那裡你可以訂閱我每週四發送的電子報。如果你想購買這本書，你可以在任何販售書籍的地方搜尋《微型實驗》。
+[Timestamp: 2025/11/17 04:36:16]
+
+**user**: 整理結構化內容
+[Context: Notes: 需翻譯_去時間軸/Tiny Experiments_ A System to Change Your Life-en.md]
+[Timestamp: 2025/11/17 04:36:31]
+
+**ai**: 好的，這份關於「微型實驗：改變你人生的系統」的內容可以整理成以下結構化摘要：
+
+---
+
+## 微型實驗：改變你人生的系統
+
+### 講者介紹與核心理念
+*   **講者**: Anor，一位神經科學家、企業家、Nest Labs 作者、前 Google 員工，以及新書《微型實驗》的作者。
+*   **核心理念**: 透過進行「微型實驗」來逐步改善生活，而非傳統的目標設定。這是一種將不確定性轉化為具生成性和行動力的方法。
+
+### Anor 的人生轉變
+*   **第一章 (線性成功)**: 專注於傳統成功定義，如好工作、升職、酷專案、賺錢。
+*   **轉捩點**: 新創公司失敗後，回到大學學習神經科學。
+*   **第二章 (實驗性人生)**: 轉變為更具實驗性、勇於嘗試新事物的生活方式。
+
+### 如何設計微型實驗
+1.  **觀察 (Observation)**:
+    *   從觀察開始，不帶判斷地記錄現狀。
+    *   例如：打開日曆，回顧上週如何度過，哪些會議帶來能量，哪些耗盡能量。
+2.  **提出假設 (Hypothesis)**:
+    *   根據觀察，思考「可能會是什麼？」「可能會有哪些不同？」
+    *   憑直覺判斷是否有什麼激發你的好奇心。
+3.  **設計實驗 (Design Experiment)**:
+    *   填寫一個簡單的模板，Anor 稱之為「PCT」（對好奇心的承諾）。
+    *   模板格式：「我將 [插入行動] [插入持續時間]」。
+    *   **範例**:
+        *   「我將在接下來的六週內每週寫一份電子報。」
+        *   「我將在接下來的兩週內每天散步，並聽一個新的播客。」
+        *   「我將在接下來的五週內每週一閱讀一篇研究論文，然後做筆記並在 Substack 上分享。」
+4.  **執行與評估**:
+    *   執行實驗，不帶判斷，不急於分析。
+    *   等待實驗完成後，回顧並感受實際體驗。
+
+### 良好微型實驗的特徵
+1.  **激發興奮感**: 你是否對探索這個問題、嘗試新事物感到興奮？
+2.  **可行性 (Doability)**: 實驗是否實際可行，能夠完成數據收集？
+    *   建議從「小而短」的實驗開始（例如，冥想 10 天，而非直接參加靜修）。
+3.  **走出舒適區與學習**: 實驗應帶來新學習，而非僅為成功優化。
+    *   實驗應從「不確定性」開始，你對結果不 100% 確定，而是抱持假設。
+
+### 微型實驗的彈性與應用
+*   **融入忙碌生活**: 即使有全職工作或忙碌的家庭生活，也能在其他事情的同時進行實驗。
+*   **多領域應用**: 不僅限於工作或生產力，也適用於「內在好奇心」和個人生活。
+    *   例如：冥想、寫日記、觀察自己的想法、與伴侶嘗試新的約會之夜（一個月或兩個月）。
+*   **重新定義失敗**: 科學家的目標是學習新東西。如果實驗結束時收集到新數據並學到新東西，那就是成功。這有助於擺脫對失敗的恐懼。
+
+### 實驗與習慣的區別
+*   **習慣**: 你已經確信它對你有益，並承諾長期堅持。
+*   **實驗**: 你覺得它可能對你有益，但不會假設它對其他人有效就對你有效。你會測試它，收集數據，然後決定是否繼續、調整或放棄。
+
+### Anor 目前的微型實驗
+*   **背景**: 處於宣傳期，時間和精力幾乎為零。
+*   **實驗內容**: 「我承諾在接下來的 20 天裡，無論發生什麼，每天步行 20 分鐘。」
+*   **目的**: 幫助自己感覺更好，並觀察效果。
+
+### 給初學者的建議
+*   **從觀察開始**: 打開你的日曆，回顧上週的活動，問自己哪些會議帶來能量，哪些耗盡能量。
+*   **提出一個小改變**: 問自己：「有什麼我可以改變的嗎？」即使是非常小的改變。
+*   **立即嘗試**: 例如：「接下來五天，我要以不同的方式做這件事。」這就是你的第一個微型實驗。
+
+### 更多資訊
+*   **Anor 的網站**: nls.com (可訂閱每週四發送的電子報)
+*   **書籍**: 《微型實驗》可在任何販售書籍的地方找到。
+
+---
+[Timestamp: 2025/11/17 04:36:42]
