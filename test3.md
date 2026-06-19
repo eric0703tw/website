@@ -1,665 +1,4941 @@
----
-epoch: 1781680730625
-modelKey: "gemini-2.5-flash|google"
-topic: "去除時間軸"
+好的，這是去除時間軸後的內容：
 
-
-
-tags:
-  - copilot-conversation
----
-
-**user**: 去除時間軸
-[Context: Notes: 需翻譯_去時間軸/減肥總是失敗？心理學家：那是大腦在幫你踩剎車！4 招讓你不再內耗，輕鬆培養好習慣-zh-TW.md]
-[Timestamp: 2026/06/17 15:18:50]
-
-**ai**: 年假結束了
-相信有很多人要展開今年的新年新目標了
-可能有的人想減肥
-有的人看了我的頻道
-想開始培養運動習慣
-但是根據 Strava 分析8億筆使用者活動紀錄的資料發現
-有80%的人在1月的第二個禮拜五就宣告放棄了
-除了最難培養的運動習慣以外
-美國也有民調公司統計
-有49%的受訪者在2月底前
-就已經徹底放棄當初設定的新年目標了
-到底人為什麼這麼難改變
-為什麼養成一個新習慣這麼困難
-之前我以為只是目標設定的方式出了問題
-所以引用了 Edwin Locke 的目標設定理論做了這支影片
-但是在去年上了雪力老師的課之後
-我才豁然開朗
-發現我之前竟然漏了一大塊
-原來我們內心都有一個剎車機制
-如果不學習把內心剎車鬆開的方法
-不管做了什麼縝密的目標設定跟規劃
-或者動用自己本來就沒有多少的意志力
-失敗的機率都會相當的高
-今天這期節目我會分享
-讓我解開心理剎車的四個步驟
-來幫助大家在新的一年中
-都能夠順利的讓計畫確實執行
-讓今年就成為你最豐收的一年
-
-嘿大家，歡迎回到我的頻道
-如果你是新朋友，我叫修修
-這個頻道我會跟大家分享科學的方法與工具
-來幫助大家工作更有效率，身心更健康
-一開始要來懺悔一下
-我過去在頻道上面分享了許多好習慣
-其實有一大部分是我沒辦法堅持下去的
-例如早睡早起跟冥想
-尤其是工作一堆積起來做不完的時候
-這兩個習慣是最先被我打破的
-總是會想要多犧牲一點睡眠時間來工作
-但效果往往都不好
-導致我就越來越焦慮，又形成惡性循環
-之前都會一直陷入自我鞭打當中
-覺得自己怎麼這麼沒有意志力
-直到去年學習了這幾個理論
-讓我的心慢慢的鬆開來了
-真心覺得受用
-接下來我會先舉出三個會幫我們踩煞車的機制
-來解釋為什麼新習慣這麼難養成
-第一，我們都有一個心理恆溫器
-這是一個最讓我感到如釋重負的一個理論
-我以前一直很不諒解自己不斷發生的一些行為模式
-總是在信心滿滿的爆衝一段時間之後
-就半途而廢，甚至廢到比之前更廢的情況
-例如早起這件事
-我五年前曾經試過一陣子的早上四點起床
-我也想要效法老大
-看看臺北凌晨四點是什麼樣子
-我也想要在別人起床之前
-就已經做好一天最重要的工作了
-但下場是
-勉強執行一個月之後
-不斷習慣沒養成
-之後作息反而被打亂
-不但工作效率變更糟
-也睡得更晚了
-這個都是這個心理恆溫器在發揮效用
-讓我們一起來聽聽雪力老師的現身說法
-我跟你說我一輩子都在減肥
-所以每次1月1號
-2月1號
-每個月的1號就說
-這個月1號開始我要健康飲食
-我跟你說我
-一輩子都在做這種事情
-就是
-我開始一個計畫
-前一個禮拜超棒的
-然後後面就散掉了
-欸我也是都常常會這樣子欸
-有一些新年希望
-就一些很 ambitious
-喔
-而且我超喜歡看人家說
-喔立冬
-又是一個好的開始
-我很喜歡有儀式感說
-喔
-這個1月1號過了
-那沒關係
-農曆1月1號
-還有很多很多開始的那個
-所以這個我完全理解
-就是在心理學上面
-他講這個恆溫器就是說
-你內在有一個溫度
-比如說我設定24度
-然後
-外面如果太熱
-我跑太快
-我其實內在那個恆溫器
-就會把我再拉回來
-就是我們心裡有一個心理穩定的
-嗯
-穩定器
-所以你會看有些人就說
-欸為什麼
-他小時候在那種暴力的家庭長大
-然後他說這輩子
-絕對不要再找這樣子的
-類型的伴侶
-結果後來還是找到
-嗯
-因為
-我們人是會
-希望有那種舒
-熟悉感
-習慣的
-熟悉的感受
-雖然不是很舒適
-可是你最起碼你的潛意識覺得
-所以我
-我經歷過了
-我懂
-這個局會怎麼演
-這個劇會怎麼演下去
-所以會有那種
-嗯
-熟悉感是很可怕的事情
-所以我們的熟悉的溫度是這樣
-當我們太好的時候
-也會覺得
-欸
-要拉回來一點
-所以有很多人在
-快要有成就的時候
-忽然會有一些
-自我破壞的行為
-我覺得這個我在
-我身上超級明顯的
-我覺得那個溫度器
-就一直沒有去改變它
-嗯
-所以也許
-譬如說忽然
-你的流量暴增的時候
-就停更
-對
-就覺得
-就覺得 哎呦
-就覺得 哎呦
-我最近忽然沒有動力要做
-我覺得這都是要對自己
-有一些寬容跟理解
-就是
-不是你這個人
-不夠積極
-而是你內在的溫度
-需要去調整它
-除了這個心理恆溫器在拉住我們以外
-第二個在幫我們踩剎車的
-是一種目的是要保護我們的隱形承諾
-這就要講到另一個更是讓我茅塞頓開的理論
-哈佛心理學家
-Robert Kegan
-Immunity to Change
-變革免疫理論
-他回答了一個大家都常有的疑問
-為什麼我明明真的想改變
-卻總是改不了
-甚至遲遲不去做
-或者做了很多事情
-導致自己跟目標背道而馳呢
-Kegan教授說
-這並不是因為我們懶惰或者意志力薄弱
-而是因為我們內心陷入了隱形的競爭性承諾的拉扯
-我們的內心一方面為了想要變好而猛踩油門
-另一方面又有個想要保護自己
-害怕自己受傷的力量在踩剎車
-Robert Kegan 講說
-immunity to change
-就是我們對於改變
-是有這種防衛心的
-就是剛剛有講到
-就是我們內在的恆溫器
-就是我們希望是維持的
-那還有一點就是
-你內在可能有一些競爭的承諾
-我之前在做高階主管
-教練常常碰到女性說
-我想要成功
-因為我的理智說
-我想要做到總經理
-可是她內在有一個恐懼
-是她自己沒有講出來的是
-如果太成功
-我老公生氣
-我的伴侶生氣怎麼辦
-會不會讓他覺得
-沒有面子
-或者是很多人已經內化
-就說女人做到這樣
-找不到老公
-所以其實那個
-有的時候是無意識的
-所以你就變成
-你內在有兩個承諾
-一個承諾是
-我想要
-我的目標是
-我要成為很成功的人
-但是你另外一個承諾是
-我想要成家立業
-或者我想要婚姻美滿
-那你就可以看到說
-背後
-你有可能有什麼
-你的行為有什麼不同
-然後你的競爭的承諾
-可能是什麼
-就是
-還有你的假設是
-好像女人不可以兼顧
-那個就是你的內在的
-一個很大的假設
-就我們剛剛一直在講到
-那個 Big Assumption
-對
-這就是第三個在幫你踩煞車的力量
-巨大假設
-超大的
-這裡就要介紹所謂的變革免疫地圖
-它有分四個部分
-最左邊的是你的目標
-這可能是你的新年計劃
-例如減肥
-或者是在事業上獲得成功等等
-第二個是你做的或者沒做的
-會讓你遠離目標的事情
-像是去吃宵夜
-或者拒絕老闆幫你升官
-這兩個是很明顯可以想出來的
-因為你早就深受其擾了
-第三個是前面講到的隱形承諾
-第四個就是巨大假設了
-就是這兩個在幫我們猛踩煞車的
-但你也不要怪他們
-其實這是我們的內建保護機制
-就是它讓我們的基因一直傳到現在的
-但是他們藏得很深
-是必須要靜下心來才能挖掘出來的
-雪力老師繼續拿剛剛講到的減肥當作例子
-來解釋她的巨大假設是什麼
-所以我們就拿減肥來說好了
-你的目標
-比如說是
-我要減5公斤的脂肪
-一年
-然後可是你的行為咧
-你的行為就是
-欸
-我又吃起來了
-然後晚上又開始想吃宵夜
-然後我就覺得
-我都已經工作這麼累了
-我還不能好好的照顧自己吃宵夜嗎
-那我覺得你就可以看到
-你第一個就是你的目標
-瘦5公斤脂肪
-第二個
-你的行為到底是什麼
-為什麼我每天又開始吃宵夜
-然後你就看到說
-潛在有可能
-是有什麼樣子的 Commitment
-就是
-你潛在恐懼的是什麼
-你可能恐懼的是
-我覺得我以前的恐懼是
-就像我現在不喝酒一樣
-哦
-就是
-宵夜有時候會帶給我那種
-微
-喜悅
-快樂
-或者是
-讓我感受到我要好好照顧自己
-我在
-寵愛自己
-嗯
-Comfort
-Comfort food
-是一個 Comfort food
-然後是一個我寵愛自己的方式
-晚上花錢叫 Uber Eats
-嘿嘿嘿
-還蠻爽的
-對啊
-真的蠻爽的
-多巴胺會刺激
-沒錯
+[Ray] 在现在这个市场下，
+[Ray] In this market,
+像我这样的普通投资者
+can a normal investor
+还能继续无脑买入吗？
+like me just keep buying?
+[Nick] 你知道吗？
+[Nick] You know what?
+现在的行情看起来太疯狂了。
+This seems too crazy.
+我甚至一度变得有点悲观。
+I even got a little pessimistic at point.
+[Ray] 哇，这可真少见。
+[Ray] Wow, that, that's new.
+三年前我读过一本很火的投资书，叫做《持续买入》。作者 Nick Maggiulli，
+华尔街数据分析师，博客写了十年，五百多篇。
+那这本书的核心理念就一句话：
+无论市场发生什么，你要做的就只有持续买入。
+那过去几年我一直照着做，从没怀疑过。
+但是现在是二零二六年的五月，
+我有点不敢买了。
+全球股市涨得有点离谱，标普五百连创新高，日韩台股同步起飞，
+光Nvidia 一家公司的市值就超过了中美之外任何一个国家的 GDP。
+这让很多投资者都开始焦虑。
+那我身边总共有四种人，
+满仓 AI 翻倍的，怕这是顶；
+一路加仓的，怕自己是高位接盘的傻子；
+攒着现金等机会的，越等越觉得错过了；
+想进场的，又被泡沫论吓得不敢动。
+更让人困惑的是，巴菲特手持历史最高仓位的现金，
+将近四千亿美金，连他都在等，那我们呢？
+而这本《持续买入》的方法论今天还管用吗？
+带着这些问题，我找 Nick 聊了聊。
+[Nick] 嗯，
+[Nick] Well,
+如果我接下来的十年都赶上熊市怎么办？
+what happens if I go through a bad decade?
+我写过相关的文章，还专门写过一本书，
+I've written about, I have a book on it,
+结果因为最近的行情，
+and even I went against that because of
+连我自己都违背了我的原则。
+what was happening.
+相信我，这背后的数学逻辑，
+Trust me on this, the math on,
+是无可辩驳的。
+on this is undeniable.
+哪怕你完美踩中了每一次择时，
+Even if you perfectly timed it,
+我也确实看走眼了，这种事常有，你懂吧？
+I was wrong, and it happens, you know?
+如果我只能给你一句，
+If I can only give you one line,
+一句关于投资的，
+one investment,
+投资建议的话，
+piece of investment advice,
+那一定是这句。
+it would be this.
+[Ray] 那因为嘉宾讲英文啊，
+为了方便大家理解，我制作了详细的章节和时间戳、
+中英对照字幕和必要的视觉讲解。
+那这做起来并不容易，
+所以在开始之前，我想先感谢大家的支持
+和我的长期赞助商 Interactive Brokers。
+IB呢，是我美股投资使用的唯一券商，
+因为它功能强大且值得信任，是屡获殊荣的券商，
+那交易费率可以低到忽略不计，那它的换汇和投资全球市场也都十分的方便。
+那我在加拿大经常要把加币换成美元，相比加拿大券商
+动则百分之一点五的费率来说，IB 的换汇费率简直就是低到几乎可以忽略不计。
+而且 IB 还会为符合条件账户中的现金支付有竞争力的利息。
+十分推荐大家点击评论区的链接查看一下 Interactive Brokers。
+你点击链接我会有收益，这也算是对我的支持啦。
+好，那我们就现在回到视频最初的那个问题，
+在这个疯狂的市场里，一个普通投资者还能持续买入吗？
+[Nick] 这取决于你的投资期限。
+[Nick] Depends on your timeframe.
+这是最关键的。
+That's everything.
+比如说，如果你——
+Like, if y-
+如果你需要这笔钱
+if you need the money
+在未来五年内用到，
+in the next five years,
+那不行。
+no.
+我会说绝对不行，
+I would say absolutely not,
+你现在千万不要买。
+you should not be buying right now.
+如果你的——
+If your--
+这是一个为了二三十年后的
+this is a retirement account for twenty,
+退休金账户，
+thirty years in the future,
+那我会说没问题，
+I would say yes,
+因为市场会在很多方面
+'cause the market will surprise you
+给你带来惊喜。
+in many ways.
+[Ray] 但是紧接着他的另一个回答让我感到有些意外。
+[Nick] 一年前，我看跌市场，
+[Nick] A year ago, I was bearish,
+现在我又重新看涨了。
+I'm now bullish once again.
+过去一年，因为 AI 看起来——
+Over the last year, because AI was--
+实在太疯狂了，
+seemed so crazy,
+我变得有点悲观了，
+I got a little bearish
+这可是破天荒头一次，
+for the first time ever,
+而且我把我的股票仓位，
+and I reduced my stock exposure by,
+你知道，减了 20%。
+you know, twenty percent.
+我的退休账户从 100% 全仓股票，
+I went from a hundred percent stocks
+变成了 80/20 的股债配置，
+in my retirement account to eighty/twenty,
+对我来说，这就等于是看跌了。
+which to me, that's like being bearish.
+而到了现在这个节点，我就在想，
+And at this point now, I'm like,
+“为什么——我当时干嘛要这么做？”
+"W-why am-- why did I do that?"
+[Ray] 那为什么连写《持续买入》的作者都有些犹豫呢？
+那想要回答这个问题啊，
+我们得看看二零二六年这个市场有多特殊。
+那毫无疑问啊，现在的这个市场全是关于AI。
+那关于 AI 有两个争论，
+第一就是它到底是不是泡沫，
+第二，它到底是不是一个真正的范式转移。
+[Nick] 可能两者都有点吧，对吧？
+[Nick] It's probably a bit of both, right?
+如果你回顾一下
+If you look at the history
+任何重大技术变革的历史，
+of any large technological change,
+总会有大量的玩家
+there's always a ton of players
+蜂拥而至。
+that rush in.
+也会有大量的资金涌入。
+There's a lot of capital that goes in.
+过度投资总是难免的，
+There's always overinvestment,
+我敢保证，在这次浪潮中，
+and I guarantee in this case,
+也一定会有一些过度投资，
+there's gonna be some overinvestment,
+无论这是否已经发生，
+whether it's already happened,
+还是说在未来
+whether it's going to happen
+将会发生，
+in the future,
+我不清楚。
+I don't know.
+毕竟，我们无法预测未来。
+Like, we can't predict the future.
+但与此同时，
+At the same time,
+对于很多领域来说，
+for a lot
+它确实是一场范式转移。
+of things.
+任何用过，你知道的，ChatGPT，
+Anyone that's used, you know, ChatGPT,
+Claude，或者是 Perplexity，等等这些的人，
+Claude, you know, Perplexity, you name it,
+都会觉得，哇，
+you've seen things like, wow,
+这真的能帮我省时间，
+this can save me time,
+而且现在已经有很多机器人
+and there's now bots out there
+能干不少事了。
+that can do things.
+虽然它们还不完美，
+And they're not perfect,
+但能省下大把时间。
+but they can save a lot of time.
+现在的问题更像是，
+It's the question of, like,
+我觉得这背后的经济账，
+the economics haven't, I think,
+还没有完全算清楚，对吧？
+fully worn out yet, right?
+因为说到底，
+'Cause at the end of the day,
+AI 可能和人类一样出色，
+AI could be just as good as a human,
+但如果它的成本
+but what if it's more expensive
+比用人还高呢？
+than a human?
+当然了，
+Of course,
+大家都觉得
+everyone thinks the cost
+算力成本会持续下降，
+of compute's gonna keep coming down
+降到比，比人工
+to the point where it's cheaper than,
+还要便宜的地步，如果真是那样，
+than people, and if that's the case,
+那当然很棒。
+then that's great.
+但这中间还有很多东西，
+But there's a lot of things we have
+我们需要仔细想清楚。
+to think through there.
+这是一个，一个，
+It's, it's a,
+这是一个非常复杂的问题。
+it's a very complex question.
+所以总的来说，我会说，是的，
+So overall, I would say yes,
+这里存在过度投资，但同时我们也，
+there's overinvestment, but also we,
+我们知道这是一场范式转移，
+we know it's a paradigm shift,
+所以两者兼有，
+so it's both,
+这就是为什么现在的情况让人如此困惑。
+and that's why it's so confusing.
+如果答案显而易见，
+If it was an obvious answer,
+我们现在就不需要
+we wouldn't be having this debate right
+在这讨论了。
+now.
+[Ray] 好的，
+[Ray] Okay,
+很有意思的一点是
+that's really interesting is
+你开始有一点看跌了。
+that you turned a little bit bearish.
+那么你的依据是什么？
+So based on what?
+比如说，
+Like,
+是基于盈利数据，还是市场情绪？
+is that the earnings or the sentimentals?
+[Nick] 是市销率（Price to sales）。
+[Nick] Price over sales.
+它，它只是……
+It, it just...
+有太多东西
+There were too many things
+让我想起了
+that just reminded me
+2021年的情况，
+of twenty twenty-one,
+我觉得我有点既视感（déjà vu）了。
+and I think I got a little bit of déjà vu.
+比如说，
+Like,
+Chamath 又出来搞 SPAC 了。
+Chamath was coming out with SPACs again.
+再比如，我在看市盈率。
+Like, I was seeing price to earnings.
+我，
+I,
+我把 Nvidia 现在的市销率
+I overlaid the Nvidia price to sales
+和 99 年 Microsoft 的市销率放在一起看，
+with the Microsoft price to sales in '99,
+发现，简直一模一样。
+and, like, the, they matched.
+当然，这中间有很多巧合。
+Of course, there's a lot of coincidences.
+我当时就觉得，
+I was like,
+“这简直太疯狂了。” 就像，
+"This is just too crazy." Like, the,
+你知道，市销率，
+you know, price to sales,
+相比起盈利，我更喜欢这个指标，
+I like that metric more than earnings,
+因为盈利可以通过
+'cause earnings can be manipulated
+各种财务技巧来操纵。
+with all sorts of accounting tricks.
+销售额则是实打实的。
+Sales is like, that's what you have.
+就像，
+Like,
+你有你的公司市值，
+you have the price of your company
+也有你的营收。
+and you have your revenue.
+你不能——去伪造销售额就等于，
+You can't-- To fake sales is, like,
+直接就是诈骗了，
+straight up fraud,
+很少有人敢这么干。
+and people very rarely do that.
+人们可以在盈利上
+People can play accounting tricks
+玩弄财务技巧。
+with earnings.
+但在销售额上你玩不了。
+You can't do that with sales.
+所以对我来说，
+So for me,
+我当时看着这些数据列，
+I was looking at these data series
+心里想，
+and I was like,
+“这，这简直
+"This is, like,
+看起来比 dot-com 泡沫还要疯狂。”
+seems crazier than the dot-com bubble."
+而且我觉得它……
+And I think it...
+因为增长确实非常快，
+There's just a lot of growth,
+这或许证明了它的合理性，
+and that maybe justified it,
+因为很多增长已经成为了现实。
+'cause a lot of that growth has happened.
+我的意思是，
+I mean,
+看看 Anthropic 发生了什么。
+look at what happened with Anthropic.
+我记得，我好像刚看到过，
+I think, I think I just read, like,
+他们的 ARR 之前是 30 亿，
+they were three billion ARR,
+现在的 ARR 变成了 450 亿，
+now they're forty-five billion ARR
+仅仅过了一年。
+in a year.
+这增长速度真是太离谱了。
+Like, that is absurd growth.
+所以，所以增长确实来了，
+So, so the growth is coming,
+虽然不是每家公司都有，
+not for every company,
+但很多公司确实实现了。
+but for a lot of them.
+所以也许是我，你知道，
+And so maybe I was, you know,
+我之前太悲观了，
+I was too bearish
+因为我当时觉得这种增长
+because I just thought the growth
+预期简直是天方夜谭，
+expectations were crazy,
+结果，它们真的实现了。
+and th-they've happened.
+增长如期而至。
+The growth has come.
+这真的很有意思。
+And so it's interesting.
+这种增长是否还能持续，那又是，
+Whether it'll keep coming, that's a,
+另一码事了。
+that's a second debate to have.
+但我觉得这就是我当初看跌的原因，
+But I think that's why I got bearish,
+因为我只是……
+'cause I just...
+我无法想象一种情况，
+I couldn't imagine a scenario
+一家公司怎么能在一年内
+where a company would go
+把 ARR 从 30 亿
+from three billion ARR
+做到 450 亿，
+to forty-five billion in a year
+甚至接近这个数字都不可能，
+or anything even close to that,
+但他们竟然轻轻松松就做到了。
+and they've easily done that.
+而且
+And
+所以这只是其中的一个例子，
+so that's just an example of the type
+说明了目前
+of stuff that's happening
+在这些市场中正在发生的事情。
+in these markets.
+[Ray] 你还记得你当时
+[Ray] Do you still remember the moment you
+从看跌转为
+changed from being bearish
+看涨的那个时刻吗，
+to bullish and,
+为什么会发生这种转变？
+and why?
+[Nick] 我，
+[Nick] I,
+我觉得并没有某一个特定的时刻。
+I don't think there's one moment.
+我觉得这是一个慢慢意识到的过程，
+I think it's a slow realization
+意识到这些事情正在发生。
+of these things are happening.
+而且，就像，很多……
+And, like, a lot of...
+就像，我当时看着数据在想，
+Like, I was looking at the data saying,
+“嘿，
+"Hey,
+看起来
+this looks
+确实是这么回事。”但这不可能一直
+like this is the case."This can't keep
+持续下去吧，
+going,
+然后很多——
+and then a lot of--
+它们确实达到了很多预期目标，对吧？
+They hit a lot of those targets, right?
+盈利在持续增长，
+The earnings keep going up,
+而且很多
+and like a lot
+我本来认为不会发生的事情，
+of these things I didn't think were,
+最终都发生了。
+were gonna happen ended up happening.
+所以我错了，这种事很正常，
+And so I was wrong, and it happens,
+你懂吧？
+you know?
+这就是为什么在很大程度上，
+That's why for the most part,
+我只想说你必须……
+I just say like you have...
+说这话似乎显得很蠢，
+It, it seems so stupid to say this,
+但你就是得忽略掉所有
+but like you have to ignore all
+外界的那些杂音，
+of the stuff that's coming out
+然后告诉自己，
+and just be like,
+“历史是，
+"What did,
+历史是怎么说的？”而历史告诉我们，
+what does history say?" And history says,
+“Just keep buying（持续买入）。”我写过这个。
+"Just keep buying." I've written about it.
+我还为此写了本书。
+I have a book on it.
+但即使是我，也因为当时发生的事情
+And even I went against that because of
+而违背了这个原则，
+what was happening in a moment,
+对吧？
+right?
+所以我觉得这就是你需要，
+And so that's where I think you're,
+你需要去克服自己情绪的地方。
+you have to like override your emotion.
+不过，我倒是没做什么疯狂的事。
+Now, I didn't do anything crazy.
+我，我，无论如何，
+I, I, no matter what,
+哪怕这个市场比 dot-com
+even if this market was even crazier
+还要疯狂，
+than dot-com,
+我依然会买入美股。
+I would still be buying US stocks.
+我只是会减少——
+I would just reduce m-
+减少我买入的金额。
+how much I'm buying.
+所以对我来说，
+And so for me,
+就好像我一直在买入美股一样。
+it's like I'm always buying US stocks.
+只是买多少的问题。
+It's just a question of how much.
+所以，正如我所说的，在我的退休账户里，
+So instead of going, as I said,
+与其像以前那样，
+in my retirement account,
+把 100% 的资金都投入到，
+instead of going on, you know, 100% into,
+股票里，也就是，
+you know, equities, which is like,
+发达国家、
+you know, developed, you know,
+国际市场加上美国的股票，
+world international plus US equities,
+我会说，“好吧，
+I say, "Okay,
+我只投 80% 到这些资产里。”
+I'm gonna only do 80% into those."
+所以我只是稍微降低了我的风险敞口，
+So I just drop my exposure a little bit,
+然后就继续这么买入。
+and I just kept buying from there.
+所以当我，
+So I always make micro shifts when I get,
+打引号的
+quote,
+“看跌”时，我总是做一些微调，
+"bearish,"
+但我绝不会看跌到那种程度，说：
+but I'm never bearish enough to be like,
+“哦，
+"Oh,
+我要清仓所有的股票。”我绝不会
+I'm selling out all my stocks." I would
+做这样的事情，
+never do something like
+因为数据具有压倒性的
+that 'cause the data is overwhelmingly
+积极意义。
+positive.
+你永远不应该做那样的事。
+You should never do something like that.
+[Ray] OK,我们聊了这个疯狂的市场
+以及Nick作为一个投资者短暂的犹豫,
+那现在我们就来聊聊这本书中所倡导的持续买入的底层核心是什么?
+为什么即使在这个市场里,你也应该持续买入?
+[Nick] 这本书的信条是，
+[Nick] The mantra of the book is,
+如果我只能给你一句话，
+if I could only give you one line,
+一条投资，
+one investment,
+投资建议，
+piece of investment advice,
+那就是：
+it would be this:
+持续买入多样化的
+the continual purchase of a diverse set
+创收资产。
+of income-producing assets.
+这里有三大支柱。
+There's three pillars to that.
+持续买入，
+Continual purchase,
+你需要随着时间不断买入，
+you're buying over time,
+我在数据中展示了
+and I show in the data like
+为什么这是对的。
+why this is true.
+甚至，
+Even,
+哪怕
+even
+我给了你关于未来的
+if I gave you information
+信息，
+about the future,
+每个月坚持买入也会是
+you would've been better off just buying
+更好的选择，
+every month,
+书中有专门的章节讲这个。
+and there's chapters that cover that.
+持续买入多样化的资产，
+The continual purchase of a diverse set,
+所以多元化是这个信条的
+so diversification is at the heart
+核心，
+of this,
+然后是创收资产。
+and then of income-producing assets.
+创收资产是指任何
+So income-producing assets are anything
+能够产生某种收入的资产。
+that can produce some sort of income.
+这包括股票，
+That includes equities,
+包括固定收益产品，
+that includes fixed income,
+也包括房地产，对吧？
+that includes real estate, right?
+我们可以顺着这个思路往下看。
+We can go down there.
+但它不包括像黄金、
+That does not include things like gold,
+比特币等这类的东西。
+Bitcoin, et cetera.
+这意味着你不应该持有这些吗？
+Does that mean you shouldn't own those?
+不是，
+No,
+但我不认为它们应该占据你投资组合的
+but I don't think they should be the vast
+绝大部分。
+majority of your portfolio.
+所以，如果你坚持这个信条，
+So if you just take that mantra,
+持续买入多样化的
+the continual purchase of a diverse set
+创收资产，
+of income-producing assets,
+我一直都在遵循这个原则。
+I follow that always.
+这始终是我的信条。
+That is always my mantra.
+现在的问题是：我在买什么，
+Now, the question is: What am I buying,
+对吧？
+right?
+所以我从未停止买入。
+So I'm never stopping buying.
+无论美股发生什么，
+No matter what happens with US stocks,
+我可能会做出调整，比如，好的，
+I might shift from, okay,
+我不会买那么多美股了。
+I'm not buying as much US stocks.
+我可能会买更多的国际股票，
+I might buy more international stocks,
+或者我可能会买更多的固定收益产品，
+or I might bor- buy more fixed income,
+又或者我可能会买，
+or I might buy,
+转向购买一些房地产。
+shift and buy some real estate.
+就像，关键是，我，
+Like the, the thing is, I,
+我从来没有在书里说过你需要
+I never say in the book you need
+只买美股，
+to only buy US stocks
+或者只买国际股票，
+or only buy international stocks
+或诸如此类的。
+or whatever.
+我并不遵循——
+I don't f-
+绝不遵循那种做法。
+follow that approach whatsoever.
+我认为你应该买入一个多元化的
+I think you should be buying a diverse
+资产篮子。
+basket.
+而且是的，
+And yes, the,
+你可能会随着时间推移
+you might change the weights over time
+根据感觉之类的事情改变权重，
+based on feelings and things like that,
+要永远坚持
+and it's hard to just stick
+一种策略是很难的。
+with one strategy for forever.
+我知道大家都说，“哦，就，
+I know everyone says, "Oh, just,
+就别去看它。”如果你能做到，
+just never look at it." And if you can do
+那很好，
+that,
+但我觉得如果你，
+great, but I think you will,
+如果你关注市场之类的，
+if you're following markets and stuff,
+你难免会有点情绪化。
+you're gonna get a little emotional.
+所以你必须弄清楚：
+So you have to figure out:
+我该如何以一种
+How do I do this in a way
+无论发生什么都能
+that I'm gonna still be successful
+在长期取得成功的方式来投资，
+in the long run no matter what happens,
+对吧？
+right?
+所以我可能会有一点情绪化，然后，
+So I might get a little emotional and,
+就像我说的，
+as I said,
+把投资组合从 100-0 调整到 80-20，
+shift from 100-0 to an 80-20 portfolio,
+对吧？
+right?
+我可能会做这样一个小小的调整，
+I might do a s- a minor shift like that,
+然后我会继续买入。
+and then I'll keep buying going forward.
+所以我认为这就是你需要具备的
+So I think that's the framework you need
+投资者框架：
+to have as an investor is like:
+我能做些什么，以确保无论发生什么，
+What can I do so no matter what happens,
+我都能安然无恙，对吧？
+I'll be okay, right?
+因为这不会是……
+'Cause it's not gonna be...
+我觉得很多人认为这就像是，
+I think a lot of people think it's like,
+哦，我要么持有 100%——
+oh, I'm either gonna have 100 per-
+100% 的股票，要么持有 100% 的现金。
+100% stocks, or I'm gonna have 100% cash.
+我认为这两种想法，
+And I think both of those are,
+在我看来，都是失败的。
+are in my mind, are failure.
+你不能只做，
+Like you can't just do,
+你不能把这两种作为投资心态。
+you can't have both of those as a mindset.
+你必须折中一下，
+You have to have something in between
+这样如果市场暴涨，
+where if the market rips upward,
+你会收益丰厚，
+you're great,
+而如果市场崩盘，
+and if the market crashes
+甚至经历大萧条，
+and we go through the Great Depression,
+你也一样没事，对吧？
+you're fine, right?
+如果你在 1929 年 100% 持有股票，
+If you were 100% stocks in tw- 1929,
+你肯定就完蛋了。
+you would've been destroyed.
+如果你在 1980 年 100% 持有现金，
+If you were 100% cash in 1980,
+你也会在接下来的 20 年里完蛋，
+you would've been destroyed over the next
+因为股市表现太好了，
+20 years because stocks did so well,
+对吧？
+right?
+所以在任何一个时期，
+So just every time period,
+我都可以告诉你
+I can tell you
+你的投资组合在什么时候会失败。
+when your portfolio would've failed.
+唯一能挺过这些的
+The only way to kind of get past
+方法，就是有某种形式的
+that is to have some form
+多元化。
+of diversification.
+这就是我的方法。
+So that's my approach there.
+[Ray] 就持续买入，例如，
+[Ray] Just keep buying, like for example,
+S&P 500 指数，对吗？
+S&P 500 index, right?
+你觉得这真的是信念吗？
+Do you think that's really conviction?
+我的意思是，这叫模式识别。
+I mean, that's pattern recognition.
+你只是在信任历史数据，
+You're just trusting historical data,
+对吗？
+right?
+你在信任
+You are trusting
+过去 100 年里行之有效的方法。
+what has worked for the last 100 years.
+所以我的问题是，
+So my question is,
+那么
+so
+你是如何对“持续买入”这个概念本身
+how do you build real conviction
+建立真正的信念的？
+for the notion of just keep buying itself?
+[Nick] 是的，不，我，
+[Nick] Yeah, no, I,
+完全明白你的意思。
+I understand your point completely.
+你会想，
+You're like,
+“这种信念从何而来？”
+"Where does the conviction come from?"
+我觉得这种信念不仅仅是
+And I think the conviction doesn't just
+源于类似，
+come from like,
+好吧，我们有一个国家拥有，
+okay, we have one country with a,
+你知道，长达一个世纪的回报。
+you know, a century of return.
+如果你没读过《Stocks
+If you haven't read the book "Stocks
+for the Long Run》这本书，那是一本非常出色的
+for the Long Run," that's an incredible
+书，
+book,
+或者是《Triumph
+or "Triumph
+of the Optimists》。现在有很多
+of the Optimists." There's a lot
+优秀的著作
+of great books out there
+在某种程度上着眼于，
+that kind of looks at,
+着眼于不同的数据系列，
+that look at different data series,
+而不仅仅是美国。
+not just the US.
 所以
-當我不做這件事情的時候
-我覺得內在的恐懼是
-那我有沒有好好
-我是不是剝奪自己照顧自己的一個機會
-嗯
-就是寵愛自己
-愛自己的一個機會
-然後我覺得
-最後我們再看第四格
-就是那個假設
-那假設是減肥必須要是辛苦的
-哦
-我覺得這個是一個
-很錯誤的巨大的假設
-就是
-因為那個假設是減肥一定很辛苦
-而且是很痛苦的
-所以你的身體當然
-你的大腦當然不希望看你受苦啊
-哦
-所以當你一說
-我要開始減肥計畫的時候
-你的大腦就說
-No
-我要保護 Sherry
-不能讓他受苦
-我要先多屯一些脂肪起來
-先吃一下
-所以你就會忽然發現說
-欸 沒說減肥的時候沒事
-你一說減肥忽然就覺得
-有點餓
-啊不然我們明天再開始
-因為你內在的假設
-它觸發了你的生存
-然後叫你說
-啊
-你要開始吃苦了
-嗯
-我們想辦法不要去吃苦
-所以很多時候你要看說
-你沒有去改變
-不是你不夠努力
-是你的身體想要保護你
-你的大腦想盡辦法在保護你
-我實在無法形容
-我學到這個理論的時候
-那種打從心裡鬆一口氣的感覺
-原來我不是爛
-我不是沒意志力
-是我錯怪自己了
-那接下來要怎麼做
-才能讓這些煞車慢慢鬆開
-讓我們能夠更輕鬆的朝目標前進呢
-以下是我歸納出了四個步驟
-第一步驟
-先把自己的變革免疫地圖給畫出來
-去Google或者是YouTube上面搜尋
-Immunity to Change Map
-你可以找到一堆範例
-包括Robert Kegan教授的一個線上工作坊
-可以花點時間把自己的隱形承諾
-跟巨大假設是什麼給找出來
-這是能不能鬆開心理煞車的關鍵哦
-第二步驟
-做一些小實驗
-那些巨大假設之所以這麼強大
-是因為我們靠它生存到現在很久了
-但是我們長大了啊
-變得更成熟也更有能力了
-身處的環境也已經不一樣了
-這些假設很可能早就不適用了
-或者是在我關注的身心健康領域
-實在有太多的迷思或者謠言
-到處經由網路或媒體傳播
-我們很多的巨大假設
-可能就是不知道從哪裡聽來的
-我覺得你要去挑戰你的假設
-嗯
-譬如說我現在有
-有一些正確的知識以後發現
-減肥不一定是餓肚子
-對啊
-吃對東西就好了
-對
-就是這個假設第一個就是錯的
-第二個
-我有沒有一些競爭性的承諾
-就是
-我是不是擔心
-我如果不叫消夜
-我就不曉得我愛自己
-那我有沒有其他的方式
-來消費
-或者是怎麼樣讓自己覺得
-那個愉快的感覺
-不是來自於消夜
-或者是年輕的時候可能是酒精
-可以來自別的地方
-那我要找到那個快樂的泉源
-嗯
-那我去多做那些事情
-譬如說
-我
-買新衣服給自己
-嗯
-好啊
-那我就不用用
-吃的方式
-就是你看到
-你掙扎的那個點是什麼
-你害怕
-因為你做了這個目標
-你會犧牲掉什麼東西
-那這個東西一定對你是重要的嘛
-那我真的覺得很多人在吃就會覺得
-我剝奪了我唯一可以照顧自己
-跟讓自己幸福的美好時刻
-嗯
-有這個必要嗎
-所以就是
-你的內在你可以想像
-你一邊油門踩的
-我又運動又節食
-那另外一邊又是踩著剎車
-所以你就一直內耗嘛
-就是
-你又一直要保護自己
-但是你又想往前衝
-所以你就一直在原地打轉
-嗯
-那我覺得沒有辦法
-如果沒有解放掉那個假設
-跟那個內在那種競爭的承諾的話
-真的就是一直內耗下去
-接下來就要講到第三個步驟
-利用B=f(PxE)這個偉大的公式
-來創造一個有利於達到目標的環境
-我們先來聽聽雪力老師對這個公式的介紹
-這是社會心理學家之父
-就是 Kurt Lewin 他講的一個公式
-他說我們每個人的行為
-其實是我們這個人與環境的函數
-也就是說
-你看一個人的行為
-你不要覺得那就是他的個性
-譬如說他的 MBTI
-所以他就他都不講話因為他是 I 人
-你不能這樣子看
-因為他的 MBTI
-他的個性
-還有他累積的
-不管是創傷也好或者生命力也好
-他都會跟他的環境有所互動
-所以你看我在澳洲
-我不會談笑風生是因為環境
-我這個 P 我這個 person
-人沒有變
-可是我的環境就是 environment 變了
-我的行為就會不一樣
-我覺得這個公式聽起來很簡單
-可是會讓我們更對自己跟別人寬容
-因為我們很多時候判斷自己是不是好人
-是不是成功的人
-或者是別人是不是成功的人
-我們都是用他的行為來做判斷
-但是你要換一個方式想說
-這個行為他是在什麼樣子的環境裡面
-讓他產生這樣的行為
-所以 context 就是背景
-環境是非常重要的
-知道我的行為好壞
-並不完全是我能夠控制
-而是有一大部分經由環境影響
-這真的讓我又能夠進一步放過自己了
-另一方面
-我們也可以利用環境的力量
-來幫助我們更容易採取行動
-講到這裡
-你有沒有想到一本講習慣養成的曠世鉅作
-原子習慣呢
-這本書裡面採用的方法
-就是來自於Kurt Lewin的理論
-書裡面講到
-如果你想要養成跑步習慣
-就要在前一天把衣服跟鞋子都擺好
-放在顯眼的地方
-然後讓自己身處一群愛跑步的人身邊
-這些都是利用環境來促進行為改變的好方法
-接下來要講到第四步
-用AI來對自己寬容了
-這裡的AI不是人工智能
-它是 Appreciative Inquiry 的縮寫
-中文翻譯成欣賞式探詢
-這是另一種能夠找到被打壓的內在能量的方法
-那我很喜歡一個心理學家
-組織心理學家說的
-appreciative inquiry
-就是也是叫 AI
-對
-他也是 AI
-他是帶著感激來去看事情
-而因為他去組織裡面做顧問的時候
-他就發現一件事情說
-如果你去組織做顧問
-你問說大家覺得公司有什麼可以進步的
-哇
-大家都把一些缺點全部寫出來
-缺點越寫越生氣有沒有
-越寫越火
-氣氛就很差
-就是本來只有對公司就有小抱怨的
-開始寫越寫越覺得這個公司真的太爛
-所以他就發現說
-這樣子好像對團隊沒有什麼幫助
-所以他就開始問大家說
-你們先想一想有什麼
-你覺得公司是做得好的
-所以我覺得我們人也可以這樣子對自己
-因為你要挑自己的毛病
-Oh my god
-Oh my god
-你可以挑不完
-因為你不完美嘛
-你從外表到你現在今天
-有沒有按照時間看書或者是什麼
-對啊
-你想要批評的可多的
-尤其社群媒體就會幫助你批評自己
-喔對啊
-你怎麼欸我的同學怎麼發展這麼好
-我怎麼這樣子
-就永遠批評不完
-所以換一個角度就是
-第一個先去回想
-我有沒有什麼做得好的地方
-我覺得這個非常重要
-
-以上就是我歸納出來的能夠鬆開內心剎車
-讓你自然地往目標前進的方法
-你有沒有發覺
-這些方法剛好就是我影片最後的那句話的實踐版呢
-我這幾年經由學習跟自我實踐的感想
-只要讓內心越來越鬆弛
-我們每一個人都是有源源不絕的前進動力的
-我覺得雪力老師有個比喻相當的好
-那你說為什麼我中年以後
-我可以有這種
-典範轉移的改變
-而不是在那邊拉扯
-我自己比喻它好像
-戴了一個 X 光眼鏡
-對
-就是我覺得我們教授給我的知識是
-你會發現
-哦原來我這輩子都戴了一個
-模糊的濾鏡
-然後我把它拿下來
-我換一副眼鏡是 X 光眼鏡
-就是我看到的路根本不一樣
-就當你看到的路根本不一樣的時候
-你就不需要有意識的去說
-我要調整我的行為
-嗯
-因為路就已經不一樣了
-你走的方向就很自然的就不一樣
-我發現我們很刻意的說
-我不要往東走
-我一定要往西走
-我看別人往西走是比較好的
-書裡面說往西走
-然後你就一直說我要往西走
-我要往西走
-你的身體的那個恆溫器
-它會把你拉回來
-沒錯
-可是我們一輩子都是往這個方向走
-對
-可是當你的認知
-完全有一個大顛覆的時候
-就像你的眼鏡拿下來
-你會看到東走沒有路啦
-我就是必須要往西走
-沒有
-你根本不會再去思考說
-我要調整我的行為
-因為你看到的東西都不一樣
-我如果沒有意識
-就說修修講話這樣子
-我就討厭他
-我要忍住
-我要忍住
-我要對修修好一點
-但是我如果忽然看到說
-哦
-修修這樣子是他的生存法則
-就是他其實現在在受苦中
-所以他跟我講話才是這樣的時候
-我就不用忍了
-嗯
-我跟你講話
-我就是帶著不同的態度講
-我也不用刻意的告訴自己
-見到修修的時候不要翻白眼
-對不對
-就是我覺得很多時候
-我們會很刻意的叫自己
-不要做些什麼行為
-或者一定要
+And so
+如果你
+if you look
+用长期的眼光来看待很多
+at a long-term approach across many
+发达国家
+developed countries
+曾经拥有的股票市场，
+that had stock markets,
+然后你看看
+and you look at like
+这些市场在很长一段时期内
+how those markets return over very long
+是如何产生回报的，
+periods of time,
+你会非常有信心
+you have a very high conviction rate
+相信市场大概率会
+in the sense ofMarkets are gonna probably
+带来比国债高出 4% 左右的回报，
+return about 4% above Treasury bills,
+对吧？
+right?
+比那些安全的，
+4% above the safe,
+不管那些安全资产是什么，对吧，
+whatever the safe asset is, right,
+高出 4%。
+out there.
+比如说，比现金高出 4%。
+4% above cash, let's say.
+4% 听起来可能不算多，
+And so 4% may not sound like a lot,
+但你如果这样做，而且要记住，
+but you do that, and remember,
+是扣除通胀后还有 4%，
+inflation adjusted 4%,
+如果你坚持一个世纪，
+you do that over the course of a century,
+最终这会是一笔非常，
+that ends up being a very,
+非常可观的回报。
+very good return.
+当然，
+Now, of course,
+美国的长期回报大约高出通胀 7%，你知道，
+the US has done about 7% above, you know,
+是长期来看的。
+inflation over the long haul.
+所以我并没有，
+So I'm not,
+并不指望未来还能有 7%。
+I'm not expecting 7% going forward.
+我觉得很多人都有这种期待。
+I think a lot of people do.
+但我没有。
+I do not.
+但只要你能保持 4%，
+But if you just stay 4%,
+我认为你就能证明，
+I think you can justify
+在全球众多不同的股票市场中，
+that across many different equity markets
+这样做是合理的，
+across the world,
+并且在房地产领域也可以，
+and you can do that with real estate,
+还可以用在很多
+with a lot
+不同的生息资产上。
+of different income producing assets.
+当然，这其中也存在风险。
+Now, of course, there's risk there.
+但如果你有一个分散的投资组合，
+But if you have a diversified portfolio,
+就像你在过去的一个世纪里
+like you would have done quite well over
+应该也能取得相当不错的成绩一样，
+the last century,
+这其中包括持有美股、
+and that includes having US stocks,
+国际股票、房地产，
+international stocks, having real estate,
+等等。
+et cetera.
+所以这就是
+So that's
+这种信念的来源。
+where this conviction comes from.
+它来源于多元化投资。
+It comes from diversification.
+如果没有多元化，我同意你的看法。
+Without diversification, I agree with you.
+如果我只能挑选一只股票
+If I just had to pick one stock
+或者一个市场，
+or one market,
+我确实会有些担心，对吧？
+I would be a little worried, right?
+如果我说，“哦，我只打算投资于，
+If I said, "Oh, I'm only gonna invest in,
+你知道，
+you know,
+日本股票、韩国股票，
+Japanese stocks or Korean stocks
+或者是台湾股票”，那确实会有点
+or Taiwanese stocks," it would be a little
+让人担忧。
+worrying.
 但是
-我覺得大腦那個
-轉了以後
-那
-接下來都很自然
-
-希望雪力老師的這堂人生設計課
-也能夠讓你戴上這副神奇的X光眼鏡
-讓你重新整理人生
-活成你真正想要的樣子
-除了以上講到的理論以外
-這堂課根本像是人生卡住時候的百寶箱
-不管是遇到什麼窒礙難行的事情
-都有對應的工具可以拿出來使用
-這些都是老師在哥倫比亞大學組織研究所
-所學到的頂尖工具
-在輔導過許多企業跟個人之後
-整合出的一套能夠讓人生高效運轉不內耗的系統
-相信一定能夠在新的一年
-讓你完成大大小小的目標
-雪力老師還規劃了一個30天的陪伴社群
-讓同學可以在社群中分享並且討論遇到的問題
-她還會提供回饋
-幫大家釐清問題
-整理思路
-讓課程內容可以更好的被消化跟運用
-我會把課程的資訊放在下面
-用SHO350可以有350塊的折扣哦
-最後我要跟你說
-你很棒
-放輕鬆
-真的別太逼自己了
-看清楚自己處的局
-鬆開內心的煞車
-你是會自然而然的往目標前進的
-我們下次見囉
-拜拜
-[Timestamp: 2026/06/17 15:19:15]
+But
+如果我的投资组合里还能有其他东西
+if I could have something else
+或是
+in the portfolio or m-
+其他类型的资产
+other types of assets
+能给我带来更广泛的风险敞口，
+that give me broader exposure,
+那我的担忧就会少很多。
+then I would be far less worried.
+所以我觉得这就是
+So I think that's
+这种信念的由来。
+where the conviction comes from.
+至少从，你知道，19世纪开始，
+Since at least, you know, the 1800s,
+从工业革命以来，
+you know, since the Industrial Revolution,
+我们就一直在进行生产，
+we've been producing,
+全人类生产的东西越来越多，
+humans as a whole have been producing more
+越来越多，
+and more and more and more,
+而且我不认为
+and I don't think
+这种趋势会停止。
+that trend is going to stop.
+所以这就是
+And so that's
+这种信念的由来。
+where the conviction comes from.
+这种长期的技术发展趋势，
+It's that long-term technological trend
+我们一直在努力，
+which we keep managing to,
+你知道，每隔几年就能，
+you know, hit every single, you know,
+触及一个新的节点。
+every few years.
+我们仍然在这条曲线上。
+We're still on that curve.
+所以
+So
+如果你说这是在进行模式
+if you're gonna say that's pattern
+识别，
+recognition,
+那么，到底什么
+well, what,
+不是模式识别呢？
+what isn't pattern recognition?
+在某种程度上，
+At some point,
+万事万物都像是在进行模式识别。
+like everything's pattern recognition.
+当你观察一家企业，
+You're looking at a business,
+当你查看，
+you're looking at,
+查看他们的资产负债表时，
+you're looking at their balance sheet,
+你就在识别某种
+and you're recognizing some sort
+收入增长的模式，
+of pattern of the revenue going up,
+对吧？
+right?
+那么，我们要在哪里停止这种争论呢，
+So where, where do we stop that argument,
+我想，这就是我的问题。
+I guess, is my question.
+[Ray] So if you are buying into S&P 500,
+[Ray] So if you are buying into S&P 500,
+basically you are buying into the story,
+basically you are buying into the story,
+the economy, the GDP,
+the economy, the GDP,
+the future economy is going up.
+the future economy is going up.
+Basically, you are buying into that story.
+Basically, you are buying into that story.
+So that's
+So that's
+how I personally get the conviction
+how I personally get the conviction
+of buying a broad-based index fund.
+of buying a broad-based index fund.
+You, you are a data guy,
+You, you are a data guy,
+and your books are full of it.
+and your books are full of it.
+You've been writing about investing for,
+You've been writing about investing for,
+for years now.
+for years now.
+Beyond the data,
+Beyond the data,
+what have you actually learned
+what have you actually learned
+about investor behavior and psychology
+about investor behavior and psychology
+that surprised you over the last few
+that surprised you over the last few
+years?
+years?
+[Nick] 我觉得你只是意识到，
+[Nick] I think you just realize
+克服自身的偏见
+how difficult it is
+有多么困难。
+to get over biases you have.
+比如我就对房地产有偏见，
+Like I'm biased against real estate,
+我之所以知道这一点，
+and I know this
+是因为我经历了 08 年的次贷危机。
+because of I lived through '08.
+我住在南加州的一个地区，
+I lived in an area in Southern California
+那里经历了全美最疯狂的
+that had one of the worst housing booms
+房地产泡沫之一。
+in the entire country.
+我亲眼看到当时的房价从，
+I saw prices go from, at the time,
+你知道的，
+you know,
+一套
+a house
+25 万美元的房子，
+that was $250,000 got up to
+在两年内涨到了大约 60 万美元。
+about $600,000 within two years.
+看到这种情况发生真是太疯狂了。
+That's crazy to see that happen.
+你不会指望你的房子
+You don't expect your home to over double
+价格翻倍以上，
+in price within the f-
+在，你知道，仅仅两年时间里。
+within, you know, a two-year span.
+我亲眼目睹了这一切。
+And so I saw that happen.
+然后我看到它崩盘了，
+I-- Then I saw it blow up,
+我看到了人们陷入困境（资不抵债）。
+and I saw people underwater.
+比如，你知道，
+Like, you know,
+我自己的家庭在房子上欠的钱，
+my own family owed more money on a home
+都比那套房子本身的价值还多，
+that they had than what it was worth,
+对吧？
+right?
+这就叫做资不抵债。
+So it's called being underwater.
+在崩盘发生后，
+The mortgage is larger
+抵押贷款的金额甚至超过了
+than the property value after the crash
+房产的价值。
+happened.
+所以我也看到了这一点。
+So I saw that, too.
+这就是我的一个偏见。
+That's a bias I have.
+我觉得在行为模式方面，
+I think in terms of behavioral things,
+你必须意识到自己的偏见是什么，
+you have to realize what are your biases
+以及你要如何克服它们，
+and how do you overcome them,
+或者是你要如何去抵消它们，
+or how do you try to counteract them,
+对吧？
+right?
+所以我，
+So I,
+我尽量
+I try
+去继续持有房地产，尽管事实上
+to still own real estate despite the fact
+我对它多少有些偏见，
+that I'm kind of biased against it,
+对吧？
+right?
+甚至像我这样专门写这些东西的人也是。
+And even like I write about this stuff.
+我有数据支撑，我做了所有的研究，
+I have data, I do all this stuff,
+但我依然，你知道的，
+and I still, you know,
+会有这种时候，我会觉得，“呃，我，
+have my moments where I'm like, "Ugh, I'm,
+这感觉有点怪异，”然后我，
+this feels weird to me," and I,
+我做了一些调整，
+I make changes,
+在我的投资组合中做了一些微调。
+slight changes in my portfolio.
+所以这就好比，
+So it's like,
+你要怎么做
+what do you do
+来保护自己免受自身
+to safeguard yourself against your own
+行为偏见的影响？
+behavioral biases?
+我的做法是，我只是……
+What I do is I just...
+我把它称作“小小的放纵”，
+I call it sinning a little,
+这个说法来自 Clifford Asness，
+which comes from Clifford Asness,
+他是这么说的，
+and he's like,
+“如果你要做出战术上的改变，
+"If you're gonna make a tactical change,
+也就是从 100/0 变为 80/20，
+AKA go from 100/0 to 80/20,
+那你只需要做一个微调。
+you make a slight change.
+基本上，你不能孤注一掷。
+You don't bet the farm, basically.
+你不能，
+You don't,
+不能一次性调整所有的资产，
+you don't move everything at once,
+对吧？” 所以对我来说，
+right?" And so for me,
+这就是要在我的投资组合中
+it's about making micro changes
+做出微调，
+to my portfolio
+这些调整能让我晚上安然入睡，
+that allow me to sleep at night
+并在一定程度上克服一些
+and kind of get past some
+行为上的问题，同时也不会真正
+of those behavioral issues without really
+给长期的投资带来任何风险。
+risking anything for the long.
+所以这是最关键的一点，就
+So that's the big one there in terms
+我喜欢采取的许多行为
+of a lot of the behavioral things I like
+习惯而言。
+to do.
+但你必须弄清楚，比如说，
+But you have to figure out, like,
+你自己的行为倾向是什么？
+what are your behavioral things?
+对你来说，到底哪些事情
+What are those things for you
+在给你造成麻烦？
+that are causing you problems?
+然后
+And then
+你该如何想办法“骗”过自己，
+how do you find ways to trick yourself so
+从而避免因此犯下长期的
+that you don't cause a big long-term error
+大错？
+from them?
+[Ray] 老实跟你说，
+[Ray] I'll be honest with you,
+我的偏好
+my bias
+或者说我的习惯就是逢低买入。
+or my preference is buying the dip.
+在疫情导致崩盘期间，
+During the COVID crash,
+我一直在不停地买。
+I have been buying and buying.
+多年来，我已经变成了那种人，
+Over the years, I have become the guy,
+我不会在，
+I don't buy when the,
+市场陷入疯狂时买入。
+when the market goes crazy.
+我总是逢低买入。
+I always buy the dips.
+这，这有什么问题吗？
+What, what's wrong with that?
+[Nick] 问题在于，
+[Nick] The issue is,
+我们先只谈市场指数。
+let's just talk about a market index.
+之后我们再讨论个股。
+We can talk about individual stocks after.
+但普遍的问题是，
+But the general issue is
+如果你一直等回调，
+if you wait for a dip,
+很多时候当
+a lot of times when
+那个回调终于到来时，
+that dip finally comes,
+价格甚至会更高。
+it's gonna be even higher.
+价格会比
+The price will be higher than
+你之前本来可以买入的位置还要高，
+where you could have bought previously,
+对吧？
+right?
+我经常讲的故事是，
+The story I tell is,
+我记得回到2017年，
+I remember back in 2017,
+我认识一位投资者，
+there was an investor I knew,
+他跟我说，“哦，
+and he was telling me, "Oh,
+我只逢低买入。
+I only buy the dip.
+我要等到市场大崩盘时，
+I'm gonna wait till there's a big crash,
+然后我再买。”
+then I'm gonna buy."
+而那是2017年初。
+And this is early 2017.
+于是他等啊，等啊，等啊。
+So he waited, waited, waited.
+终于，疫情爆发了。
+Finally, COVID happens.
+2020年。
+2020.
+已经过去三年了，对吧？
+It's been three years, right?
+2020年3月，特别是3月23日，
+March 2020, in particular March 23rd,
+2020年，那是绝对的谷底。
+2020, which was the absolute bottom.
+在那个时候，
+At that point,
+市场比高点下跌了33%，对吧？
+the market was 33% below its high, right?
+就算他完美地把握了时机，
+Even if he perfectly timed it,
+当然他不可能预知，
+which of course he doesn't know,
+那就是谷底吗？
+is that the bottom?
+还会继续跌吗？
+Is it gonna keep going?
+我该不该等？
+Should I wait?
+我该在哪个点位买？
+Where do I buy?
+所以把，把所有这些放在一边，
+So put all, putting all that aside,
+哪怕他完全知道底在哪里，
+even if he perfectly knew the bottom
+并在3月23日买入，
+and bought on March 23rd,
+也就是2020年，
+2020,
+他的买入价依然会
+he still would have bought
+高于
+at a higher price than
+他当年在2017年买入的价格，
+if he had bought back in 2017,
+比如2017年初。
+like in early 2017.
+所以这就是，我的反驳观点，
+So that's the, my counterargument,
+很多时候确实有回调。
+is like a lot of times there's a dip.
+“哦，
+"Oh,
+我等到了一个5%的跌幅，”
+I got a 5% dip,"
+但你买入的价格却高了10%
+but you're buying at a 10% higher price
+相比于你之前本可以买入的价格，
+than you could have bought before,
+对吧？
+right?
+所以我觉得这就是人们
+So I think that's the thing people
+不会去想的……
+don't...
+人们不会回头去想，“好吧，
+People don't go back and say, "Okay,
+我今天不买，比方说，在5月
+I'm not buying today on, let's say, May,
+12日。
+you know, 12th.
+我今天不买。
+I'm not buying today.
+但我要，
+But I'm gonna,
+但我要等到下一次大跌。”然后
+but I'm gonna wait till the next dip." And
+你再看看，
+then look,
+当你抄底时，
+and when you buy the dip,
+那个价格有低于
+is that price lower
+你没买入那天吗？
+than the day you didn't buy?
+这才是问题所在。
+And that's the question.
+而绝大多数人不会这样做。
+And most people don't do that.
+他们不会记录下来。
+They don't write it down.
+他们从不去复盘说，“哦，
+They never check and say, "Oh,
+我买入的价格低于
+I bought it lower than
+我之前
+what I could have bought it
+本能买入的价格，”对吧？
+at before," right?
+而且如果你等得太久，
+And if you wait too long,
+市场可能只会一直猛涨。
+the market can just keep ripping upward.
+关于逢低买入还有最后一点。
+And one last thing on buying the dip.
+我觉得你必须意识到，
+I think you have to realize,
+这也是为什么我喜欢借鉴历史，
+and this is why I like using history,
+美国市场历史上，你知道的，
+the worst dip in, you know,
+最糟糕的一次大跌是
+US market history was the Great
+大萧条时期，
+Depression,
+对吧？
+right?
+你知道发生了什么吗？
+And do you know what happened?
+你知道，1929年，
+You know, 1929,
+人们都在谈论那次大崩盘
+they talk about the great crash
+等等。
+and everything.
+那甚至都不是最糟的一年。
+That wasn't even the worst year.
+最糟的一年是从1931年到1932年。
+The worst year was from 1931 to 1932.
+市场当时已经下跌了，我想，
+The market was already down, I think,
+大概50%左右。
+like 50% or something.
+所以你会觉得，“天哪，
+So like you're like, "Oh my God,
+这简直是个绝佳的买入机会。”从1931年
+this is a buying opportunity." From 1931
+到1932年夏天，
+to the summer of 1932,
+底部大约出现在7月份，
+which was the bottom in, I think, July,
+市场又下跌了60%。
+the market went down 60%.
+并且那是在市场已经经历了两年
+This is after it already had two years
+的毁灭性打击之后。
+of just getting destroyed.
+所以你总把逢低买入挂在嘴边，
+So you keep talking about buying the dip,
+但在某些时候你可能会面临一次
+but at some point you may face a dip
+跌不见底的暴跌。
+where it just keeps dipping.
+比如你可能会说，“哦，
+Like you could have said, "Oh,
+市场都跌了50%了。
+the market's 50% down.
+我要把我的一切都押在这上面。”
+I'm gonna bet everything I have on this."
+然后你投入了所有的钱，
+And then you put all your money in,
+接着在这上面又亏了60%，
+and then you lose 60% on that,
+而
+and
+那真的是毁灭性的，
+that is truly destructive
+无与伦比的灾难。
+like nothing else.
+所以我知道我们还没遇到过那种情况，
+And so I know we haven't had one of those,
+而且我希望我们永远都不会遇到。
+and I hope we never do.
+但是
+But
+如果我们真的碰上了
+if we ever come into one
+那种情况之一，
+of those scenarios,
+逢低买入就会变得极其恐怖，
+buying the dip can get very scary
+并能迅速摧毁
+and can destroy a lot
+大量的资本。
+of capital very quickly.
+所以你必须为这种情况
+And so you just have to be prepared for
+做好准备。
+that.
+我知道那是极其糟糕的情况，
+I know that's the worst case scenario,
+但我必须把它提出来，因为这就是
+but I need to bring it out because that's
+下行风险中可能发生的情况，
+what can happen on the downside
+只是人们通常不会去想。
+that people don't really think about.
+[Ray] 我，
+[Ray] I,
+我想多聊聊现金的话题。
+I want to talk about more about cash.
+你觉得有没有一种合理的说法，
+Do you think there's a case to be made,
+比如像我这样的普通个人，
+like for an individual like me,
+除了紧急备用金外还应该持有现金？
+to have cash besides your emergency fund?
+[Nick] 我觉得问题在于，这是，
+[Nick] I guess the question is like, what,
+这笔钱的需求是什么？
+what's the need for that money?
+是，你是在……
+Is, are you...
+如果你是在等……
+If you're waiting for...
+我猜你这么做
+I'm guessing you're doing it
+是因为你在等市场回调，
+because you're waiting for a dip,
+我们刚才已经讨论过为什么
+and we've already talked about why
+那可能不是最佳策略。
+that may not be optimal.
+当然，
+Now,
+我能理解
+I understand
+为什么有些人
+why certain people
+喜欢那样。但我个人不这么做。
+like that.I personally don't do that.
+再说一遍，之所以
+The reason, once again,
+我持有现金
+I'm holding cash is
+是因为我正打算买房，
+because I'm trying to buy a house,
+所以也许我也在试图，嗯，
+and so maybe I am trying to, like,
+把握房地产市场回调的时机，
+time the dip in the real estate market
+如果真会回调的话。
+if there's gonna be one.
+我不知道究竟会不会跌。
+I don't know if there's gonna be one.
+但不管怎样，我都得留着那笔现金。
+But either way, I need to have that cash.
+如果我最终以现在的价格
+If I end up buying at the prices
+买下了房子，
+as they are,
+那么，
+like,
+我依然需要现金来支付，
+I still need to have the cash to do it,
+对吧？
+right?
+又或者我需要存一大笔钱，
+Or I may need to save up so much cash
+以便支付更高比例的首付，
+that I put down a larger down payment
+因为现在的利率太高了，
+because of where interest rates are,
+对吧？
+right?
+因为如果利率是百分之六
+Because if interest rates are six
+甚至百分之七，
+or seven percent,
+我可不想把
+I don't wanna borrow all
+那么多钱都以7%的利率借出来。
+that money at seven percent.
+我愿意
+I'm willing
+借款少得多的一笔钱
+to borrow a much smaller amount
+也许以7%的利率，
+at seven percent maybe,
+但我不想按，你知道的，
+but I don't wanna borrow, you know,
+房产价值80%的比例
+80% of the value of a property
+以7%的利率借款。
+at seven percent.
+这就是……
+That's the...
+你懂的，这大部分是，
+You know, most of that,
+如果你了解的话
+if you know anything about
+买房贷款还款是怎么运作的。
+how loan payments work on a house.
+对我来说，
+For me,
+持有现金完全是个人原因。
+the cash thing is a personal thing.
+你为什么要持有现金？
+Why would you have cash?
+这个——
+It--
+我的问题仅仅是
+My question is just
+为什么你要持有现金，除非是，
+why would you own cash outside of,
+比如需要，嗯，
+like, a need for s- an,
+应对一笔实际的负债
+an actual liability
+或者你生活中打算购买的东西？
+or a thing you're gonna buy in your life?
+除了这些之外，为什么你需要，
+Outside of that, why would you need,
+你知道，持有现金？
+you know, cash?
+除了作为紧急储备金，
+Outside of an emergency fund,
+除了买房的需求，
+outside of I need to buy a house,
+或者办婚礼的开销，
+I need to pay for a wedding,
+诸如此类的用处外，
+something like that,
+你为什么还需要持有现金呢？
+why would you need it?
+可能有人会说：“嗯，
+And someone's like, "Well,
+我想等回调，” 或者，
+I wanna wait for a dip," or,
+“我想逢低买入。” 我理解这个观点，
+"I wanna buy a dip." I see the argument,
+但话又说回来，
+but once again,
+数据并不支持这种做法。
+the data doesn't support it.
+多数情况下，你会……
+Most of the time, you're gonna...
+从统计上看，在大部分历史时期，
+Statistically, most of history,
+你最终都会以更高的价格买入。
+you're going to buy at a higher price.
+你的现金早就该用来
+Your cash would've been better deployed in
+买你本来就想买的东西了，
+that thing that you wanted to buy already,
+对吧？
+right?
+现在就买，然后，
+Just buy it now, and just,
+放手去投吧。
+just take the plunge.
+当然，从行为心理学上来说，这挺吓人的。
+Of course, that's scary behaviorally.
+我完全理解。
+I understand that.
+[Ray] 有意思的是，
+[Ray] What's interesting
+关于 Warren Buffett，
+about Warren Buffett is,
+他本人就是个选股专家，
+he himself is stock picker,
+但他却不建议普通投资者
+but he advise against individual stocks
+去买个股。
+to normal investors.
+你也同样建议大家不要
+And you also advise against individual
+去投资个股。
+stock investing.
+[Nick] 对于大多数散户投资者来说，
+[Nick] For most retail investors,
+我认为
+I think
+如果你非要选个股，
+if you're gonna pick individual stocks,
+并且是因为你喜欢、
+and you wanna do it 'cause you enjoy it,
+觉得好玩才这么做，那挺好。
+it's fun for you, great.
+把它的比例控制在，比如，
+Keep it at, like,
+你投资组合的 5% 到 10%，
+five to ten percent of your portfolio
+然后随便玩。
+and have at it.
+玩得开心就好。
+Have fun.
+我不反对。
+I'm not against it.
+我只是觉得，
+I'm just like,
+你得降低风险敞口，
+you gotta reduce your exposure,
+因为一旦你判断错了，
+'cause in the event that you're wrong,
+后果可能会很严重。
+it could go very badly.
+当然，如果你猜对了，
+Or obviously, if you're right,
+收益也会不错。
+it'll do well.
+但是
+But
+如果它只占
+if it's only five to ten percent
+你投资组合的 5% 到 10%，
+of your portfolio,
+那它也就是锦上添花，对吧？
+it's, like, a nice to have, right?
+我在研究这个问题时，
+I've come up with
+总结出了
+so many different arguments looking
+很多不同的观点。
+at this.
+大家最常听到的
+The original argument
+最初的一个观点，
+that most people have heard is
+我称之为“业绩论”，
+what I call the performance argument,
+意思就是，
+which is just, like,
+如果你去看看那些专业基金经理，
+if you look at professional managers,
+那些以此为生的人，
+people that do this for a living,
+他们中的大多数，你知道的，
+most of them, you know,
+在五年的时间跨度里，大概有
+over a five-year time period, it's, like,
+70%
+something like 70
+到 80% 的人都跑不赢基准。
+to 80% don't beat their benchmarks.
+有个东西叫 SPIVA
+There's something called the SPIVA
+报告，
+reports,
+S-P-I-V-A。
+S-P-I-V-A.
+你可以去查一下。
+You can look them up.
+你可以查到不同国家的情况，
+You can look up at different countries,
+各种数据都有。
+all this stuff.
+大多数专业人士都跑不赢
+Most professionals don't beat the
+基准，
+benchmark,
+也就是 S&P 500，
+which is the S&P 500
+或者他们目标市场的指数，
+or whatever their target index market is,
+对吧？
+right?
+比如，如果是
+If it's, like,
+台湾股市，或者韩国股市
+the Taiwanese stock market or the Korean,
+等等。
+et cetera.
+所以这是最初的观点，
+So that was the original argument,
+也就是：“嘿，这叫业绩论。
+was like, "Hey, the performance argument.
+这就是为什么你不该去选股。”
+That's why you shouldn't do it."
+后来我又提出了
+Then I came up
+一个叫做“存在主义”
+with something called the existential
+的观点，
+argument,
+它的核心是，
+which is like,
+你怎么知道
+how do you know
+自己到底擅不擅长选股？
+if you're good at stock picking?
+你并不知道……
+You don't...
+举个例子，如果
+Like, if,
+如果你和我去打篮球，
+if you and I went to play basketball,
+任何在场边看的人，不出三分钟就能看出
+anyone watching could tell within three
+谁有天赋谁没有，
+minutes who has talent and who doesn't,
+对吧？
+right?
+比如我和 LeBron James 单挑。
+Me versus LeBron James.
+如果，如果 LeBron James 没这么出名，
+If, if LeBron James wasn't famous,
+我们俩直接上场，
+and we just went on the court,
+你一分钟内就能看出来
+you would know within a minute
+他比我强得多，
+that he was better than me,
+对吧？
+right?
+根本不需要花多长时间。
+It wouldn't take you any time.
+现在，Ray，假设
+Now, let's say, Ray,
+你和我一起去选股。
+you and I went to pick stocks.
+大家要花多久才能看出来
+How long would it take before they knew
+我们到底厉不厉害？
+whether we were good?
+可能要花好几年。
+It could take years.
+可能得等上十年你才会知道，
+It could take a decade before you know
+到底谁才是真有本事，
+who actually has skill,
+对吧，或者谁只是运气好而已。
+right, and, or who's just lucky.
+所以这是我的第二个观点，就是
+So that's my next argument is, like,
+你其实不知道自己是不是纯靠运气，
+you don't know if you're just lucky
+不是吗？
+or not,
+对吧？
+right?
+这就是个问题。
+And that's a problem.
+没有人愿意照着镜子
+And no one wants to look in the mirror
+然后对自己说：
+and be like,
+“是啊，
+"Yeah,
+我这次只是走狗屎运罢了。”
+I just got lucky with that."
+但很多时候事实就是如此。
+But that's the case a lot of times.
+所以这是我反对选股的第二个观点，
+So that's my second argument against stock
+也就是
+picking,
+这个存在主义论点。
+which is the existential point.
+最后，我认为我，
+And then finally, I think my,
+我反对选股最有力的观点，其实
+my best argument against it is actually
+就是，
+just,
+这真的是你时间的最佳利用方式吗？
+like, is that the best use of your time?
+比如，我，
+Like, I,
+我就拿我自己举个例子吧，
+I'm just gonna use myself as an example,
+因为我不太了解你的观众。
+'cause I don't know your audience as well.
+我不知道他们具体是做什么的，
+I don't know kind of what they do,
+有什么样的职业。
+what their careers are.
+但是，比如，如果你给我一个小时，对吧，
+But, like, if you gave me an hour, right,
+在这一个小时里，
+what is the best use of my time in
+我时间的最佳利用方式是什么？
+that hour?
+对我来说，是写点东西。
+For me, it's writing something.
+因为我可以去，
+'Cause I could go,
+并且我也确实能通过写作
+and I'm gonna generate more income
+创造更多的收入，
+from my writing,
+比如写篇博客，
+from writing a blog post,
+或者是帮忙写本书之类的，
+helping to write a book, whatever it is,
+这比我去研究一只股票，对吧，
+than I am from researching a stock, right,
+然后再把钱投进去赚得多。
+and putting my money into that.
+所以特别是对那些
+So especially for those people
+资金还不充裕的人，
+that don't have a lot of money,
+如果你才刚刚起步，
+if you're just starting out, like,
+你花那么多时间，
+all that time you're spending,
+远不如好好打份工
+you're gonna make far more money
+赚的钱多，
+by just working a job
+或者去做一些能为你创造
+or doing something that's gonna create
+收入的事情。
+income.
+这能为你创造的回报
+It's gonna create you more
+比你的投资组合多得多。
+than your portfolio will.
+但是反过来看，
+Now, on the flip side,
+如果你已经很有钱了，
+if you have a bunch of money already,
+那确实，
+then yeah,
+我觉得研究股票能让你赚更多
+I think stock research can make you more
+钱，
+money
+因为你有大量的资本
+because you have a lot of capital
+可以任你调配，
+at your display,
+对吧？
+right?
+你知道，我经常说如果，你知道的，
+You know, I, I say if, you know,
+如果你有一千块，
+if you have a thousand bucks,
+获得了 10% 的回报，那就是 100 块，
+and you get a 10% return, that's $100,
+从大局来看，
+which is, in the grand scheme of things,
+这笔钱并不算多，对吧？
+is not that much money, right?
+但是
+But
+如果你的投资组合有一百万美元，
+if you have a million dollar portfolio,
+获得了 10% 的回报，那就是十万美元，
+and you get a 10% return, that's $100,000,
+对于很多美国人来说，这相当于，
+which for a lot of Americans, that's,
+一份不错的、
+like, a good,
+体面的工作年薪了，对吧？
+decent job in the United States, right?
+所以你看，你可以
+So you can see you could get
+在一年内拿到这么高的回报。
+that return in a year.
+因此，研究股票、击败市场，
+So stock research and beating the market
+所有这些事情，
+and all
+只有在你拥有大量的
+that only makes sense once you have a ton
+资金时才有意义。
+of money.
+如果你其实并没有那么多钱，
+If you don't really have a lot of money,
+在上面浪费时间是毫无意义的，
+it makes no sense to waste your time on
+真的，
+that,
+对吧？
+right?
+所以显然，
+So obviously,
+除非你花时间去研究，否则你不可能擅长，
+you can't get good unless you spend time
+这我明白。
+researching it,
+是能理解的。
+so I get that.
+但与此同时，
+But at the same time, like,
+我认为对大多数人来说，
+I think most people would be better spent
+要想获得财务上的成功，
+in terms of their financial success
+如果把这些时间花在事业上，
+if they spent that time on their career
+远比光去试着挑股票划算得多。
+than on just trying to pick stocks.
+[Ray] 是的。
+[Ray] Yeah.
+我记得你在书里好像是
+I remember in your book you said something
+这么说的：
+like this,
+“存钱是穷人的做法，
+"Savings is for the poor,
+而投资是富人的游戏。” 就在
+and investments is for the wealthy." The,
+前几天，我在 X 上发了条推文。
+the other day I, I sent a tweet on X.
+我说，
+I said,
+“大家真的应该把精力放在
+"People really should focus
+提升自己的收入上，
+on their income,
+尤其是当你还年轻的时候，”对吧？
+especially if you are young," right?
+然后我收到了这样的回复。
+And I got this reply.
+他说，
+he said,
+“如果
+"If it were
+增加收入有那么容易，
+that easy to increase my income,
+我就不会去
+I wouldn't be investing
+投资股市了。”那么
+in the stock market." So
+这个回复说明了
+what does this reply tell you
+这些
+about the mentality of the,
+新手投资者的什么心态呢？
+the new investors?
+[Nick] 嗯，这，这确实不容易。
+[Nick] Well, it's, it's not easy.
+没人说过，“哦对，
+No one said, "Oh yeah,
+只要增加收入就行。
+just increase your income.
+这是最简单的事。”根本不是……
+It's the easiest thing." It's not...
+你不可能按个按钮，
+You can't just hit a button,
+你的收入就增加了。
+and it's gonna increase your income.
+但是，
+But, like,
+考虑一下你的长期职业生涯，以及，
+think about your long-term career and,
+呃，
+like,
+你能做些什么来增加收入。
+what you can do to increase your income.
+我，我来举个……
+And I, and I'll give...
+再说一次，我，
+Once again, I,
+我只能举我自己的例子，因为我不可能
+I can only give my example 'cause I don't
+了解每一个人，
+know every single person,
+对吧？
+right?
+但是，像在我的例子中，我说，“嘿，
+But, like, in my example, I said, "Hey,
+我想开始写作。
+I wanna start writing.
+我想写我热爱的东西。
+I wanna write about something I love.
+我想磨练
+I wanna build
+这门手艺。”整整三年，
+that craft." For three years,
+我做这个没赚到一分钱。
+I didn't make any money doing this.
+一，一无所获。
+No- nothing.
+零，对吧？
+Zilch, right?
+然后终于，
+And then finally,
+我开始在博客上投放广告。
+I started running ads on my blog.
+接着我拿到了出书的合同。
+Then I'd have book deals.
+然后我开始做演讲之类的活动，
+Then I'm starting to do speaking stuff,
+对吧？
+right?
+所以这就像是，
+So it's one of those things that, like,
+我不是说这种事会发生
+I'm not saying that's gonna happen
+在每个人身上，
+for every person,
+但是
+but
+如果你用长远的眼光来看待
+if you take a long-term approach
+你的职业生涯，
+to your career,
+并且付出了足够的努力，
+and you put in enough work, like,
+你会看到一些成果的。
+you will see some results.
+我不是说你会变得
+I'm not saying you're gonna be a household
+家喻户晓。
+name.
+我不是说你会成为一个出名的
+I'm not saying you're gonna be a famous
+名人。
+celebrity.
+我只是说你会看到一些
+I'm just saying you're gonna see something
+呃，
+that's gonna be,
+你懂的，
+you know,
+对得起你所付出的所有努力的
+a decent result for all the work you put
+不错的回报。
+in.
+而且你必须为此努力，
+And you have to work at it,
+这需要很长的时间。
+and it takes a long time.
+但是，我见过这种做法成功的例子。
+But, like, I've seen this succeed.
+我见过很多人以此
+I've seen a lot of people succeed
+获得了成功。
+in this way.
+这只是比你想象的要花更多的时间。
+It just takes more time than you think.
+但你必须对你的事业
+But you have to be diligent
+保持勤奋。
+about your career.
+所以你说得对。
+And so you're right.
+比如说，如果，如果选择是，好吧，
+Like, if, if the choices are, like, okay,
+我不想付出任何努力，
+I don't wanna put in any effort,
+或者我只想炒股。
+or I wanna just do the stock market.
+那么是的，
+Like yeah,
+不付出任何努力是不会，
+putting in no effort is gonna not,
+是无法战胜市场的。
+is not gonna beat the stock market.
+但你需要付出一些努力去尝试
+But you need to put in some effort to try
+提升你的职业生涯来获得更多收入，
+and boost your career to have more income,
+这样
+so
+你才能真正地去投资
+then you can actually play the stock
+股市，并真正赚到更多的钱，
+market and actually make more money,
+对吧？
+right?
+比如说，现在在某一天，
+Like, in a given day now,
+如果股市大涨或大跌，
+if the market's up or down a lot,
+我现在赚的或亏的，甚至会比我当初，
+I'll make more or lose more than I made,
+你懂的，在那种非常好的，
+you know, in, like, a really good,
+呃，
+you know,
+刚开始工作的大半年里赚的还要多，对吧？
+half a year when I first started, right?
+所以这就是那种，
+So it's one of those things
+随着你的投资组合越来越大，
+where as your portfolio gets bigger,
+它的波动也会变得非常大，
+the swings on it get so large
+以至于它就是
+that it's just
+感觉你最终赚到的钱
+like you could end up making
+可能会比你刚开始工作时
+so much more money than you ever could've
+能赚到的钱多得多。
+when you first started working.
+所以，专注于你的事业，
+So focus on your career,
+然后利用
+but then use
+它来建立你的投资组合。
+that to build your investments.
+[Ray] 是的，我以前在我的频道里分享过，
+[Ray] Yeah, I used to share in my channel,
+我说过，
+I said,
+你是不可能
+you cannot get rich
+在股市里致富的，除非你先在
+in the stock market before you get rich
+股市之外致富。
+outside the market.
+但是很多人在争论，比如，
+And a lot of people are arguing, like,
+比如反驳说：“不，这……
+like pushing back, like, "No, there...
+似乎有很多人
+It seems to be a lot
+都是在股市里发家致富的。”
+of people are getting rich inside the
+那么你是个懂数据的人。
+market." So you're a data guy.
+关于这一点，你有任何数据
+Do you have any data on,
+可以分享一些见解吗？
+on this to share some insights?
+那么，比如，
+So is it true, like,
+真的有越来越多人
+there are more
+单靠炒股
+and more people are getting rich solely
+发家致富吗？
+by investing in stocks?
+[Nick] 数据压倒性地支持这样一种
+[Nick] The data overwhelmingly supports a
+模式：
+model
+人们在一段时间内攒下钱，
+where people are saving over time
+然后把它投入市场，
+and putting it into the market,
+对吧？
+right?
+也就是他们的事业。
+It's their careers.
+比如，如果你真的去看，比如，
+Like, if you actually look at, like,
+什么东西和财富
+what's the most correlated thing
+相关度最高，
+with wealth,
+那就是收入。
+it's income.
+这不是——这毫无争议。
+It's not-- There's no debate.
+你可以去查阅每一份数据集。
+You can look at every data set.
+我确实查阅过。
+I've actually looked.
+我做了一门课，
+I did a course for,
+我为《持续买进》
+I did Just Keep Buying,
+做了一门台湾版的课程，我研究了，比如，
+a course in Taiwan, and I looked at, like,
+一些台湾的，比如，金融数据，
+some Taiwanese, like, financial data,
+如果你看储蓄率
+and if you look at savings rates
+和收入，
+and incomes,
+它们是正相关的，
+they're positively correlated,
+这意味着
+which means people
+收入高的人存的钱更多。
+with higher incomes save more money.
+那么，我说的存钱是什么意思？
+Now, what do I mean save money?
+他们把钱攒下来，并且很可能会去投资，
+They save it, and they probably invest it,
+或者去买房产，对吧？
+or they buy a property, right?
+所以
+So
+如果储蓄率
+if savings rates are correlated
+和收入相关，
+with income,
+那就意味着那些
+that means that those people
+收入较高的人
+that have higher incomes are going
+就会有更多的钱去投资，
+to have more money to invest,
+对吧？
+right?
+我看过的每一个数据集都显示了
+Every single data set I've seen shows
+这一点。
+that.
+那是不是说就不存在某个人，
+Does that mean there's not someone
+他买了一只股票，
+who bought a stock
+最后涨了100倍，
+that ended up going up 100x
+从而赚到了钱？
+and made money?
+当然不是。
+Of course not.
+人们会有走运的时候。
+People get lucky.
+这种事是会发生的，
+Those types of things happen,
+也许他们并非纯靠运气。
+and maybe they weren't lucky.
+也许他们在挑选这些股票方面
+Maybe they have really deep skill
+有着极其高深的技巧。
+at identifying these stocks.
+那很棒。
+That's great.
+但总的来说，
+But in general,
+这类事情是非常罕见的。
+those types of things are quite rare.
+你懂吧？
+You know?
+你不会经常看到这种事。
+You don't see those too often.
+所以，
+So the,
+人们最常见的致富途径是，
+the most common way people get rich is
+要么有一份工作
+by either working a job
+然后长期攒钱，
+and saving for a long time,
+要么创办一家企业然后把它
+or starting a business and selling
+卖个好价钱，
+that for a lot of money,
+对吧？
+right?
+或者持有某家企业的
+Or having some sort of equity
+某种股权。
+in a business.
+也许他们在一家初创公司，
+Maybe they're on a startup,
+然后拿到了股权，接着他们，
+and they get equity, and then they,
+这家公司变得非常非常大，
+the business just gets really, really big,
+然后他们套现了。
+and they sell that.
+所以不管怎样，
+So one way or another,
+要么是持有某个私人企业的
+it's either some sort of equity ownership
+呃，
+in a,
+某种股权，要么是长期从事一份，
+in a private business, or it's working a,
+你知道的，
+you know,
+高收入的职业，
+a high-income career for a long time,
+对吧？
+right?
+数据显示的就是这样，
+So that's what the data shows,
+而且我从很多不同的角度
+and I've analyzed that
+分析过这个现象。
+so many different ways.
+所以，这并不是说
+So it's not
+你不能
+that you can't get wealthy
+在股市里致富。
+in the stock market.
+我觉得问题在于，
+I guess the question is
+第一，致富的程度是多少，
+how wealthy is one,
+其次，第二，
+and then two,
+我们谈论的时间跨度是多久？
+over what timescale are we talking?
+[Ray] 我想问你最后一个
+[Ray] I want to ask you one final question
+关于当前市场行情的
+about the market
+问题。
+of the current situation.
+那么你对卖出股票
+So what's your opinion on selling
+和止盈有什么看法？
+and taking profits?
+现在市场涨得这么高了。
+Like, the market is so high.
+大家应该止盈吗？
+Should people take profits?
+[Nick] 我想我的反问是，
+[Nick] I guess my question is,
+你卖出的目的是什么？
+what are you selling for?
+还是那句话，
+Once again,
+这个问题的答案永远
+this is always gonna be an individualized
+因人而异。
+answer.
+就像，好吧，如果我现在要卖出……
+Like, okay, if right now I were to sell...
+假设我被迫
+Let's say I was forced
+卖掉我所有的股票，
+to sell all my stocks,
+那么，我会用这笔钱做什么？
+like, what would I do with that money?
+就像，我——
+Like, I--
+我会去买一大堆东西吗？
+Am I gonna go buy a bunch of stuff?
+显然不会。
+Like, no.
+如果我想要什么东西，
+If I wanted something,
+我现在就会直接去买，对吧？
+I would just go buy it now, right?
+我，
+I,
+我不需要毫无理由地为了去买东西
+I don't need to sell something to go buy
+而卖掉手里的资产，
+for no reason,
+对吧？
+right?
+所以就像，
+So it's like,
+你打算把这笔钱用在什么地方？
+what are you gonna use that money for?
+如果你说，“哦，
+If you're like, "Oh,
+我需要卖出套现，
+I need to sell and take profits
+因为我要去买房，”或者，
+because I need to go and buy a house," or,
+“我需要为某件事筹集资金
+"I need to go and fund this thing
+或者支付婚礼费用，”不管是啥吧，
+or pay for a wedding," or whatever it is,
+那么是的，获利了结是有道理的。
+then yes, taking profits makes sense.
+如果这里，
+If there,
+你在现实生活中有合理的理由
+you have a legit real life reason
+来使用这笔钱，
+to use the money,
+那就去做吧。
+do it.
+但如果是为了套现而套现，
+But taking profits just to take profits,
+就像，
+like,
+我并不总能看懂这有什么意义。
+I don't always see the point in that.
+当然，如果你说，“嗯，
+Now, if you're like, "Well,
+我这样做
+I'm doing this
+是为了分散投资，”那就是另一码事了，
+to diversify," that's a different
+对吧？
+argument,
+是的。
+right?
+我认为套现
+I think taking profits
+和分散投资是可以一致的，
+and diversifying can be aligned,
+但它们不一定非得如此。
+but they don't have to be.
+所以在我们说，“嘿，
+So before we say, "Hey,
+我们套现吧”之前，在很多情况下
+let's take profit," that's a taxable event
+这是一项应税事件，
+in a lot of cases,
+所以你必须为所有这些交税。
+so you have to pay taxes on all that.
+问题在于，就像，
+The question is, like,
+你为什么需要套现？
+why are you taking profit?
+你套现是为了分散投资吗？
+Are you taking profit to diversify?
+很好。
+Great.
+你套现仅仅是因为随性而为？
+Are you taking profit just because?
+就像，
+Like,
+你打算用它来买什么东西吗？
+are you gonna use it to buy something?
+好的。
+Okay.
+但是，就像，
+But, like,
+如果你不知道自己为什么要这么做，
+if you don't know why you're doing it,
+那么你就不应该做，这就是我的观点。
+you shouldn't do it is my, is my point.
+[Ray] 现在让我们谈谈买什么以及
+[Ray] Now let's move on to what to buy and
+怎么买的问题。
+how to buy it.
+你介意跟我们分享一下吗，就像，
+And do you mind sharing with us, like,
+你到底在买些什么？
+what, what are you buying?
+你这些年做了
+What kind
+什么样的调整吗？
+of adjustment you did over the years?
+[Nick] 我可以直接给你，就像，
+[Nick] I can just give you, like,
+一段也许是关于我资产配置的
+kind of a long-term history
+长期历史情况。
+of maybe my allocation.
+在我 2012 年刚起步的时候，我大概是，
+So when I started in 2012, I was, like,
+85% 股票，15% 美国债券。
+85% equities, 15% US bonds.
+然后股票部分也被拆分了。
+And so the equities were split.
+我基本上一半投资于美国股票，
+I've always basically been split 50/50
+另一半投资于国际股票，这样五五开，
+between US stocks and then international,
+然后
+and
+就连国际股票也被分成了
+then even the international's split
+两半，一半发达市场一半新兴市场。
+in half between developed and emerging.
+所以这确实，就像……
+So it's really, like...
+随着时间的推移，那 85% 的比例发生了变化，
+And that 85% share has shifted over time,
+对吧？
+right?
+这个 85% 在某个阶段，你知道，
+So the 85% at one point, you know,
+我变成了 100比0。
+I was 100-0.
+在大概两三年后，
+I, I got tired of bonds after, like,
+我，我就厌倦了债券。
+two to three years.
+我当时的比例是 100比0，然后我说，“等等，
+I was 100-0, and I said, "Wait,
+我为什么要这么做？”
+why am I doing this?"
+所以我又把债券加了回来，
+So I added bonds back,
+对吧？
+right?
+所以我想说，现在我可投资资产的
+So I would say right now my portfolio
+投资组合大概是，
+of my investable assets is,
+就像，也许在，对，85/20，
+like, probably in, yeah, 85/20,
+或者说 80/20，不是 85/15。
+or we'll say 80/20, not 85/15.
+所以可能仍然是 80/20。
+So it's probably still 80/20.
+实际上并没有太大变化。
+It actually hasn't changed much.
+就像，
+Like,
+有些其他资产来了
+there's other pieces that have come
+又走了。
+and gone.
+很久以前我卖掉了黄金。
+I sold gold a long time ago.
+后来我又买回了黄金。
+I bought gold back.
+诸如此类的事情发生过。
+Those types of things have happened.
+但我要再说一次，
+But once again,
+那占我投资组合的比例不到 5%。
+that's been less than 5% of my portfolio.
+当你把黄金、比特币、艺术品
+When you include gold and Bitcoin and art
+以及类似的东西算在内时，
+and things like that,
+这些就像，
+those represent, like,
+只占我投资组合不到 5% 的比例。
+less than 5% of my portfolio.
+另一个唯一很大的变动，
+The only other big change
+这个变动和投资没有任何关系，
+which has nothing to do
+更多的是关于我的个人生活，
+with investing is more my personal life,
+就是，就像，
+is, like,
+我一直在购买更多的短期国债，
+I've been buying way more treasury bills,
+所以我的现金储备在不断增加，
+so my cash pile is going up
+因为我正准备买房。
+because I'm trying to buy a house.
+我有一个正当的理由。
+I have a legit reason.
+我需要付首付。
+I need to pay a down payment.
+所以再说一次，
+So once again,
+如果我们把这些资产
+if we include those assets
+算进我的投资组合，
+in my portfolio,
+我的配置就会更像，
+my allocation would be more like,
+你知道，35% 的债券和 65% 的股票。
+you know, 35% bonds and 65% stocks.
+但是我不，
+But I don't,
+我不知道我们是否应该把它算进去，
+I don't know if we should include that
+因为我对此有具体的需求，
+because I have a specific need for that,
+对吧？
+right?
+所以我认为很多时候
+So I think a lot of times
+当我们谈论投资时，
+when we talk about investing,
+你知道，我们总是说，“听着，
+you know, we always say, "Look,
+让我们看看你所有的钱，
+let's just look at all your money,
+那就是你的投资组合。”但是，就像，
+and that's your portfolio." But, like,
+如果其中一些
+if some of
+钱是为了某种需求而留出来的，
+that money is set aside for a need,
+“哦，
+"Oh,
+我想买一套房子，”我不知道
+I wanna buy a house," I don't know
+你是否会把这包含在我的，
+if you would include that in my,
+就像，风险资产投资组合里面，对吧？
+like, risk asset portfolio, right?
+或者，就像，
+Or, like,
+我的投资组合未来
+what my portfolio's gonna do
+会表现如何。
+in the future.
+所以我认为有不同的方式
+So I think there's different ways to think
+来思考这个问题。
+about this.
+所以如果你算上我的短期国债，是的，
+So if you include my treasury bills, yeah,
+我可能大概有 35% 的固定收益资产，
+I'm probably, like, 35% fixed income,
+这对于像我这个年纪的人来说，这并不……
+which for someone my age that doesn't...
+我不……
+I don't...
+你知道，我只有 36 岁。
+You know, I'm only 36 years old.
+我不一定想要持有 35% 的固定
+I wouldn't necessarily wanna be 35% fixed
+收益资产。
+income.
+但同时，在我买房之前就是这样，
+But at the same time, until I buy a house,
+而一旦我买了房，那么是的，
+and once I buy one, then yes,
+我可能就会回到 80/20 的比例。
+I'll go back to probably 80/20.
+你懂吗？
+You know?
+所有剩下
+All the rest
+的资产配置就会恢复，一旦我
+of those assets will move back once I
+搞定，
+have,
+一旦
+once
+那笔钱被重新分配到了房子上。
+that money's reallocated into a house.
+所以我认为这又是
+So I think that's another piece
+另一个部分，
+of this is,
+就像，
+like,
+它其实很大程度上取决于
+it's really dependent
+你所处的生活状况，
+on your life situation,
+以及正在发生的事情。
+what's going on.
+比如，你知道，
+Like, you know,
+我妻子和我去年结婚了。
+my wife and I got married last year.
+你知道，我们在几个月前
+We just had our first child, you know,
+刚迎来了我们的第一个孩子。
+a few months ago.
+所以这就像，那是属于这种事情，
+So it's, like, one of those things where,
+就是，因为我生活中的变化，
+like, because of changes in my life,
+我的投资组合也在发生变化，
+my portfolio is changing
+以反映这一点。而这毫无关系，
+to reflect that.And this has nothing to do
+关于
+with
+我怎么看待未来的市场，
+what I think about the future of markets
+或者我持有更多现金
+or I have more cash
+胜过以往，是因为我认为 AI 会……
+than ever 'cause I think AI's gonna...
+就像，没-这和那些毫无关系。
+Like, noth- it's nothing to do with that.
+它仅仅是因为我的个人情况。
+It's just my personal situation.
+我认为更多的投资者会做得更好，
+I think more investors would do better
+如果他们只是更多地去思考，
+if they just thought more about,
+就像，你的实际情况到底是什么？
+like, just what's your actual situation?
+你到底需要这笔钱做什么？
+What do you really need the money for?
+我认为，大多数人不会
+Most people don't, I think,
+问那个问题，
+ask that question,
+然后他们只是盲目地投资，就像，是的，
+and they just invest based on, like, yeah,
+有数据和所有这些，但是，就像，
+there's data and all that, but, like,
+你到底打算怎么利用
+what are you actually gonna do
+这笔钱？
+with the money?
+如果你不知道，
+If you don't know,
+投资真的有点毫无意义。
+there's kind of no point really.
+就像，投资的全部意义就在于，
+Like, the whole point of investing is,
+就像，
+like,
+我现在放弃消费，
+I give up consumption now
+是为了将来能有更多的消费，
+to have more consumption in the future,
+对吧？
+right?
+就是这么个理，对吧？
+That's the idea, right?
+所以问题在于，就像，
+So the question is, like,
+你到底为了什么而放弃消费？
+what are you giving that up for?
+你打算把它用在什么地方？
+What are you using it for?
+如果你最后永远都用不上它，
+If you never end up using it,
+那还有什么意义？
+what's the point?
+这一切都只是在装样子。
+This is all just for show.
+从这个意义上说，这就像大富翁里的钱一样。
+It's like Monopoly money in that sense.
+[Ray] 我的很多观众其实，
+[Ray] A lot of my viewers are actually,
+都是被动投资者，
+passive investors,
+所以
+so
+当他们听到
+when they hear the notion just keep
+“持续买入”这个概念时，
+buying,
+对他们来说那就是买 S&P 500。
+to, to them it's S&P 500.
+让我们，让我们来聊聊，S&P 500。
+Let's, let's talk about, S&P 500.
+所以它，它，
+So it, it,
+看起来
+it seems
+好像所有这些 AI 公司都将
+like all those AI companies are gonna
+主导 S&P 500。
+dominate S&P 500.
+那么如果我作为一个普通投资者，
+So if I, as a normal investor,
+买入 S&P 500，这，
+buy into S&P 500, does,
+这会不会让我处于一种，你知道的，
+does that put me in- into a, you know,
+相对集中的持仓位置？
+a relatively concentrated position?
+是不是不够分散？
+It's not diversified enough?
+[Nick] 这得看情况。
+[Nick] It depends.
+我的意思是，在某些方面，是的，
+I mean, in some ways, yes,
+它的科技股比重更大了，
+it's more tech-heavy,
+所以问题是，
+and so the question is,
+你想买等权重的 S&P 5 吗？
+do you wanna buy an equal weight S&P 5?
+就是不按市值权重买 S&P 500，
+So instead of S&P 500 market weight,
+而是买等权重的。
+we buy an equal weight.
+你可以这么做。
+You could do something like that.
+我觉得这没问题。
+I think that's fine.
+如果你想通过
+If you wanna offset
+持有另一个国家的股票来平衡这一点，
+that by owning stocks from another country
+那个，
+that,
+那个国家的科技股没那么重，
+where that country's not as tech-heavy,
+那也可以。
+that's fine, too.
+但是，就像，
+But, like,
+科技是经济的很大一部分
+tech's a large part of the economy
+因为它已经
+because it's c-
+开始主导很多东西。
+come, come to dominate a lot of stuff.
+你如果回到，你知道的，
+You went back to the, you know,
+19 世纪末，
+the late 1800s,
+你的投资里会有铁路。
+and you would've had a railroad.
+就像，那时的道琼斯或者……
+Like, what was the Dow or the...
+你知道，你只能买到铁路股。
+You know, you would've had railroads.
+就是这样。
+That was it.
+那就是当时的经济。
+That was the economy.
+全是铁路，对吧？
+It was railroads, right?
+所以，就像这种事情总是会发生。
+So it's like this type of stuff happens.
+今天，S&P 500 依然是，就像，
+Today, the S&P 500 is still, like,
+最多元化的市场。
+the most diversified market.
+即使里面集中度很高，
+Even with all that concentration in there,
+它仍然包含很多其他东西，
+it still has a lot of other things,
+比如金融，对吧？
+financials, right?
+里面还有各种其他板块，
+there's all sorts of other sectors
+在那里，
+in there,
+你知道，能源，这些也很重要，而且，
+you know, energy, that, that matter and,
+而且能影响你的投资组合。
+and can impact your portfolio.
+就像，我一般会说，
+Like, I would say in general,
+大多数非美国股票市场比美国
+most non-US equity markets are more
+更集中，因为，
+concentrated than the US is because,
+你知道，很多时候情况是，哦，
+you know, a lot of times it's like, oh,
+我们有一家大公司，
+well, we have this one big company,
+而
+and
+那家大公司刚好在这个行业。
+that big company happens to be in this.
+就像，在一个较小的国家，
+It's, like, in a smaller country,
+所以就变成了，那就是全部，
+and so it's like that's all,
+那就是我们的股票市场。
+that's our stock market.
+你的股市通常就是一两家
+Your stock market is usually one
+那样的公司，
+or two of those companies
+它们直接主导了整个指数。
+that just dominate the entire index.
+所以对于，对于美国市场，
+So with the, with the US market,
+至少你还有其他选择，
+at least you have other options,
+尽管，是的，
+even though, yes,
+它确实变得越来越集中，
+it is getting concentrated,
+但仍然有相当多，
+but there's still quite a few,
+非科技类的公司在 S&P 里。
+non-tech companies in the S&P.
+[Ray] 关于 S&P 500 的另一个担忧是，
+[Ray] Another concern about S&P 500 is,
+我的很多观众，他们，
+a lot of my viewers, they,
+他们奉行这样一个信条，就是，
+they hold this mantra that,
+就是不要随波逐流。
+that don't go with the herd.
+似乎
+It seems
+现在每个人都在买 S&P 500。
+like everybody's now is buying S&P 500.
+所以首先我想问你，这是真的吗？
+So first I want to ask you, is that true?
+其次，这会不会造成一个问题，
+And secondly, does that create a problem,
+比如一个自我强化的循环？
+like a self-feeding loop?
+就像，我的意思是，
+Like, I mean,
+很多
+a lot
+人认为被动投资
+of people are arguing passive investing
+本身正在制造泡沫，
+itself is creating a bubble
+并给投资市场
+and creates some risks
+带来了一些风险。
+to the investment market.
+我想听听你怎么看这些。
+I wanna hear what you think about those.
+[Nick] 我的意思是，这个，
+[Nick] I mean, this,
+这个话题已经被争论了……
+this topic has been debated for...
+实际上从，像，
+It's been debated since, like,
+70 年代就开始争论了，
+started in the '70s really,
+但被动投资并没有真正起飞
+but passive didn't really start taking off
+直到 90 年代，
+more until the '90s
+以及更近的时期。
+and even more recently.
+所以，是的。
+So yes.
+每个人都在买 S&P 500 吗？
+Is everyone buying the S&P 500?
+在，在很多方面，
+Y- in a lot of ways,
+至少在美国，是的。
+at least in the United States, yes.
+人们用他们的 401 买。
+People are buying their 401s.
+他们在 IRA 账户里持有。
+They have it in their IRAs.
+他们在券商账户里买。
+They buy it on their brokerage accounts.
+就像，
+Like,
+现在这么多人都有它的敞口。
+now so many people have exposure to this.
+这会形成一个自我延续的循环吗？
+Is that creating a self-perpetuating loop?
+是的，在很大程度上是的，但是，就像，
+Yes, in a lot of ways, but, like,
+如果每两周……
+if every two weeks...
+或者这么想。
+Or think about this.
+我们有 401，
+We have 401,
+这就是一个退休计划，
+which is just like a retirement plan,
+在那里每两周你发工资的时候，
+where every two weeks when you get paid,
+其中一部分钱会被扣除，
+some of that money comes out
+然后进入一个，
+and goes into a,
+一个投资账户。
+an investment account.
+那么，
+Well,
+如果
+if
+那个投资账户里有 S&P 500，
+that investment account has the S&P 500,
+那意味着我们一直在买 S&P
+that means we're always buying the S&P
+500。
+500.
+所以有成千上万
+And so there's millions
+的工人，
+and millions of workers
+在美国，
+in the United States
+每两周都在做这件事。
+that are doing this every two weeks.
+所以只要人们继续赚钱，
+So as long as people keep making money
+并继续买入，
+and keep buying that,
+就一直会有买盘存在。
+there's going to be a bid there.
+就一直会
+There's going
+有人买入这些份额。
+to be people buying those shares.
+那么，什么会打破这种局面？
+Now, what's gonna undo that?
+如果经济崩溃，
+If the economy crashes,
+人们失去工作，
+people lose their jobs,
+他们不再买这些东西，
+they stop buying these things,
+他们不再有那笔钱。
+they stop having that.
+这会发生吗？
+Could that happen?
+当然。
+Of course.
+但再说一次，
+But once again,
+这是一个非常黑暗的设想。
+that is a very dark scenario.
+经济发生了很多变化，而且，就像，
+The economy's changed a lot, and, like,
+这
+is
+会消除大量的购买力吗？
+that gonna undo a lot of the buying power?
+是的。
+Yes.
+那会导致价格下跌吗？
+Would that cause prices to fall?
+是的。
+Yes.
+但再说一次，
+But once again,
+必须有这种巨大的事情
+there has to be this huge thing
+发生在经济中，从而导致
+that happens in the economy that causes
+那种情况。
+that.
+只要人们还在赚钱，
+As long as people are still making money,
+还有工作，
+there's still jobs,
+人们还在向
+people are still contributing
+他们的 401 缴款，
+to their 401,
+就一直会有买盘。
+there's going to be a bid there.
+至于，
+Now,
+是否
+whether
+这扭曲了其他公司
+that distorts prices
+的价格，我觉得还有待商榷。
+of other companies I think is debatable.
+就像，
+Like, how,
+Nvidia 是怎么从
+how would Nvidia have gone from
+过去的位置涨到
+where it was to
+现在的位置的，是因为被动投资吗？
+where it is from passive investing?
+并不是。
+It didn't.
+做到那一点的是主动资金流，
+That was active flows that did that,
+对吧？
+right?
+人们看到销售额增长，
+People saw that sales went up,
+利润增长，
+earnings went up,
+然后他们抬高了价格，对吧？
+and then they bid up the price, right?
+那不是被动投资干的。
+That's not passive doing.
+被动投资者没有说，我没有说，“嘿，
+A passive didn't say, I didn't say, "Hey,
+我的 401 给 Nvidia 多投点。”没人能
+my 401 put more in Nvidia." No one can do
+那样做，
+that,
+对吧？
+right?
+在大多数，你知道的，
+In most, you know,
+401 账户里你做不到。
+401s you cannot do that.
+因此，就像，
+So as a result, like,
+我觉得主动市场依然在发挥作用。
+I think active markets are still working.
+我觉得价格发现机制运行得相当
+I think price discovery is working quite
+好。
+well.
+所以我不认为那扭曲了这些
+So I don't think that's distorting those
+东西。
+things.
+也许它扭曲了整个市场
+Maybe it's distorting the market
+的整体情况，
+as a whole,
+但我不认为它
+but I don't think it's messing
+对相对价格产生了多大的干扰，
+with relative prices all that much,
+这是我的看法。
+in my opinion.
+[Ray] 你，在你的书里你说，
+[Ray] You, in your book you said,
+我们应该只管持续买入那些
+we should just keep buying those
+能产生收益的资产。
+income-producing assets.
+有趣的是，你提到了黄金、
+And interestingly, you mentioned gold,
+艺术品、crypto。
+art, crypto.
+你，你曾经有一些，
+You, you had some,
+你的投资组合里有一些这类资产。
+some of those in your portfolios.
+也许你现在还有。
+probably you still do.
+这背后的原因是什么？
+What's the reason behind that?
+[Nick] 我觉得这些只是对冲
+[Nick] I think these were just hedge
+资产，作为，
+assets as,
+算是一种，感觉像是，嘿，
+like, a way of like, hey,
+我不知道这玩意儿以后能不能成，
+I don't know if this is gonna be a thing,
+但我持有它们就当是一种对冲。
+but I own them as, like, a hedge.
+而且，
+And, like,
+你可以看看
+you can look at some
+我跑出来的一些历史数据。
+of the historical data I've run.
+比如，
+Like,
+你可以运行这些投资组合优化器，
+you can run these portfolio optimizers,
+它会告诉你，嘿，
+which is like, hey,
+在所有这些资产类别中，
+given all these asset classes,
+什么才是最佳的投资组合？
+what was the optimal portfolio?
+也就是说，
+Which means, like,
+在你承担的风险水平下
+the highest return for level
+能获得的最高回报。
+of risk you take.
+举个例子，
+And for example,
+我记得我大概是在，
+I ran this back I think in, like,
+2019年左右跑过这个数据，结果显示，
+2019 or something, and it was like,
+你需要配置2%的Bitcoin。
+you need to have 2% Bitcoin.
+所以从那以后，我的投资组合里
+So I've had 2% Bitcoin
+就一直保留着2%的Bitcoin。
+in my portfolio ever since.
+这是我在承担最小风险的情况下
+It's the highest return I can get
+能拿到的最高回报，
+with the least amount of risk I can take,
+对吧？
+right?
+所以我就一直持有2%的Bitcoin。
+And so I've had 2% Bitcoin.
+显然，它的价格有涨有跌。
+Obviously, it's gone up and down.
+我曾一度卖掉了一些，让比例降回
+I sold at one point some of it to get back
+2%，因为它涨得太多了，
+to 2% 'cause it went up too much,
+而现在它又跌下来了。
+and now it's come down.
+我差点就得再买点了，因为最近
+I almost had to buy more because recently,
+它的价格跌了下来。
+like, the price came down.
+虽然还没跌到
+It didn't get to the point
+我需要补仓回到2%的地步，
+where I needed to get back to 2%,
+但也快了。
+but it got close.
+所以，你知道，我，
+And so, you know, I,
+我就把它放在那儿不管了。
+I just kinda let it sit there.
+它其实也没啥大动静。
+It doesn't really do much.
+我已经很久没碰过
+I haven't done any Bitcoin stuff
+Bitcoin相关的操作了。
+in a long time.
+黄金涨涨跌跌，行情来来去去。
+Gold has come and gone.
+嗯，我认为
+Um-I think
+随着过去一年里
+with everything that's happened over the
+发生的所有事情，
+last year,
+我们看……
+we s-
+我们看到
+we see
+美元的霸主地位现在正受到
+that the dollar dominance is now being
+某种程度的质疑。
+questioned in some ways.
+所以我觉得这就是
+And so I think that's
+黄金大涨的原因。
+why the gold run happened.
+未来会发生什么，
+what, what's gonna happen in the future,
+我也不知道。
+I don't know.
+所以这、这些都是不产生收益的资产，
+So th- those are non-income producing,
+所以再说一次，这些占比不到……
+and so once again, those are less than...
+整体来看，它们大概不到10%。
+Overall, those are, like, less than 10%.
+我觉得差不多占我投资组合的5%吧。
+I'd say about 5% of my portfolio.
+至于艺术品，基本等于零。
+And art is, like, basically nothing.
+我曾经有过，大概……
+I had, like...
+它一度占到过我
+It was, like,
+投资组合的1%。
+1% of my portfolio at one point.
+但当你把所有这些加起来，就像，
+but when you put all that together, like,
+你看着这些东西，感觉就是，
+you look at all this stuff, and it's like,
+那都是不产生收益的。
+that's non-income producing.
+我真正关注的，
+All the stuff I really focus on,
+再说一遍，主要还是股票。
+once again, is mostly equities.
+包括美国股市和国际股市。
+That's gonna be US, international.
+我也持有一些REITs，也就是，
+I have, like, REITs, which is, like,
+房地产相关的敞口，
+a real estate exposure,
+因为我目前实际上还没有任何
+'cause I don't actually have any physical
+实体房产。
+real estate yet.
+如果你想的话，你也可以投资农田。
+you can do farmland if you want.
+我没投。
+I have not.
+我，我是想在某个时候投一点。
+I, I want to at some point.
+只是还没顾得上，
+I just haven't gotten around to it yet,
+我觉得是因为……
+I think because of the...
+我正在攒钱买房。
+I'm buy- saving to buy a house.
+我觉得一旦我买了房，那我就可以……
+I think once I have a house, then I can...
+我不想在还没买房的时候
+I don't wanna go
+就跑去投资什么农田，
+and start investing in farmland,
+毕竟我连自己的房子都没有。
+and I don't have a house yet.
+我觉得这对我来说有点怪，所以。
+I think that's kind of weird to me, so.
+你也可以做版税投资。
+You can do royalty investing.
+外面的选择太多了。
+There's so many options out there.
+我经常谈论这些东西，
+I talk about a lot of these things,
+当然我也有固定收益资产。
+and obviously I have fixed income.
+但我认为最主要的，
+But the main one, I think,
+如果你仅仅回顾历史记录的话，
+if you look at just the record of history,
+还是股票。
+is gonna be equities.
+就是各种企业，
+It's gonna be businesses,
+而那也将是
+and that's
+我余生大部分资金
+where most of my money is gonna be
+的归宿。
+for the rest of my life.
+[Ray] 在目前这种市场环境下，
+[Ray] In this market, is,
+个人投资者还有理由去
+is there still a case for individual,
+考虑投资债券吗？
+investors to consider bonds?
+[Nick] 是的，绝对有，
+[Nick] yes, there are definitely,
+当然有理由。
+there's a case for that.
+就……而言，
+In terms of...
+我个人推荐短期的，
+I personally recommend short-term,
+也就是久期不到
+so anything with a duration of less
+五年的任何债券。
+than five years.
+我不喜欢持有任何长期的债券，
+I don't like having anything long-term
+因为我们……
+because what,
+我们看到的，
+what we saw,
+我觉得最好的例子就是，
+I think the best example of this was,
+你知道的，
+you know,
+从2021年到2022年的那波加息。
+the rate increase from 2021 into 2022.
+任何
+Anyone
+买入长期债券的人都亏惨了，
+that bought long-dated bonds got destroyed
+因为，
+because as,
+就像你知道的，当利率上升时，
+as you know, when rates go up,
+价格就会下降，反之亦然。
+prices go down, and vice versa.
+所以你猜怎么着？
+So guess what?
+如果你在2021年持有很多
+If you were owning a lot
+长期债券，
+of long-dated bonds in 2021,
+当利率在22年开始
+when the rates started to shoot up
+飙升的时候，
+into '22,
+你就被血洗了。
+you got destroyed.
+所以经典的60/40组合度过了史上最惨的一年，
+So the 60/40 had its worst year ever,
+我想大概是在2022年。
+I think, in 2022.
+所以这就是为什么
+it's one of those things
+你必须得保持短久期
+where you gotta just keep your duration
+操作。
+short.
+而且，关于
+And, the,
+ETFs，
+the thing
+人们不知道的一点是，
+that people don't know about ETFs,
+如果你买了一个，比方说……
+if you're buying a, let's say a, a...
+假设久期是10年，对吧？
+Let's say the duration's 10 years, right?
+当你持有这只ETF时，
+When you own the ETF,
+它其实每天都在重置那个久期，
+it's resetting that duration every day,
+或者每隔一段时间当债券到期时重置。
+or every so often when the bonds mature.
+你就永远处于一个10年的久期之中。
+You're always in a 10-year duration.
+它不像，哦，
+It's not like, oh,
+我今天买入，
+I buy today and
+然后10年后，
+then 10 years from now I'm,
+我的久期就变成0了，
+my duration's zero
+并且我能拿回所有的钱。
+and I get all my money back.
+它不像单独的个人债券。
+It's not like an, an individual bond.
+你总是在不断重置你的久期，
+You're always resetting your duration,
+所以你总是在承担
+so you're always taking interest rate risk
+这个10年期的利率风险，
+over a 10-year period,
+而大家……
+which people...
+我不是说你不能这么做，
+I'm not saying you can't do that,
+但很多人并没有意识到这正是
+but a lot of people don't realize that's
+他们在做的事情。
+what they're doing.
+所以你不会想在利率处于历史低位时
+And so you don't wanna be taking that risk
+去承担这种风险，
+when rates are at all-time lows
+因为只要发生像那样疯狂的事件，
+because all it takes is a crazy event like
+利率飙升了一大截，然后
+that where rates shoot up a ton and
+你就会被直接带走。
+then you just get destroyed.
+所以，我不反对买债券。
+So, I'm not against bonds.
+我绝对支持买，
+I'm definitely for them,
+但如果要买的话
+but I'm short duration
+我只会选短久期的。
+if I'm ever gonna do that.
+并且关于这个有很长的，
+And there's a long,
+很多的历史数据支撑，
+a lot of history on this,
+至少在美国是这样。
+at least in the US.
+你知道的，单位风险回报率最高的
+The highest, you know,
+债券是
+return per unit risk bonds were the
+五年期国债，
+five-year Treasuries,
+对吧？
+right?
+所以任何五年期或更短的
+So anything five year
+才是明智之选。
+or less was the way to go.
+一旦超过了五年，
+Once you went beyond five years,
+那种风险回报比就不存在了。
+the risk-return just wasn't there.
+[Ray] 所以最近我发现
+[Ray] So recently I realized
+我的很多朋友，
+that a lot of my friends,
+他们，他们开始去，开始去买期权。
+they, they start to, start buying options.
+然后他们会说，“我们是长期的，
+And they say, like, "We are, long-term,
+我们是长期投资者。
+we are long-term investors.
+我们在，你知道的，卖出……
+We are, you know, sell-
+卖出看涨期权，并获取那些，
+selling calls and get that,
+那些现金，
+that cash
+然后再投资到我们的股票里。” 所以，
+and re-investing into our stocks." So,
+那么你对使用保证金，
+so what's your opinion on using margin,
+使用借款来为你的投资提供资金有什么看法？
+using debt to fund your investment?
+[Nick] 核心问题永远是利率，
+[Nick] The question's always the rate,
+对吧？
+right?
+如果有人说：“嘿，Nick，
+If someone said, "Hey, Nick,
+你可以零成本
+you could borrow all this money
+借走所有的钱，” 我会毫不犹豫地借，
+for no cost," I would do it in a second,
+对吧？
+right?
+但如果是……
+But if it...
+关键永远在于利率。
+It's always about the rate.
+而且，而且如果我说：“嘿，
+And, and if I said, "Hey,
+我可以借给你钱，但是，
+I'm gonna let you borrow, but the,
+日利率是100%，” 我只是
+the daily interest rate is 100%," I'm
+举个很夸张的例子，它的
+coming up with something crazy where the,
+年化利率，你知道的，
+the annualized rate's, you know,
+高达几万倍，对吧？
+in the tens of thousands, right?
+你肯定会拒绝，对吧？
+You would say no, right?
+在，在，
+At, at,
+在这种极端情况下，你可以看出来
+at the extremes you can see
+为什么这是不合理的，
+why it doesn't make sense,
+对吧？
+right?
+在100%的日利率下，
+At 100% daily interest rate,
+负债根本说不通。
+makes no sense to have debt.
+在利率是0%的时候，这么做是有道理的。
+At 0%, it makes sense.
+但具体到你个人的界限在哪里，
+Where that personal number is for you,
+每个人都会有所不同。
+that is gonna differ by person.
+总的来说，
+In general,
+我建议最好别碰，
+I say don't do it
+因为这一切
+because the only guarantee
+唯一能保证的，
+from all this is
+就是你需要为这笔债务
+that you're gonna owe interest
+支付利息。
+on the debt.
+这是我唯一能确定的事。
+That's the only thing I can guarantee.
+没人知道
+You don't know
+你的投资会有什么结果。
+what your investments are gonna do.
+那些卖出看涨期权的人，是的，
+Those people selling call options, yeah,
+现在看起来很美好，
+it looks great now,
+钱正源源不断地流进来，
+that money's coming in,
+但俗话说，这就像是在压路机前
+but they say it's like picking up nickels
+捡硬币。
+in front of a steamroller.
+总有一天你会错过那枚硬币，
+One day you're gonna miss the nickel
+然后被直接碾过。
+and you're gonna get run over.
+所以，你知道，
+And so it's, you know,
+塔勒布曾提出过一个“火鸡问题”，
+Taleb has this thing called the turkey
+关于火鸡的故事，
+problem,
+这里有一只火鸡，
+where there's a turkey,
+农夫养了这只火鸡，
+and a farmer has this turkey,
+每天他都给这只火鸡喂食，
+and every day he feeds the turkey,
+于是火鸡越来越胖，越来越胖，
+and the turkey gets fatter and, and,
+渐渐地，这只火鸡开始想：“哇，
+and the, the turkey starts thinking, "Wow,
+这些人类真爱我。
+these humans love me.
+哇，人类太棒了。
+Wow, the humans are so great.
+他们每天都给我送来更多好吃的，
+Every day they bring me more food
+我长得越来越壮了，
+and I get bigger
+我的羽毛也一天比一天漂亮。”然而，
+and my feathers get nicer every day." And
+突然有一天，
+then all of a sudden,
+在那最后的一天，
+at, on the very last day that the,
+农夫带着，你知道的，
+the farmer comes with the, you know,
+一把菜刀走过来，砍掉了它的头，对吧？
+a cleaver and cuts his head off, right?
+所以你可以看到，
+And so you see the,
+火鸡的自信心一直飙升，
+the confidence of the turkey goes up and
+然后就这样瞬间归零。
+then it just falls like that.
+这就是卖出看涨期权的下场。
+That's what selling call options is like.
+你的信心越来越膨胀：
+You get more confidence.
+“天哪，我猜对了。
+"Oh my God, I'm right.
+我真是个天才。
+I'm a genius.
+看看这赚来的钱。
+Look at all this money.
+看看这么多钱。”然后，
+Look at all this money." And
+有一天你遭遇了，
+then one day you have this,
+一场你根本无法预见的市场事件，
+a market event you couldn't have foreseen,
+然后你失去了一切，你知道的。
+and then you lose everything, you know.
+或者瞬间输光了大部分利润。
+Or lose most of your profits right there.
+所以我并不是说
+So I'm not saying
+每个人都会落得这般田地，
+that happens to every person,
+但这种事情确实发生过。
+but these types of things have happened.
+你可以查一下，有一只叫做XIV的基金。
+You can look up, there's a fund, XIV.
+查查那只基金。
+look up that fund.
+看看那只基金经历了什么。
+Look what happened to that fund.
+那就是一个
+That's an example
+为了蝇头小利冒险的经典案例。
+of people picking up pennies.
+简直跟卖出看涨期权一模一样。
+It's just like selling call options.
+非常相似。
+Very similar.
+你……
+You...
+人们总是想：“天哪，
+People are like, "Oh my gosh,
+波动率这么低，
+low volatility,
+这玩意儿太棒了。”可一旦
+this thing's great." As soon
+波动率飙升，
+as volatility ripped up
+这只基金就彻底崩盘，
+or this thing got destroyed
+宣告破产了。
+and it went bankrupt.
+所以一定要记住这一点，
+So just keep that in mind, like,
+这就是其中一种情况，
+it's one of those things, like,
+你得理解火鸡问题，
+understand the turkey problem
+并且弄清楚目前的投资方式，
+and understand how am I investing
+它是不是像火鸡问题一样，
+and is it like the turkey problem
+还是说它是另一种情况？
+or is it like something else?
+这就是为什么
+And so that's
+我会警告大家谨慎使用债务。
+where I would caution using debt.
+[Ray] 让我们来聊聊
+[Ray] Let's talk about
+我们该如何持续买入。
+how we should keep buying.
+你，
+You,
+你提到
+you mentioned
+在书中我们最好直接定投（DCA）。
+in the book we are better off just DCA.
+但是，
+But
+一提到定投（Dollar Cost Averaging），
+when in terms of dollar cost averaging,
+我，
+I,
+我发现这里存在一个误解。
+I find there's a misunderstanding there.
+到底什么是定投？
+What exactly is dollar cost averaging?
+[Nick] 问题在于实际上有两个
+[Nick] The problem is there's actually two
+截然不同的定义，
+different definitions,
+这就是为什么它会如此令人困惑。
+which is why it's so confusing.
+最初的定义，
+So the original definition,
+来源于本杰明·格雷厄姆，
+which comes from Benjamin Graham,
+也就是沃伦·巴菲特的导师，
+which was Warren Buffett's mentor,
+意思是随着时间的推移不断买入。
+is buying over time.
+就是一直在买。
+You're just buying.
+每次发薪水，你手头有了钱，
+Every time you get paid, you have money,
+你就买入，对吧？
+you buy, right?
+无论是买个股，
+You're buying an individual stock,
+还是买指数基金。
+you're buying an index fund.
+买什么并不重要，
+It doesn't matter what you're buying,
+重点是随着时间推移不断买入。
+you're just buying over time.
+这跟定投的
+That is different
+另一个定义
+from the other definition
+截然不同，
+of dollar cost averaging,
+那就是你今天手里有一大笔钱。
+which is you have a bunch of money today.
+假设你有10万美元。
+Let's say you have $100,000.
+然后你说：“嘿，
+And you say, "Hey,
+我打算每个月买入1万美元。
+I'm gonna buy $10,000 a month.
+我要分批买”，这就是我所说的
+I'm gonna wait," kind of
+“分批买入”（averaging in）。
+what I call averaging in.
+你分批建仓。
+You average in.
+相当于慢慢试探着进入市场，
+You kind of slowly wade into the market,
+对吧？
+right?
+这也被称作定投（Dollar Cost Averaging）。
+That's also called dollar cost averaging.
+就像你看到的——这真的很让人困惑，
+As you can see-This is quite confusing
+因为它们完全是两码事，
+because they're kind of different,
+对吧？
+right?
+这两者简直是……
+One and the other are...
+它们之间有天壤之别。
+They're very different from each other.
+它们完全就是
+They're literally the opposites
+相互对立的概念，
+from each other,
+也就是说——
+which is-
+[Ray] 嗯。
+[Ray] Mm.
+[Nick] 没有比这更……
+[Nick] Couldn't be more like...
+其中一个是说：“嘿，
+One of them is saying, "Hey,
+一旦你有钱了，
+as soon as you get the money,
+马上投资。”而另一个则是说：“嘿，
+invest." The other one is saying, "Hey,
+当你有钱时，
+when you have the money,
+要慢慢买入。”而我，
+slowly buy in." And I'm,
+我是反对慢慢买入的那种做法的。
+I'm against the slowly buying one.
+我完全支持
+I'm in fully support of the one
+有钱就立刻买入的做法，
+where you buy right away,
+懂吗？
+right?
+所以你可以说，一个人在退休账户中，
+So you could say someone buying
+每两
+in their retirement account every two
+周
+weeks
+往401k里投资一次，这就是定投。
+in their 401 is dollar cost averaging.
+你也可以说某个人
+You could also say that someone
+卖掉了一家公司，
+who sold a business
+现在手头握有一大笔现金，
+and now is sitting on a lot of money
+然后慢慢分批入场，
+and they're slowly wading
+这也是定投。
+in is also dollar cost averaging.
+混淆正是由此而生。
+That's where the confusion comes in.
+总而言之，快买慢卖。
+Generally, buy quickly, sell slowly.
+这是我的口头禅。
+That's my mantra.
+这样会让事情简单很多。
+It makes it much easier.
+所以如果你在想，
+So if you're like,
+“在这种情况下
+"What should I do
+我该怎么做？”——快买，
+in this scenario?" Buy quickly,
+慢卖。
+sell slowly.
+一般来说，从历史数据来看，
+That generally makes you the most money
+在几乎所有资产类别中，
+historically
+这种策略能让你赚得最多。
+in basically every asset class.
+[Ray] 我，我不是那种直接定投的人。
+[Ray] I, I'm not the guy DCA.
+我，我更像是那种，你知道的，
+I, I'm more of the guy, you know,
+喜欢分批买入的人。
+like averaging in.
+但我觉得这——
+But I think there's-
+背后是有原因的，因为，
+a reason behind it because,
+我没有固定的工资。
+I do not have a paycheck.
+我没有薪水，
+I do not have a salary,
+所以我自己做生意。
+so I run my own business.
+通常情况下，
+Usually,
+收入并不像一条稳定的水流
+the money doesn't come
+那样涌入，
+like a steady stream,
+所以这就产生了一个问题。
+so that creates a problem.
+你会对像我这样的人说些什么呢？
+What do you say to people like me
+比如自由职业者，
+who are either freelancers,
+创作者，或是经营，
+creators, or run,
+自己小生意的人？
+runs their own small business?
+通常他们的收入是一大笔进账，
+So usually their money comes in a chunk,
+这就使得他们，
+and that makes it really,
+真的很难去，你知道的，
+really difficult for them to, you know,
+去做定投，因为你不知道
+to DCA because you don't know
+你的生意明天会变成什么样，
+what happens to your business tomorrow,
+对吧？
+right?
+[Nick] 是的。
+[Nick] Yeah.
+那是截然不同的一种情况，
+That's a very different scenario
+因为你没有
+because you don't have
+持续不断的现金流，
+that consistent flow of money or
+无法确定：
+where you know,
+“嘿，
+"Hey,
+再过两周
+I'm gonna get paid
+我就会有一笔进账。”我对此唯一的
+in two weeks." My only slight counter
+微小反对意见是，
+to this,
+如果有人想分批买入，
+if someone wants to average in,
+随着时间推移建仓，随便你怎么叫，
+whatever you wanna call it, over time,
+我觉得这没问题。
+I think that's fine.
+但问题在于，
+The question is,
+你打算花多长时间分批买入？
+how long are you taking to average in?
+这才是最重要的变量，对吧？
+That's the most important variable, right?
+平均而言，
+On average,
+数据就是这么显示的，
+and this is just what the data shows,
+如果你花一年的时间，
+if you take one year,
+假设你有12万美元，
+let's say you have $120,000,
+你不选择……
+and instead of...
+你面临两个选择。
+You have two choices.
+假设现在只有两个选择。
+Let's just say there's only two choices.
+要么你今天一次性投入12万美元，
+You put in 120,000 today
+要么你每个月投入1万美元，
+or you put in $10,000 a month
+连续投12个月。
+for the next 12 months.
+这样到了12个月末，
+So by the end of 12 months,
+你就完成了全额投资。
+you're fully invested.
+所以这就是你的两个选项，对吧？
+So those are two options, right?
+选项A，现在就全仓买入。
+Option A, buy now.
+选项B，你算是定投进场。
+Option B, you kind of average in.
+从美国股市的历史平均来看，
+On average, historically in US stocks,
+选第二种方式，
+the second option,
+你的收益率会跑输，
+you would have underperformed by,
+平均大概会跑输4%。
+on average by about 4%.
+所以如果你愿意放弃这4%的收益，
+So if you're willing to give up 4%
+来换取不用面临买入后
+so you don't experience a huge crash right
+马上暴跌的风险，
+after,
+那也是没问题的，
+that's fine,
+我觉得很多人也愿意
+and I think a lot of people are willing
+这么做。
+to do that.
+他们会觉得，“嘿，从行为心理上来说，
+They're saying, "Hey, behaviorally,
+就算我少赚了那4%，
+it's okay if I lose 4% of
+也是可以接受的，
+that as long
+只要我不用去承受那种
+as I don't experience an outcome
+市场立刻崩盘的糟糕结果就行。”
+where the market crashes right away."
+好的，
+Okay,
+没问题。
+that's fine.
+这样一来...
+And so...
+你可能又会问，“那个，Nick，我...
+And you're like, "Well, Nick, I...
+如果
+What
+我只分6个月
+if I only take six months
+来定投呢？”好。
+to average in?" Okay.
+那平均跑输的收益大概是2%，对吧？
+Then the average loss is 2%, right?
+你承担的损失大概是一半，对吧？
+You take roughly half of it, right?
+所以不管你怎么看，
+So no matter how you look at it,
+你都得接受，好吧，在、
+you just have to accept, okay, on,
+在平均情况下，
+on average,
+这就是可能会发生的事，
+here's what's probably gonna happen,
+所以我可以在一开始就接受它，
+so I can just accept that upfront,
+然后再做决定。
+and then make your decision.
+这就是我的看法。
+That's how I would view it.
+所以如果你觉得可以，
+So if you're okay,
+如果你能很舒服地说，“嘿，
+if you're comfortable saying, "Hey,
+我愿意接受少赚一点点
+I'm willing to take a little bit
+来换取用6个月的、
+of a haircut to take six months to,
+的时间去把这笔钱
+to average in
+分批投进去，”那是可以的。
+with this money," that's fine.
+只是别拉长到5年来搞，
+Just don't take five years to do it,
+因为那样的话，
+'cause that's where the,
+收益表现的差距就会变得
+the performance differences start getting
+相当大了。
+quite large.
+[Ray] 前面你提到你对你的
+[Ray] Earlier you mentioned you did some
+买入操作
+adjustment to your,
+做了一些调整。
+buyings.
+那么，到底是什么原因让我需要
+So what's the reason behind I should
+调整我定投市场的频率，
+adjust the frequency or the amount of,
+或者说投入的金额呢？
+money I should, DCA into the market?
+[Nick] 这真的完全取决于你自己。
+[Nick] It's up to you really.
+还是那句话，
+Once again,
+你必须得做那些在行为上
+you have to do whatever's gonna work
+适合你自己的事。
+for you behaviorally.
+我可以在这儿跟你讲到口干舌燥，
+I can sit here until I'm blue
+告诉你，
+in the face telling you,
+“嘿，
+"Hey,
+数据是这么显示的，”诸如此类。
+here's what the data says," whatever.
+如果你觉得心里不踏实，
+If you don't feel comfortable with it,
+那就别这么干。
+don't do it.
+比如，我……还是那句话，
+Like, I- th- once again,
+到最后——
+at the end of the ti-
+归根结底，
+at the end of the day,
+为了那4%的收益而让你，你知道的，
+is it worth 4% to have, you know,
+晚上睡不着觉，这值得吗？
+not be able to sleep at night?
+不值得。
+No.
+那就定投吧。
+Just average in.
+谁在乎呢？
+Who cares?
+你损——
+You lo-
+你平均可能也就跑输个4%。
+you're probably gonna lose 4% on average.
+就这样而已。
+That's it.
+才4%。
+It's 4%.
+又不是世界末日，对吧？
+It's not the end of the world, right?
+你会好好的。
+You'll live.
+这又不是那种，比如，
+It's not one of those things where, like,
+会成就
+it's gonna make
+或是毁掉你财务计划的大事。
+or break your financial plan.
+我觉得在很多事情上，
+I think a lot of things,
+我们都太过于纠结了。
+we get so obsessed.
+我...
+I...
+这种现象叫做“在小事上斤斤计较”，
+This is called majoring in the minor,
+我们太沉迷于此了。
+where we get so obsessed.
+而且这不仅在金融领域是这样。
+And this is not just true in finance.
+在很多事情上都是如此。
+This is true with so many things.
+我们总是纠结
+We get obsessed
+那些最细枝末节的东西，
+with the most minor details
+但它们其实对你的生活
+that are gonna have no real impact
+没有实质性的影响。
+on your life.
+就像，让...
+Like, let...
+你的生活。
+Your life.
+记住，你的生活才是最高层级的。
+Remember, your life's up here.
+你的财务生活只是其中的一部分。
+Your financial life's one piece of that.
+就像，
+Like,
+我们现在讨论的只是你财务生活
+we're talking about the smallest detail
+这一小部分里最微小的一个细节，
+in one part of your financial life,
+更别提你生活的其他部分了，
+let alone the rest of your life,
+你的健康，你的朋友，你的家人。
+your health, your friends, your family.
+就是，你的生活有那么多组成部分，
+Like, there's so many parts of your life,
+而我们却坐在这里
+and we're sitting here
+为了一个最微不足道的细节争论不休，
+and arguing over the most minor detail
+而这仅仅发生在你生活中一、
+in one s-
+一小部分里，
+small portion of your life,
+我觉得我们错失了全局观。
+and I think we miss the big picture.
+这到底会
+How is
+怎么影响你整个财务状况
+that gonna affect the entire financial
+这块大蛋糕，
+pie,
+然后又会
+and then how is
+怎么影响你的一生？
+that gonna affect your whole life?
+无论你决定现在就买，
+Whether you decide to buy now
+还是等上12个月再买，
+or wait 12 months,
+说实话，这都没什么太大关系。
+it's kind of irrelevant, honestly.
+我不是想回避这个问题，
+I'm not trying to dodge the question,
+因为我都……比如，这些事我都干过，
+'cause I've d- like, I've done all that,
+我花了好几年的时间做这些，但现在我，
+so I spent years doing that, and now I'm,
+就像是，把视野拉远，然后觉得，好吧，
+like, zooming out and be like, well,
+我的意思是，我做的时候觉得挺酷，但我不、
+I mean, it was cool I did it, but I don't,
+我现在看不出做这些事
+I don't see the purpose
+还有什么意义了，因为感觉就是，
+in these things anymore because it's like,
+它不会影响你的财务计划。
+it's not gonna affect your financial plan.
+它也不会对
+It's not gonna have any impact on
+你的家人是否爱你产生任何影响，
+whether your family loves you,
+不会影响你是否是个好人。
+whether you're a good person.
+它就是起不到什么作用，对吧？
+Like, it doesn't do anything right?
+所以就是，了解一下挺有趣的，但是，
+So it's like, it's fun to know, but just,
+随便选一个方法，然后继续生活吧。
+just pick something and move on.
+把你的精力集中在其他事情上，
+Focus your energy on other things,
+比如你的健康，或者别的什么，你懂吧？
+your health or something else, you know?
+[Ray] 那些读过你的书
+[Ray] People who read your book
+并且照着做的人，在过去、
+and followed it have been doing
+过去的几年里
+pretty well during the past,
+收益都相当不错。
+several years.
+但是当他们上了社交媒体，
+But when they go on social media,
+看到别人晒出巨额的
+they see other people posting massive
+收益。
+gains.
+我、我在我的推特信息流里看到，比如：“好吧，
+I, I see on my Twitter feeds like, "Okay,
+这太简单了。
+this is so easy.
+今年赚了100万美元。”“我、
+This is up $1 million this year." "I,
+我因为 Nvidia（英伟达）
+I quit my job because of Nvidia
+或者是那些半导体股票辞职了，”对吧？
+or those semiconductor stocks," right?
+“我翻了10倍。”所以即便
+"I 10X'd." So even
+你自己的投资组合也在赚钱，
+though your own portfolio is winning,
+但就是，
+like,
+你感觉自己像是在亏钱，
+you feel like you're losing
+因为大家似乎，
+because everyone is,
+你知道的，
+you know,
+似乎赚得比你多，也比你快，
+seems to be winning more and faster,
+对吧？
+right?
+所以，
+So,
+所以你到底会怎么对
+so what do you actually say to
+那样的人说呢？
+that person?
+那么，你是怎么保——
+So how do you s-
+在牛市中保持理智的？
+stay sane in a bull market
+毕竟社交媒体会让人觉得
+where social media makes it feel
+好像每个人赚得都比你多？
+like everyone is making more than you?
+你会感受到那种压力吗？
+Do you feel that pressure?
+[Nick] 我的意思是，没有，完全没有。
+[Nick] I mean, no, not at all.
+老实说，我没有感受到那种。
+I mean, to be honest, not that one.
+怎么说呢，
+I mean,
+我会感受到不同类型的压力，
+I feel different types of pressure,
+来自各种不同的事情，
+different things,
+但绝对不是那种压力，因为那、
+but not that one at all because it's the,
+那是，
+it's,
+那就是披着其他外衣的
+it's the turkey problem disguised
+火鸡问题。
+as something else.
+当然，这不像，
+Now, it's not as,
+这不像火鸡问题那么糟糕，
+it's not as bad as the turkey problem,
+但它有点类似，
+but it's kind of like it
+因为这就
+because it's
+像是一个人现在采用的
+like you have someone who's taking a
+策略可能非常冒险，
+strategy now might be quite risky,
+然后他们可能会——
+and they're g-
+他们现在可能赚得盆满钵满，
+they might be doing well now,
+如果他们收手，如果他们说，“嘿，
+and if they quit, if they say, "Hey,
+我不玩了。
+I'm done.
+我辞职了。
+I quit my job.
+我不打算继续让我的钱去冒险了，”
+I'm not gonna keep risking my money,"
+那么他们大概率会过得不错。
+they're gonna probably do fine.
+但实际发生的是，
+But what happens,
+你会发现这些人根本停不下来。
+and you'll see these people cannot quit.
+比如，我在加密货币圈就见过。
+Like, I've seen it with crypto.
+大家...
+People...
+我读过一些炒币的人的故事，
+I've read stories of crypto people
+他们赚了，
+who are up,
+你懂的，八位数。
+you know, eight figures.
+他们赚到了1000万美金。
+They hit $10 million.
+那可是一大笔钱。
+That is a ton of money.
+他们有没有，他们有没有卖掉所有资产，
+Did they, did they sell everything,
+全买成国债，
+go into treasury bills,
+然后就靠那笔钱生活了，你知道的，
+and just live their life off of, you know,
+它的4%是多少？
+what, what's 4% of that?
+40万？
+400,000?
+他们每年可以靠40万美元生活，
+They could live off of $400,000 a year,
+余生都遵循4%法则。
+4% rule for the rest of their life.
+再也不用为钱发愁了，对吧？
+Never have to worry about it, right?
+他们这么做了吗？
+Did they do that?
+大多数人并没有。
+Most did not.
+他们继续玩这个游戏，然后，“哦，
+They kept playing the game and then, "Oh,
+我跌了90%。”我见过有人坐过山车，
+I'm down 90%." I've seen people round trip
+涨到七位，
+up to seven,
+你知道，
+you know,
+七位数，达到几百万，
+seven figures into the millions and
+然后跌——
+then d-
+跌回原点。
+back down.
+你知道，
+You know,
+我有个好朋友
+I have a good friend
+买了一些Solana猴子的
+who bought these Solana monkey,
+NFT。
+NFTs.
+他有七个。
+He had seven of them.
+他花了，我想大概是350，250块钱左右，
+He spent, I think $350, 250 bucks,
+差不多这个数，
+something like that,
+几乎等于没花钱。
+like literally almost nothing.
+有一段时间，
+At one point,
+他手里有超过一百万美元。扣除
+he had over a million dollars.All
+税费和其他一切后全额的钱，
+in after you pay taxes and everything,
+然后市场崩盘了，他卖掉了，
+and everything crashed and he sold,
+他拿回了9万块。
+he got $90,000.
+所以他还是把300块
+So he still took 300 bucks
+变成了9万美元。
+and turned it into $90,000.
+疯了吧，对吧？
+Insane, right?
+这，这太——那可是一大笔钱，
+It's, it's cha-- That's a lot of money,
+对吧？
+right?
+又不是一笔小数目。
+It's not nothing.
+但他本来可以有一百万的，
+But he could have had a million
+如果他在最高点抛售，
+if he sold the top,
+但这，这很难预测，对吧？
+but it, it's hard to know that, right?
+他不知道哪里是顶点。
+He didn't know where the top was.
+他继续持有，然后亏了一大笔。
+He kept going and then he lost a ton.
+亏的比赚的多，对吧？
+He lost more than he made, right?
+但他还是赚了一大笔。
+But he still made a ton.
+所以这，这是个奇怪的例子。
+So it's, it's a weird example.
+这种事时有发生。
+These things happen.
+但非常罕见。
+They're quite rare.
+第一，在社交媒体上，这很罕见。
+Number one, social media, it's quite rare.
+你只会看到赢家。
+You're only gonna see the winners.
+你知道，
+You know,
+很少有人会说，
+it's very rare that people are like,
+“我的天，
+"Oh my God,
+看看
+look at
+这么多钱。”谁会去说，
+how much money." Who's gonna be like,
+“嘿，伙计们，
+"Hey, guys,
+看看我亏了多少钱”？
+look at how much money I lost"?
+非常罕见。
+Very rare.
+确实有，但很少见，对吧？
+It does happen, but it's rare, right?
+所以这是一点。
+So that's one thing.
+你不会看到所有的输家，
+You're not gonna see all the losers,
+这会让你产生偏见。
+and it kind of biases you.
+然后第二，就像，这会如何影响，
+And then two, like, how does it impact,
+你的长期规划？
+like, your long term?
+再说一次，
+Once again,
+你的长期财务计划是什么？
+what's your long-term financial plan?
+这对你有什么影响，比如，
+How is that impacting you, like,
+去尝试这些策略？
+going and trying these strategies?
+我唯一关心的成功，
+The only version of success I care
+就是你是否存活下来了。
+about is whether you survive.
+仅此而已。
+That's it.
+你可以觉得，“看，
+You can be like, "Look,
+我的钱比你多得多，
+I have way more money than you,
+Nick。”很好。
+Nick." Great.
+没关系。
+That's fine.
+如果你——
+If you're d-
+如果你是通过高风险策略
+if you made
+赚到那笔钱的，
+that money following a risky strategy,
+我会祝你好运，
+I will say good luck to you,
+因为如果你不放弃这种策略，
+because if you don't quit that strategy,
+很有可能
+it's very likely
+最后你会输掉大部分的
+in the end you will end up losing a lot of
+钱，
+that money,
+到那时候我的钱
+and then I might end up having more
+可能会比你多。
+than you.
+甚至，根本不是比这个。
+And it, it's not even about that.
+但你明白我的意思，对吧？
+But you get my point, right?
+唯一
+The only thing
+重要的事就是你能否活到
+that matters is do you just survive
+最后？
+to the end?
+你能用你的钱
+Can you use your money
+去过你想过的生活吗？
+to live the life you want?
+那才是终极
+That's the ultimate only thing
+唯一重要的事。
+that matters.
+而且
+And
+所以你能用你的钱
+so can you use your money
+去过你想过的生活吗？
+to live the life you want?
+如果能，那很好。
+If so, great.
+如果不能，
+If not,
+那也许你需要
+then maybe you need
+改变你的策略。
+to change your strategy.
+现在我正过着我想过的生活。
+So I'm living the life I wanna live.
+我认为这对我来说才是重要的。
+I think that's what's important to me.
+你是在为你自己这么做吗？
+Are you doing that for yourself?
+这是我要抛给，
+That's the question I have to,
+抛给观众的问题。
+to the viewer.
+所以不要再担心别人了，
+And so stop worrying about other people
+因为你不知道他们身上
+because you don't know what's gonna happen
+会发生什么。
+to them.
+你不知道结局。
+You don't know the end.
+你只知道中间，或者，像，
+You just know the middle or, like,
+开始的章节或是中间。
+the beginning chapter or the middle.
+你还不知道那故事的
+You don't know the ending of that story
+结局。
+yet.
+所以很容易会说，“哦，
+And so it's very easy to say, "Oh,
+我做错了。”你不知道
+I'm doing the wrong thing." You don't know
+结果会是怎样。
+how that's gonna turn out.
+甚至
+And even
+就算结果真的是那样，
+if it does turn out a certain way,
+他们可能只是运气好。
+they could just get lucky.
+你并不真的清楚。
+You don't really know.
+这就是，
+That's the,
+很多这类事情的
+that's the problem with a lot
+问题所在。
+of these things.
+在很多这些领域，你分不清运气
+You don't know the difference between luck
+和实力之间的区别。
+and skill in a lot of these areas.
+[Ray] 很多人说，
+[Ray] A lot of people saying,
+市场处于如此高位，
+with market this high,
+那些
+the investors
+处境
+that are
+最尴尬的投资者就是刚刚入场的
+in the most awkward position are the new
+新人。
+ones who just started.
+他们有这样一种恐惧，
+They have this fear
+觉得自己买入了一个非常、
+that I'm buying to a really,
+非常高的市场，
+really high market,
+未来市场走势大概率
+and the chances it's gonna be against me
+会对自己不利。
+in the future.
+[Nick] 你——你可能不会喜欢我的答案，
+[Nick] Y- you're not gonna like my answer,
+但我要说，这对年轻的新投资者来说
+but I'm gonna say it really doesn't matter
+真的没那么重要。
+that much for the new young investor.
+我这么说，
+And when I say that,
+是假设这位年轻的新投资者一开始
+I'm assuming the new young investor does
+就没有多少钱
+not have a lot of money to lose to begin
+可以亏。
+with.
+坦白说吧。
+Let's be honest.
+所以——
+So-
+[Ray] 是的
+[Ray] Yeah
+[Nick] ……
+[Nick] ...
+真的没那么重要。
+it doesn't matter that much.
+那我会建议关注什么呢？
+So what do I say to focus on?
+关注你的事业。
+Focus on your career.
+你会赚到多得多的钱，
+You're gonna make so much more money
+如果你长期
+if you focus
+把重心放在事业上。
+on your career over the long term.
+你能培养什么技能？
+What skills can you build?
+你怎样才能学会更好地使用AI？
+How can you learn to use AI better?
+你怎样……
+How can...
+诸如此类。
+Whatever.
+现实中有很多
+There's a lot
+不同的职业，
+of different careers out there,
+也有很多
+and there's a lot
+不同的事情你可以做。
+of different things you can do.
+你想做内容吗？
+Do you wanna make content?
+你想开发软件吗？
+Do you wanna create software?
+无论是什么，把那件事搞清楚。
+Whatever it is, figure that thing out.
+这比市场
+That's way more important
+正在发生什么要重要得多。
+than what's happening with the market.
+你说得对，比如，好吧，
+And you're right, like, well,
+如果我经历了一个糟糕的十年会怎样？
+what happens if I go through a bad decade?
+经历一个糟糕的十年，
+It's better to go through a bad decade
+在你投资生涯的初期
+at the beginning of your investment career
+远比在末期要好。
+than the end.
+相信我，
+Trust me,
+你绝对不想在最后一年
+you do not want the bad decade
+遇到糟糕的十年。
+in the last year.
+你会希望你最好的十年
+You want your best decade
+是你投资生涯的最后十年，
+to be the last decade you ever invest,
+那时也是你可亏损的本金最多的时候。
+when you have the most money to lose.
+在这点上相信我。
+Trust me on this.
+这背后的数学逻辑是无可辩驳的。
+The math on, on this is undeniable.
+你可以算算，比如，如果你投100……
+You can do, like, if you're putting 100...
+假设你每年投入1000美元，
+Let's say you put $1,000 a year
+市场上涨五年，
+and the market's going up five years,
+然后下跌五年。
+then down five years.
+或者市场先下跌
+Or you have the market go down
+五年，
+for five years,
+再以上涨相同的幅度
+then up for five years
+回升五年。
+by the same magnitude.
+先跌远比先涨要好。
+It's far better to go down than up.
+最终你会拥有更多的钱，对吧？
+You will end up with more money, right?
+而且因为你……
+And because you...
+猜怎么着？
+Guess what?
+到了第五年，
+By year five,
+你投入了更多的钱。
+you have more money invested.
+你的本金盘子变得更大了。
+You have more money added to the pile.
+所以
+So
+当市场在接下来的五年里
+when you come back up over the next five
+回升时，
+years,
+你最终会赚到多得多的钱。
+you end up making so much more money.
+所以相信我，你会希望坏的、
+So trust me, you want the, the bad,
+你希望现在就把糟糕的经历走完。
+you want the bad stuff now.
+所以，我宁愿在今天做一个年轻的投资者，
+So I'd rather be a young investor today
+而不是，
+than,
+在其他条件相同的情况下……
+all else equal with my...
+假设我的职业发展轨迹一样，
+Assuming my career was the same,
+我宁愿在今天做个年轻投资者，
+I'd rather be a young investor today
+也不愿像2012年那样开始投资。
+than starting in 2012.
+我想说的就是这些。
+I'll tell you that much.
+[Ray] 一是专注于提升自己的收入。
+[Ray] One is, to, focus on their income.
+另一点是专注于学习
+Another thing is focusing on learning
+投资相关的知识。
+about investment.
+如果我是一个刚起步的年轻投资者，
+If I'm a young starting investor,
+我的收入并不高。
+I don't have a lot of, income.
+我在努力提升收入，
+I'm focusing on my income,
+但与此同时，
+but at the same time,
+我也想学习投资。
+I wanna learn about investing.
+那我应该从哪里开始呢？
+So where should I start?
+[Nick] 我觉得……
+[Nick] I mean, I'm...
+你应该选择最适合你
+You should do whatever type of information
+吸收信息的任何方式。
+that you absorb the best.
+我个人很喜欢阅读。
+I personally love reading.
+我什么都尽量去读。
+I try to read everything.
+所以我就会一直阅读，
+So I would just read,
+看看你对什么感兴趣，
+kind of see what interests you,
+然后不断阅读这些内容。
+kind of keep reading this stuff.
+我知道，我也理解，
+And I know, I understand, like, you know,
+当你只是在吸收信息时，你会感觉
+it can feel like you're getting a lot done
+自己好像完成了很多事情。
+when you're just consuming information.
+但在某个阶段，
+At some point,
+你得真正去做点什么，
+you wanna actually do something,
+去产出点东西，无论是做内容，
+produce something, whether that's content,
+还是写点什么，
+whether that's you wanna write something,
+或是写投资日志。
+have a investment log.
+有很多方法可以做到这一点。
+There's a lot of ways you can do this.
+但是，你知道的，在某个阶段，
+But, you know, at some point,
+你会想要真正开始
+you're gonna wanna start actually
+去产出。
+producing.
+这不一定要马上发生。
+It doesn't have to happen right away.
+你可以花几年的时间。
+You can take a few years.
+我也不是一开始就写作的……
+I didn't start writing...
+要知道，我开始接触投资
+I was into investing, you know,
+是在2012年。
+since 2012.
+但直到2017年我才开始写博客。
+I didn't start my blog till 2017.
+所以我花了五年的时间去阅读，
+So it took me five years of me reading
+去做这些事情。
+and doing all this stuff.
+当我刚开始写作的时候，
+When I first started writing,
+我写得并不好。
+I wasn't that good at it.
+随着时间的推移，我也进步了很多。
+I got a lot better over time as well.
+所以这里有很多……
+So there's a lot of...
+“做”这个动作会迫使你在很多方面
+The act of doing forces you to get better
+变得更好。
+at a lot of things.
+这就是我的建议。
+So that's what I would say.
+[Ray] 那你每天读多少书呢？
+[Ray] So how much do you read every day?
+[Nick] 我以前读得比较多。
+[Nick] I used to read a lot more.
+再说一次，我刚生了孩子，
+I just, once again, I just had a kid,
+所以……
+so it's...
+这其实没什么可比性。
+That, that's not really relevant.
+在有孩子之前，我
+Before I had the kid, I,
+阅读量还挺大的。
+I read a decent amount.
+我大概每年能读
+I'd probably say I read
+10本书左右。
+about 10 books a year.
+不是什么疯狂或让人惊叹的数字，比如
+Nothing that crazy or impressive, like,
+“天哪，一年读100本书”那种。
+oh my God, reading 100 books a year.
+我知道有人能做到。
+I know.
+我想我一年内读得最多的一次，
+I think my highest I ever did in a year,
+大概是25到30本书。
+maybe 25, 30 books.
+所以我的阅读量并不算
+So I wasn't doing super,
+特别特别大。
+super crazy volume.
+但你知道，重要的不是数量。
+But you know, it's not really the volume.
+更多的是关于理解
+It's more about just understanding
+以及投入时间。
+and just spending time.
+而且我不只读投资类的书。
+And I'm not just reading investment books.
+我读了很多非虚构类的书，
+I read a lot of just nonfiction,
+非投资类的书，
+non-investment books,
+因为你可以从生物学、
+'cause you learn things from biology,
+历史学、地质学等等学科中学到东西，
+from, you know, history, geology, what,
+所有这些不同的领域。
+all these different things.
+通常，
+There's,
+里面都会有一些内容
+there's usually pieces in there
+以某种方式
+that are related to investing in some way
+和投资联系起来。
+or another.
+[Ray] 最后一个问题。
+[Ray] One last question.
+[Nick] 嗯哼。
+[Nick] Mm-hmm.
+[Ray] 在目前的市场中，
+[Ray] What do you see
+你觉得散户投资者犯的
+in this market the biggest mistake
+最大的错误是什么？
+retail investors are making?
+[Nick] 我手头没有这方面的数据。
+[Nick] I don't have data on this.
+我不知道具体的错误是什么。
+I don't know what the mistake is.
+我猜人们现在可能承担了
+My guess is people are probably taking too
+太多的风险，
+much risk right now,
+太多不够分散的风险。
+too much undiversified risk.
+这是我的猜测。
+That's my guess.
+比如，
+Like,
+你可以持有 Nvidia 和 Microsoft
+you can own NVIDIA and Microsoft
+还有 Apple，
+and Apple,
+然后你会觉得：“哦你看，
+and you're like, "Oh look,
+我的投资很分散了，” 但实际上，
+I'm diversified," but you're really,
+你在科技股上非常集中。
+you're pretty concentrated in tech.
+我知道有人会说：“可是 Nick，
+And I know someone said, "Well, Nick,
+S&P 500 不也是集中在
+isn't the S&P 500 concentrated
+科技股吗？” 是的，
+in tech?" Yes,
+确实如此，但这其实更糟。
+it is, but that's even worse.
+只投资少数几家公司的
+Only individual stocks in a handful
+个股，
+of companies
+还以为自己的投资很分散。
+and thinking you're diversified.
+我觉得这并不像大家想的
+I don't think it's diversified
+那么分散。
+as people think it is.
+所以这是我的看法，
+So that's my,
+总的来说我认为，
+my counter is I think in general,
+散户投资者的资金分散程度
+retail investors are probably not
+可能还不够。
+diversified enough.
+[Ray] 感谢你抽出时间，Nick，
+[Ray] Thank you, Nick, for your time,
+我很期待
+and I look forward
+下次与你的对话。
+to our next conversation with you.
+[Nick] 谢谢。
+[Nick] Thank you.
+很感谢。
+Appreciate it.
+如果有人有问题，
+If anyone has questions,
+随时可以在 X、Instagram、
+feel free to DM me on X, Instagram,
+LinkedIn 上私信我，哪里能找到我都行。
+LinkedIn, wherever you find me.
+我很乐意回答你们的任何问题。
+I'm happy to answer any questions you can.
+如果你不会说英语，
+Feel free to, like,
+也可以随时
+just use a translator
+使用翻译软件。
+if you don't speak English.
+我可以翻译回来。
+I can translate back.
+没问题的。
+It's all good.
+感谢你的时间，
+Thank you for your time,
+也感谢你邀请我。
+and thank you for having me on.
+我真的很感激，Ray。
+I truly appreciate it, Ray.
+OK,非常感谢Nick就是这个访谈,
+最后想给大家分享个有趣的事,
+就是我是个投资博主,很长一段时间我对我太太说,
+你就应该持续买入,但是最终都是我替她操作,
+而真正影响她,让她行动起来,主动操控自己投资的,
+就是在她读了这本Just Keep Buying之后。
+所以强烈推荐大家去看一看这本书,
+以及Nick今年推出的新书The Wealth Ladder。
+那这两本书也都是我们一口新饭社群过去共同读过的书,
+对很多饭友都产生很大影响。
+也欢迎大家加入社群,我们一起阅读,共同成长。
+感谢收看本次的节目,那我们下次再见,拜拜。
